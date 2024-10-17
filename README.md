@@ -1,7 +1,7 @@
 # Installation
 - Installation des dépendances
     ```shell
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 # Visualisation du portail en local
 ```shell
