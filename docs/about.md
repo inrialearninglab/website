@@ -15,7 +15,7 @@ Créé en juin 2016, Inria Learning Lab a pour ambition de faire de l’éducati
 **Responsable Inria Learning Lab**
 Jean-Marc Hasenfratz
 
-**Ingénieurs pédagogiques et développement**
+__Ingénieurs pédagogiques et développement__
 Marie Collin ; Laurence Farhi ; Aurélie Lagarrigue ; Benoît Rospars ; Sherazade Djeballah ; Madeline Montigny ; Sabah Khalfa
 
 **Un peu d’histoire**
