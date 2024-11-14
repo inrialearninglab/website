@@ -1,5 +1,20 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: My Docs
+extra_css:
+    - stylesheets/extra.css
+plugins:
+    - blog:
+        blog_dir: blog
+    - blog:
+        blog_dir: ePoc
+        blog_toc: false
+        post_url_format: "{slug}"
+        archive: false
+    - blog:
+        blog_dir: moocs
+        blog_toc: false
+        post_url_format: "{slug}"
+        archive: false
 theme:
     name: material
     language: fr
