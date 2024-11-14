@@ -7,3 +7,17 @@
     width: 150px;
     height: 150px;
 }
+
+iframe {
+   border: 0;
+   background: var(--md-default-bg-color);
+}
+
+.hal-iframe {
+    width: 100%;
+    height: 320px;
+}
+
+.hal-iframe.long {
+    height: 6230px;
+}
