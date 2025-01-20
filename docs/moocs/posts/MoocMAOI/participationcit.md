@@ -3,12 +3,17 @@ title: MOOC "Participation citoyenne méthodes et civic tech » [session 2]"
 date: 2016-08-04
 ---
 <div class="post-header">
-# Apprenez à amplifier l’impact de la participation des citoyens-usagers
-Vous êtes en charge de processus de participation citoyenne dans une collectivité territoriale ? Vous travaillez dans une entreprise et souhaitez valider des hypothèses pour la définition d’un produit ou service ? Ou tout simplement vous vous intéressez aux principes de la participation citoyenne ?
+ <p> Comment amplifier l'impact de la participation citoyenne ? Ce MOOC vous enseigne les méthodes et outils pour concevoir des processus participatifs efficaces, en ligne et en présentiel, et ainsi maximiser l'engagement des citoyens-usagers dans vos projets.
+<img src="/moocs/images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+</p>
+
 </div>
 
 <!-- more -->
 <center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=Y0YSrQaXGGs" frameborder="0" allowfullscreen></iframe></center>
+
+# Apprenez à amplifier l’impact de la participation des citoyens-usagers
+Vous êtes en charge de processus de participation citoyenne dans une collectivité territoriale ? Vous travaillez dans une entreprise et souhaitez valider des hypothèses pour la définition d’un produit ou service ? Ou tout simplement vous vous intéressez aux principes de la participation citoyenne ?
 
 Avec ce cours, vous découvrirez des méthodes et outils pour mettre en œuvre des processus de participation efficaces qui requièrent des savoir-faire dans deux domaines complémentaires :
 

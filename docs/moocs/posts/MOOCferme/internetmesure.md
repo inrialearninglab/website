@@ -3,15 +3,17 @@ title: MOOC "Internet Measurements a Hands-on Introduction"
 date: 2016-01-01
 ---
 <div class="post-header">
-Ce cours en anglais est une introduction pratique aux mesures de l’internet (métrologie), basée sur des expérimentations réelles sur la plateforme PlanetLab Europe. Y sont abordés différents concepts tels que la topologie des réseaux et le routage, les pertes, la latence, la géolocalisation, la bande passante et les mesures de trafic.
+<p> Apprenez les bases des mesures de l'internet avec ce MOOC pratique, où vous explorerez la topologie des réseaux, la latence, la bande passante et bien plus à travers des expérimentations réelles sur la plateforme PlanetLab Europe. </p>
 </div>
-Ce MOOC peut intéresser un public varié : opérateurs système ou réseaux, développeurs d’applications ou de services internet, simples utilisateurs souhaitant mieux diagnostiquer les problèmes.
 <!-- more -->
 <center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=De0CI9r1-r4" frameborder="0" allowfullscreen></iframe></center>
 
 Le MOOC « Internet Measurements: a Hands-on Introduction » est enseigné par Timur Friedman de l’UPMC et Renata Teixeira d’Inria.
 
+Ce cours en anglais est une introduction pratique aux mesures de l’internet (métrologie), basée sur des expérimentations réelles sur la plateforme PlanetLab Europe. Y sont abordés différents concepts tels que la topologie des réseaux et le routage, les pertes, la latence, la géolocalisation, la bande passante et les mesures de trafic.
+
 Il requiert un niveau licence en informatique, un niveau M1 en réseaux ou une expérience professionnelle équivalente.
+Ce MOOC peut intéresser un public varié : opérateurs système ou réseaux, développeurs d’applications ou de services internet, simples utilisateurs souhaitant mieux diagnostiquer les problèmes.
 
 Programme :
 

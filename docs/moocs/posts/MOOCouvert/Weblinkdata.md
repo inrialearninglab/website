@@ -3,12 +3,13 @@ title: MOOC Introduction to a Web of Linked Data
 date: 2019-03-15
 ---
 <div class="post-header">
-    <p> Parmi ses nombreuses évolutions, le Web est devenu un moyen pour les applications d’échanger des données. Chaque jour, nous consommons et produisons ces données à travers une variété d’applications qui fonctionnent sur une variété de dispositifs. Cette évolution majeure du Web s’applique à tous les domaines d’activité.
+    <p> Le Web est bien plus qu'un réseau de pages : c'est un espace d'information interconnecté où les données prennent tout leur sens. Ce cours vous guide pas à pas à travers les principes des données liées, les standards essentiels comme RDF et SPARQL, et les outils pour intégrer et échanger des données sur le Web
 </p>
 </div>
 
 <!-- more -->
 
+Parmi ses nombreuses évolutions, le Web est devenu un moyen pour les applications d’échanger des données. Chaque jour, nous consommons et produisons ces données à travers une variété d’applications qui fonctionnent sur une variété de dispositifs. Cette évolution majeure du Web s’applique à tous les domaines d’activité.
 # Contenu :
 
 Ce cours est structuré en 4 parties / semaines :

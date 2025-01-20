@@ -3,10 +3,14 @@ title: Mooc "Bioinformatics, Genomes and Algorithms"
 date: 2015-11-02
 ---
 <div class="post-header">
-Discover the fascinating intersection of biology and computer science with this course on genomic text interpretation.
+Dive into the intersection of genomics and computer science with this MOOC! Learn how computer algorithms analyze genomic data to predict gene locations and protein functions. Whether you're a biologist or a computer scientist, this course offers an introduction to both fields, with practical exercises and hands-on coding using Python and iPython notebooks.
+    <img src="/moocs/images/pbioinformatic.png" alt="Naming a fork on GitHub - screen caption of GitHub">
 </div>
 
 <!-- more -->
+
+Discover the fascinating intersection of biology and computer science with this course on genomic text interpretation.
+
 # Description
 
 Exceptionally, this archived course remains open to registrations although it is not facilitated by the course teachers: its contents are no longer updated and may therefore no longer be up to date (course contents were created in 2015). If you register, you can freely consult the read-only resources but all collaborative spaces are closed (forums, wiki and other collaborative exercises): you cannot interact with the teaching team or with other learners. Furthermore, no attestation of achievement will be delivered for this course. 

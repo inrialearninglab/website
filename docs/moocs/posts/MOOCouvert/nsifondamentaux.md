@@ -3,12 +3,14 @@ title: MOOC Numérique et Sciences Informatiques les fondamentaux
 date: 2024-03-24
 ---
 <div class="post-header">
-    <p> Pour apprendre les fondamentaux nécessaires à l’enseignement de l’informatique au secondaire supérieur et, au delà, pour aller vers les métiers de l’informatique !
+    <p> 
 
-</p>
+</p> Comment enseigner l’informatique au secondaire et se préparer aux métiers du numérique ? Ce MOOC vous guide à travers les bases théoriques et pratiques nécessaires pour enseigner l’informatique.
 </div>
 
 <!-- more -->
+
+Pour apprendre les fondamentaux nécessaires à l’enseignement de l’informatique au secondaire supérieur et, au delà, pour aller vers les métiers de l’informatique !
 
 Ce MOOC, qui permet d’acquérir les bases théoriques dans tous les champs de l’informatique, s’inscrit dans un parcours de formation complet théorique et pratique dédié à l’enseignement de l’informatique au niveau du secondaire supérieur. En France, cela permet, non seulement de se préparer à enseigner au lycée, mais aussi de préparer  le concours du CAPES Informatique pour envisager l’enseignement de l’informatique au niveau du secondaire supérieur.
 

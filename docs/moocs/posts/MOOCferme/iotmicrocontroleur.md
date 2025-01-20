@@ -3,9 +3,10 @@ title: MOOC “Internet of Things with Microcontrollers a hands-on course”
 date: 2020-01-04
 ---
 <div class="post-header">
+<p> Apprenez à programmer en Pharo et explorez l'objet sous un nouveau jour ! Ce MOOC vous guide, quel que soit votre niveau, dans la création d'applications web et la compréhension des principes de la programmation orientée objet avec Pharo, en proposant des ressources adaptées à chaque profil. </p>
+</div>
 # Learning and programming the Internet of Thing
 This MOOC is designed to help engineers, students or makers understanding the specificities of connected object programming through a mix a theoretical contents and hands-on activities.
-</div>
 At the end of the course, each participant will be able to develop an IoT application from the object to the cloud. No need to possess specific hardware to take the course: the participants will be able to program and test their firmware using the [Fit-IOT-Lab](https://www.iot-lab.info) testbed.
 
 <!-- more -->

@@ -3,12 +3,13 @@ title: Maîtrisez la « Conception Orientée Objet Avancée » avec ce nouveau M
 date: 2024-06-19
 ---
 <div class="post-header">
-    <p> Le MOOC « Conception Orientée Objet Avancée »  est conçu par des expertes et experts et enrichi par plus de 60 ans d’expérience dans l’enseignement de la conception orientée objet. Il vous offre une opportunité unique de maîtriser les concepts avancés de la programmation orientée objet.
+    <p> Comment maîtriser les concepts avancés de la programmation orientée objet ? Ce MOOC vous plonge dans les principes fondamentaux et avancés de la conception orientée objet, avec des vidéos explicatives et des exercices pratiques pour renforcer vos compétences en programmation.
 </p>
 </div>
 
 <!-- more -->
 
+Le MOOC « Conception Orientée Objet Avancée »  est conçu par des expertes et experts et enrichi par plus de 60 ans d’expérience dans l’enseignement de la conception orientée objet. Il vous offre une opportunité unique de maîtriser les concepts avancés de la programmation orientée objet.
 
 Ouvert dès le 17 juin !
 

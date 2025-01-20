@@ -3,12 +3,14 @@ title: MOOC Le robot Thymio comme outil de découverte des sciences du numériqu
 date: 2023-06-01
 ---
 <div class="post-header">
-    <p> Ce cours permet d’aborder la compréhension des mécanismes de base d’un robot tel que Thymio, sa programmation avec différents langages, son utilisation en classe avec les éléments pédagogiques associés.
+    <p> Comment maîtriser le robot Thymio et l’utiliser en classe ? Ce MOOC propose une exploration complète, de la robotique et la programmation à leur mise en pratique pédagogique, pour accompagner enseignants et passionnés du numérique.
 
 </p>
 </div>
 
 <!-- more -->
+
+Ce cours permet d’aborder la compréhension des mécanismes de base d’un robot tel que Thymio, sa programmation avec différents langages, son utilisation en classe avec les éléments pédagogiques associés.
 
 # Description
 

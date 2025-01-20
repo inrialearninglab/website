@@ -3,12 +3,14 @@ title: Mooc Machine learning in Python with scikit-learn
 date: 2018-09-04
 ---
 <div class="post-header">
-    <p> Construire des modèles prédictifs avec scikit-learn et acquérir une compréhension pratique des forces et limites de l’apprentissage automatique !
+    <p> Comment construire des modèles prédictifs performants avec scikit-learn ? Ce MOOC pratique vous initie à l’apprentissage automatique, des bases théoriques à la mise en œuvre, grâce à des exemples concrets et des exercices en Python.
 
 </p>
 </div>
 
 <!-- more -->
+
+Construire des modèles prédictifs avec scikit-learn et acquérir une compréhension pratique des forces et limites de l’apprentissage automatique !
 
 Avec ce cours disponible en anglais uniquement et gratuit, vous apprendrez les bases de l’apprentissage automatique et comment utiliser la bibliothèque Python scikit-learn. 
 Ce Mooc est accessible à toute personne ayant des compétences de base en programmation Python.

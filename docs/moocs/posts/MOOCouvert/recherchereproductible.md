@@ -3,12 +3,14 @@ title: MOOC Recherche reproductible nouvelle session longue durée !
 date: 2018-09-04
 ---
 <div class="post-header">
-    <p> Rendre votre recherche reproductible, c’est relever le nouveau défi de la science pour améliorer ses résultats !
+    <p> Comment garantir la transparence et la fiabilité de vos travaux scientifiques ? Ce MOOC explore les principes et outils de la recherche reproductible, essentiels pour une science ouverte et rigoureuse, adaptée à toutes les disciplines.
 
 </p>
 </div>
 
 <!-- more -->
+Rendre votre recherche reproductible, c’est relever le nouveau défi de la science pour améliorer ses résultats !
+
 Le Mooc [« Recherche reproductible : principes méthodologiques pour une science transparente »](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) propose des principes méthodologiques pour une science ouverte et transparente inscrite désormais dans [« le plan national pour la science ouverte »](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-2021-2024-vers-une-generalisation-de-la-science-ouverte-en-48525). Le cours aborde de manière pratique des thématiques telles que la prise de notes, le document computationnel, la réplicabilité des analyses.
 La troisième session de MOOC, proposé par Inria Learning Lab, est ouverte pour une durée longue (au moins un an) à partir du 20 mars 2020. L‘ensemble des contenus est disponible dès le lancement avec une délivrance d’attestations de suivi tous les 3 mois : vous pouvez ainsi suivre le MOOC à votre rythme et selon vos besoins ! Le temps estimé pour suivre ce cours et faire les exercices est de 24h.
 

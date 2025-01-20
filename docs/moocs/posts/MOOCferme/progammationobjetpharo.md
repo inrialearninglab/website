@@ -1,12 +1,11 @@
 ---
 title: MOOC "Programmation objet immersive en Pharo nouvelle session longue durée !"
 date: 2019-01-01
---- 
+---
 <div class="post-header">
-Ce cours bilingue français / anglais d’une durée de 7 semaines est enseigné par Stéphane Ducasse (Inria), Damien Cassou (Université de Lille, CRIStAL, Inria) et Luc Fabresse (Mines Douai, Institut Mines-Télécom).
+ <p> "Apprenez à programmer en Pharo et explorez l'objet sous un nouveau jour ! Ce MOOC vous guide, quel que soit votre niveau, dans la création d'applications web et la compréhension des principes de la programmation orientée objet avec Pharo, en proposant des ressources adaptées à chaque profil." </p>
+</div> 
 
-L’ensemble des vidéos de ce MOOC est sous-titré en français, anglais, espagnol et japonais.
-</div>
 
 <!-- more -->
 <center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=KDvNuOjdjY4" frameborder="0" allowfullscreen></iframe></center>

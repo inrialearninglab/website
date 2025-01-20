@@ -3,13 +3,16 @@ title: MOOC "Bases de données relationnelles - Comprendre pour maîtriser"
 date: 2015-06-15
 ---
 <div class="post-header">
-Le Mooc « Bases de données relationnelles : comprendre pour maîtriser » ( #BADOR ) a pour ambition d’expliquer comment fonctionnent ces systèmes. Il permettra à leurs utilisateurs de mieux les maîtriser, notamment en comprenant les problèmes de performance que ces systèmes peuvent rencontrer.
-Détails du cours
-Ce cours est enseigné par Serge Abiteboul, Benjamin Nguyen et Philippe Rigaux. Il a été réalisé par le Mooc Lab Inria 
+<p> Maîtrisez les bases de données relationnelles avec ce MOOC, où vous apprendrez à comprendre leur fonctionnement, à résoudre des problèmes de performance et à exploiter ces systèmes efficacement pour vos projets professionnels et scientifiques
+ </p>
 </div>
 
 <!-- more -->
 <center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=_o5WW64r1DE" frameborder="0" allowfullscreen></iframe></center>
+
+Le Mooc « Bases de données relationnelles : comprendre pour maîtriser » ( #BADOR ) a pour ambition d’expliquer comment fonctionnent ces systèmes. Il permettra à leurs utilisateurs de mieux les maîtriser, notamment en comprenant les problèmes de performance que ces systèmes peuvent rencontrer.
+Détails du cours
+Ce cours est enseigné par Serge Abiteboul, Benjamin Nguyen et Philippe Rigaux. Il a été réalisé par le Mooc Lab Inria 
 
 # Détails du cours
 Ce cours s’adresse à toute personne utilisant une base de données ou souhaitant comprendre comment fonctionne le système.

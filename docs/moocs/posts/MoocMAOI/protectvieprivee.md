@@ -3,11 +3,14 @@ title: MOOC "Protection de la vie privée dans le monde numérique"
 date: 2017-01-01
 ---
 <div class="post-header">
-L'informatique, Internet et les services numériques envahissent les moindres actions de notre vie, avec de nombreuses promesses pour améliorer notre vie quotidienne, notre santé ou accéder à la connaissance.
+ <p> Comment protéger sa vie privée à l'ère du numérique ? Ce MOOC vous guide à travers la compréhension de vos données personnelles, vos droits en matière de confidentialité et les bonnes pratiques pour sécuriser votre présence en ligne.
+</p>
 </div>
 
 <!-- more -->
 <center><iframe width="640" height="360" src="https://www.dailymotion.com/video/x75zr56" frameborder="0" allowfullscreen></iframe></center>
+
+L'informatique, Internet et les services numériques envahissent les moindres actions de notre vie, avec de nombreuses promesses pour améliorer notre vie quotidienne, notre santé ou accéder à la connaissance.
 
 Si certains succès des technologies numériques sont indéniables, il existe des contreparties. Pour proposer un service numérique adapté à son utilisateur, les programmes informatiques ont besoin de collecter des données qui peuvent informer sur nos actions ou modes de vie à notre insu.
 

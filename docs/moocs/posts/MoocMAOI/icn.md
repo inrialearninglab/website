@@ -3,11 +3,15 @@ title: MOOC "ICN (Informatique et Création Numérique)"
 date: 2019-03-15
 ---
 <div class="post-header">
-Les lycéennes et lycéens de toutes sections commencent à apprendre de l’informatique pour ne plus être de simples consommateurs mais devenir créateur du numérique : c’est l’enseignement de l’option « Informatique et Création Numérique, I.C.N. », de la seconde à la terminale pour toutes les sections.
+Comment enseigner l'informatique et la création numérique au lycée ? Ce MOOC vous guide à travers les fondamentaux de l'option I.C.N., en fournissant les outils, ressources et compétences nécessaires pour accompagner les élèves dans leurs projets de création numérique et les préparer à être acteurs du monde numérique.
+<img src="/moocs/images/picn.png" alt="Naming a fork on GitHub - screen caption of GitHub">
 
 </div>
 
 <!-- more -->
+
+Les lycéennes et lycéens de toutes sections commencent à apprendre de l’informatique pour ne plus être de simples consommateurs mais devenir créateur du numérique : c’est l’enseignement de l’option « Informatique et Création Numérique, I.C.N. », de la seconde à la terminale pour toutes les sections.
+
 Comment aider les enseignants d’I.C.N ? Quels savoirs partager avec eux ? Quelles ressources sélectionner ? Quelles compétences leur transmettre pour qu’ils puissent assurer ce nouvel enseignement ?
 
 C’est sous la forme d’un MOOC social et coopératif qu’Inria, ses partenaires et des professeur-e-s de lycées proposent un espace de formation, et un endroit de partage et d’entraide, où chacune et chacun construira son parcours selon ses besoins et ce qu’il sait déjà, un espace qui va évoluer avec le temps ; on le commence quand on veut et on y revient aussi longtemps qu’on en a besoin.

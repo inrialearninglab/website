@@ -9,7 +9,7 @@ date: 2021-12-13
 </div>
 
 <!-- more -->
-
+Apprendre à enseigner l’informatique au secondaire supérieur en rejoignant une communauté de pratique, d’entraide et de partage, y compris pour se préparer au concours du CAPES en France.
 # Description
 
 Ce Mooc permet d’acquérir ou de consolider les bases pratiques de l'enseignement de NSI via une pédagogie par l'action. Grâce à des activités de mise en situation professionnelle, d'échanges au sein d'une communauté de pratique, à l'évaluation par les pairs et par le suivi d'enseignements en épistémologie et didactique de l'informatique, il permet d'apprendre à enseigner les sciences informatiques au niveau du secondaire supérieur ou de prendre du recul sur ses propres méthodes d'enseignement.
