@@ -1,16 +1,15 @@
 .post-header {
     display: flex;
-    gap: .5rem;
+    gap: 0.5rem;
 }
 
 .post-header > img {
-    width: 150px;
     height: 150px;
 }
 
 iframe {
-   border: 0;
-   background: var(--md-default-bg-color);
+    border: 0;
+    background: var(--md-default-bg-color);
 }
 
 .hal-iframe {
