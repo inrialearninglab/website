@@ -20,3 +20,9 @@ iframe {
 .hal-iframe.long {
     height: 6230px;
 }
+
+iframe[title="YouTube video player"] {
+    width: 100%;
+    aspect-ratio: 16/9;
+    margin-top: 1rem;
+}
