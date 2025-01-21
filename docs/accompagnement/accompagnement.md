@@ -1,7 +1,6 @@
 ---
 title: "Accompagnement pédagogique"
 ---
-## Accompagnement pédagogique
 
 Inria Learning Lab apporte aux chercheurs des équipes Inria qui le souhaitent son expertise dans la réalisation de dispositifs de formation en ligne :
 - accompagnement pédagogique des auteurs tout au long du projet (aide à la définition des objectifs pédagogiques, accompagnement à la scénarisation de vidéos,
