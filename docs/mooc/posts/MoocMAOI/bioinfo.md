@@ -3,7 +3,7 @@ title: Mooc "Bioinformatics, Genomes and Algorithms"
 date: 2015-11-02
 ---
 <div class="post-header">
-    <img src="/mooc/images/pbioinformatic.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="./images/pbioinformatic.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Dive into the intersection of genomics and computer science with this MOOC! Learn how computer algorithms analyze genomic data to predict gene locations and protein functions. Whether you're a biologist or a computer scientist, this course offers an introduction to both fields, with practical exercises and hands-on coding using Python and iPython notebooks.
         <!-- more -->

@@ -4,7 +4,7 @@ date: 2017-01-01
 ---
 
 <div class="post-header">
-    <img src="/ePoc/images/smartvieprive.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="./images/smartvieprive.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         💡 Découvrez "Smartphone et vie privée" : une formation ePoc pour mieux comprendre les enjeux de la protection de vos données personnelles sur vos appareils mobiles, développée par Inria ! 🔐
         <!-- more -->

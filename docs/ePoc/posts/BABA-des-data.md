@@ -3,7 +3,7 @@ title: B.A.-BA des data
 date: 2017-01-01
 ---
 <div class="post-header">
-    <img src="/ePoc/images/babadata.png" alt="Carré représentant des datas entre crochet sur fond blanc">
+    <img src="./images/babadata.png" alt="Carré représentant des datas entre crochet sur fond blanc">
     <div>
         💡 Découvrez l'epoc B.A.-BA des données numériques : une initiation interactive et accessible pour percer les mystères de l'informatique et des données, conçue par Inria ! 🚀 </p>
         <!-- more -->

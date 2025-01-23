@@ -4,7 +4,7 @@ date: 2017-01-01
 ---
 
 <div class="post-header">
- <img src="/ePoc/images/iot-vieprive.png" alt="Une loupe est braquée sur un smartphone, qui symbolise une plateforme de contrôle centrale. Autour du téléphone, diverses icônes représentent différents appareils et objets connectés (ampoule, réfrigérateur, lave-linge, climatiseur, gouttes d'eau, chariot de courses). ">
+ <img src="./images/iot-vieprive.png" alt="Une loupe est braquée sur un smartphone, qui symbolise une plateforme de contrôle centrale. Autour du téléphone, diverses icônes représentent différents appareils et objets connectés (ampoule, réfrigérateur, lave-linge, climatiseur, gouttes d'eau, chariot de courses). ">
     <div>
         💡🔒 Découvrez comment préserver votre vie privée dans un monde d'objets connectés ! Ce parcours vous guide pas à pas pour comprendre les enjeux des données personnelles et adopter des pratiques sécurisées au quotidien. 🏡🤖 </p>
         <!-- more -->
