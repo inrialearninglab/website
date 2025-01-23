@@ -4,7 +4,7 @@ date: 2016-08-04
 ---
 
 <div class="post-header">
-    <img src="/mooc/images/paccesnum.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="./images/paccesnum.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Dans un monde où le numérique est omniprésent, garantir l'accessibilité pour tous est une nécessité, et non une option. Ce cours vous offre les clés pour comprendre, concevoir et développer des systèmes numériques inclusifs, accessibles à tous, quelle que soit leur situation.
         <!-- more -->

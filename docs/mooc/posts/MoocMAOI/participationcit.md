@@ -3,7 +3,7 @@ title: MOOC "Participation citoyenne méthodes et civic tech » [session 2]"
 date: 2016-08-04
 ---
 <div class="post-header">
-    <img src="/mooc/images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="./images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Comment amplifier l'impact de la participation citoyenne ? Ce MOOC vous enseigne les méthodes et outils pour concevoir des processus participatifs efficaces, en ligne et en présentiel, et ainsi maximiser l'engagement des citoyens-usagers dans vos projets.
         <!-- more -->

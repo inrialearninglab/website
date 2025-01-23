@@ -4,7 +4,7 @@ date: 2017-01-01
 ---
 
 <div class="post-header">
-    <img src="/ePoc/images/iaepoc.png" alt="L'image est un portrait combiné numériquement montrant le visage d'un homme divisé en deux. Une moitié est une photographie réaliste, tandis que l'autre moitié est un dessin d'une tête robotique avec des circuits visibles.">
+    <img src="./images/iaepoc.png" alt="L'image est un portrait combiné numériquement montrant le visage d'un homme divisé en deux. Une moitié est une photographie réaliste, tandis que l'autre moitié est un dessin d'une tête robotique avec des circuits visibles.">
     <div>
         💡Découvrez l'univers fascinant de l'intelligence artificielle ! En seulement 25 minutes, initiez-vous aux bases de l'IA, explorez ses différences avec l'intelligence biologique, et identifiez ses usages dans votre quotidien. 🌟📚 </p>
         <!-- more -->

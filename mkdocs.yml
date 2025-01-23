@@ -1,27 +1,28 @@
-
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Inria Learning Lab
+site_url: https://learninglab.gitlabpages.inria.fr/site-ll
+use_directory_urls: false
 extra_css:
     - stylesheets/extra.css
 plugins:
     - blog:
-        blog_dir: blog
+          blog_dir: blog
     - blog:
-        blog_dir: ePoc
-        blog_toc: false
-        post_url_format: "{slug}"
-        archive: false
+          blog_dir: ePoc
+          blog_toc: false
+          post_url_format: "{slug}"
+          archive: false
     - blog:
-        blog_dir: mooc
-        blog_toc: false
-        post_url_format: "{slug}"
-        archive: false
+          blog_dir: mooc
+          blog_toc: false
+          post_url_format: "{slug}"
+          archive: false
     - search
     - awesome-pages
 markdown_extensions:
     - pymdownx.superfences
     - pymdownx.tabbed:
-        alternate_style: true
+          alternate_style: true
 theme:
     name: material
     language: fr
@@ -30,21 +31,21 @@ theme:
         - navigation.tabs.sticky
     palette:
         # Palette toggle for automatic mode
-        -   media: "(prefers-color-scheme)"
-            toggle:
-                icon: material/brightness-auto
-                name: Switch to light mode
+        - media: "(prefers-color-scheme)"
+          toggle:
+              icon: material/brightness-auto
+              name: Switch to light mode
 
         # Palette toggle for light mode
-        -   media: "(prefers-color-scheme: light)"
-            scheme: default
-            toggle:
-                icon: material/brightness-7
-                name: Switch to dark mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          toggle:
+              icon: material/brightness-7
+              name: Switch to dark mode
 
         # Palette toggle for dark mode
-        -   media: "(prefers-color-scheme: dark)"
-            scheme: slate
-            toggle:
-                icon: material/brightness-4
-                name: Switch to system preference
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          toggle:
+              icon: material/brightness-4
+              name: Switch to system preference
