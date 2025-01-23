@@ -2,12 +2,14 @@
 title: Internet des objets et vie privée
 date: 2017-01-01
 ---
-<div class="post-header">
-  <img src="/ePoc/images/iot-vieprive.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-    <p> 💡🔒 Découvrez comment préserver votre vie privée dans un monde d'objets connectés ! Ce parcours vous guide pas à pas pour comprendre les enjeux des données personnelles et adopter des pratiques sécurisées au quotidien. 🏡🤖 </problém></p>
-</div>
 
-<!-- more -->
+<div class="post-header">
+ <img src="/ePoc/images/iot-vieprive.png" alt="Une loupe est braquée sur un smartphone, qui symbolise une plateforme de contrôle centrale. Autour du téléphone, diverses icônes représentent différents appareils et objets connectés (ampoule, réfrigérateur, lave-linge, climatiseur, gouttes d'eau, chariot de courses). ">
+    <div>
+        💡🔒 Découvrez comment préserver votre vie privée dans un monde d'objets connectés ! Ce parcours vous guide pas à pas pour comprendre les enjeux des données personnelles et adopter des pratiques sécurisées au quotidien. 🏡🤖 </p>
+        <!-- more -->
+    </div>
+</div> 
 
 Internet des objets et vie privée est une formation ePoc dédiée à explorer les enjeux de la vie privée dans l’univers des objets connectés, et plus spécifiquement dans le contexte de la maison intelligente. Ce parcours vous invite à mieux comprendre les défis de la protection des données dans un environnement numérique de plus en plus omniprésent.
 

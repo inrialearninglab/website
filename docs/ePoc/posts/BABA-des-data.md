@@ -3,11 +3,12 @@ title: B.A.-BA des data
 date: 2017-01-01
 ---
 <div class="post-header">
-  <img src="/ePoc/images/babadata.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-    <p>  💡 Découvrez l'epoc B.A.-BA des données numériques : une initiation interactive et accessible pour percer les mystères de l'informatique et des données, conçue par Inria ! 🚀 </problem></p>
-</div>
-
-<!-- more -->
+    <img src="/ePoc/images/babadata.png" alt="Carré représentant des datas entre crochet sur fond blanc">
+    <div>
+        💡 Découvrez l'epoc B.A.-BA des données numériques : une initiation interactive et accessible pour percer les mystères de l'informatique et des données, conçue par Inria ! 🚀 </p>
+        <!-- more -->
+    </div>
+</div> 
 
 B.A.-BA des data est un ePoc conçu pour aider tous ceux qui se posent des questions sur le fonctionnement de l'informatique et des données. Ce parcours interactif et accessible offre une initiation aux concepts fondamentaux des données numériques, depuis leur création jusqu'à leur traitement par les machines. Développé par Inria, cet ePoc permet aux apprenants de mieux comprendre comment les informations sont manipulées au cœur des systèmes numériques modernes.
 

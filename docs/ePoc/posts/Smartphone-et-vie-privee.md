@@ -2,10 +2,18 @@
 title: Smartphone et vie privée
 date: 2017-01-01
 ---
+<div class="post-header">
+<img src="/ePoc/images/smartvieprive.png" alt="L'image montre une illustration d'une personne observée à travers une loupe. La personne porte un pull rouge et est en train de regarder son téléphone mobile. La loupe est de grande taille, encadrant le personnage, et a un manche bleu foncé. ">
+    <div>
+        💡 Découvrez "Smartphone et vie privée" : une formation ePoc pour mieux comprendre les enjeux de la protection de vos données personnelles sur vos appareils mobiles, développée par Inria !  </p>
+        <!-- more -->
+    </div>
+</div> 
+
 
 <div class="post-header">
-  <img src="/ePoc/images/smartvieprive.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-    <p>💡 Découvrez "Smartphone et vie privée" : une formation ePoc pour mieux comprendre les enjeux de la protection de vos données personnelles sur vos appareils mobiles, développée par Inria ! 🔐 </problém></p>
+  <img src="/ePoc/images/smartvieprive.png" alt="L'image montre une illustration d'une personne observée à travers une loupe. La personne porte un pull rouge et est en train de regarder son téléphone mobile. La loupe est de grande taille, encadrant le personnage, et a un manche bleu foncé. ">
+    <p>💡 Découvrez "Smartphone et vie privée" : une formation ePoc pour mieux comprendre les enjeux de la protection de vos données personnelles sur vos appareils mobiles, développée par Inria !  </problém></p>
 </div>
 
 <!-- more -->

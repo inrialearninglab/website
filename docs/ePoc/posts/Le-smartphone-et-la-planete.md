@@ -2,13 +2,14 @@
 title: Le smartphone et la planete
 date: 2017-01-01
 ---
-
 <div class="post-header">
-  <img src="/ePoc/images/planete-smartphone.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-    <p> 🌍 Découvrez l’impact écologique des smartphones et les actions pour le réduire ! Grâce à ce parcours ludique et accessible, explorez les enjeux environnementaux liés à nos appareils du quotidien et apprenez à faire des choix numériques plus responsables. 📱🌱 </p>
-</div>
+<img src="/ePoc/images/planete-smartphone.png" alt="L'image représente un globe terrestre de style bande dessinée. Le globe a une paire d'yeux rouges à l'expression malicieuse. Il tient un smartphone rouge dans ses mains et se tient debout sur de courtes jambes bleues. ">
+    <div>
+        🌍 Découvrez l’impact écologique des smartphones et les actions pour le réduire ! Grâce à ce parcours ludique et accessible, explorez les enjeux environnementaux liés à nos appareils du quotidien et apprenez à faire des choix numériques plus responsables. 📱🌱 </p>
+        <!-- more -->
+    </div>
+</div> 
 
-<!-- more -->
 
 Le smartphone et la planète est une formation courte sur mobile conçue pour comprendre les impacts environnementaux associés à l’utilisation des smartphones. À travers cette formation, les apprenants exploreront les enjeux écologiques liés à ces appareils du quotidien.
 
