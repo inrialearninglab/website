@@ -10,7 +10,7 @@ date: 2014-11-08
 </div>
 
 
-Présentation :
+# Présentation :
 Les trois sessions du MOOC Python ont rassemblé plus de 33000 inscrits au total !
 
 Enseigné par Arnaud Legout, chargé de recherche Inria et Thierry Parmentelat, ingénieur de recherche Inria, ce cours permet d’apprendre à bien programmer en Python, en allant des premiers pas dans le langage à l’étude des concepts les plus évolués. Le cours, d’une durée de 7 semaines, est constitué de nombreuses vidéos courtes, d’exercices et de mini-projets.

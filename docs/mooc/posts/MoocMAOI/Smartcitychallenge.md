@@ -23,7 +23,7 @@ Throughout this MOOC you will :
 - apprehend the costs and impediments (both technological and societal) that may occur to deploy a new digital service in the city
 - investigate public participation in the development of smart cities and the technological and societal challenges that emerge from it.
 
-- The course is organized in 5 modules :
+# The course is organized in 5 modules :
 
 **Module 1 :**	Introduction: a perspective on smarter cities
 

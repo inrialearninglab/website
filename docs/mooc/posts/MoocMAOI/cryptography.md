@@ -20,7 +20,7 @@ This course is intended for **undergraduate and Master’s degree students in ma
 
 It is taught by Irène Marquez-Corbella, Nicolas Sendrier from [SECRET team](https://www.rocq.inria.fr/secret/index.html) and Matthieu Finiasz (CryptoExpert).
 
-## Programme :
+# Programme :
 
 Week 1 : Error-Correcting Codes and Cryptography
 
@@ -34,7 +34,7 @@ Week 5 : Other cryptographic constructions relying on coding theory
 
 Get the latest news about this course on Twitter: [#CodeBasedCrypto](https://x.com/i/flow/login?redirect_after_login=%2Fsearch%3Fq%3D%2523CodeBasedCrypto%26src%3Dtypd)
 
-## Track record and links:
+# Track record and links:
 
 Session 1 : May 25 to June 28, 2015
 

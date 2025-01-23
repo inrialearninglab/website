@@ -14,7 +14,7 @@ L’IA vous fait peur ? Vous en entendez parler à toutes les sauces ? Les humai
 
 Class’Code IAI est un Mooc citoyen accessible à toutes et à tous de 7 à 107 ans pour se questionner, expérimenter et comprendre ce qu’est l’Intelligence Artificielle… avec intelligence !
 
-Ce cours a pour but de :
+# Ce cours a pour but de :
 
 - décrypter le discours autour de l’IA pour passer des idées reçues à des questions sur lesquelles s’appuyer pour comprendre,
 

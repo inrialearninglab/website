@@ -23,7 +23,7 @@ En tant qu'utilisateur connecté, ce cours vous conduit vers un usage éclairé 
 
 Ce que vous allez apprendre :
 
-A la fin de ce cours, vous serez en capacité de :
+# A la fin de ce cours, vous serez en capacité de :
 
 - comprendre quelles sont les données que vous produisez quand vous utilisez une technologie,
 - connaître quels sont vos droits en matière de vie privée,
