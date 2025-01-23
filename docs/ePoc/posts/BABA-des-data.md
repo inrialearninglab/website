@@ -3,11 +3,12 @@ title: B.A.-BA des data
 date: 2017-01-01
 ---
 <div class="post-header">
-  <img src="/ePoc/images/babadata.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-    <p>  💡 Découvrez l'epoc B.A.-BA des données numériques : une initiation interactive et accessible pour percer les mystères de l'informatique et des données, conçue par Inria ! 🚀 </problem></p>
+    <img src="/ePoc/images/babadata.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <div>
+        💡 Découvrez l'epoc B.A.-BA des données numériques : une initiation interactive et accessible pour percer les mystères de l'informatique et des données, conçue par Inria ! 🚀
+        <!-- more -->
+    </div>
 </div>
-
-<!-- more -->
 
 B.A.-BA des data est un ePoc conçu pour aider tous ceux qui se posent des questions sur le fonctionnement de l'informatique et des données. Ce parcours interactif et accessible offre une initiation aux concepts fondamentaux des données numériques, depuis leur création jusqu'à leur traitement par les machines. Développé par Inria, cet ePoc permet aux apprenants de mieux comprendre comment les informations sont manipulées au cœur des systèmes numériques modernes.
 
@@ -53,4 +54,4 @@ La formation Smartphone et vie privée est pensée pour être accessible et rapi
 
 •	Modules : chaque module dure entre 6 et 9 minutes
 
-Cet ePoc a été développé par Inria 
+Cet ePoc a été développé par Inria

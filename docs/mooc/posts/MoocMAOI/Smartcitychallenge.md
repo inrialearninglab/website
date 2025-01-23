@@ -3,11 +3,12 @@ title: Mooc "Smart cities Take up the challenges of cities in the digital era"
 date: 2019-09-04
 ---
 <div class="post-header">
- <p> How can we design and deploy smarter, more participatory cities? This MOOC offers a comprehensive introduction to the digital infrastructures behind smart cities, helping cities and businesses navigate the technological, societal, and privacy challenges of building a more connected urban environment.
-</p>
+    <div>
+        How can we design and deploy smarter, more participatory cities? This MOOC offers a comprehensive introduction to the digital infrastructures behind smart cities, helping cities and businesses navigate the technological, societal, and privacy challenges of building a more connected urban environment.
+        <!-- more -->
+    </div>
 </div>
 
-<!-- more -->
 <center><iframe width="640" height="360" src="https://www.dailymotion.com/video/x75zr56" frameborder="0" allowfullscreen></iframe></center>
 
 Starting on June 24, 2019 for a period of one year, the Mooc “Technological challenges of participatory smart cities” presents the technological architecture required for Smart Cities and prepares cities and companies for a comprehensive and interoperable approach.

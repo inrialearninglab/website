@@ -3,12 +3,12 @@ title: MOOC Recherche reproductible nouvelle session longue durée !
 date: 2018-09-04
 ---
 <div class="post-header">
-    <p> Comment garantir la transparence et la fiabilité de vos travaux scientifiques ? Ce MOOC explore les principes et outils de la recherche reproductible, essentiels pour une science ouverte et rigoureuse, adaptée à toutes les disciplines.
-
-</p>
+    <div>
+        Comment garantir la transparence et la fiabilité de vos travaux scientifiques ? Ce MOOC explore les principes et outils de la recherche reproductible, essentiels pour une science ouverte et rigoureuse, adaptée à toutes les disciplines.
+        <!-- more -->
+    </div>
 </div>
 
-<!-- more -->
 Rendre votre recherche reproductible, c’est relever le nouveau défi de la science pour améliorer ses résultats !
 
 Le Mooc [« Recherche reproductible : principes méthodologiques pour une science transparente »](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) propose des principes méthodologiques pour une science ouverte et transparente inscrite désormais dans [« le plan national pour la science ouverte »](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-2021-2024-vers-une-generalisation-de-la-science-ouverte-en-48525). Le cours aborde de manière pratique des thématiques telles que la prise de notes, le document computationnel, la réplicabilité des analyses.
@@ -21,7 +21,7 @@ Ce MOOC est pour vous tous, **doctorant-e-s, chercheur-se-s, étudiant-e-s en ma
 - **GitLab** pour le suivi de version et le travail collaboratif
 - **Notebooks (Jupyter, Rstudio ou Org-mode)** pour combiner efficacement calcul, représentation et analyse des données
 
-# Détail du cours
+## Détail du cours
 
 Nous proposons dans ce MOOC trois parcours différents utilisant chacun une technologie de Notebook :
 
@@ -33,7 +33,7 @@ Le troisième parcours repose sur **Emacs/Org-Mode** et les langages **Python et
 
 Nous vous présenterons également les enjeux et les difficultés de la recherche reproductible. À l’issue de ce MOOC, vous aurez acquis les techniques vous permettant de préparer des documents réplicables et de partager en toute transparence les résultats de vos travaux.
 
-# Nouveautés 3e session
+## Nouveautés 3e session
 
 De nombreux contenus ont été ajoutés dans cette nouvelle session :
 
@@ -43,7 +43,7 @@ De nombreux contenus ont été ajoutés dans cette nouvelle session :
 
 - Pour voir la description du cours et s’inscrire dès à présent, [rendez-vous sur la plateforme FUN](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/).
 
-# Suivez-nous
+## Suivez-nous
 
 X (Twitter) : [@InriaLearningLab](https://x.com/InriaLearnLab)
 

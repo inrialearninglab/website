@@ -4,11 +4,12 @@ date: 2017-01-01
 ---
 
 <div class="post-header">
-  <img src="/ePoc/images/planete-smartphone.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-    <p> 🌍 Découvrez l’impact écologique des smartphones et les actions pour le réduire ! Grâce à ce parcours ludique et accessible, explorez les enjeux environnementaux liés à nos appareils du quotidien et apprenez à faire des choix numériques plus responsables. 📱🌱 </p>
+    <img src="/ePoc/images/planete-smartphone.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <div>
+        🌍 Découvrez l’impact écologique des smartphones et les actions pour le réduire ! Grâce à ce parcours ludique et accessible, explorez les enjeux environnementaux liés à nos appareils du quotidien et apprenez à faire des choix numériques plus responsables. 📱🌱
+        <!-- more -->
+    </div>
 </div>
-
-<!-- more -->
 
 Le smartphone et la planète est une formation courte sur mobile conçue pour comprendre les impacts environnementaux associés à l’utilisation des smartphones. À travers cette formation, les apprenants exploreront les enjeux écologiques liés à ces appareils du quotidien.
 
@@ -44,5 +45,4 @@ La formation Smartphone et la planète est pensée pour être accessible et rapi
 
 •	Modules : chaque module dure entre 3 et 30 minutes
 
-Cet ePoc a été développé par Inria 
-
+Cet ePoc a été développé par Inria

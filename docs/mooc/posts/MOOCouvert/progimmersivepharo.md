@@ -3,11 +3,11 @@ title: MOOC «Programmation objet immersive en Pharo», nouvelle édition basée
 date: 2020-10-14
 ---
 <div class="post-header">
-    <p> Envie de repenser la programmation orientée objet ? Ce MOOC vous plonge dans l’univers vivant de Pharo : découvrez ses fondamentaux, développez une application web, et explorez une nouvelle vision de la programmation immersive.
-</p>
+    <div>
+        Envie de repenser la programmation orientée objet ? Ce MOOC vous plonge dans l’univers vivant de Pharo : découvrez ses fondamentaux, développez une application web, et explorez une nouvelle vision de la programmation immersive.
+        <!-- more -->
+    </div>
 </div>
-
-<!-- more -->
 
 Que vous soyez débutant ou expert en programmation orientée objet, ce MOOC va changer votre façon de penser objet : venez apprendre ou redécouvrir la programmation objet grâce à Pharo !
 
@@ -38,7 +38,7 @@ Il s’adresse aux personnes ayant une expérience en programmation et accessibl
 5 profils ont été identifiés pour suivre ce cours à des vitesses et niveaux différents :
 
 - Newbie : pour les débutants
-- En quête de Web : pour ceux qui se focalisent sur le web 
+- En quête de Web : pour ceux qui se focalisent sur le web
 - Oo : pour ceux qui souhaitent rafraîchir leur vision Orientée Objet
 - Xpert : pour ceux qui souhaitent devenir des experts Pharo
 - Black magic : pour ceux qui sont intéressés par des notions avancées, proche de la magie noire 😉
@@ -47,7 +47,7 @@ Il s’adresse aux personnes ayant une expérience en programmation et accessibl
 
 Durée d’ouverture du cours : 1 an, du 9 novembre 2020 au 8 novembre 2021 : vous pouvez suivre ce cours à votre propre rythme !
 
-Ce qu’en disent les participants: 
+Ce qu’en disent les participants:
 
 « I have just completed week seven of the Pharo Mooc (beginner and object oriented tracks) I am starting a redo of the Mooc with the web track (TinyBlog project). I have already learned so much ! I have spent the last 20 years or so in software development and, following this Mooc, I realized I hadn’t really grasped the essence of object oriented design. »
 

@@ -3,14 +3,15 @@ title: MOOC "Impacts environnementaux du numérique"
 date: 2021-11-27
 ---
 <div class="post-header">
-    <p> Impact Num : Explorez les impacts environnementaux du numérique, apprenez à mesurer, comprendre et agir pour un numérique plus responsable. Un MOOC interactif pour devenir un citoyen conscient dans le monde numérique." </p>
+    <div>
+        Impact Num : Explorez les impacts environnementaux du numérique, apprenez à mesurer, comprendre et agir pour un numérique plus responsable. Un MOOC interactif pour devenir un citoyen conscient dans le monde numérique."
+        <!-- more -->
+    </div>
 </div>
-
-<!-- more -->
 
 Impact Num est un Mooc pour se questionner sur les impacts environnementaux du numérique, apprendre à mesurer, décrypter et agir, pour trouver sa place de citoyen dans un monde numérique.
 
-# Description
+## Description
 
 Ce Mooc a été co-produit par l’Association Class’Code et Inria.
 
@@ -22,7 +23,7 @@ Alors qu’il a fallu près de 50 ans pour prendre la mesure du changement clima
 
 Où en sommes-nous en ce qui concerne le numérique ? Comment se repérer dans les informations et les discours parfois contradictoires ? Sur quelles mesures s’appuyer ? Comment dès à présent commencer à agir pour un numérique plus responsable et plus durable ?
 
-# Format
+## Format
 
 Le Mooc est découpé en 4 parties, chacune étant constituée de
 - une **activité d'éveil** pour faire le point sur ses pratiques, ses idées reçues ou ses impensés,
@@ -36,7 +37,7 @@ Des **fiches concept** plus théoriques approfondissent les notions abordées da
 
 Un **forum de discussion** permet d’échanger et de débattre avec les autres participants et des chercheurs.
 
-# Prérequis
+## Prérequis
 
 La formation s’adresse à toutes et tous et plus spécifiquement :
 

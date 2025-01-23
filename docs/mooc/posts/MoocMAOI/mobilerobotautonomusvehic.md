@@ -3,12 +3,13 @@ title: MOOC "Mobile Robots and Autonomous Vehicles"
 date: 2015-03-15
 ---
 <div class="post-header">
-The objective of this course is to introduce the key concepts required to program mobile robots and autonomous vehicles**. The course presents both formal and algorithmic tools, and for its last week’s topics (behavior modeling and learning), it will also provide **realistic examples and programming exercises in Python.
-    <img src="/moocs/images/pmobilerobot.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-
+    <img src="/mooc/images/pmobilerobot.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <div>
+        The objective of this course is to introduce the key concepts required to program mobile robots and autonomous vehicles**. The course presents both formal and algorithmic tools, and for its last week’s topics (behavior modeling and learning), it will also provide **realistic examples and programming exercises in Python.
+        <!-- more -->
+    </div>
 </div>
 
-<!-- more -->
 <center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=Y0YSrQaXGGs" frameborder="0" allowfullscreen></iframe></center>
 It is taught by **Christian LAUGIER, Agostino MARTINELLI and Dizan VASQUEZ** from Inria.
 

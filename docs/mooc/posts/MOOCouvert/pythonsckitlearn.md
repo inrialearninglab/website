@@ -3,21 +3,20 @@ title: Mooc Machine learning in Python with scikit-learn
 date: 2018-09-04
 ---
 <div class="post-header">
-    <p> Comment construire des modèles prédictifs performants avec scikit-learn ? Ce MOOC pratique vous initie à l’apprentissage automatique, des bases théoriques à la mise en œuvre, grâce à des exemples concrets et des exercices en Python.
-
-</p>
+    <div>
+        Comment construire des modèles prédictifs performants avec scikit-learn ? Ce MOOC pratique vous initie à l’apprentissage automatique, des bases théoriques à la mise en œuvre, grâce à des exemples concrets et des exercices en Python.
+        <!-- more -->
+    </div>
 </div>
-
-<!-- more -->
 
 Construire des modèles prédictifs avec scikit-learn et acquérir une compréhension pratique des forces et limites de l’apprentissage automatique !
 
-Avec ce cours disponible en anglais uniquement et gratuit, vous apprendrez les bases de l’apprentissage automatique et comment utiliser la bibliothèque Python scikit-learn. 
+Avec ce cours disponible en anglais uniquement et gratuit, vous apprendrez les bases de l’apprentissage automatique et comment utiliser la bibliothèque Python scikit-learn.
 Ce Mooc est accessible à toute personne ayant des compétences de base en programmation Python.
 
 Le cours, conçu et réalisé par l’équipe scikit-learn, propose une approche pratique avec des exemples d’application concrets et basée sur du code Python exécuté par les participants. Tout est intégré dans le Mooc et vous n’avez rien à installer.
 
-# Ce que vous apprendrez
+## Ce que vous apprendrez
 
 A la fin du cours, vous serez capable de:
 
@@ -29,7 +28,7 @@ A la fin du cours, vous serez capable de:
 
 - Évaluer les performances statistiques de vos modèles
 
-# Course curriculum
+## Course curriculum
 
 **Introduction**: Machine Learning concepts
 
@@ -47,8 +46,8 @@ A la fin du cours, vous serez capable de:
 
 **Module 7:** Evaluating model performance
 
-# Pour qui est ce cours ?
- 
+## Pour qui est ce cours ?
+
 Pour suivre ce cours, il est recommandé d’avoir :
 
 - une connaissance de base de la programmation Python : définition de variables, écriture de fonctions, importation de modules
@@ -74,6 +73,3 @@ Dates
 [Information et inscription sur Fun-Mooc](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
 
 [Twitter: #ScikitLearnMooc](https://x.com/i/flow/login?redirect_after_login=%2Fsearch%3Fq%3DScikitLearnMooc%26src%3Dtypd)
-
-
-
