@@ -3,12 +3,12 @@ title: MOOC "ICN (Informatique et Création Numérique)"
 date: 2019-03-15
 ---
 <div class="post-header">
-Comment enseigner l'informatique et la création numérique au lycée ? Ce MOOC vous guide à travers les fondamentaux de l'option I.C.N., en fournissant les outils, ressources et compétences nécessaires pour accompagner les élèves dans leurs projets de création numérique et les préparer à être acteurs du monde numérique.
-<img src="/moocs/images/picn.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-
+    <img src="/mooc/images/picn.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <div>
+        Comment enseigner l'informatique et la création numérique au lycée ? Ce MOOC vous guide à travers les fondamentaux de l'option I.C.N., en fournissant les outils, ressources et compétences nécessaires pour accompagner les élèves dans leurs projets de création numérique et les préparer à être acteurs du monde numérique.
+        <!-- more -->
+    </div>
 </div>
-
-<!-- more -->
 
 Les lycéennes et lycéens de toutes sections commencent à apprendre de l’informatique pour ne plus être de simples consommateurs mais devenir créateur du numérique : c’est l’enseignement de l’option « Informatique et Création Numérique, I.C.N. », de la seconde à la terminale pour toutes les sections.
 

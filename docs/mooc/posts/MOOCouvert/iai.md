@@ -3,12 +3,12 @@ title: MOOC L’Intelligence Artificielle avec Intelligence
 date: 2020-04-07
 ---
 <div class="post-header">
-    <p> Class'Code IAI : Décryptez l'Intelligence Artificielle, explorez ses concepts et manipulez des programmes pour mieux comprendre et discuter de son impact. Un MOOC accessible à tous, de 7 à 107 ans, pour une immersion citoyenne dans l'IA.
-
-</p>
+    <div>
+        Class'Code IAI : Décryptez l'Intelligence Artificielle, explorez ses concepts et manipulez des programmes pour mieux comprendre et discuter de son impact. Un MOOC accessible à tous, de 7 à 107 ans, pour une immersion citoyenne dans l'IA.
+        <!-- more -->
+    </div>
 </div>
 
-<!-- more -->
 
 L’IA vous fait peur ? Vous en entendez parler à toutes les sauces ? Les humains seraient bons pour la casse ? Mais c’est quoi l’intelligence (artificielle) au fait ?
 

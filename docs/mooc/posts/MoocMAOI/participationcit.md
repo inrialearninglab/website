@@ -3,16 +3,16 @@ title: MOOC "Participation citoyenne méthodes et civic tech » [session 2]"
 date: 2016-08-04
 ---
 <div class="post-header">
- <p> Comment amplifier l'impact de la participation citoyenne ? Ce MOOC vous enseigne les méthodes et outils pour concevoir des processus participatifs efficaces, en ligne et en présentiel, et ainsi maximiser l'engagement des citoyens-usagers dans vos projets.
-<img src="/moocs/images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-</p>
-
+    <img src="/mooc/images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <div>
+        Comment amplifier l'impact de la participation citoyenne ? Ce MOOC vous enseigne les méthodes et outils pour concevoir des processus participatifs efficaces, en ligne et en présentiel, et ainsi maximiser l'engagement des citoyens-usagers dans vos projets.
+        <!-- more -->
+    </div>
 </div>
 
-<!-- more -->
 <center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=Y0YSrQaXGGs" frameborder="0" allowfullscreen></iframe></center>
 
-# Apprenez à amplifier l’impact de la participation des citoyens-usagers
+## Apprenez à amplifier l’impact de la participation des citoyens-usagers
 Vous êtes en charge de processus de participation citoyenne dans une collectivité territoriale ? Vous travaillez dans une entreprise et souhaitez valider des hypothèses pour la définition d’un produit ou service ? Ou tout simplement vous vous intéressez aux principes de la participation citoyenne ?
 
 Avec ce cours, vous découvrirez des méthodes et outils pour mettre en œuvre des processus de participation efficaces qui requièrent des savoir-faire dans deux domaines complémentaires :
@@ -24,10 +24,10 @@ Pour suivre ce cours, vous avez le choix entre deux formules :
 **une formule DÉCOUVERTE** qui vous permettra de vous familiariser avec le sujet
 **une formule ATELIER PRÉSENTIEL**, complémentaire de la formule DÉCOUVERTE, dans laquelle vous pourrez acquérir des compétences pratiques par la mise en place de votre propre projet participatif avec l’accompagnement personnalisé des experts du cours.
 
-# A qui s’adresse ce cours ?
+## A qui s’adresse ce cours ?
 Aucun prérequis n’est nécessaire pour la formule DÉCOUVERTE. La formule ATELIER PRÉSENTIEL s’adresse aux professionnels en charge de programmes de participation citoyenne dans les collectivités territoriales, aux entreprises souhaitant définir de nouveaux besoins ou produits pour leurs clients en s’appuyant sur des méthodes participatives, ainsi qu’aux organisations des secteurs privés, aux structures associatives ou aux collectifs en relation avec des citoyens.
 
-# Deux formules selon vos attentes
+## Deux formules selon vos attentes
 **Formule Découverte**
 Si vous optez pour cette formule, vous aurez accès aux vidéos du cours, aux quiz et à un forum de discussion pour échanger avec l’équipe pédagogique et les autres participants.
 

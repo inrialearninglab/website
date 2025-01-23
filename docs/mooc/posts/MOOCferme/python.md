@@ -3,10 +3,12 @@ title: MOOC « Python des fondamentaux à l’utilisation du langage »
 date: 2014-11-08
 ---
 <div class="post-header">
- <p> Apprenez à maîtriser Python, de l'initiation aux concepts avancés ! Ce MOOC propose un parcours complet en 7 semaines, avec des vidéos, des exercices pratiques et des mini-projets pour devenir un expert en programmation Python. Enseigné par Arnaud Legout et Thierry Parmentelat d'Inria. </p>
-</div> 
+    <div>
+        Apprenez à maîtriser Python, de l'initiation aux concepts avancés ! Ce MOOC propose un parcours complet en 7 semaines, avec des vidéos, des exercices pratiques et des mini-projets pour devenir un expert en programmation Python. Enseigné par Arnaud Legout et Thierry Parmentelat d'Inria.
+        <!-- more -->
+    </div>
+</div>
 
-<!-- more -->
 
 Présentation :
 Les trois sessions du MOOC Python ont rassemblé plus de 33000 inscrits au total !

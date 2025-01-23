@@ -3,12 +3,12 @@ title: Intelligence Artificielle pour et par les enseignants
 date: 2023-12-01
 ---
 <div class="post-header">
-    <p> Intelligence Artificielle pour et par les enseignants : Découvrez comment l'IA transforme l'éducation, explorez ses applications et ses limites, et apprenez à l'intégrer dans votre pratique pédagogique. Un MOOC essentiel pour tous les acteurs de l'éducation.
-
-</p>
+    <div>
+        Intelligence Artificielle pour et par les enseignants : Découvrez comment l'IA transforme l'éducation, explorez ses applications et ses limites, et apprenez à l'intégrer dans votre pratique pédagogique. Un MOOC essentiel pour tous les acteurs de l'éducation.
+        <!-- more -->
+    </div>
 </div>
 
-<!-- more -->
 IA et éducation : comment et pour quoi utiliser l’IA en éducation ?
 Le Mooc “Intelligence artificielle pour et par les enseignants”, lancé le 16 novembre 2023  lors du salon Educ@tech, met en perspective les applications de l’IA en éducation.
 

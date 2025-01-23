@@ -3,11 +3,11 @@ title: MOOC "S’initier à l’enseignement en Sciences Numériques et Technolo
 date: 2022-01-19
 ---
 <div class="post-header">
-    <p> Comment enseigner les Sciences Numériques et Technologie au lycée ? Ce MOOC offre des ressources clés, des savoirs pratiques et un espace d’entraide pour accompagner les enseignants dans ce nouvel enseignement.
-</p>
+    <div>
+        Comment enseigner les Sciences Numériques et Technologie au lycée ? Ce MOOC offre des ressources clés, des savoirs pratiques et un espace d’entraide pour accompagner les enseignants dans ce nouvel enseignement.
+        <!-- more -->
+    </div>
 </div>
-
-<!-- more -->
 
 Comment aider les enseignants de SNT ?
 
@@ -15,7 +15,7 @@ Quels savoirs partager avec eux ?
 
 Quelles ressources sélectionner ?
 
-Quelles compétences leur transmettre pour qu’ils puissent assurer ce nouvel enseignement ?  
+Quelles compétences leur transmettre pour qu’ils puissent assurer ce nouvel enseignement ?
 
 Une réponse à ces questions : un MOOC pensé comme un outil de formation un peu particulier, un espace de partage et d’entraide, où chacune et chacun construira son parcours selon ses besoins et ses connaissances, un cours en ligne qui va évoluer avec le temps ; on commence quand on veut (dès le 15 mars 2019) et on y revient aussi souvent qu’on en a besoin.
 
