@@ -1,5 +1,5 @@
 ---
-title: MOOC « Défis technologiques des villes intelligentes participatives »
+title: Défis technologiques des villes intelligentes participatives 
 date: 2015-10-06
 ---
 <div class="post-header">

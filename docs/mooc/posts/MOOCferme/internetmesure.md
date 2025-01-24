@@ -1,5 +1,5 @@
 ---
-title: MOOC "Internet Measurements a Hands-on Introduction"
+title: Internet Measurements a Hands-on Introduction
 date: 2016-01-01
 ---
 <div class="post-header">
@@ -18,7 +18,7 @@ Ce cours en anglais est une introduction pratique aux mesures de l’internet (m
 Il requiert un niveau licence en informatique, un niveau M1 en réseaux ou une expérience professionnelle équivalente.
 Ce MOOC peut intéresser un public varié : opérateurs système ou réseaux, développeurs d’applications ou de services internet, simples utilisateurs souhaitant mieux diagnostiquer les problèmes.
 
-#  Programme :
+## Programme :
 
 - Semaine 1 : Introduction
 
@@ -30,7 +30,7 @@ Ce MOOC peut intéresser un public varié : opérateurs système ou réseaux, d�
 
 - Semaine 5 : Traffic measurements
 
-# Historique et liens :
+## Historique et liens :
 
 - Session 1 : du 23 mai au 19 juin 2016.`
 

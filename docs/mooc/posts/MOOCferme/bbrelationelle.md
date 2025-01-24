@@ -1,9 +1,10 @@
 ---
-title: MOOC "Bases de données relationnelles - Comprendre pour maîtriser"
+title: Bases de données relationnelles - Comprendre pour maîtriser
 date: 2015-06-15
 ---
 <div class="post-header">
     <div>
+    <img src="./images/babadata.png" alt="Carré représentant des datas entre crochet sur fond blanc">
         Maîtrisez les bases de données relationnelles avec ce MOOC, où vous apprendrez à comprendre leur fonctionnement, à résoudre des problèmes de performance et à exploiter ces systèmes efficacement pour vos projets professionnels et scientifiques
         <!-- more -->
     </div>
@@ -15,7 +16,7 @@ Le Mooc « Bases de données relationnelles : comprendre pour maîtriser » ( #B
 Détails du cours
 Ce cours est enseigné par Serge Abiteboul, Benjamin Nguyen et Philippe Rigaux. Il a été réalisé par le Mooc Lab Inria
 
-# Détails du cours
+## Détails du cours
 Ce cours s’adresse à toute personne utilisant une base de données ou souhaitant comprendre comment fonctionne le système.
 Cela recouvre, entre autres :
 
@@ -27,7 +28,7 @@ Cela recouvre, entre autres :
 
 - et plus généralement les personnes curieuses de comprendre un outil utilisé quotidiennement.
 
-Historique et liens :
+## Historique et liens :
 
 Session 1 : du 18 janvier au 28 février 2016
 

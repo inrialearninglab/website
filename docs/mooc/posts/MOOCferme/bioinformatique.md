@@ -1,10 +1,11 @@
 ---
-title: MOOC "Bioinformatique algorhithmes et génomes",
+title: Bioinformatique algorhithmes et génomes
 date: 2019-01-01
 ---
 
 <div class="post-header">
     <div>
+    <img src="./images/babadata.png" alt="Carré représentant des datas entre crochet sur fond blanc">
         Découvrez l'analyse des génomes et l'informatique avec ce MOOC interactif, où vous apprendrez à appliquer des algorithmes sur des séquences génétiques et à exécuter des programmes en Python pour explorer des données réelles
         <!-- more -->
     </div>

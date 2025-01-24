@@ -1,5 +1,5 @@
 ---
-title: MOOC Le robot Thymio comme outil de découverte des sciences du numérique!
+title: Le robot Thymio comme outil de découverte des sciences du numérique!
 date: 2023-06-01
 ---
 <div class="post-header">

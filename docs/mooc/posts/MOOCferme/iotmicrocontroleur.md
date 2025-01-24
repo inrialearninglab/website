@@ -1,5 +1,5 @@
 ---
-title: MOOC “Internet of Things with Microcontrollers a hands-on course”
+title: Internet of Things with Microcontrollers a hands-on course
 date: 2020-01-04
 ---
 <div class="post-header">

@@ -1,5 +1,5 @@
 ---
-title: MOOC "ICN (Informatique et Création Numérique)"
+title: ICN (Informatique et Création Numérique)
 date: 2019-03-15
 ---
 <div class="post-header">
@@ -24,7 +24,7 @@ Les inscriptions à ce MOOC sont ouvertes : début des cours le 20 février 2017
 
 Vous voulez en savoir plus ? Vous inscrire ? Alors rendez vous sur la plateforme FUN et déroulez le [teaser](https://www.youtube.com/watch?v=j0R4h3pWclA&list=PLWvGMqXvyJAOaI2Zf9dqa0b5SQWQ6Z9kr) !
 
-# Qu’y trouverez vous ?
+## Qu’y trouverez vous ?
 
 **Le N ?** Des grains de culture scientifique pour découvrir le numérique et ses sciences dans le réel, lié au quotidien de ces jeunes. Montrer où sont les systèmes numériques et ce qu’ils sont exactement, les données et les algorithmes qui nous entourent, les impacts sociétaux des mutations qui en découlent, leur montrer tant les opportunités que les risques (ex: crowdsourcing, nouveaux contacts sociaux, …) qui sont devant elles et eux.
 

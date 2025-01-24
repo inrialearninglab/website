@@ -1,5 +1,5 @@
 ---
-title: Mooc Machine learning in Python with scikit-learn
+title: Machine learning in Python with scikit-learn
 date: 2018-09-04
 ---
 <div class="post-header">
@@ -59,7 +59,7 @@ Le cours aborde les aspects pratiques de l’apprentissage automatique à traver
 
 Informations utiles et liens :
 
-Dates
+## Dates
 
 - session 4 en self-paced : du 8 novembre 2023 au 7 novembre 2024
 

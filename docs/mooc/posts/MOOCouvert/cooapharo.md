@@ -1,5 +1,5 @@
 ---
-title: Maîtrisez la « Conception Orientée Objet Avancée » avec ce nouveau MOOC
+title: Conception Orientée Objet Avancée 
 date: 2024-06-19
 ---
 <div class="post-header">
@@ -13,12 +13,12 @@ Le MOOC « Conception Orientée Objet Avancée »  est conçu par des expertes e
 
 Ouvert dès le 17 juin !
 
-# Contenu et méthodologie du cours
+## Contenu et méthodologie du cours
 
 Vidéos explicatives : des vidéos de haute qualité pour introduire et détailler chaque concept.
 Exercices interactifs : des exercices pratiques, jeux et quiz pour renforcer et tester vos connaissances.
 
-# À propos des créateurs du cours :
+## À propos des créateurs du cours :
 
 Ce MOOC a été développé par une équipe d’experts de renommée mondiale :
 
@@ -30,7 +30,7 @@ Guillermo Polito – Chercheur permanent à l’Inria de l’Université de Lill
 
 Pablo Tesone – Ingénieur du consortium Pharo . Il est titulaire d’un doctorat en informatique de l’Université de Lille
 
-Informations pratiques
+## Informations pratiques
 
 [Inscriptions](https://www.fun-mooc.fr/fr/cours/advanced-object-oriented-design-and-development-with-pharo/)
 

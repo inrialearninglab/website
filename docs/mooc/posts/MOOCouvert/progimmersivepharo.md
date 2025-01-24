@@ -1,5 +1,5 @@
 ---
-title: MOOC «Programmation objet immersive en Pharo», nouvelle édition basée sur Pharo v8.0 !
+title: Programmation objet immersive en Pharo
 date: 2020-10-14
 ---
 <div class="post-header">
@@ -13,7 +13,7 @@ Que vous soyez débutant ou expert en programmation orientée objet, ce MOOC va 
 
 Cette nouvelle édition 2020 du cours « Programmation objet immersive en Pharo / Live Object Programming in Pharo » est basée sur la version 8.0 de Pharo, langage et environnement de programmation orienté objet.
 
-Auteurs du cours :
+## Auteurs du cours :
 
 - Stéphane Ducasse (Inria)
 
@@ -23,7 +23,7 @@ Auteurs du cours :
 
 Le Mooc est bilingue français/anglais. **L’ensemble des vidéos de ce MOOC est sous-titré en français, anglais, espagnol et japonais.**
 
-A travers ce MOOC :
+## A travers ce MOOC :
 
 - vous apprenez à programmer en Pharo,
 
@@ -35,7 +35,7 @@ Ce MOOC apporte également une nouvelle vision des fondements même de la progra
 
 Il s’adresse aux personnes ayant une expérience en programmation et accessible à toute personne motivée grâce aux nombreuses ressources proposées telles que [le livre « Pharo par l’exemple »](http://books.pharo.org) disponible gratuitement et sous une licence libre (CC By SA).
 
-5 profils ont été identifiés pour suivre ce cours à des vitesses et niveaux différents :
+## 5 profils ont été identifiés pour suivre ce cours à des vitesses et niveaux différents :
 
 - Newbie : pour les débutants
 - En quête de Web : pour ceux qui se focalisent sur le web

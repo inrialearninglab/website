@@ -1,5 +1,5 @@
 ---
-title: MOOC "Mobile Robots and Autonomous Vehicles"
+title: Mobile Robots and Autonomous Vehicles
 date: 2015-03-15
 ---
 <div class="post-header">
@@ -27,7 +27,7 @@ The course can also complement the skills of **engineers and researchers** worki
 
 This MOOC was created by Inria’s MoocLab, as part of the uTOP project ( http://utop.fr/ – http://utop.inria.fr/). uTOP is an IDEFI project that aims to create a demonstrator for increasing research visibility through out training.
 
-Track record and links:
+## Track record and links:
 
 Session 1 : May 18 to July 21, 2015
 

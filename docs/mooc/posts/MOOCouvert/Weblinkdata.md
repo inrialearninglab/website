@@ -1,5 +1,5 @@
 ---
-title: MOOC Introduction to a Web of Linked Data
+title: Introduction to a Web of Linked Data
 date: 2019-03-15
 ---
 <div class="post-header">

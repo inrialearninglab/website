@@ -1,5 +1,5 @@
 ---
-title: MOOC Numérique et Sciences Informatiques les fondamentaux
+title: Numérique et Sciences Informatiques les fondamentaux
 date: 2024-03-24
 ---
 <div class="post-header">
@@ -13,7 +13,7 @@ Pour apprendre les fondamentaux nécessaires à l’enseignement de l’informat
 
 Ce MOOC, qui permet d’acquérir les bases théoriques dans tous les champs de l’informatique, s’inscrit dans un parcours de formation complet théorique et pratique dédié à l’enseignement de l’informatique au niveau du secondaire supérieur. En France, cela permet, non seulement de se préparer à enseigner au lycée, mais aussi de préparer  le concours du CAPES Informatique pour envisager l’enseignement de l’informatique au niveau du secondaire supérieur.
 
-# Plan du cours
+## Plan du cours
 
 **Bloc 1 : DATA**
 
@@ -50,7 +50,7 @@ Ce MOOC, qui permet d’acquérir les bases théoriques dans tous les champs de 
 4.4 Technologies web
 
 
-# À qui s’adresse ce cours ?
+## À qui s’adresse ce cours ?
 
 La formation s’adresse à toutes et tous, mais représente plus qu’un MOOC usuel, c’est un vrai parcours de formation professionnalisant, et qui sera accompagné collégialement. Cela nécessite donc … du temps !  Elle intéresse potentiellement :
 

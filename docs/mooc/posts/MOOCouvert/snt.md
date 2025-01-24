@@ -1,5 +1,5 @@
 ---
-title: MOOC "S’initier à l’enseignement en Sciences Numériques et Technologie"
+title: S’initier à l’enseignement en Sciences Numériques et Technologie
 date: 2022-01-19
 ---
 <div class="post-header">

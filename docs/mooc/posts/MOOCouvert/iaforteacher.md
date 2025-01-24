@@ -18,7 +18,7 @@ Ce Mooc est le fruit du travail avec cinq ministères de l’éducation : franç
 
 Il a été conçu puis expérimenté en France avec la Direction du numérique pour l’éducation du MENJ, Inria, le Loria et Class’Code, de Janvier 2022 à Septembre 2023 auprès de 400 enseignants.
 
-# Informations utiles
+## Informations utiles
 
 Le Mooc est organisé en quatre modules :
 
@@ -35,7 +35,7 @@ Chaque module propose des vidéos, des textes, des activités, des quiz et un ac
 Avant et après ces 4 modules de cours, la partie « Présentation générale » présente les objectifs de la formation et vous guide dans l’utilisation de la plateforme du cours.
 La partie « Conclusion » aborde les aspects éthiques liés à l’utilisation de l’IA dans l’enseignement.
 
-# Pour commencer le cours, vous pouvez :
+## Pour commencer le cours, vous pouvez :
 
 - consulter [le guide FUN](https://lms.fun-mooc.fr/login?next=/courses/course-v1%3Ainria%2B41032%2Bsession01/courseware/41e6eeb984e045f4b6e0a04c020d5c97/7c1f088fa9334b268eff2f44e5792a0f/1%3Factivate_block_id%3Dblock-v1%253Ainria%252B41032%252Bsession01%252Btype%2540vertical%252Bblock%25409da8d6c549cd4cc494c6fd5ca33bd7c0), si vous n’êtes pas familier avec cette plateforme,
 
@@ -50,7 +50,7 @@ Dans ce contexte, les contenus ont été élaborés avec les cinq ministères de
 
 Certains contenus (vidéos de découverte de l’IA et activités d’expérimentation) de ce cours sont issus du [Mooc «L’Intelligence Artificielle… avec intelligence !»](https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/), dont l’objectif partagé avec ce cours est d’apporter une vision correcte et opérationnelle sur l’IA et ses enjeux.
 
-# Informations utiles
+## Informations utiles
 
 Démarrage du MOOC, le 16 novembre 2023
 

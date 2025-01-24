@@ -1,5 +1,5 @@
 ---
-title: MOOC Recherche reproductible nouvelle session longue durée !
+title: Recherche reproductible
 date: 2018-09-04
 ---
 <div class="post-header">
@@ -21,7 +21,7 @@ Ce MOOC est pour vous tous, **doctorant-e-s, chercheur-se-s, étudiant-e-s en ma
 - **GitLab** pour le suivi de version et le travail collaboratif
 - **Notebooks (Jupyter, Rstudio ou Org-mode)** pour combiner efficacement calcul, représentation et analyse des données
 
-# Détail du cours
+## Détail du cours
 
 Nous proposons dans ce MOOC trois parcours différents utilisant chacun une technologie de Notebook :
 
@@ -33,7 +33,7 @@ Le troisième parcours repose sur **Emacs/Org-Mode** et les langages **Python et
 
 Nous vous présenterons également les enjeux et les difficultés de la recherche reproductible. À l’issue de ce MOOC, vous aurez acquis les techniques vous permettant de préparer des documents réplicables et de partager en toute transparence les résultats de vos travaux.
 
-# Nouveautés 3e session
+## Nouveautés 3e session
 
 De nombreux contenus ont été ajoutés dans cette nouvelle session :
 
@@ -43,7 +43,7 @@ De nombreux contenus ont été ajoutés dans cette nouvelle session :
 
 - Pour voir la description du cours et s’inscrire dès à présent, [rendez-vous sur la plateforme FUN](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/).
 
-# Suivez-nous
+## Suivez-nous
 
 X (Twitter) : [@InriaLearningLab](https://x.com/InriaLearnLab)
 

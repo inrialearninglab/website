@@ -1,5 +1,5 @@
 ---
-title: MOOC "Programmation objet immersive en Pharo nouvelle session longue durée !"
+title: Programmation objet immersive en Pharo 
 date: 2019-01-01
 ---
 <div class="post-header">
@@ -12,7 +12,7 @@ date: 2019-01-01
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=KDvNuOjdjY4" frameborder="0" allowfullscreen></iframe></center>
 
-# A travers ce MOOC :
+## A travers ce MOOC :
 
 – vous apprendrez à programmer en Pharo,
 
@@ -26,7 +26,7 @@ Ce MOOC s’adresse aux personnes ayant une expérience en programmation et tout
 
 Une **séquence bonus**, spécialement conçue pour les Newbies, leurs permettra de commencer ce MOOC avec **de bonnes bases en programmation orientée objet.**
 
-# **5 profils** ont été identifiés pour suivre ce cours à des vitesses et niveaux différents :
+## **5 profils** ont été identifiés pour suivre ce cours à des vitesses et niveaux différents :
 
 **Newbie** : pour les débutants
 
