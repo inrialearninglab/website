@@ -9,11 +9,11 @@ date: 2020-01-04
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/De0CI9r1-r4?si=svfE6zuGqAoU5zE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Learning and programming the Internet of Thing
 This MOOC is designed to help engineers, students or makers understanding the specificities of connected object programming through a mix a theoretical contents and hands-on activities.
 At the end of the course, each participant will be able to develop an IoT application from the object to the cloud. No need to possess specific hardware to take the course: the participants will be able to program and test their firmware using the [Fit-IOT-Lab](https://www.iot-lab.info) testbed.
-
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=De0CI9r1-r4" frameborder="0" allowfullscreen></iframe></center>
 
 The course contents and hands-on activities have been produced by engineers and researchers involved in the FIT-IoTLab platform or IoT research: **Alexandre Abadie** (Research engineer, Inria), **Emmanuel Baccelli** (Professor, Freie Universität Berlin), **Antoine Gallais** (Professor, Université Polytechnique Hauts-de-France), **Olivier Gladin** (Research engineer, Inria), **Nathalie Mitton (Research scientist, Inria)**, **Frédéric Saint-Marcel** (Research engineer, Inria), **Guillaume Schreiner** (Engineer, CNRS), **Laurent Toutain** (Teacher and researcher, IMT Atlantique) and **Julien Vandaële** (Research engineer, Inria).
 

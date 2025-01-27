@@ -9,6 +9,8 @@ date: 2023-12-01
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/9t-fm4liJPw?si=nmVGNaIGGFYORWil" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 IA et éducation : comment et pour quoi utiliser l’IA en éducation ?
 Le Mooc “Intelligence artificielle pour et par les enseignants”, lancé le 16 novembre 2023  lors du salon Educ@tech, met en perspective les applications de l’IA en éducation.
 

@@ -9,6 +9,8 @@ date: 2024-06-19
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/9HMYS-mzDKQ?si=Xxc1e0fMi71Vh5CB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Le MOOC « Conception Orientée Objet Avancée »  est conçu par des expertes et experts et enrichi par plus de 60 ans d’expérience dans l’enseignement de la conception orientée objet. Il vous offre une opportunité unique de maîtriser les concepts avancés de la programmation orientée objet.
 
 Ouvert dès le 17 juin !

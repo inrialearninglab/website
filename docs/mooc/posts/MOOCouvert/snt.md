@@ -9,6 +9,8 @@ date: 2022-01-19
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/k9bv21-Gg9s?si=WXdUbKF4A3VxD80Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Comment aider les enseignants de SNT ?
 
 Quels savoirs partager avec eux ?

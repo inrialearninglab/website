@@ -4,13 +4,13 @@ date: 2015-06-15
 ---
 <div class="post-header">
     <div>
-    <img src="./images/babadata.png" alt="Carré représentant des datas entre crochet sur fond blanc">
+    <img src="docs/images/babadata.png" alt="Carré représentant des datas entre crochet sur fond blanc">
         Maîtrisez les bases de données relationnelles avec ce MOOC, où vous apprendrez à comprendre leur fonctionnement, à résoudre des problèmes de performance et à exploiter ces systèmes efficacement pour vos projets professionnels et scientifiques
         <!-- more -->
     </div>
 </div>
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=_o5WW64r1DE" frameborder="0" allowfullscreen></iframe></center>
+<iframe src="https://www.youtube.com/embed/_o5WW64r1DE?si=ZxWSWLK2Ug_M1owK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Le Mooc « Bases de données relationnelles : comprendre pour maîtriser » ( #BADOR ) a pour ambition d’expliquer comment fonctionnent ces systèmes. Il permettra à leurs utilisateurs de mieux les maîtriser, notamment en comprenant les problèmes de performance que ces systèmes peuvent rencontrer.
 Détails du cours

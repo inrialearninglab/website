@@ -9,6 +9,7 @@ date: 2014-11-08
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/5TX0TRWNEYk?si=1vnTqWPXdojWsjct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Présentation :
 Les trois sessions du MOOC Python ont rassemblé plus de 33000 inscrits au total !

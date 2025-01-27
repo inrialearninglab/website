@@ -10,7 +10,7 @@ date: 2015-03-16
     </div>
 </div>
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=3R297Ws7uR8" frameborder="0" allowfullscreen></iframe></center>
+<iframe src="https://www.youtube.com/embed/3R297Ws7uR8?si=eTRjaMdbJYaCzDWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We all use cryptography in our daily lives. The security of the most popular Public-Key Cryptosystems are based either on the hardness of factoring or the presumed intractability of the discrete logarithm problem. Advances on these problems or the construction of large quantum computers would dramatically change the landscape: Code-Based Cryptography is a powerful and promising alternative.
 

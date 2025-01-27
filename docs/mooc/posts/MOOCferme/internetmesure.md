@@ -4,12 +4,13 @@ date: 2016-01-01
 ---
 <div class="post-header">
     <div>
+ <img src="./images/pbioinformatic.png" alt="  ">
         Apprenez les bases des mesures de l'internet avec ce MOOC pratique, où vous explorerez la topologie des réseaux, la latence, la bande passante et bien plus à travers des expérimentations réelles sur la plateforme PlanetLab Europe.
         <!-- more -->
     </div>
 </div>
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=De0CI9r1-r4" frameborder="0" allowfullscreen></iframe></center>
+<iframe src="https://www.youtube.com/embed/De0CI9r1-r4?si=6K16Tlg5ahwzEqxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Le MOOC « Internet Measurements: a Hands-on Introduction » est enseigné par Timur Friedman de l’UPMC et Renata Teixeira d’Inria.
 

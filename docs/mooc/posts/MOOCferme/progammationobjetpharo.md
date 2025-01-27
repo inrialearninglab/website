@@ -8,9 +8,7 @@ date: 2019-01-01
         <!-- more -->
     </div>
 </div>
-
-
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=KDvNuOjdjY4" frameborder="0" allowfullscreen></iframe></center>
+<iframe src="https://www.youtube.com/embed/KDvNuOjdjY4?si=88tynHVz-TtxGcog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## A travers ce MOOC :
 

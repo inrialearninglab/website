@@ -9,6 +9,7 @@ date: 2020-04-07
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/er6MxgHOr4I?si=Nx3XwS4VwL7Ju3JO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 L’IA vous fait peur ? Vous en entendez parler à toutes les sauces ? Les humains seraient bons pour la casse ? Mais c’est quoi l’intelligence (artificielle) au fait ?
 

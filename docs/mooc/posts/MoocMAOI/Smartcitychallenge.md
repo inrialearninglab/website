@@ -9,8 +9,13 @@ date: 2019-09-04
     </div>
 </div>
 
-<center><iframe width="640" height="360" src="https://www.dailymotion.com/video/x75zr56" frameborder="0" allowfullscreen></iframe></center>
-
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://geo.dailymotion.com/player.html?video=x75zr56"
+    allowfullscreen
+    title="Dailymotion Video Player"
+    allow="web-share">
+  </iframe>
+</div>
 Starting on June 24, 2019 for a period of one year, the Mooc “Technological challenges of participatory smart cities” presents the technological architecture required for Smart Cities and prepares cities and companies for a comprehensive and interoperable approach.
 
 The course is a high level introduction to the constituents of the smart cities’ digital infrastructures, from the network up to the software layers. The proposed survey highlights the technical aspects to be taken into account to create practical services and to develop smarter cities involving citizen participation. In particular, it imparts information on privacy and interoperability aspects.

@@ -4,16 +4,15 @@ date: 2016-08-04
 ---
 
 <div class="post-header">
-    <img src="./images/paccesnum.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Dans un monde où le numérique est omniprésent, garantir l'accessibilité pour tous est une nécessité, et non une option. Ce cours vous offre les clés pour comprendre, concevoir et développer des systèmes numériques inclusifs, accessibles à tous, quelle que soit leur situation.
         <!-- more -->
     </div>
 </div>
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=33JLFhyMbJQ" frameborder="0" allowfullscreen></iframe></center>
+<iframe src="https://www.youtube.com/embed/33JLFhyMbJQ?si=v1ZRdshIP5kI4_b2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-e cours est enseigné par Pascal Guitton, professeur d’informatique à l’université de Bordeaux et membre de l’équipe de recherche Potioc (Inria, Université de Bordeaux, CNRS) et Hélène Sauzéon professeure de psychologie et de sciences cognitives à l’université de Bordeaux et membre de l’équipe de recherche Phoenix (Inria, Université de Bordeaux, CNRS).
+Ce cours est enseigné par Pascal Guitton, professeur d’informatique à l’université de Bordeaux et membre de l’équipe de recherche Potioc (Inria, Université de Bordeaux, CNRS) et Hélène Sauzéon professeure de psychologie et de sciences cognitives à l’université de Bordeaux et membre de l’équipe de recherche Phoenix (Inria, Université de Bordeaux, CNRS).
 
 ## Objectifs
 Ce cours généraliste d’introduction à l’accessibilité numérique est articulé autour de cinq axes principaux :

@@ -9,6 +9,7 @@ date: 2019-03-15
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/K6hj819Sezc?si=TvkZftg3oMnx28Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Parmi ses nombreuses évolutions, le Web est devenu un moyen pour les applications d’échanger des données. Chaque jour, nous consommons et produisons ces données à travers une variété d’applications qui fonctionnent sur une variété de dispositifs. Cette évolution majeure du Web s’applique à tous les domaines d’activité.
 ## Contenu :

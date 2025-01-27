@@ -9,6 +9,8 @@ date: 2021-12-13
     </div>
 </div>
 
+
+
 Apprendre à enseigner l’informatique au secondaire supérieur en rejoignant une communauté de pratique, d’entraide et de partage, y compris pour se préparer au concours du CAPES en France.
 ## Description
 

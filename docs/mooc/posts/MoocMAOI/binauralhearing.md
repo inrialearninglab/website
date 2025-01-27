@@ -9,8 +9,7 @@ date: 2015-03-14
     </div>
 </div>
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=c0YQRh0oUrM" frameborder="0" allowfullscreen></iframe></center>
-
+<iframe src="https://www.youtube.com/embed/c0YQRh0oUrM?si=lbjlb1Km_dCy-w_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This MOOC was created by Inria’s MoocLab, as part of the uTOP project ( http://utop.fr/ – http://utop.inria.fr/). uTOP is an IDEFI project that aims to create a demonstrator for increasing research visibility through out training.
 

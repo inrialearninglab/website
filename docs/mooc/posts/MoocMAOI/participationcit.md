@@ -3,14 +3,13 @@ title: Participation citoyenne méthodes
 date: 2016-08-04
 ---
 <div class="post-header">
-    <img src="./images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Comment amplifier l'impact de la participation citoyenne ? Ce MOOC vous enseigne les méthodes et outils pour concevoir des processus participatifs efficaces, en ligne et en présentiel, et ainsi maximiser l'engagement des citoyens-usagers dans vos projets.
         <!-- more -->
     </div>
 </div>
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=Y0YSrQaXGGs" frameborder="0" allowfullscreen></iframe></center>
+<iframe src="https://www.youtube.com/embed/Y0YSrQaXGGs?si=nCi1DKg9Dm4QRTvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Apprenez à amplifier l’impact de la participation des citoyens-usagers
 Vous êtes en charge de processus de participation citoyenne dans une collectivité territoriale ? Vous travaillez dans une entreprise et souhaitez valider des hypothèses pour la définition d’un produit ou service ? Ou tout simplement vous vous intéressez aux principes de la participation citoyenne ?

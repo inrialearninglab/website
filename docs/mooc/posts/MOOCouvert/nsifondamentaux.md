@@ -9,6 +9,8 @@ date: 2024-03-24
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/9JVc36YL9vQ?si=NlKW1qFicc1EB-xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Pour apprendre les fondamentaux nécessaires à l’enseignement de l’informatique au secondaire supérieur et, au delà, pour aller vers les métiers de l’informatique !
 
 Ce MOOC, qui permet d’acquérir les bases théoriques dans tous les champs de l’informatique, s’inscrit dans un parcours de formation complet théorique et pratique dédié à l’enseignement de l’informatique au niveau du secondaire supérieur. En France, cela permet, non seulement de se préparer à enseigner au lycée, mais aussi de préparer  le concours du CAPES Informatique pour envisager l’enseignement de l’informatique au niveau du secondaire supérieur.

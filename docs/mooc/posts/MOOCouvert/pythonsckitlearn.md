@@ -9,6 +9,8 @@ date: 2018-09-04
     </div>
 </div>
 
+<iframe src="https://www.youtube.com/embed/ZHUU9ppmOq8?si=13e8X6w7uxSSyMDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Construire des modèles prédictifs avec scikit-learn et acquérir une compréhension pratique des forces et limites de l’apprentissage automatique !
 
 Avec ce cours disponible en anglais uniquement et gratuit, vous apprendrez les bases de l’apprentissage automatique et comment utiliser la bibliothèque Python scikit-learn.

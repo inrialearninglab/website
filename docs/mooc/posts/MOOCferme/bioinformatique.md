@@ -5,13 +5,12 @@ date: 2019-01-01
 
 <div class="post-header">
     <div>
-    <img src="./images/babadata.png" alt="Carré représentant des datas entre crochet sur fond blanc">
         Découvrez l'analyse des génomes et l'informatique avec ce MOOC interactif, où vous apprendrez à appliquer des algorithmes sur des séquences génétiques et à exécuter des programmes en Python pour explorer des données réelles
         <!-- more -->
     </div>
 </div>
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/watch?v=RKQdFuBPrtI" frameborder="0" allowfullscreen></iframe></center>
+<iframe src="https://www.youtube.com/embed/RKQdFuBPrtI?si=9RAY5U6jeMfk5Ynz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Le MOOC Inria-uTOP Bioinformatique : génomes et algorithmes sera bientôt à nouveau disponible sur la plateforme France Université Numérique et ouvert pour une durée d’un an. Dans ce cours animé par François Rechenmann et Thierry Parmentelat (Inria), vous découvrirez comment l’informatique contribue à l’interprétation du «texte» des génomes.
 
