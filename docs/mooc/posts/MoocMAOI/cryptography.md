@@ -3,7 +3,7 @@ title: Code-based Cryptography
 date: 2015-03-16
 ---
 <div class="post-header">
-    <img src="./images/pcrypto.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/pcrypto.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Explore the future of secure communication with Code-Based Cryptography! This MOOC provides a comprehensive introduction to the cryptosystems built on error-correcting codes, covering their security, key attacks, and cryptographic constructions. Perfect for students and researchers in mathematics, computer science, and cryptography.
         <!-- more -->

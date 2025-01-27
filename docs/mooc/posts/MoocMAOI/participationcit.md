@@ -3,7 +3,7 @@ title: Participation citoyenne méthodes
 date: 2016-08-04
 ---
 <div class="post-header">
-    <img src="./images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Comment amplifier l'impact de la participation citoyenne ? Ce MOOC vous enseigne les méthodes et outils pour concevoir des processus participatifs efficaces, en ligne et en présentiel, et ainsi maximiser l'engagement des citoyens-usagers dans vos projets.
         <!-- more -->
