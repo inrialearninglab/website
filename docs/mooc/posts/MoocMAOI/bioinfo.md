@@ -1,6 +1,7 @@
 ---
 title: Bioinformatics, Genomes and Algorithms
 date: 2015-11-02
+categories: ['MAOI']
 ---
 <div class="post-header">
     <img src="/site-ll/assets/images/pbioinformatic.png" alt="Naming a fork on GitHub - screen caption of GitHub">

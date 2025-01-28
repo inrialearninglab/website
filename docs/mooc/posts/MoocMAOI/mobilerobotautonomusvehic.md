@@ -1,9 +1,10 @@
 ---
 title: Mobile Robots and Autonomous Vehicles
 date: 2015-03-15
+categories: ['MAOI']
 ---
 <div class="post-header">
-    <img src="./images/pmobilerobot.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/mobilerobot.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         The objective of this course is to introduce the key concepts required to program mobile robots and autonomous vehicles**. The course presents both formal and algorithmic tools, and for its last week’s topics (behavior modeling and learning), it will also provide **realistic examples and programming exercises in Python.
         <!-- more -->

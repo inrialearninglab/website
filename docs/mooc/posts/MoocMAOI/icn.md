@@ -1,6 +1,7 @@
 ---
 title: ICN (Informatique et Création Numérique)
 date: 2019-03-15
+categories: ['MAOI']
 ---
 <div class="post-header">
     <img src="/site-ll/assets/images/picn.png" alt="Naming a fork on GitHub - screen caption of GitHub">

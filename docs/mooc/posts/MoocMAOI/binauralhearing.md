@@ -1,8 +1,10 @@
 ---
 title: Binaural hearing for robots
 date: 2015-03-14
+categories: ['MAOI']
 ---
 <div class="post-header">
+    <img src="/site-ll/assets/images/phearingrobot.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         This course describes the computational principles of binaural hearing; how these principles could be implemented on a robot head and how they could lead towards robust interaction capabilities.
         <!-- more -->

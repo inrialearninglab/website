@@ -1,8 +1,10 @@
 ---
 title: Smart cities Take up the challenges of cities in the digital era
 date: 2019-09-04
+categories: ['MAOI']
 ---
 <div class="post-header">
+    <img src="/site-ll/assets/images/pvilleintel.jpg" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         How can we design and deploy smarter, more participatory cities? This MOOC offers a comprehensive introduction to the digital infrastructures behind smart cities, helping cities and businesses navigate the technological, societal, and privacy challenges of building a more connected urban environment.
         <!-- more -->
