@@ -4,7 +4,10 @@ site_url: https://learninglab.gitlabpages.inria.fr/site-ll
 use_directory_urls: false
 extra_css:
     - stylesheets/extra.css
+hooks:
+    - overrides/.hooks/blogs.py
 plugins:
+    - awesome-pages
     - blog:
           blog_dir: blog
     - blog:
@@ -18,7 +21,15 @@ plugins:
           post_url_format: "{slug}"
           archive: false
     - search
-    - awesome-pages
+    - i18n:
+          languages:
+              - locale: fr
+                default: true
+                name: Français
+                build: true
+              - locale: en
+                name: English
+                build: true
 markdown_extensions:
     - pymdownx.superfences
     - pymdownx.tabbed:
