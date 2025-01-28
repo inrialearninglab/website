@@ -1,8 +1,10 @@
 ---
 title: Programmation objet immersive en Pharo 
 date: 2019-01-01
+categories: ['Fermé']
 ---
 <div class="post-header">
+    <img src="/site-ll/assets/images/ppharoprogramimme.png" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Apprenez à programmer en Pharo et explorez l'objet sous un nouveau jour ! Ce MOOC vous guide, quel que soit votre niveau, dans la création d'applications web et la compréhension des principes de la programmation orientée objet avec Pharo, en proposant des ressources adaptées à chaque profil.
         <!-- more -->
