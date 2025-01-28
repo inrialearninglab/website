@@ -24,28 +24,34 @@ markdown_extensions:
     - pymdownx.tabbed:
           alternate_style: true
 theme:
+    logo: assets/logo/ill-logo.png
     name: material
     language: fr
     features:
         - navigation.tabs
         - navigation.tabs.sticky
     palette:
-        # Palette toggle for automatic mode
-        - media: "(prefers-color-scheme)"
-          toggle:
-              icon: material/brightness-auto
-              name: Switch to light mode
-
-        # Palette toggle for light mode
-        - media: "(prefers-color-scheme: light)"
-          scheme: default
+        - scheme: default
+          primary: custom
+          accent: amber
           toggle:
               icon: material/brightness-7
               name: Switch to dark mode
-
-        # Palette toggle for dark mode
-        - media: "(prefers-color-scheme: dark)"
-          scheme: slate
+        - scheme: slate
+          primary: custom
+          accent: amber
           toggle:
               icon: material/brightness-4
-              name: Switch to system preference
+              name: Switch to light mode
+
+copyright: '
+    <div style="display:flex;justify-content:center;align-items:center;gap:1rem">
+    <a href="https://inria.fr/fr">
+    <img alt="logo Inria" src="/site-ll/assets/logo/inria-logo.svg" style="width: 150px;height: auto;border-radius: 4px">
+    </a>
+    <a href="mailto:ill-contact@inria.fr" style="display:flex;align-items:center;gap:.3rem;font-size:.7rem">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+    ill-contact@inria.fr
+    </a>
+    </div>
+    '
