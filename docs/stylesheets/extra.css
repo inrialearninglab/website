@@ -41,18 +41,11 @@ header .md-tabs__item--active {
 }
 
 .md-content--post .post-header {
-    flex-direction: column;
+    display: none;
 }
 
 .post-header > img {
     height: 150px;
-}
-
-.md-content--post .post-header > img {
-    height: auto;
-    width: fit-content;
-    max-height: 20rem;
-    margin: 0 auto 1rem auto;
 }
 
 iframe {
