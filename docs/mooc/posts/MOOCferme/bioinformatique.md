@@ -5,7 +5,7 @@ categories: ['Fermé']
 ---
 
 <div class="post-header">
-    <img src="/site-ll/assets/images/pbioinformatic.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/pbioinformatic.png" alt="Vignette du cours Bioinformatique">
     <div>
         Découvrez l'analyse des génomes et l'informatique avec ce MOOC interactif, où vous apprendrez à appliquer des algorithmes sur des séquences génétiques et à exécuter des programmes en Python pour explorer des données réelles
         <!-- more -->

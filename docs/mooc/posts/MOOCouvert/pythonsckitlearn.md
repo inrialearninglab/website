@@ -1,8 +1,10 @@
 ---
 title: Machine learning in Python with scikit-learn
 date: 2018-09-04
+categories: ['Ouvert']
 ---
 <div class="post-header">
+    <img src="/site-ll/assets/images/pscikitlearn.jpg" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Comment construire des modèles prédictifs performants avec scikit-learn ? Ce MOOC pratique vous initie à l’apprentissage automatique, des bases théoriques à la mise en œuvre, grâce à des exemples concrets et des exercices en Python.
         <!-- more -->

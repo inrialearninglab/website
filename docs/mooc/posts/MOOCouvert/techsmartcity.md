@@ -1,8 +1,10 @@
 ---
 title: Défis technologiques des villes intelligentes participatives 
 date: 2015-10-06
+categories: ['Ouvert']
 ---
 <div class="post-header">
+    <img src="/site-ll/assets/images/pvilleintel.jpg" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Comment les technologies numériques façonnent-elles les villes de demain ? Ce MOOC explore les infrastructures des villes intelligentes en mettant l’accent sur l’implication citoyenne, combinant défis technologiques et enjeux sociétaux pour construire des espaces urbains connectés et inclusifs.
         <!-- more -->

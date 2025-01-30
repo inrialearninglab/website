@@ -1,8 +1,10 @@
 ---
 title: Intelligence Artificielle pour et par les enseignants
 date: 2023-12-01
+categories: ['Ouvert']
 ---
 <div class="post-header">
+    <img src="/site-ll/assets/images/pvilleintel.jpg" alt="Naming a fork on GitHub - screen caption of GitHub">
     <div>
         Intelligence Artificielle pour et par les enseignants : Découvrez comment l'IA transforme l'éducation, explorez ses applications et ses limites, et apprenez à l'intégrer dans votre pratique pédagogique. Un MOOC essentiel pour tous les acteurs de l'éducation.
         <!-- more -->

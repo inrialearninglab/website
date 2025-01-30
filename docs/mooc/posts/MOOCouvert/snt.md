@@ -1,8 +1,11 @@
 ---
 title: S’initier à l’enseignement en Sciences Numériques et Technologie
 date: 2022-01-19
+categories: ['Ouvert']
 ---
 <div class="post-header">
+    <img src="/site-ll/assets/images/psnt.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+
     <div>
         Comment enseigner les Sciences Numériques et Technologie au lycée ? Ce MOOC offre des ressources clés, des savoirs pratiques et un espace d’entraide pour accompagner les enseignants dans ce nouvel enseignement.
         <!-- more -->

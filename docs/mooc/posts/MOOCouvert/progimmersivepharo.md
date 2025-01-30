@@ -1,6 +1,7 @@
 ---
 title: Programmation objet immersive en Pharo
 date: 2020-10-14
+categories: ['Ouvert']
 ---
 <div class="post-header">
     <div>
