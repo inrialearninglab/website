@@ -1,5 +1,8 @@
 ---
 title: "A Propos"
+hide:
+    - navigation
+    - toc
 ---
 ## A propos de nous…
 Créé en juin 2016, Inria Learning Lab a pour ambition de faire de l’éducation numérique un enjeu de recherche majeur et de fédérer l’ensemble des équipes de recherche [Inria](https://www.inria.fr/fr) qui abordent ces thématiques. Les missions d’Inria learning Lab sont de :
