@@ -1,6 +1,8 @@
 ---
 title: Internet des objets et vie privée
 date: 2017-01-01
+categories:
+    - fr
 ---
 
 <div class="post-header">
@@ -9,7 +11,7 @@ date: 2017-01-01
         💡🔒 Découvrez comment préserver votre vie privée dans un monde d'objets connectés ! Ce parcours vous guide pas à pas pour comprendre les enjeux des données personnelles et adopter des pratiques sécurisées au quotidien. 🏡🤖 </p>
         <!-- more -->
     </div>
-</div> 
+</div>
 
 Internet des objets et vie privée est une formation ePoc dédiée à explorer les enjeux de la vie privée dans l’univers des objets connectés, et plus spécifiquement dans le contexte de la maison intelligente. Ce parcours vous invite à mieux comprendre les défis de la protection des données dans un environnement numérique de plus en plus omniprésent.
 
@@ -29,19 +31,19 @@ Modules :
 
 •	Introduction : Un pas de plus vers un monde entièrement numérique
 
-•	Module 1 : Les réseaux utilisés par les objets connectés 
+•	Module 1 : Les réseaux utilisés par les objets connectés
 Comprendre les protocoles de communication utilisés par les objets intelligents.
 
-•	Module 2 : Exemples dans le domaine de la maison intelligente 
+•	Module 2 : Exemples dans le domaine de la maison intelligente
 Présentation d'exemples concrets d'objets connectés dans nos foyers.
 
-•	Module 3 : Les acteurs, leurs motivations et la vie privée 
+•	Module 3 : Les acteurs, leurs motivations et la vie privée
 Qui sont les acteurs du marché et comment leurs intérêts affectent la vie privée des utilisateurs ?
 
-•	Module 4 : Cas d’étude : Analyse des ampoules connectées 
+•	Module 4 : Cas d’étude : Analyse des ampoules connectées
 Un zoom sur les ampoules intelligentes, leurs avantages et leurs risques pour la confidentialité.
 
-•	Module 5 :Que faire ? Analyse des chartes de vie privée et solutions alternatives 
+•	Module 5 :Que faire ? Analyse des chartes de vie privée et solutions alternatives
 Comment lire et interpréter les politiques de confidentialité, et quelles sont les alternatives pour protéger vos données ?
 
 •	Conclusion : Résumé des bonnes pratiques pour naviguer dans l'univers des objets connectés en toute sécurité.
@@ -54,4 +56,4 @@ La formation Internet des objets et vie privée est pensée pour être accessibl
 
 •	Modules : chaque module dure entre 3 et 9 minutes
 
-Cet ePoc a été développé par Inria 
+Cet ePoc a été développé par Inria

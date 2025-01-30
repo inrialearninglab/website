@@ -1,6 +1,8 @@
 ---
 title: Bases de données relationnelles - Comprendre pour maîtriser
 date: 2015-06-15
+tags:
+    - fr
 ---
 <div class="post-header">
     <div>
