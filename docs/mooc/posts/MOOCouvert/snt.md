@@ -4,8 +4,7 @@ date: 2022-01-19
 categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/psnt.png" alt="Naming a fork on GitHub - screen caption of GitHub">
-
+    <img src="/site-ll/assets/images/psnt.png" alt="Vignette illustration du MOOC S’initier à l’enseignement en Sciences Numériques et Technologie">
     <div>
         Comment enseigner les Sciences Numériques et Technologie au lycée ? Ce MOOC offre des ressources clés, des savoirs pratiques et un espace d’entraide pour accompagner les enseignants dans ce nouvel enseignement.
         <!-- more -->
@@ -34,4 +33,4 @@ Pour accéder à plus d’informations sur le programme du cours et vous inscrir
 Début du cours le 15 mars 2019.
 
 
-Ce cours est proposé par [Inria](https://www.inria.fr/fr) en collaboration avec de nombreux contributeurs, avec le soutien du [Ministère de l’Education Nationale et de la Jeunesse](https://www.education.gouv.fr) et en partenariat avec [Class’ Code](https://pixees.fr/classcode-v2/).
+Ce cours est proposé par [Inria](https://www.inria.fr/fr) en collaboration avec de nombreux contributeurs, et avec le soutien du [Ministère de l’Education Nationale et de la Jeunesse](https://www.education.gouv.fr) et en partenariat avec [Class’ Code](https://pixees.fr/classcode-v2/).

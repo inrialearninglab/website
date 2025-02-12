@@ -1,10 +1,10 @@
 ---
-title: Internet Measurements a Hands-on Introduction
+title: Internet Measurements - A Hands-on Introduction
 date: 2016-01-01
 categories: ['Fermé']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/piotmesure.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/piotmesure.png" alt="Vignette illustration du MOOC Internet Measurements - A Hands-on Introduction">
     <div>
         Apprenez les bases des mesures de l'internet avec ce MOOC pratique, où vous explorerez la topologie des réseaux, la latence, la bande passante et bien plus à travers des expérimentations réelles sur la plateforme PlanetLab Europe.
         <!-- more -->

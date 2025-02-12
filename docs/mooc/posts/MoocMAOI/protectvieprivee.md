@@ -4,7 +4,7 @@ date: 2017-01-01
 categories: ['MAOI']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/pprotectvieprivee.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/pprotectvieprivee.png" alt="Vignette illustration du MOOC Protection de la vie privée dans le monde numérique">
     <div>
         Comment protéger sa vie privée à l'ère du numérique ? Ce MOOC vous guide à travers la compréhension de vos données personnelles, vos droits en matière de confidentialité et les bonnes pratiques pour sécuriser votre présence en ligne.
         <!-- more -->

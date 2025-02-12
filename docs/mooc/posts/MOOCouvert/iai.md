@@ -4,7 +4,7 @@ date: 2020-04-07
 categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/photoiai.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/photoiai.png" alt="Vignette illustration du MOOC L’Intelligence Artificielle avec Intelligence">
     <div>
         Class'Code IAI : Décryptez l'Intelligence Artificielle, explorez ses concepts et manipulez des programmes pour mieux comprendre et discuter de son impact. Un MOOC accessible à tous, de 7 à 107 ans, pour une immersion citoyenne dans l'IA.
         <!-- more -->

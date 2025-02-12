@@ -1,10 +1,10 @@
 ---
-title: Numérique et Sciences Informatiques les fondamentaux
+title: Numérique et Sciences Informatiques - Les fondamentaux
 date: 2024-03-24
 categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/pnsifonda.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/pnsifonda.png" alt="Vignette illustration du MOOC Numérique et Sciences Informatiques - Les fondamentaux">
     <div>
         Comment enseigner l’informatique au secondaire et se préparer aux métiers du numérique ? Ce MOOC vous guide à travers les bases théoriques et pratiques nécessaires pour enseigner l’informatique.
         <!-- more -->

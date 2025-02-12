@@ -1,10 +1,10 @@
 ---
-title: Recherche reproductible
+title: Recherche reproductible - Principes méthodologiques pour une science transparente
 date: 2018-09-04
 categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/prr.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/prr.png" alt="Vignette illustration du MOOC Recherche reproductible - Principes méthodologiques pour une science transparente">
     <div>
         Comment garantir la transparence et la fiabilité de vos travaux scientifiques ? Ce MOOC explore les principes et outils de la recherche reproductible, essentiels pour une science ouverte et rigoureuse, adaptée à toutes les disciplines.
         <!-- more -->

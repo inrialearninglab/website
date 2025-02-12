@@ -1,11 +1,11 @@
 ---
-title: Accesibilité numérique
+title: Accessibilité numérique
 date: 2016-08-04
 categories: ['MAOI']
 ---
 
 <div class="post-header">
-    <img src="/site-ll/assets/images/paccesnum.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/paccesnum.png" alt="Vignette illustration du MOOC Accessibilité numérique">
     <div>
         Dans un monde où le numérique est omniprésent, garantir l'accessibilité pour tous est une nécessité, et non une option. Ce cours vous offre les clés pour comprendre, concevoir et développer des systèmes numériques inclusifs, accessibles à tous, quelle que soit leur situation.
         <!-- more -->

@@ -3,8 +3,9 @@ title: Introduction to a Web of Linked Data
 date: 2019-03-15
 categories: ['Ouvert']
 ---
+
 <div class="post-header">
-    <img src="/site-ll/assets/images/pweblinkdata.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/pweblinkdata.png" alt="Vignette illustration du MOOC Introduction to a Web of Linked Data">
     <div>
         Le Web est bien plus qu'un réseau de pages : c'est un espace d'information interconnecté où les données prennent tout leur sens. Ce cours vous guide pas à pas à travers les principes des données liées, les standards essentiels comme RDF et SPARQL, et les outils pour intégrer et échanger des données sur le Web
         <!-- more -->

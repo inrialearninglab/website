@@ -1,10 +1,10 @@
 ---
-title: Le robot Thymio comme outil de découverte des sciences du numérique!
+title: Le robot Thymio comme outil de découverte des sciences du numérique
 date: 2023-06-01
 categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/pthymi.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/pthymi.png" alt="Vignette illustration du MOOC Le robot Thymio comme outil de découverte des sciences du numérique">
     <div>
         Comment maîtriser le robot Thymio et l’utiliser en classe ? Ce MOOC propose une exploration complète, de la robotique et la programmation à leur mise en pratique pédagogique, pour accompagner enseignants et passionnés du numérique.
         <!-- more -->

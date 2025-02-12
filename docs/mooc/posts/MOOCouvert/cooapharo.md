@@ -1,10 +1,10 @@
 ---
-title: Conception Orientée Objet Avancée 
+title: Advanced object oriented design and development with Pharo 
 date: 2024-06-19
 categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/pcoopharo.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/pcoopharo.png" alt="Vignette illustration du MOOC Advanced object oriented design and development with Pharo">
     <div>
         Comment maîtriser les concepts avancés de la programmation orientée objet ? Ce MOOC vous plonge dans les principes fondamentaux et avancés de la conception orientée objet, avec des vidéos explicatives et des exercices pratiques pour renforcer vos compétences en programmation.
         <!-- more -->

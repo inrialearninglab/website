@@ -4,7 +4,7 @@ date: 2021-11-27
 categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/pimpactnum.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/pimpactnum.png" alt="Vignette illustration du MOOC Impacts environnementaux du numérique">
     <div>
         Impact Num : Explorez les impacts environnementaux du numérique, apprenez à mesurer, comprendre et agir pour un numérique plus responsable. Un MOOC interactif pour devenir un citoyen conscient dans le monde numérique."
         <!-- more -->

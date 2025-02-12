@@ -1,10 +1,10 @@
 ---
-title: ICN (Informatique et Création Numérique)
+title: Informatique et Création Numérique
 date: 2019-03-15
 categories: ['MAOI']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/picn.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/picn.png" alt="Vignette illustration du MOOC Informatique et Création Numérique">
     <div>
         Comment enseigner l'informatique et la création numérique au lycée ? Ce MOOC vous guide à travers les fondamentaux de l'option I.C.N., en fournissant les outils, ressources et compétences nécessaires pour accompagner les élèves dans leurs projets de création numérique et les préparer à être acteurs du monde numérique.
         <!-- more -->

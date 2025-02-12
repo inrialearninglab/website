@@ -4,7 +4,7 @@ date: 2023-12-01
 categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/pai4t.png" alt="Vignette illustration du mooc AI4T">
+    <img src="/site-ll/assets/images/pai4t.png" alt="Vignette illustration du MOOC Intelligence Artificielle pour et par les enseignants">
     <div>
         Explorer et soutenir l'utilisation éclairée de l'IA dans l'éducation. <br/>Ce MOOC a pour objectif d’aider les enseignants et la communauté éducative dans son ensemble à acquérir une compréhension générale sur l'IA - ses usages, ses technologies et ses limites, et à les accompagner vers un usage éclairé des outils basés sur l'IA dans le contexte de l'Éducation.
         <!-- more -->

@@ -3,14 +3,16 @@ title: Programmation objet immersive en Pharo
 date: 2020-10-14
 categories: ['Ouvert']
 ---
+
 <div class="post-header">
+    <img src="/site-ll/assets/images/ppharoprogramimme.png" alt="Vignette illustration du MOOC Programmation objet immersive en Pharo">
     <div>
         Envie de repenser la programmation orientée objet ? Ce MOOC vous plonge dans l’univers vivant de Pharo : découvrez ses fondamentaux, développez une application web, et explorez une nouvelle vision de la programmation immersive.
         <!-- more -->
     </div>
 </div>
 
-
+<iframe src="https://www.youtube.com/embed/-z83bmzRATM?si=GaYz9kAKVJWLrGOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Que vous soyez débutant ou expert en programmation orientée objet, ce MOOC va changer votre façon de penser objet : venez apprendre ou redécouvrir la programmation objet grâce à Pharo !
 

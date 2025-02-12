@@ -4,7 +4,7 @@ date: 2016-08-04
 categories: ['MAOI']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/ppartcit.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/ppartcit.png" alt="Vignette illustration du MOOC Participation citoyenne méthodes et civic tech">
     <div>
         Apprenez à amplifier l’impact de la participation des citoyens-usagers. <br>Ce MOOC enseigne les méthodes et outils pour concevoir des processus participatifs efficaces, en ligne ou en présentiel, et ainsi maximiser l'engagement des citoyens-usagers dans vos projets.
         <!-- more -->

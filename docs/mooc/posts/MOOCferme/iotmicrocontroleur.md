@@ -4,7 +4,7 @@ date: 2020-01-04
 categories: ['Fermé']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/piot.png" alt="Naming a fork on GitHub - screen caption of GitHub">
+    <img src="/site-ll/assets/images/piot.png" alt="Vignette illustration du MOOC L’Internet des Objets sur microcontrôleurs par la pratique">
     <div>
 Découvrez comment développer des applications IoT de l’objet au cloud grâce à ce MOOC complet, mêlant théorie, pratiques interactives et exploration de la plateforme FIT IoT-Lab, idéal pour ingénieur·e·s, étudiant·e·s ou makers passionnés.        <!-- more -->
     </div>
