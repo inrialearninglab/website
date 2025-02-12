@@ -1,7 +1,7 @@
 ---
 title: Introduction to a Web of Linked Data
 date: 2019-03-15
-categories: ['Ouvert']
+categories: ['MAOI']
 ---
 
 <div class="post-header">

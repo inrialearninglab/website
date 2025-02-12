@@ -1,10 +1,10 @@
 ---
-title: Python - Des fondamentaux à l’utilisation du langage
+title: Python - Des fondamentaux aux concepts avancés du langage
 date: 2014-11-08
-categories: ['Fermé']
+categories: ['Ouvert']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/ppythonfond.png" alt=""Vignette illustration du MOOC Python - Des fondamentaux à l’utilisation du langage">
+    <img src="/site-ll/assets/images/ppythonfond.png" alt=""Vignette illustration du MOOC Python - Des fondamentaux aux concepts avancés du langage">
     <div>
         Apprenez à maîtriser Python, de l'initiation aux concepts avancés ! Ce MOOC propose un parcours complet en 7 semaines, avec des vidéos, des exercices pratiques et des mini-projets pour devenir un expert en programmation Python. Enseigné par Arnaud Legout et Thierry Parmentelat d'Inria.
         <!-- more -->

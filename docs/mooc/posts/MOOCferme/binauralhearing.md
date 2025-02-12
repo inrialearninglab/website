@@ -1,7 +1,7 @@
 ---
 title: Binaural hearing for robots
 date: 2015-03-14
-categories: ['MAOI']
+categories: ['Fermé']
 ---
 <div class="post-header">
     <img src="/site-ll/assets/images/phearingrobot.png" alt="Vignette illustration du MOOC Binaural hearing for robots">

@@ -4,7 +4,7 @@ date: 2015-06-15
 categories: ['Fermé']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/pbbrelationel.png" alt="Vignette illustration du MOOC Bases de données relationnelles - Comprendre pour maîtriser"
+    <img src="/site-ll/assets/images/pbbrelationel.png" alt="Vignette illustration du MOOC Bases de données relationnelles - Comprendre pour maîtriser">
     <div>
         Maîtrisez les bases de données relationnelles avec ce MOOC, où vous apprendrez à comprendre leur fonctionnement, à résoudre des problèmes de performance et à exploiter ces systèmes efficacement pour vos projets professionnels et scientifiques
         <!-- more -->

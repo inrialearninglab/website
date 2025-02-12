@@ -1,7 +1,7 @@
 ---
 title: Bioinformatics, Genomes and Algorithms
 date: 2015-11-02
-categories: ['MAOI']
+categories: ['Fermé']
 ---
 <div class="post-header">
     <img src="/site-ll/assets/images/pbioinformatic-en.png" alt="Vignette illustration du MOOC Bioinformatics, Genomes and Algorithms">

@@ -1,7 +1,7 @@
 ---
 title: Le robot Thymio comme outil de découverte des sciences du numérique
 date: 2023-06-01
-categories: ['Ouvert']
+categories: ['MAOI']
 ---
 <div class="post-header">
     <img src="/site-ll/assets/images/pthymi.png" alt="Vignette illustration du MOOC Le robot Thymio comme outil de découverte des sciences du numérique">

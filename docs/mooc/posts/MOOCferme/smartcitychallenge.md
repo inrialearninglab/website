@@ -1,23 +1,18 @@
 ---
 title: Technological challenges of participatory smart cities
 date: 2019-09-04
-categories: ['MAOI']
+categories: ['Fermé']
 ---
 <div class="post-header">
-    <img src="/site-ll/assets/images/pvilleintel.jpg" alt="Vignette illustration du MOOC Technological challenges of participatory smart cities">
+    <img src="/site-ll/assets/images/pvillinteen.png" alt="Vignette illustration du MOOC Technological challenges of participatory smart cities">
     <div>
         How can we design and deploy smarter, more participatory cities? This MOOC offers a comprehensive introduction to the digital infrastructures behind smart cities, helping cities and businesses navigate the technological, societal, and privacy challenges of building a more connected urban environment.
         <!-- more -->
     </div>
 </div>
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="https://geo.dailymotion.com/player.html?video=x75zr56"
-    allowfullscreen
-    title="Dailymotion Video Player"
-    allow="web-share">
-  </iframe>
-</div>
+<iframe src="https://www.youtube.com/embed/0nnGPte_tck?si=srEjX6Q6jEhR0N0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Starting on June 24, 2019 for a period of one year, the Mooc “Technological challenges of participatory smart cities” presents the technological architecture required for Smart Cities and prepares cities and companies for a comprehensive and interoperable approach.
 
 The course is a high level introduction to the constituents of the smart cities’ digital infrastructures, from the network up to the software layers. The proposed survey highlights the technical aspects to be taken into account to create practical services and to develop smarter cities involving citizen participation. In particular, it imparts information on privacy and interoperability aspects.
