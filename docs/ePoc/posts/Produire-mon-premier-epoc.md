@@ -12,7 +12,8 @@ date: 2017-01-01
 
 <img src="./images/epoc-editor-scenario.png" alt="Vignette d'illustration de l'epoc intitulé Produire mon 1er ePoc">
 
-Le parcours de l'ePoc "Produire mon 1er ePoc" vous guide pas à pas pour la découverte, par la pratique sur ordinateur, de l'interface, de la création de contenus, du paramétrage puis d'export au format .epoc, prêt à être téléchargé et suivi sur l'application mobile. 
+Le parcours de l'ePoc "Produire mon 1er ePoc" vous guide pas à pas pour la découverte d'ePoc Editor, la Web application pour construire votre ePoc.  
+En suivant les étapes de l'ePoc "Produire mon 1er ePoc" sur votre mobile, vous pouvez en parallèle, avec ePoc Editor sur votre ordinateur, découvrir son interface, expérimenter la création de contenus, le paramétrage d'évaluation puis l'export de votre premier ePoc au format .epoc, prêt à être téléchargé et suivi sur l'application mobile. 
 
 ## Synopsis
 
@@ -25,7 +26,7 @@ Conçue comme un accompagnement structuré et ludique, l'apprenant est guidé pa
 
 ## Informations pratiques
 
-•	Télécharger ePoc Editor sur votre ordinateur (MacOS, Windows, Linux),  
-•	Suivre les modules de l'ePoc "Produire mon 1er ePoc" sur votre téléphone mobile tout en expérimentant les fonctionnalités présentées.  
+•	Télécharger [ePoc Editor](https://epoc.inria.fr/editor/) sur votre ordinateur (MacOS, Windows, Linux),  
+•	Suivre les modules de l'ePoc "[Produire mon 1er ePoc](https://epoc.inria.fr/epocs/)" sur votre téléphone mobile tout en expérimentant les fonctionnalités présentées.  
 •	Durée de l'apprentissage : 40 min (10 min par module)
 
