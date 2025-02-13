@@ -10,7 +10,10 @@ date: 2017-01-01
     </div>
 </div>
 
-Le parcours de l'ePoc "Produire mon 1er ePoc" sur votre téléphone à partir de l'application mobile vous guide pas à pas pour la découverte, par la pratique sur ordinateur, de l'interface, des fonctionnalités de création de contenus, des possibilités de paramétrage puis d'export au format .epoc, prêt à être téléchargé et suivi sur l'application mobile. 
+<img src="./images/epoc-editor-scenario.png" alt="Vignette d'illustration de l'epoc intitulé Produire mon 1er ePoc">
+
+Le parcours de l'ePoc "Produire mon 1er ePoc" vous guide pas à pas pour la découverte, par la pratique sur ordinateur, de l'interface, de la création de contenus, du paramétrage puis d'export au format .epoc, prêt à être téléchargé et suivi sur l'application mobile. 
+
 ## Synopsis
 
 Conçue comme un accompagnement structuré et ludique, l'apprenant est guidé pas à pas pour découvrir l'éditeur d'ePoc et expérimenter comment :
