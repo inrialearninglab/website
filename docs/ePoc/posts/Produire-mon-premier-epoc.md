@@ -12,7 +12,7 @@ date: 2017-01-01
 
 <img src="./images/epoc-editor-scenario.png" alt="Vignette d'illustration de l'epoc intitulé Produire mon 1er ePoc">
 
-Le parcours de l'ePoc "Produire mon 1er ePoc" vous guide pas à pas pour la découverte d'ePoc Editor, la Web application pour construire votre ePoc.  
+Le parcours de l'ePoc "Produire mon 1er ePoc" vous guide pas à pas pour la découverte d'ePoc Editor, l'application de bureau pour construire votre ePoc.  
 En suivant les étapes de l'ePoc "Produire mon 1er ePoc" sur votre mobile, vous pouvez en parallèle, avec ePoc Editor sur votre ordinateur, découvrir son interface, expérimenter la création de contenus, le paramétrage d'évaluation puis l'export de votre premier ePoc au format .epoc, prêt à être téléchargé et suivi sur l'application mobile. 
 
 ## Synopsis
