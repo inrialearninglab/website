@@ -36,5 +36,6 @@ La durée totale du cours est estimée entre 2 et 3 heures, en fonction du temps
 
 ## Informations utiles
 
+- Accès au MOOC [Intelligence Artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) sur la plateforme fun-mooc-fr
 - Date d'ouverture du MOOC: 16 novembre 2023
-
+- Mode de suivi du MOOC : Auto-rythmé
