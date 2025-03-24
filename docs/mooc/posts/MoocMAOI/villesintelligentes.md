@@ -11,7 +11,7 @@ categories: ['MAOI']
     </div>
 </div>
 
-<iframe src="https://www.youtube.com/embed/0nnGPte_tck?si=srEjX6Q6jEhR0N0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDpVDNVcV8w?si=0hxh3ScaU0tCnm6f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 Le MOOC « Défis technologiques des villes intelligentes participatives » (#MoocSmartCity ) vous propose un tour d’horizon des infrastructures numériques de la ville connectée avec un accent particulier sur les technologies encourageant l’implication citoyenne.
 
