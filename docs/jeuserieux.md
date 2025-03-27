@@ -2,6 +2,7 @@
 title: Les jeux sérieux à Inria
 date: 2024-12-25
 ---
+
 <div class="post-header">
     <div> Découvrez comment le Learning Lab d'Inria utilise les jeux sérieux pour sensibiliser le public, en rendant des sujets complexes accessibles et engageants.
         <!-- more -->

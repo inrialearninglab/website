@@ -1,7 +1,6 @@
 ---
 hide:
-  - navigation
   - toc
 ---
 
-# jeux sérieux 
+# Jeux sérieux 

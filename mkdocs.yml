@@ -17,6 +17,11 @@ plugins:
           blog_toc: false
           post_url_format: "{slug}"
           archive: false
+    - blog:
+        blog_dir: jeux-serieux
+        blog_toc: false
+        post_url_format: "{slug}"
+        archive: false
     - search
     - awesome-pages
 markdown_extensions:
