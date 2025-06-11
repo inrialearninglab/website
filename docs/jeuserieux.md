@@ -4,7 +4,7 @@ date: 2024-12-25
 ---
 
 <div class="post-header">
-    <div> Découvrez comment le Learning Lab d'Inria utilise les jeux sérieux pour sensibiliser le public, en rendant des sujets complexes accessibles et engageants.
+    <div> Découvrez comment nous utilisons les jeux sérieux pour sensibiliser le public, en rendant des sujets complexes accessibles et engageants.
         <!-- more -->
     </div>
 </div>
@@ -13,11 +13,7 @@ date: 2024-12-25
 
 Un jeu sérieux, ou "serious game", est un jeu conçu avec pour objectif principal de transmettre des connaissances, de former ou de sensibiliser à un sujet spécifique, tout en offrant une expérience ludique et engageante. Contrairement aux jeux purement récréatifs, les jeux sérieux intègrent des éléments éducatifs ou informatifs dans leur gameplay. Ils sont utilisés dans divers domaines, tels que l'éducation, la formation professionnelle, la santé, et la sensibilisation à des enjeux sociaux et environnementaux. Les jeux sérieux combinent souvent des mécaniques de jeu traditionnelles avec des contenus sérieux pour rendre l'apprentissage plus interactif et mémorable.
 
-## Pourquoi le Learning Lab d'Inria Crée des Jeux Sérieux
-
-Dans un monde où la transition écologique est souvent associée à la transition numérique, il est crucial de se pencher sur les impacts environnementaux du numérique. Le numérique, bien que souvent perçu comme une solution, cache en réalité un écosystème vorace en énergie et en ressources non renouvelables. Pour sensibiliser le public à ces enjeux, le Learning Lab d'Inria a développé un jeu sérieux intitulé "PhoneImpact". Ce jeu vise à initier une prise de conscience et à susciter le débat sur les impacts environnementaux des composants des smartphones. Voici pourquoi Inria a choisi de créer ce jeu sérieux et les éléments clés qui ont guidé sa conception.
-
-## Pourquoi Opter pour un Jeu Sérieux ?
+## Pourquoi créer des Jeux Sérieux ?
 
 Les jeux sérieux offrent une perspective unique pour aborder des sujets complexes. Ils combinent motivation et expérience émotionnelle intense, ce qui les rend particulièrement efficaces pour sensibiliser et engager le public. En utilisant un jeu, Inria vise à :
 
@@ -28,6 +24,8 @@ Les jeux sérieux offrent une perspective unique pour aborder des sujets complex
 3. **Susciter une Prise de Conscience Citoyenne** : En combinant motivation et expérience émotionnelle, les jeux sérieux peuvent susciter une prise de conscience plus profonde et durable. Ils permettent aux participants de comprendre les enjeux environnementaux de manière plus concrète et personnelle.
 
 ## Les Éléments Clés de la Conception de PhoneImpact
+
+Le numérique, bien que souvent perçu comme une solution, cache en réalité un écosystème vorace en énergie et en ressources non renouvelables. Pour sensibiliser le public à ces enjeux, nous avons développé un jeu sérieux intitulé "PhoneImpact". Ce jeu vise à initier une prise de conscience et à susciter le débat sur les impacts environnementaux des composants des smartphones. Voici pourquoi Inria a choisi de créer ce jeu sérieux et les éléments clés qui ont guidé sa conception.
 
 La conception de "PhoneImpact" a été guidée par plusieurs éléments clés :
 

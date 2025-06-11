@@ -1,10 +1,11 @@
 nav:
     - index.md
-    - ePoc
+    - blog
     - mooc
-    - jeuserieux.md
+    - ePoc
     - jeux-serieux
-    - accompagnement.md
-    - about.md
-
-
+    - publications
+    - education-scientifique.md
+    - contact.md
+    - mentions-legales.md
+    - politique-confidentialite.md
