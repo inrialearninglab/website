@@ -1,11 +1,11 @@
 nav:
     - index.md
-    - blog
+    - actualites
     - mooc
     - ePoc
     - jeux-serieux
-    - publications
-    - education-scientifique.md
+    - education-scientifique
+    - publications.md
     - contact.md
     - mentions-legales.md
     - politique-confidentialite.md

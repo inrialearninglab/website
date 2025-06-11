@@ -3,7 +3,9 @@ title: Phone impact
 date: 2024-12-25
 ---
 <div class="post-header">
+    <img src="/site-ll/assets/images/jphoneimpact.png" alt="Vignette illustration du jeu sérieux PhoneImpact">
     <div>
+    PhoneImpact, un jeu sérieux co-créé avec des expert·es scientifiques pour sensibiliser aux impacts environnementaux des activités extractives liées à la fabrication des smartphones.
         <!-- more -->
     </div>
 </div>

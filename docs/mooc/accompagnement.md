@@ -5,10 +5,9 @@ hide:
 - toc
 ---
 
-Inria Learning Lab apporte aux chercheurs des équipes Inria qui le souhaitent son expertise dans la réalisation de dispositifs de formation en ligne :
+Nous apportons notre expertise dans la réalisation de dispositifs de formation en ligne aux chercheurs des équipes Inria :
 
-- accompagnement pédagogique des auteurs tout au long du projet (aide à la définition des objectifs pédagogiques, accompagnement à la scénarisation de vidéos,
-  à la réalisation d’exercices et de supports, aide à la prise de parole devant une caméra, etc.),
+- accompagnement pédagogique des auteurs tout au long du projet (aide à la définition des objectifs pédagogiques, accompagnement à la scénarisation de vidéos, à la réalisation d’exercices et de supports, aide à la prise de parole devant une caméra, etc.),
 
 - gestion de projet
 
