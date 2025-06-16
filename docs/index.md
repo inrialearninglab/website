@@ -31,5 +31,5 @@ Question, discussion et faisabilité:
     - Plateforme : FUN MOOC  
     - 👉 S’inscrire au MOOC  
 
-- Répartition graphique de la navigation comme par exemple pour la marque "Perrier":  
+- Répartition graphique des éléments de chaque fiche ressource comme par exemple pour la marque "Perrier":  
 ![](assets/images/accueil-nav-visuelle.png)
