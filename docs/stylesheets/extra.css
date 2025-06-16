@@ -67,3 +67,7 @@ iframe[title="YouTube video player"] {
     aspect-ratio: 16/9;
     margin-top: 1rem;
 }
+
+.md-copyright {
+    width: 100%;
+}
