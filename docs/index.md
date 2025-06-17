@@ -14,7 +14,7 @@ hide:
 
 -----
 
-| Découvrez nos formations |
+| Découvrez nos activités |
 | -------- |
 | Visuel et intro de la dernière actualité |
 | voir toutes les actualités |
