@@ -45,15 +45,3 @@ hide:
 | visuel Phone Impact|
 | en savoir plus |
 
-
-Question, discussion et faisabilité:  
- 
- 
-- “call to action” visuel (par encadré par ex.) pour aspects pratiques de chaque fiche "ressource" :  
-
-    - 🗓 Accès au MOOC/epoc/jeu  
-    - Date de début : 17 juin 2024  
-    - Plateforme : FUN MOOC  
-    - 👉 S’inscrire au MOOC  
-
-- Répartition graphique des éléments de chaque fiche ressource comme par exemple pour la marque "Perrier"
