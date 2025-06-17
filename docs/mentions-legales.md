@@ -6,6 +6,8 @@ hide:
 ---
 # Mentions Légales
 
+**A revoir**
+
 ## Informations légales
 
 Ce site Inria Learning Lab est hébergé par :  

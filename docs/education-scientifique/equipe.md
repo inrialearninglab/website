@@ -1,5 +1,8 @@
 ---
-title: "Historique"
+title: "Equipe"
+hide:
+    - navigation
+    - toc
 ---
 
 # À l'origine …

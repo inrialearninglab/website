@@ -1,9 +1,6 @@
 nav:
     - index.md
-    - actualites
-    - mooc
-    - ePoc
-    - jeux-serieux
+    - blog
+    - productions.md
     - education-scientifique
     - publications.md
-    - contact.md

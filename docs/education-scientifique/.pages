@@ -1,5 +1,6 @@
 title: "Éducation Scientifique"
 nav:
+    - index.md
     - missions.md
     - activite.md
-    - historique.md
+    - equipe.md

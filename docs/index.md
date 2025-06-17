@@ -7,23 +7,48 @@ hide:
 # Accueil
 
 
-Barre de navigation horizontale :  
+| Inria Learning Lab conçoit et produit des ressources éducatives libres et des environnements technologiques d’apprentissage innovants.  |
+| -------- |
+| Notre objectif : rendre le numérique accessible et compréhensible pour tous grâce à des parcours et ressources pédagogiques de qualité.   |
+| en savoir plus |
 
-- Onglet "Productions Pédagogiques" après "Actualités" avec liste sous menu (Mooc, ePoc, jeux sérieux) ?  
-- Onglet "Education scientifique" avant "Publications" avec liste sous menu (missions, activités, historique) ?  
+-----
+
+| Découvrez nos formations |
+| -------- |
+| Visuel et intro de la dernière actualité |
+| voir toutes les actualités |
+
+-----
+
+| MOOC, une formation en ligne complète|
+| -------- |
+| visuel Scikit-learn |
+| visuel Recherche reproductible |
+| visuel Intelligence Artificielle pour et par les enseignants |
+| voir tous les MOOCs |
+
+-----
+
+| ePoc, un apprentissage sur mobile  | 
+| -------- |
+| visuel C'est quoi l'IA ?      |
+| visuel Produire mon 1er ePoc    |
+| visuel Smartphone et planète  |
+| voir tous les ePocs  |
 
 
-Affichage de 3 blocs alignés horizontalement :
+----
 
-- Dernières actualités (lien vers toutes les actualités et RS)  
-- Mise en avant des dernières productions de chaque type (lien vers chaque type de ressource)  
-- Brève présentation du service (lien vers education scientifique - missions)  
+| jeu sérieux, la sensibilisation par le jeu|
+| -------- |
+| visuel Phone Impact|
+| en savoir plus |
 
 
 Question, discussion et faisabilité:  
-
-- Fichiers-Dossiers : Blog/Actualités ?  
-- Associer un texte de présentation à chaque type de ressource-blog (Mooc, ePoc, jeu) : Qu’est ce qu’un MOOC/ePoc/jeu et pourquoi faire un Mooc/ePoc/Jeu ?  
+ 
+ 
 - “call to action” visuel (par encadré par ex.) pour aspects pratiques de chaque fiche "ressource" :  
 
     - 🗓 Accès au MOOC/epoc/jeu  
@@ -31,5 +56,4 @@ Question, discussion et faisabilité:
     - Plateforme : FUN MOOC  
     - 👉 S’inscrire au MOOC  
 
-- Répartition graphique des éléments de chaque fiche ressource comme par exemple pour la marque "Perrier":  
-![](assets/images/accueil-nav-visuelle.png)
+- Répartition graphique des éléments de chaque fiche ressource comme par exemple pour la marque "Perrier"

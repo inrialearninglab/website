@@ -1,5 +1,8 @@
 ---
-title: "Missions et valeurs"
+title: "Notre mission"
+hide:
+    - navigation
+    - toc
 ---
 
-Mots clés : Présentation de nos missions et valeurs
+Mots clés : missions et valeurs

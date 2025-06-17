@@ -1,5 +1,8 @@
 ---
 title: "Activités"
+hide:
+    - navigation
+    - toc
 ---
 
 Mots clés : Feuille de route, méthodes de travail :Collaboration avec la DNE, l’ADEME, etc…. / Transmission d’expertise scientifique / Programme européens
