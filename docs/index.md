@@ -10,14 +10,14 @@ hide:
 | Inria Learning Lab conçoit et produit des ressources éducatives libres et des environnements technologiques d’apprentissage innovants.  |
 | -------- |
 | Notre objectif : rendre le numérique accessible et compréhensible pour tous grâce à des parcours et ressources pédagogiques de qualité.   |
-| en savoir plus |
+| [en savoir plus](education-scientifique/index.md) |
 
 -----
 
 | Découvrez nos activités |
 | -------- |
 | Visuel et intro de la dernière actualité |
-| voir toutes les actualités |
+| [voir toutes les actualités](blog/index.md) |
 
 -----
 
@@ -26,7 +26,7 @@ hide:
 | visuel Scikit-learn |
 | visuel Recherche reproductible |
 | visuel Intelligence Artificielle pour et par les enseignants |
-| voir tous les MOOCs |
+| [voir tous les MOOCs](mooc/index.md) |
 
 -----
 
@@ -35,7 +35,7 @@ hide:
 | visuel C'est quoi l'IA ?      |
 | visuel Produire mon 1er ePoc    |
 | visuel Smartphone et planète  |
-| voir tous les ePocs  |
+| [voir tous les ePocs](ePoc/index.md)  |
 
 
 ----
@@ -43,5 +43,5 @@ hide:
 | jeu sérieux, la sensibilisation par le jeu|
 | -------- |
 | visuel Phone Impact|
-| en savoir plus |
+| [en savoir plus](jeux-serieux/index.md) |
 
