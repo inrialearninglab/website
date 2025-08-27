@@ -5,9 +5,6 @@ hide:
     - toc
 ---
 
-<<<<<<< Updated upstream
-Mots clés : missions et valeurs
-=======
 Mots clés : Présentation de nos missions et valeurs
 
 # Qui sommes-nous ?
@@ -50,4 +47,3 @@ Nous intégrons des pratiques durables dans nos projets et soutenons la transiti
 ## 5. Excellence et qualité
 
 Nous collaborons avec des scientifiques pour produire des contenus de qualité. En maintenant des standards élevés, nous veillons à ce que nos ressources répondent aux attentes des apprenants et des professionnels.
->>>>>>> Stashed changes
