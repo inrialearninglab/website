@@ -1,0 +1,6 @@
+---
+title: Actualités
+---
+
+::blog
+::

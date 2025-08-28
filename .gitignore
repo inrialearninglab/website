@@ -1,2 +1,24 @@
-.idea/
-**/.DS_Store
+# nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# node dependencies
+node_modules
+
+# logs
+logs
+*.log
+
+# misc
+.ds_store
+.fleet
+.idea
+
+# local env files
+.env
+.env.*
+!.env.example
