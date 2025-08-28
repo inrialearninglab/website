@@ -1,8 +1,13 @@
-# Accueil
+::Hero
+---
+title: Inria Learning Lab conçoit et produit des ressources éducatives libres et des environnements technologiques d'apprentissage innovants.
+description: "Notre objectif : rendre le numérique accessible et compréhensible pour tous grâce à des parcours et ressources pédagogiques de qualité."
+---
+::
 
-**Inria Learning Lab conçoit et produit des ressources éducatives libres et des environnements technologiques d'apprentissage innovants.**
+<!--**Inria Learning Lab conçoit et produit des ressources éducatives libres et des environnements technologiques d'apprentissage innovants.**
 
-Notre objectif : rendre le numérique accessible et compréhensible pour tous grâce à des parcours et ressources pédagogiques de qualité.
+Notre objectif : rendre le numérique accessible et compréhensible pour tous grâce à des parcours et ressources pédagogiques de qualité.-->
 
 ## Découvrez nos activités
 
