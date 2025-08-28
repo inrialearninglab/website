@@ -4,7 +4,4 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     modules: ["@nuxt/ui", "@nuxt/content", "@nuxt/icon", "@nuxtjs/color-mode", "@nuxt/image"],
     css: ["~/assets/css/tailwind.css"],
-    colorMode: {
-        classSuffix: "",
-    },
 });
