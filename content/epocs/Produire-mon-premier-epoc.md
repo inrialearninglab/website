@@ -4,7 +4,7 @@ date: 2017-01-01
 description: "Découvrez l'éditeur \"ePoc Editor\" et créez votre première formation <em>mobile learning</em>, courte, ludique, en quelques clics. L'ePoc \"Produire mon 1er ePoc\" est conçu pour faciliter la prise en main de l'éditeur epoc Editor, gratuit et open source, développé et maintenu par Inria Learning Lab depuis 2020."
 image: "/images/epoc/premierspas.png"
 ---
-<img src="./images/epoc-editor-scenario.png" alt="Vignette d'illustration de l'epoc intitulé Produire mon 1er ePoc">
+![/Produire mon 1er ePoc](/images/epoc-editor-scenario.png)
 
 Le parcours de l'ePoc "Produire mon 1er ePoc" vous guide pas à pas pour la découverte d'ePoc Editor, l'application de bureau pour construire votre ePoc.
 En suivant les étapes de l'ePoc "Produire mon 1er ePoc" sur votre mobile, vous pouvez en parallèle, avec ePoc Editor sur votre ordinateur, découvrir son interface, expérimenter la création de contenus, le paramétrage d'évaluation puis l'export de votre premier ePoc au format .epoc, prêt à être téléchargé et suivi sur l'application mobile.

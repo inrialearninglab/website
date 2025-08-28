@@ -25,7 +25,7 @@ const { data: moocs } = await useAsyncData(() =>
             <template #leading>
                 <MoocStatus :status="mooc.status" />
             </template>
-            <img v-if="mooc.image" :src="mooc.image" alt="Thumbnail" class="w-full rounded-md" />
+            <NuxtImg v-if="mooc.image" :src="mooc.image" alt="Thumbnail" class="w-full rounded-md" />
         </UPageCard>
     </UPageGrid>
 </template>

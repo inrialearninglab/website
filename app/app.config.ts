@@ -55,32 +55,13 @@ export default defineAppConfig({
     },
     team: [
         {
-            name: "Nathan Viaud",
-            avatar: "https://avatars.githubusercontent.com/u/79544144?v=4&size=64",
-            title: "Développeur",
+            name: "Elise Taillant",
+            avatar: "/images/team/elise.jpg",
+            title: "Responsable Inria Learning Lab",
             links: [
-                {
-                    icon: "lucide:github",
-                    to: "https://github.com/NathanViaud",
-                },
-            ],
-        },
-        {
-            name: "Benoit Rospars",
-            avatar: "/images/team/benoit.jpg",
-            title: "Développeur",
-            links: [
-                {
-                    icon: "lucide:github",
-                    to: "https://github.com/brospars",
-                },
-                {
-                    icon: "simple-icons:bluesky",
-                    to: "https://bsky.app/profile/rospars.me",
-                },
                 {
                     icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/rosparsbenoit/",
+                    to: "https://www.linkedin.com/in/elisetaillant/",
                 },
             ],
         },
@@ -92,17 +73,6 @@ export default defineAppConfig({
                 {
                     icon: "simple-icons:linkedin",
                     to: "https://www.linkedin.com/in/marie-collin-ba6b553b/",
-                },
-            ],
-        },
-        {
-            name: "Elise Taillant",
-            avatar: "/images/team/elise.jpg",
-            title: "Responsable Inria Learning Lab",
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/elisetaillant/",
                 },
             ],
         },
@@ -169,6 +139,36 @@ export default defineAppConfig({
                 {
                     icon: "simple-icons:linkedin",
                     to: "https://www.linkedin.com/in/cmariais/",
+                },
+            ],
+        },
+        {
+            name: "Nathan Viaud",
+            avatar: "https://avatars.githubusercontent.com/u/79544144?v=4&size=64",
+            title: "Ingénieur informatique",
+            links: [
+                {
+                    icon: "lucide:github",
+                    to: "https://github.com/NathanViaud",
+                },
+            ],
+        },
+        {
+            name: "Benoit Rospars",
+            avatar: "/images/team/benoit.jpg",
+            title: "Ingénieur informatique",
+            links: [
+                {
+                    icon: "lucide:github",
+                    to: "https://github.com/brospars",
+                },
+                {
+                    icon: "simple-icons:bluesky",
+                    to: "https://bsky.app/profile/rospars.me",
+                },
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/rosparsbenoit/",
                 },
             ],
         },

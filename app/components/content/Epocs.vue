@@ -22,7 +22,7 @@ const { data: epocs } = await useAsyncData(() =>
             reverse
             :to="epoc.path"
         >
-            <img v-if="epoc.image" :src="epoc.image" alt="Thumbnail" class="w-full rounded-md" />
+            <NuxtImg v-if="epoc.image" :src="epoc.image" alt="Thumbnail" class="w-full rounded-md" />
         </UPageCard>
     </UPageGrid>
 </template>

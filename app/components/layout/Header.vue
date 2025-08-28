@@ -8,7 +8,7 @@ const { header } = useAppConfig();
 <template>
     <UHeader>
         <template #title>
-            <img src="/logo/ill-logo.png" alt="" class="h-7" />
+            <NuxtImg src="/logo/ill-logo.png" alt="" class="h-7" />
             <span class="text-lg font-semibold">Inria Learning Lab</span>
         </template>
 

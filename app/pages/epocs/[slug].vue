@@ -24,7 +24,7 @@ const links = ref([
                 orientation="horizontal"
                 variant="naked"
             >
-                <img :src="epoc.image" alt="" />
+                <NuxtImg :src="epoc.image" alt="" />
             </UPageCTA>
             <ContentRenderer :value="epoc" />
         </UPageBody>

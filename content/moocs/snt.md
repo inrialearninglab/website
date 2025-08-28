@@ -10,16 +10,6 @@ assesment:
 lang: ["fr"]
 trailer: https://www.youtube.com/embed/k9bv21-Gg9s?si=WXdUbKF4A3VxD80Q
 ---
-<div class="post-header">
-    <img src="/site-ll/assets/images/psnt.png" alt="Vignette illustration du MOOC S’initier à l’enseignement en Sciences Numériques et Technologie">
-    <div>
-        Comment enseigner les Sciences Numériques et Technologie au lycée ? Ce MOOC offre des ressources clés, des savoirs pratiques et un espace d’entraide pour accompagner les enseignants dans ce nouvel enseignement.
-        <!-- more -->
-    </div>
-</div>
-
-<iframe src="https://www.youtube.com/embed/k9bv21-Gg9s?si=WXdUbKF4A3VxD80Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Comment aider les enseignants de SNT ?
 
 Quels savoirs partager avec eux ?

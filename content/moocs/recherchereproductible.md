@@ -10,15 +10,6 @@ assesment:
 lang: ["fr"]
 trailer: Comment garantir la transparence et la fiabilité de vos travaux scientifiques ? Ce MOOC explore les principes et outils de la recherche reproductible, essentiels pour une science ouverte et rigoureuse, adaptée à toutes les disciplines.
 ---
-<div class="post-header">
-    <img src="/site-ll/assets/images/prr.png" alt="Vignette illustration du MOOC Recherche reproductible - Principes méthodologiques pour une science transparente">
-    <div>
-        Comment garantir la transparence et la fiabilité de vos travaux scientifiques ? Ce MOOC explore les principes et outils de la recherche reproductible, essentiels pour une science ouverte et rigoureuse, adaptée à toutes les disciplines.
-        <!-- more -->
-    </div>
-</div>
-
-<iframe src="https://www.youtube.com/embed/h5nRdvDPpUY?si=SO8j9bvttxe-DFqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`
 Rendre votre recherche reproductible, c’est relever le nouveau défi de la science pour améliorer ses résultats !
 
 Le Mooc [« Recherche reproductible : principes méthodologiques pour une science transparente »](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) propose des principes méthodologiques pour une science ouverte et transparente inscrite désormais dans [« le plan national pour la science ouverte »](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-2021-2024-vers-une-generalisation-de-la-science-ouverte-en-48525). Le cours aborde de manière pratique des thématiques telles que la prise de notes, le document computationnel, la réplicabilité des analyses.

@@ -14,7 +14,7 @@ const { data: seriousGames } = await useAsyncData(() =>
             reverse
             :to="seriousGame.path"
         >
-            <img
+            <NuxtImg
                 v-if="seriousGame.image"
                 :src="seriousGame.image"
                 alt="Thumbnail"

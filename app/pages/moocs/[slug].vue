@@ -39,7 +39,7 @@ const { data: mooc } = await useAsyncData(() => queryCollection("moocs").path(ro
                 allowfullscreen
                 class="w-full aspect-video rounded-md"
             />
-            <img v-else :src="mooc.image" alt="thumbnail" class="w-full aspect-video rounded-md" />
+            <NuxtImg v-else :src="mooc.image" alt="thumbnail" class="w-full aspect-video rounded-md" />
 
             <UButton
                 block

@@ -12,6 +12,7 @@
     "dependencies": {
         "@nuxt/content": "3.6.0",
         "@nuxt/icon": "1.14.0",
+        "@nuxt/image": "^1.11.0",
         "@nuxt/ui": "^4.0.0-alpha.0",
         "@vueuse/core": "^13.5.0",
         "better-sqlite3": "^11.10.0",

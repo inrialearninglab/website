@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const { team } = useAppConfig();
+const img = useImage();
 </script>
 
 <template>
@@ -21,7 +22,7 @@ const { team } = useAppConfig();
                     variant="subtle"
                 >
                     <template #leading>
-                        <UAvatar :src="user.avatar" size="3xl" class="mx-auto" />
+                        <UAvatar :src="img(user.avatar)" size="3xl" class="mx-auto" />
                     </template>
                     <div class="flex items-center justify-center gap-1">
                         <UButton
