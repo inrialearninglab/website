@@ -1,5 +1,7 @@
 pages:
     image: node
+    tags:
+        - gitlab-ci-learninglab-4
     before_script:
         - npm ci --cache .npm --prefer-offline
     script:
