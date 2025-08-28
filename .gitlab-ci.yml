@@ -3,7 +3,7 @@ pages:
     before_script:
         - npm ci --cache .npm --prefer-offline
     script:
-        - npm run generate
+        - NUXT_APP_BASE_URL=site-ll npm run generate
     cache:
         key:
             files:
