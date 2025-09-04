@@ -1,7 +1,12 @@
 <script setup lang="ts">
-const { data: seriousGames } = await useAsyncData(() =>
-    queryCollection("seriousGames").where("path", "NOT LIKE", "/serious-games").all(),
-);
+import type { Collections } from "@nuxt/content";
+
+const { locale } = useI18n();
+const { data: seriousGames } = await useAsyncData(() => {
+    const collection = ("seriousGames_" + locale.value) as keyof Collections;
+
+    return queryCollection(collection).where("path", "NOT LIKE", "/serious-games").all();
+});
 </script>
 
 <template>

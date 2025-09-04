@@ -1,15 +1,12 @@
 <script setup lang="ts">
-const props = defineProps<{
-    preview?: boolean;
-}>();
+import type { Collections } from "@nuxt/content";
 
-const { data: epocs } = await useAsyncData(() =>
-    queryCollection("epocs")
-        .where("path", "NOT LIKE", "/epocs")
-        .order("date", "DESC")
-        .limit(props.preview ? 4 : 50)
-        .all(),
-);
+const { locale, defaultLocale } = useI18n();
+const { data: epocs } = await useAsyncData("epocs", async () => {
+    const collection = ("epocs_" + locale.value) as keyof Collections;
+
+    return queryCollection(collection).where("path", "NOT LIKE", `/epocs`).order("date", "DESC").all();
+});
 </script>
 
 <template>
@@ -20,7 +17,7 @@ const { data: epocs } = await useAsyncData(() =>
             :description="epoc.description"
             orientation="vertical"
             reverse
-            :to="epoc.path"
+            :to="(locale === defaultLocale ? '' : `/${locale}`) + epoc.path"
         >
             <NuxtImg v-if="epoc.image" :src="epoc.image" alt="Thumbnail" class="w-full rounded-md" />
         </UPageCard>

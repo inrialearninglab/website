@@ -1,5 +1,23 @@
 <script setup lang="ts">
-const { data: home } = await useAsyncData(() => queryCollection("content").path("/").first());
+import type { Collections } from "@nuxt/content";
+
+const { locale } = useI18n();
+
+const { data: home } = await useAsyncData(
+    async () => {
+        const collection = ("content_" + locale.value) as keyof Collections;
+        const content = await queryCollection(collection).path("/").first();
+
+        if (!content && locale.value !== "fr") {
+            return await queryCollection("content_fr").path("/").first();
+        }
+
+        return content;
+    },
+    {
+        watch: [locale],
+    },
+);
 
 useSeoMeta({
     title: home.value?.title,

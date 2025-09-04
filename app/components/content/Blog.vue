@@ -1,20 +1,22 @@
 <script setup lang="ts">
 import type { BlogPostProps } from "@nuxt/ui";
-const props = defineProps<{
-    preview?: boolean;
-}>();
+import type { Collections } from "@nuxt/content";
 
-const { data: articles } = await useAsyncData(() =>
-    queryCollection("blog")
-        .where("path", "NOT LIKE", "/blog")
-        .order("date", "DESC")
-        .limit(props.preview ? 3 : 50)
-        .all(),
-);
+const { locale, defaultLocale } = useI18n();
+const { data: articles } = await useAsyncData("blog", async () => {
+    const collection = ("blog_" + locale.value) as keyof Collections;
+
+    return queryCollection(collection).where("path", "NOT LIKE", "/blog").order("date", "DESC").all();
+});
 </script>
 
 <template>
     <UBlogPosts>
-        <UBlogPost v-for="(post, index) in articles" :key="index" v-bind="post" :to="post.path" />
+        <UBlogPost
+            v-for="(post, index) in articles"
+            :key="index"
+            v-bind="post"
+            :to="(locale === defaultLocale ? '' : `/${locale}`) + post.path"
+        />
     </UBlogPosts>
 </template>

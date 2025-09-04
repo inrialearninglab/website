@@ -1,9 +1,29 @@
 <script setup lang="ts">
 import { useDateFormat } from "@vueuse/core";
+import { withoutLeadingSlash } from "ufo";
+import type { Collections } from "@nuxt/content";
 
 const route = useRoute();
+const { locale } = useI18n();
+const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
 
-const { data: article } = await useAsyncData(() => queryCollection("blog").path(route.path).first());
+const { data: article } = await useAsyncData(
+    "article-" + slug.value,
+    async () => {
+        const collection = ("blog_" + locale.value) as keyof Collections;
+
+        const article = await queryCollection(collection).path(`/blog/${slug.value}`).first();
+
+        if (!article && locale.value === "fr") {
+            return await queryCollection("blog_fr").path(`/blog/${slug.value}`).first();
+        }
+
+        return article;
+    },
+    {
+        watch: [locale],
+    },
+);
 </script>
 
 <template>
@@ -24,8 +44,8 @@ const { data: article } = await useAsyncData(() => queryCollection("blog").path(
         v-else
         :error="{
             statusCode: 404,
-            statusMessage: 'Page not found',
-            message: 'The page you are looking for does not exist.',
+            statusMessage: 'Article not found',
+            message: 'The article you are looking for does not exist.',
         }"
     />
 </template>

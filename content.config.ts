@@ -1,53 +1,115 @@
 import { defineContentConfig, defineCollection, z } from "@nuxt/content";
 
+const epocSchema = z.object({
+    title: z.string(),
+    description: z.string(),
+    date: z.string(),
+    image: z.string(),
+});
+
+const moocSchema = z.object({
+    title: z.string(),
+    image: z.string(),
+    date: z.string(),
+    status: z.enum(["open", "closed", "archived"]),
+    url: z.string().url(),
+    investment: z.string(),
+    type: z.enum(["self-paced", "session", "MAOI"]),
+    assesment: z.string(),
+    lang: z.array(z.string()),
+    trailer: z.string().url(),
+});
+
+const blogSchema = z.object({
+    date: z.string(),
+    image: z.string(),
+});
+
+const seriousGameSchema = z.object({
+    title: z.string(),
+    image: z.string(),
+    date: z.string(),
+});
+
 export default defineContentConfig({
     collections: {
-        content: defineCollection({
+        content_fr: defineCollection({
             type: "page",
-            source: "**/*.md",
+            source: {
+                include: "fr/**",
+                prefix: "",
+            },
         }),
-        epocs: defineCollection({
+        content_en: defineCollection({
             type: "page",
-            source: "epocs/*.md",
-            schema: z.object({
-                title: z.string(),
-                description: z.string(),
-                date: z.string(),
-                image: z.string(),
-            }),
+            source: {
+                include: "en/**",
+                prefix: "",
+            },
         }),
-        moocs: defineCollection({
+        epocs_fr: defineCollection({
             type: "page",
-            source: "moocs/*.md",
-            schema: z.object({
-                title: z.string(),
-                image: z.string(),
-                date: z.string(),
-                status: z.enum(["open", "closed", "archived"]),
-                url: z.string().url(),
-                investment: z.string(),
-                type: z.enum(["self-paced", "session", "MAOI"]),
-                assesment: z.string(),
-                lang: z.array(z.string()),
-                trailer: z.string().url(),
-            }),
+            source: {
+                include: "fr/epocs/*.md",
+                prefix: "epocs/",
+            },
+            schema: epocSchema,
         }),
-        blog: defineCollection({
+        epocs_en: defineCollection({
             type: "page",
-            source: "blog/*.md",
-            schema: z.object({
-                date: z.string(),
-                image: z.string(),
-            }),
+            source: {
+                include: "en/epocs/*.md",
+                prefix: "epocs/",
+            },
+            schema: epocSchema,
         }),
-        seriousGames: defineCollection({
+        moocs_fr: defineCollection({
             type: "page",
-            source: "serious-games/*.md",
-            schema: z.object({
-                title: z.string(),
-                image: z.string(),
-                date: z.string(),
-            }),
+            source: {
+                include: "fr/moocs/*.md",
+                prefix: "moocs/",
+            },
+            schema: moocSchema,
+        }),
+        moocs_en: defineCollection({
+            type: "page",
+            source: {
+                include: "en/moocs/*.md",
+                prefix: "moocs/",
+            },
+            schema: moocSchema,
+        }),
+        blog_fr: defineCollection({
+            type: "page",
+            source: {
+                include: "fr/blog/*.md",
+                prefix: "blog/",
+            },
+            schema: blogSchema,
+        }),
+        blog_en: defineCollection({
+            type: "page",
+            source: {
+                include: "en/blog/*.md",
+                prefix: "blog/",
+            },
+            schema: blogSchema,
+        }),
+        seriousGames_fr: defineCollection({
+            type: "page",
+            source: {
+                include: "fr/serious-games/*.md",
+                prefix: "serious-games/",
+            },
+            schema: seriousGameSchema,
+        }),
+        seriousGames_en: defineCollection({
+            type: "page",
+            source: {
+                include: "en/serious-games/*.md",
+                prefix: "serious-games/",
+            },
+            schema: seriousGameSchema,
         }),
     },
 });

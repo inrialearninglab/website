@@ -5,51 +5,113 @@ export default defineAppConfig({
         },
     },
     header: {
-        nav: [
-            {
-                label: "Actualités",
-                to: "/blog",
-            },
-            {
-                label: "Productions pédagogiques",
-                children: [
-                    {
-                        label: "ePocs",
-                        description: "Découvrez la collection ePocs Inria",
-                        to: "/epocs",
-                    },
-                    {
-                        label: "MOOCs",
-                        description: "Découvrez les MOOCs produit par le Learning Lab",
-                        to: "/moocs",
-                    },
-                    {
-                        label: "Jeux sérieux",
-                        description: "Découvrez les jeux sérieux de l'Inria",
-                        to: "/serious-games",
-                    },
-                ],
-            },
-            {
-                label: "Education scientifique",
-                to: "/scientific-education",
-            },
-            {
-                label: "Publications",
-                to: "/publications",
-            },
-        ],
+        nav: {
+            fr: [
+                {
+                    label: "Actualités",
+                    to: "/blog",
+                },
+                {
+                    label: "Productions pédagogiques",
+                    children: [
+                        {
+                            label: "ePocs",
+                            description: "Découvrez la collection ePocs Inria",
+                            to: "/epocs",
+                        },
+                        {
+                            label: "MOOCs",
+                            description: "Découvrez les MOOCs produit par le Learning Lab",
+                            to: "/moocs",
+                        },
+                        {
+                            label: "Jeux sérieux",
+                            description: "Découvrez les jeux sérieux de l'Inria",
+                            to: "/serious-games",
+                        },
+                    ],
+                },
+                {
+                    label: "Education scientifique",
+                    to: "/scientific-education",
+                },
+                {
+                    label: "Publications",
+                    to: "/publications",
+                },
+            ],
+            en: [
+                {
+                    label: "News",
+                    to: "/en/blog",
+                },
+                {
+                    label: "Pedagogical Resources",
+                    children: [
+                        {
+                            label: "ePocs",
+                            description: "Discover the ePocs collection by Inria",
+                            to: "/en/epocs",
+                        },
+                        {
+                            label: "MOOCs",
+                            description: "Discover the MOOCs produced by the Learning Lab",
+                            to: "/en/moocs",
+                        },
+                        {
+                            label: "Serious Games",
+                            description: "Discover the serious games of Inria",
+                            to: "/en/serious-games",
+                        },
+                    ],
+                },
+                {
+                    label: "Scientific Education",
+                    to: "/en/scientific-education",
+                },
+            ],
+        },
     },
     footer: {
         copyright: "Copyright © Inria Learning Lab",
+        links: {
+            fr: [
+                {
+                    label: "Conditions d'utilisation",
+                    to: "/terms",
+                },
+                {
+                    label: "Vie privée",
+                    to: "/privacy",
+                },
+            ],
+            en: [
+                {
+                    label: "Terms of Use",
+                    to: "/en/terms",
+                },
+                {
+                    label: "Privacy Policy",
+                    to: "/en/privacy",
+                },
+            ],
+        },
         right: [
             {
-                label: "Conditions d'utilisation",
-                to: "/terms",
+                icon: "simple-icons:youtube",
+                to: "https://www.youtube.com/playlist?list=PLJ1qHZpFsMsR7wceUpWOVTjJhI4gBC0wk",
             },
             {
-                label: "Vie privée",
-                to: "/privacy",
+                icon: "simple-icons:twitter",
+                to: "https://twitter.com/InriaLearnLab",
+            },
+            {
+                icon: "simple-icons:linkedin",
+                to: "https://www.linkedin.com/in/inrialearninglab/",
+            },
+            {
+                icon: "simple-icons:facebook",
+                to: "https://www.facebook.com/Inria-Learning-Lab-269656773437569/",
             },
         ],
     },

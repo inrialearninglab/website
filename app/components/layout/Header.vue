@@ -1,26 +1,31 @@
 <script setup lang="ts">
-import type { NavigationMenuItem } from "@nuxt/ui";
 import { fr, en } from "@nuxt/ui/locale";
 
 const { header } = useAppConfig();
+const { locale, setLocale, defaultLocale } = useI18n();
 </script>
 
 <template>
-    <UHeader>
+    <UHeader :to="locale === defaultLocale ? '/' : `/${locale}`">
         <template #title>
             <NuxtImg src="/logo/ill-logo.png" alt="" class="h-7" />
             <span class="text-lg font-semibold">Inria Learning Lab</span>
         </template>
 
-        <UNavigationMenu :items="header.nav" />
+        <UNavigationMenu :items="header.nav[locale]" />
 
         <template #right>
             <UColorModeButton />
-            <ULocaleSelect variant="ghost" :locales="[fr, en]" />
+            <ULocaleSelect
+                variant="ghost"
+                :locales="[fr, en]"
+                v-model="locale"
+                @update:model-value="setLocale($event)"
+            />
         </template>
 
         <template #body>
-            <UNavigationMenu :items="header.nav" orientation="vertical" class="-mx-2.5" />
+            <UNavigationMenu :items="header.nav[locale]" orientation="vertical" class="-mx-2.5" />
         </template>
     </UHeader>
 </template>

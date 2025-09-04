@@ -1,6 +1,27 @@
 <script setup lang="ts">
+import { withoutLeadingSlash } from "ufo";
+import type { Collections } from "@nuxt/content";
+
+const { locale } = useI18n();
 const route = useRoute();
-const { data: epoc } = await useAsyncData(() => queryCollection("epocs").path(route.path).first());
+const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
+const { data: epoc } = await useAsyncData(
+    "epoc-" + slug.value,
+    async () => {
+        const collection = ("epocs_" + locale.value) as keyof Collections;
+
+        const epoc = await queryCollection(collection).path(`/epocs/${slug.value}`).first();
+
+        if (!epoc && locale.value !== "fr") {
+            return await queryCollection("epocs_fr").path(`/epocs/${slug.value}`).first();
+        }
+
+        return epoc;
+    },
+    {
+        watch: [locale],
+    },
+);
 
 const links = ref([
     {
@@ -34,8 +55,8 @@ const links = ref([
         v-else
         :error="{
             statusCode: 404,
-            statusMessage: 'Page not found',
-            message: 'The page you are looking for does not exist.',
+            statusMessage: 'ePoc not found',
+            message: 'The ePoc you are looking for does not exist.',
         }"
     />
 </template>

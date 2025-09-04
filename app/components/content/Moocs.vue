@@ -1,15 +1,12 @@
 <script setup lang="ts">
-const props = defineProps<{
-    preview?: boolean;
-}>();
+import type { Collections } from "@nuxt/content";
 
-const { data: moocs } = await useAsyncData(() =>
-    queryCollection("moocs")
-        .where("path", "NOT LIKE", "/moocs")
-        .order("date", "DESC")
-        .limit(props.preview ? 3 : 50)
-        .all(),
-);
+const { locale, defaultLocale } = useI18n();
+const { data: moocs } = await useAsyncData("moocs", async () => {
+    const collection = ("moocs_" + locale.value) as keyof Collections;
+
+    return queryCollection(collection).where("path", "NOT LIKE", "/moocs").order("date", "DESC").all();
+});
 </script>
 
 <template>
@@ -20,7 +17,7 @@ const { data: moocs } = await useAsyncData(() =>
             :description="mooc.description"
             orientation="vertical"
             reverse
-            :to="mooc.path"
+            :to="(locale === defaultLocale ? '' : `/${locale}`) + mooc.path"
         >
             <template #leading>
                 <MoocStatus :status="mooc.status" />

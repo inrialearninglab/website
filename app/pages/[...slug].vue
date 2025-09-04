@@ -1,6 +1,27 @@
 <script setup lang="ts">
+import { withLeadingSlash } from "ufo";
+import type { Collections } from "@nuxt/content";
+
+const { locale } = useI18n();
 const route = useRoute();
-const { data: page } = await useAsyncData(`${route.path}`, () => queryCollection("content").path(route.path).first());
+const slug = computed(() => withLeadingSlash(String(route.params.slug)));
+
+const { data: page } = await useAsyncData(
+    "page-" + slug.value,
+    async () => {
+        const collection = ("content_" + locale.value) as keyof Collections;
+        const content = await queryCollection(collection).path(slug.value).first();
+
+        if (!content && locale.value !== "fr") {
+            return await queryCollection("content_fr").path(slug.value).first();
+        }
+
+        return content;
+    },
+    {
+        watch: [locale],
+    },
+);
 
 useSeoMeta({
     title: page.value?.title,

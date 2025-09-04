@@ -1,8 +1,29 @@
 <script setup lang="ts">
-import { useDateFormat, useNow } from "@vueuse/core";
+import { useDateFormat } from "@vueuse/core";
+import { withoutLeadingSlash } from "ufo";
+import type { Collections } from "@nuxt/content";
 
 const route = useRoute();
-const { data: mooc } = await useAsyncData(() => queryCollection("moocs").path(route.path).first());
+const { locale } = useI18n();
+const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
+
+const { data: mooc } = await useAsyncData(
+    "mooc-" + slug.value,
+    async () => {
+        const collection = ("moocs_" + locale.value) as keyof Collections;
+
+        const mooc = await queryCollection(collection).path(`/moocs/${slug.value}`).first();
+
+        if (!mooc && locale.value !== "fr") {
+            return await queryCollection("moocs_fr").path(`/moocs/${slug.value}`).first();
+        }
+
+        return mooc;
+    },
+    {
+        watch: [locale],
+    },
+);
 </script>
 
 <template>
@@ -57,8 +78,8 @@ const { data: mooc } = await useAsyncData(() => queryCollection("moocs").path(ro
         v-else
         :error="{
             statusCode: 404,
-            statusMessage: 'Page not found',
-            message: 'The page you are looking for does not exist.',
+            statusMessage: 'MOOC not found',
+            message: 'The MOOC you are looking for does not exist.',
         }"
     />
 </template>
