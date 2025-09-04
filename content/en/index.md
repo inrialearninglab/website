@@ -45,7 +45,7 @@ links:
       variant: subtle
       trailingIcon: 'lucide:arrow-right'
 ---
-![Preview](/images/epoc-preview.png)
+![Preview](https://placehold.co/600x400)
 ::
 
 ::UPageSection
