@@ -16,17 +16,17 @@ export default defineAppConfig({
                     children: [
                         {
                             label: "ePocs",
-                            description: "Découvrez la collection ePocs Inria",
+                            description: "Découvrez notre collection d'ePocs",
                             to: "/epocs",
                         },
                         {
                             label: "MOOCs",
-                            description: "Découvrez les MOOCs produit par le Learning Lab",
+                            description: "Découvrez nos MOOCs",
                             to: "/moocs",
                         },
                         {
                             label: "Jeux sérieux",
-                            description: "Découvrez les jeux sérieux de l'Inria",
+                            description: "Découvrez nos jeux sérieux",
                             to: "/serious-games",
                         },
                     ],
@@ -50,17 +50,17 @@ export default defineAppConfig({
                     children: [
                         {
                             label: "ePocs",
-                            description: "Discover the ePocs collection by Inria",
+                            description: "Discover our ePocs collection",
                             to: "/en/epocs",
                         },
                         {
                             label: "MOOCs",
-                            description: "Discover the MOOCs produced by the Learning Lab",
+                            description: "Discover our MOOCs",
                             to: "/en/moocs",
                         },
                         {
                             label: "Serious Games",
-                            description: "Discover the serious games of Inria",
+                            description: "Discover our serious games",
                             to: "/en/serious-games",
                         },
                     ],
