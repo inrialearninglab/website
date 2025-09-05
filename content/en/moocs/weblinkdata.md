@@ -7,7 +7,7 @@ image: /images/mooc/pweblinkdata.png
 url: https://www.fun-mooc.fr/fr/cours/introduction-to-a-web-of-linked-data/
 investment:
 assesment:
-lang: ["fr"]
+lang: ["en"]
 trailer: https://www.youtube.com/embed/K6hj819Sezc?si=TvkZftg3oMnx28Bc
 ---
 Parmi ses nombreuses évolutions, le Web est devenu un moyen pour les applications d’échanger des données. Chaque jour, nous consommons et produisons ces données à travers une variété d’applications qui fonctionnent sur une variété de dispositifs. Cette évolution majeure du Web s’applique à tous les domaines d’activité.

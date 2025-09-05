@@ -7,7 +7,7 @@ status: closed
 url: https://france-universite-numerique-mooc.fr
 investment:
 assesment:
-lang: ["fr"]
+lang: ["en"]
 trailer: https://www.youtube.com/embed/c0YQRh0oUrM?si=lbjlb1Km_dCy-w_-
 ---
 This MOOC was created by Inria’s MoocLab, as part of the uTOP project ( http://utop.fr/ – http://utop.inria.fr/). uTOP is an IDEFI project that aims to create a demonstrator for increasing research visibility through out training.

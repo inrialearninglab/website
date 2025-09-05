@@ -7,7 +7,7 @@ status: closed
 url: https://www.fun-mooc.fr/fr/cours/internet-measurements-a-hands-on-introduction/
 investment:
 assesment:
-lang: ["fr"]
+lang: ["en"]
 trailer: https://www.youtube.com/embed/De0CI9r1-r4?si=6K16Tlg5ahwzEqxs
 ---
 Le MOOC « Internet Measurements: a Hands-on Introduction » est enseigné par Timur Friedman de l’UPMC et Renata Teixeira d’Inria.

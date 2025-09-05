@@ -7,7 +7,7 @@ status: closed
 url: https://www.youtube.com/embed/0nnGPte_tck?si=srEjX6Q6jEhR0N0V
 investment:
 assesment:
-lang: ["fr"]
+lang: ["en"]
 trailer: https://www.youtube.com/embed/0nnGPte_tck?si=srEjX6Q6jEhR0N0V
 ---
 Starting on June 24, 2019 for a period of one year, the Mooc “Technological challenges of participatory smart cities” presents the technological architecture required for Smart Cities and prepares cities and companies for a comprehensive and interoperable approach.

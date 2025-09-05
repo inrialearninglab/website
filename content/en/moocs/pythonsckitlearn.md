@@ -7,7 +7,7 @@ status: open
 url: https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/
 investment:
 assesment:
-lang: ["fr"]
+lang: ["en"]
 trailer: https://www.youtube.com/embed/ZHUU9ppmOq8?si=13e8X6w7uxSSyMDC
 ---
 Construire des modèles prédictifs avec scikit-learn et acquérir une compréhension pratique des forces et limites de l’apprentissage automatique !
