@@ -15,6 +15,7 @@ const { locale, setLocale, defaultLocale } = useI18n();
         <UNavigationMenu :items="header.nav[locale]" />
 
         <template #right>
+            <UContentSearchButton />
             <UColorModeButton />
             <ULocaleSelect
                 variant="ghost"
