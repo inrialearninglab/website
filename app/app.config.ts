@@ -1,9 +1,4 @@
 export default defineAppConfig({
-    ui: {
-        colors: {
-            primary: "primary",
-        },
-    },
     header: {
         nav: {
             fr: [
@@ -235,4 +230,19 @@ export default defineAppConfig({
             ],
         },
     ],
+    ui: {
+        colors: {
+            primary: "primary",
+        },
+        pageSection: {
+            slots: {
+                container: "py-8!",
+            },
+        },
+        pageHero: {
+            slots: {
+                container: "py-16!",
+            },
+        },
+    },
 });
