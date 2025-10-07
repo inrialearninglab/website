@@ -11,4 +11,22 @@ export default defineNuxtConfig({
         ],
         defaultLocale: "fr",
     },
+    nitro: {
+        static: true,
+        prerender: {
+            crawlLinks: true,
+            routes: ["/", "/fr"],
+            failOnError: false,
+        },
+    },
+
+    routeRules: {
+        "/**": { prerender: true },
+    },
+
+    router: {
+        options: {
+            strict: false,
+        },
+    },
 });

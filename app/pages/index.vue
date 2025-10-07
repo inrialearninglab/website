@@ -4,6 +4,7 @@ import type { Collections } from "@nuxt/content";
 const { locale } = useI18n();
 
 const { data: home } = await useAsyncData(
+    `home-${locale.value}`,
     async () => {
         const collection = ("content_" + locale.value) as keyof Collections;
         const content = await queryCollection(collection).path("/").first();

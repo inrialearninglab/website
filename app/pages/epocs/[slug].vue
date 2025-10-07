@@ -6,7 +6,7 @@ const { locale } = useI18n();
 const route = useRoute();
 const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
 const { data: epoc } = await useAsyncData(
-    "epoc-" + slug.value,
+    `epoc-${slug.value}-${locale.value}`,
     async () => {
         const collection = ("epocs_" + locale.value) as keyof Collections;
 

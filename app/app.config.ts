@@ -208,6 +208,10 @@ export default defineAppConfig({
                     icon: "lucide:github",
                     to: "https://github.com/NathanViaud",
                 },
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/nathan-viaud-109b09205",
+                },
             ],
         },
         {

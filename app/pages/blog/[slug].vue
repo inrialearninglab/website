@@ -8,7 +8,7 @@ const { locale } = useI18n();
 const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
 
 const { data: article } = await useAsyncData(
-    "article-" + slug.value,
+    `article-${slug.value}-${locale.value}`,
     async () => {
         const collection = ("blog_" + locale.value) as keyof Collections;
 
