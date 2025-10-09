@@ -5,6 +5,8 @@ const { locale } = useI18n();
 </script>
 
 <template>
+    <USeparator icon="lucide:graduation-cap" class="mt-0 h-px" />
+
     <UFooter>
         <template #left>
             <p class="text-muted text-sm">{{ footer.copyright }}</p>

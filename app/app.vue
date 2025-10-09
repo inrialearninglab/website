@@ -21,9 +21,9 @@ const searchTerm = ref("");
         <div class="min-h-screen flex flex-col">
             <NuxtRouteAnnouncer />
             <LayoutHeader />
-            <UContainer class="flex-1!">
+            <NuxtLayout>
                 <NuxtPage class="w-full" />
-            </UContainer>
+            </NuxtLayout>
             <LayoutFooter />
         </div>
     </UApp>

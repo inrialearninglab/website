@@ -1,0 +1,110 @@
+hero:
+    title: Inria Learning Lab
+    description: "Inria Learning Lab conçoit et produit des ressources éducatives libres et des environnements technologiques d'apprentissage innovants. Notre objectif : rendre le numérique accessible et compréhensible pour tous grâce à des parcours et ressources pédagogiques de qualité."
+
+activity:
+    title: Découvrez nos activités
+    links:
+        - label: Voir toutes les actualités
+          to: /blog
+          color: neutral
+          variant: subtle
+          trailingIcon: "lucide:arrow-right"
+
+moocs:
+    title: Découvrez nos MOOCs
+    description: Les formations en ligne complètes
+    orientation: horizontal
+    reverse: true
+    links:
+        - label: Voir tous les MOOCs
+          to: /moocs
+          color: neutral
+          variant: subtle
+          trailingIcon: "lucide:arrow-right"
+    image: https://placehold.co/600x400
+
+epocs:
+    title: Découvrez nos ePocs
+    description: Les apprentissages sur mobile
+    orientation: horizontal
+    links:
+        - label: Voir tous les ePocs
+          to: /epocs
+          color: neutral
+          variant: subtle
+          trailingIcon: "lucide:arrow-right"
+    image: https://placehold.co/600x400
+
+seriousGames:
+    title: Découvrez nos jeux sérieux
+    description: Sensibilisez par le jeu
+    orientation: horizontal
+    reverse: true
+    links:
+        - label: Voir les jeux sérieux
+          to: /serious-games
+          color: neutral
+          variant: subtle
+          trailingIcon: "lucide:arrow-right"
+    image: https://placehold.co/600x400
+
+testimonials:
+    headline: Note
+    title: Ils ont travaillé avec nous.
+    description: Laissez nous vous accompagner pour créer votre prochaine formation en ligne
+    items:
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          user:
+              name: Sarah Chen
+              description: CTO at TechScale Solutions
+              avatar:
+                  src: https://i.pravatar.cc/120?img=1
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          user:
+              name: Marcus Rodriguez
+              description: VP of Engineering at DataFlow
+              avatar:
+                  src: https://i.pravatar.cc/120?img=7
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          user:
+              name: David Kumar
+              description: Security Director at SecureStack
+              avatar:
+                  src: https://i.pravatar.cc/120?img=3
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          user:
+              name: Emily Zhang
+              description: Lead Architect at ScaleForce
+              avatar:
+                  src: https://i.pravatar.cc/120?img=5
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          user:
+              name: James Wilson
+              description: DevOps Lead at CloudPro
+              avatar:
+                  src: https://i.pravatar.cc/120?img=8
+# 13 images ici
+marquee:
+    - /images/mooc/ai4t.png
+    - /images/mooc/iai.png
+    - /images/mooc/impactnum.png
+    - /images/mooc/nsi.png
+    - /images/mooc/rr.png
+    - /images/mooc/scikit-learn.jpg
+    - /images/mooc/ppythonfond.png
+    - /images/mooc/pnsipratique.png
+    - /images/mooc/pimpactnum.png
+    - /images/mooc/pharo.png
+    - /images/mooc/snt.png
+    - /images/mooc/picn.png
+    - /images/mooc/pthymi.png
+
+cta:
+    title: Contact us
+    description: Lorem ipsum qlf qm jqsdfj qksdfq sfdqk
+    variant: naked
+    links:
+        - label: ill-contact@inria.fr
+          to: "mailto:ill-contact@inria.fr"
+          trailingIcon: "lucide:mail"
