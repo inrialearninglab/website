@@ -3,6 +3,7 @@ import { useDateFormat } from "@vueuse/core";
 import { withoutLeadingSlash } from "ufo";
 import type { Collections } from "@nuxt/content";
 
+const appConfig = useAppConfig();
 const route = useRoute();
 const { locale } = useI18n();
 const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { Collections } from "@nuxt/content";
 
-const { locale } = useI18n();
+const { locale, defaultLocale } = useI18n();
 
 const { data: home } = await useAsyncData(
     `home-${locale.value}`,
@@ -20,6 +20,12 @@ const { data: home } = await useAsyncData(
     },
 );
 
+const { data: articles } = await useAsyncData(`blog-preview-${locale.value}`, async () => {
+    const collection = ("blog_" + locale.value) as keyof Collections;
+
+    return queryCollection(collection).where("path", "NOT LIKE", "/blog").order("date", "DESC").limit(3).all();
+});
+
 useSeoMeta({
     title: home.value?.title,
     description: home.value?.description,
@@ -37,7 +43,16 @@ definePageMeta({
 
             <HeroBackground />
 
-            <UPageSection v-bind="home.body.activity"> </UPageSection>
+            <UPageSection v-bind="home.body.activity">
+                <UBlogPosts>
+                    <UBlogPost
+                        v-for="(post, index) in articles"
+                        :key="index"
+                        v-bind="post"
+                        :to="(locale === defaultLocale ? '' : `/${locale}`) + post.path"
+                    />
+                </UBlogPosts>
+            </UPageSection>
 
             <UPageSection v-bind="home.body.moocs">
                 <NuxtImg :src="home.body.moocs.image" />
@@ -81,7 +96,7 @@ definePageMeta({
                         root: '[--duration:40s] absolute w-[460px] -left-[100px] -top-[300px] h-[940px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
                     }"
                 >
-                    <img
+                    <NuxtImg
                         v-for="i in 4"
                         :key="i"
                         :src="home.body.marquee[i]"
@@ -98,7 +113,7 @@ definePageMeta({
                         root: '[--duration:40s] absolute w-[460px] -top-[400px] left-[480px] h-[1160px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
                     }"
                 >
-                    <img
+                    <NuxtImg
                         v-for="i in [5, 6, 7, 8]"
                         :key="i"
                         :src="home.body.marquee[i]"
@@ -116,7 +131,7 @@ definePageMeta({
                         root: 'hidden md:flex [--duration:40s] absolute w-[460px] -top-[300px] left-[1020px] h-[1060px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
                     }"
                 >
-                    <img
+                    <NuxtImg
                         v-for="i in [9, 10, 11, 12]"
                         :key="i"
                         :src="home.body.marquee[i]"

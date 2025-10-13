@@ -1,4 +1,10 @@
 export default defineAppConfig({
+    tags: {
+        milestone: {
+            fr: "Chiffre clé",
+            en: "Milestone",
+        },
+    },
     header: {
         nav: {
             fr: [
@@ -27,8 +33,8 @@ export default defineAppConfig({
                     ],
                 },
                 {
-                    label: "Education scientifique",
-                    to: "/scientific-education",
+                    label: "Équipe",
+                    to: "/team",
                 },
                 {
                     label: "Publications",
@@ -61,8 +67,8 @@ export default defineAppConfig({
                     ],
                 },
                 {
-                    label: "Scientific Education",
-                    to: "/en/scientific-education",
+                    label: "Team",
+                    to: "/en/team",
                 },
             ],
         },
@@ -240,12 +246,12 @@ export default defineAppConfig({
         },
         pageSection: {
             slots: {
-                container: "py-8!",
+                container: "py-4!",
             },
         },
         pageHero: {
             slots: {
-                container: "py-16!",
+                container: "py-8!",
             },
         },
     },
