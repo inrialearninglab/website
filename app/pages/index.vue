@@ -66,82 +66,86 @@ definePageMeta({
                 <NuxtImg :src="home.body.seriousGames.image" />
             </UPageSection>
 
-            <UPageSection
-                id="testimonials"
-                :headline="home.body.testimonials.headline"
-                :title="home.body.testimonials.title"
-                :description="home.body.testimonials.description"
-            >
-                <UPageColumns class="xl:columns-4">
-                    <UPageCard
-                        v-for="(testimonial, index) in home.body.testimonials.items"
-                        :key="index"
-                        variant="subtle"
-                        :description="testimonial.quote"
-                        :ui="{ description: 'before:content-[open-quote] after:content-[close-quote]' }"
-                    >
-                        <template #footer>
-                            <UUser v-bind="testimonial.user" size="lg" />
-                        </template>
-                    </UPageCard>
-                </UPageColumns>
-            </UPageSection>
+            <UContainer>
+                <UPageSection
+                    id="testimonials"
+                    :headline="home.body.testimonials.headline"
+                    :title="home.body.testimonials.title"
+                    :description="home.body.testimonials.description"
+                >
+                    <UPageColumns class="xl:columns-4">
+                        <UPageCard
+                            v-for="(testimonial, index) in home.body.testimonials.items"
+                            :key="index"
+                            variant="subtle"
+                            :description="testimonial.quote"
+                            :ui="{ description: 'before:content-[open-quote] after:content-[close-quote]' }"
+                        >
+                            <template #footer>
+                                <UUser v-bind="testimonial.user" size="lg" />
+                            </template>
+                        </UPageCard>
+                    </UPageColumns>
+                </UPageSection>
+            </UContainer>
 
-            <div class="relative w-full h-[400px] bg-muted overflow-hidden mb-0">
-                <UMarquee
-                    reverse
-                    orientation="vertical"
-                    :overlay="false"
-                    :ui="{
-                        root: '[--duration:40s] absolute w-[460px] -left-[100px] -top-[300px] h-[940px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
-                    }"
-                >
-                    <NuxtImg
-                        v-for="i in 4"
-                        :key="i"
-                        :src="home.body.marquee[i]"
-                        width="460"
-                        height="258"
-                        :alt="`Image ${i}`"
-                        class="aspect-video border border-default rounded-lg bg-white"
-                    />
-                </UMarquee>
-                <UMarquee
-                    orientation="vertical"
-                    :overlay="false"
-                    :ui="{
-                        root: '[--duration:40s] absolute w-[460px] -top-[400px] left-[480px] h-[1160px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
-                    }"
-                >
-                    <NuxtImg
-                        v-for="i in [5, 6, 7, 8]"
-                        :key="i"
-                        :src="home.body.marquee[i]"
-                        width="460"
-                        height="258"
-                        :alt="`Image ${i}`"
-                        class="aspect-video border border-default rounded-lg bg-white"
-                    />
-                </UMarquee>
-                <UMarquee
-                    reverse
-                    orientation="vertical"
-                    :overlay="false"
-                    :ui="{
-                        root: 'hidden md:flex [--duration:40s] absolute w-[460px] -top-[300px] left-[1020px] h-[1060px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
-                    }"
-                >
-                    <NuxtImg
-                        v-for="i in [9, 10, 11, 12]"
-                        :key="i"
-                        :src="home.body.marquee[i]"
-                        width="460"
-                        height="258"
-                        :alt="`Image ${i}`"
-                        class="aspect-video border border-default rounded-lg bg-white"
-                    />
-                </UMarquee>
-            </div>
+            <UContainer>
+                <div class="relative w-full h-[400px] bg-muted overflow-hidden mb-0">
+                    <UMarquee
+                        reverse
+                        orientation="vertical"
+                        :overlay="false"
+                        :ui="{
+                            root: '[--duration:40s] absolute w-[460px] -left-[100px] -top-[300px] h-[940px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
+                        }"
+                    >
+                        <NuxtImg
+                            v-for="i in 4"
+                            :key="i"
+                            :src="home.body.marquee[i]"
+                            width="460"
+                            height="258"
+                            :alt="`Image ${i}`"
+                            class="aspect-video border border-default rounded-lg bg-white"
+                        />
+                    </UMarquee>
+                    <UMarquee
+                        orientation="vertical"
+                        :overlay="false"
+                        :ui="{
+                            root: '[--duration:40s] absolute w-[460px] -top-[400px] left-[480px] h-[1160px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
+                        }"
+                    >
+                        <NuxtImg
+                            v-for="i in [5, 6, 7, 8]"
+                            :key="i"
+                            :src="home.body.marquee[i]"
+                            width="460"
+                            height="258"
+                            :alt="`Image ${i}`"
+                            class="aspect-video border border-default rounded-lg bg-white"
+                        />
+                    </UMarquee>
+                    <UMarquee
+                        reverse
+                        orientation="vertical"
+                        :overlay="false"
+                        :ui="{
+                            root: 'hidden md:flex [--duration:40s] absolute w-[460px] -top-[300px] left-[1020px] h-[1060px] transform-3d rotate-x-55 rotate-y-0 rotate-z-30',
+                        }"
+                    >
+                        <NuxtImg
+                            v-for="i in [9, 10, 11, 12]"
+                            :key="i"
+                            :src="home.body.marquee[i]"
+                            width="460"
+                            height="258"
+                            :alt="`Image ${i}`"
+                            class="aspect-video border border-default rounded-lg bg-white"
+                        />
+                    </UMarquee>
+                </div>
+            </UContainer>
 
             <USeparator class="mb-0" />
 

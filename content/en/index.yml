@@ -5,7 +5,7 @@ activity:
     title: Discover our activities
     links:
         - label: See all news
-          to: /blog
+          to: blog
           color: neutral
           variant: subtle
           trailingIcon: "lucide:arrow-right"
@@ -16,7 +16,7 @@ moocs:
     reverse: true
     links:
         - label: See all MOOCs
-          to: /moocs
+          to: moocs
           color: neutral
           variant: subtle
           trailingIcon: "lucide:arrow-right"
@@ -27,7 +27,7 @@ epocs:
     orientation: horizontal
     links:
         - label: See all ePocs
-          to: /epocs
+          to: epocs
           color: neutral
           variant: subtle
           trailingIcon: "lucide:arrow-right"
@@ -39,7 +39,7 @@ seriousGames:
     reverse: true
     links:
         - label: See serious games
-          to: /serious-games
+          to: serious-games
           color: neutral
           variant: subtle
           trailingIcon: "lucide:arrow-right"
