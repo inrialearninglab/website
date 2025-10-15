@@ -29,4 +29,7 @@ export default defineNuxtConfig({
             strict: false,
         },
     },
+    image: {
+        provider: import.meta.env.NODE_ENV === "development" ? "none" : "ipx",
+    },
 });
