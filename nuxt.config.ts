@@ -4,6 +4,11 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     modules: ["@nuxt/ui", "@nuxt/content", "@nuxt/icon", "@nuxtjs/color-mode", "@nuxt/image", "@nuxtjs/i18n"],
     css: ["~/assets/css/tailwind.css"],
+    app: {
+        head: {
+            link: [{ rel: "icon", type: "image/x-icon", href: "/logo/favicon.ico" }],
+        },
+    },
     i18n: {
         locales: [
             { code: "en", name: "English", language: "en-US" },

@@ -8,7 +8,7 @@ const { locale, setLocale, defaultLocale } = useI18n();
 <template>
     <UHeader :to="locale === defaultLocale ? '/' : `/${locale}`">
         <template #title>
-            <NuxtImg src="/logo/ill-logo.png" alt="" class="h-7" />
+            <UColorModeImage light="/logo/ill-logo.svg" dark="/logo/ill-logo-dark.svg" class="h-8" />
         </template>
 
         <UNavigationMenu :items="header.nav[locale]" />
