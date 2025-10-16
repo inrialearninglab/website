@@ -2,6 +2,7 @@
 import type { Collections } from "@nuxt/content";
 
 const { locale, defaultLocale } = useI18n();
+const localePath = useLocalePath();
 
 const { data: home } = await useAsyncData(
     `home-${locale.value}`,
@@ -49,7 +50,7 @@ definePageMeta({
                         v-for="(post, index) in articles"
                         :key="index"
                         v-bind="post"
-                        :to="(locale === defaultLocale ? '' : `/${locale}`) + post.path"
+                        :to="localePath(post.path)"
                     />
                 </UBlogPosts>
             </UPageSection>
@@ -90,7 +91,7 @@ definePageMeta({
             </UContainer>
 
             <UContainer>
-                <div class="relative w-full h-[400px] bg-muted overflow-hidden mb-0">
+                <div class="relative w-full h-[400px] bg-muted overflow-hidden mb-0 rounded">
                     <UMarquee
                         reverse
                         orientation="vertical"

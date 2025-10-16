@@ -23,6 +23,7 @@ const moocSchema = z.object({
 const blogSchema = z.object({
     date: z.string(),
     image: z.string(),
+    tags: z.array(z.string()),
 });
 
 const seriousGameSchema = z.object({
@@ -110,6 +111,19 @@ export default defineContentConfig({
                 prefix: "serious-games/",
             },
             schema: seriousGameSchema,
+        }),
+        tags: defineCollection({
+            type: "data",
+            source: "tags.yml",
+            schema: z.object({
+                tags: z.record(
+                    z.string(),
+                    z.object({
+                        en: z.string(),
+                        fr: z.string(),
+                    }),
+                ),
+            }),
         }),
     },
 });

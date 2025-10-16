@@ -4,6 +4,8 @@ description: ePoc, notre application Mobile Learning, atteint ses premiers 10 00
   téléchargements
 date: 2025-05-01
 image: https://learninglab.inria.fr/files/2025/04/bandeau-ePoc-300x175.png
+tags:
+    - milestone
 ---
 
 ::image-col

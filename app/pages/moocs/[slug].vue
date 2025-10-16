@@ -28,7 +28,7 @@ const { data: mooc } = await useAsyncData(
 
 <template>
     <UPage v-if="mooc">
-        <UPageHeader :title="mooc.title">
+        <UPageHeader :title="mooc.title" headline="MOOC">
             <template #links>
                 <MoocStatus :status="mooc.status" />
             </template>
