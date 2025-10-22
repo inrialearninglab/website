@@ -10,13 +10,16 @@ assesment:
 lang: ["fr"]
 trailer: https://www.youtube.com/embed/33JLFhyMbJQ?si=v1ZRdshIP5kI4_b2
 ---
+
+# Comment favoriser l'accès au monde numérique pour les personnes en situation de handicap
+
 Ce MOOC est un cours généraliste d'introduction à l'accessibilité numérique tant en termes de problématique générale que de présentation d'éléments de réponse concrets pour contribuer au développement de l'accessibilité numérique.
 
 ## Objectifs du cours
 À la fin de ce cours d’introduction à l’accessibilité numérique vous saurez :
 
 - Appréhender la diversité des situations de handicap dans le monde numérique.   
-- Connaître les normes existantes en matière d'accessibilité des sites web et des logiciels. 
+- Présenter les normes existantes en matière d'accessibilité des sites web et des logiciels. 
 - Concevoir des systèmes numériques ouverts au plus grand nombre. 
 - Utiliser Aïana, le lecteur multimédia spécifique développé par Inria pour prendre en compte les situations de handicap d’origine sensorielle et/ou motrice.
 

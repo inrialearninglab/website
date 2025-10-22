@@ -1,6 +1,6 @@
 ---
 title: Advanced object oriented design and development with Pharo
-description: Comment maîtriser les concepts avancés de la programmation orientée objet ? Ce MOOC vous plonge dans les principes fondamentaux et avancés de la conception orientée objet, avec des vidéos explicatives et des exercices pratiques pour renforcer vos compétences en programmation.
+description: Grasp the fundamental principles and advanced concepts of object-oriented programming
 date: 2024-06-19
 image: /images/mooc/pcoopharo.png
 status: open
@@ -10,9 +10,12 @@ assesment:
 lang: ["en"]
 trailer: https://www.youtube.com/embed/9HMYS-mzDKQ?si=Xxc1e0fMi71Vh5CB
 ---
-Le MOOC « Conception Orientée Objet Avancée » est conçu par des expertes et experts et enrichi par plus de 60 ans d’expérience dans l’enseignement de la conception orientée objet. Il vous offre une opportunité unique de maîtriser les concepts avancés de la programmation orientée objet.
 
-Ouvert dès le 17 juin !
+## Grasp the fundamental principles and advanced concepts of object-oriented programming
+
+_A traduire en anglais_
+
+Le MOOC « Conception Orientée Objet Avancée » est conçu par des expertes et experts et enrichi par plus de 60 ans d’expérience dans l’enseignement de la conception orientée objet. Il vous offre une opportunité unique de maîtriser les concepts avancés de la programmation orientée objet.
 
 ## Contenu et méthodologie du cours
 

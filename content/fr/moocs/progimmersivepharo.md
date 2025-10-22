@@ -10,6 +10,9 @@ assesment:
 lang: ["fr"]
 trailer: https://www.youtube.com/embed/-z83bmzRATM?si=GaYz9kAKVJWLrGOw
 ---
+
+## Programmation objet immersive en Pharo
+
 Que vous soyez débutant ou expert en programmation orientée objet, ce MOOC va changer votre façon de penser objet : venez apprendre ou redécouvrir la programmation objet grâce à Pharo !
 
 Cette nouvelle édition 2020 du cours « Programmation objet immersive en Pharo / Live Object Programming in Pharo » est basée sur la version 8.0 de Pharo, langage et environnement de programmation orienté objet.

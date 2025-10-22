@@ -1,6 +1,6 @@
 ---
-title: Advanced object oriented design and development with Pharo - new format
-description: How to master the advanced concepts of object-oriented programming? This MOOC immerses you in the fundamental and advanced principles of object-oriented design, with explanatory videos and practical exercises to reinforce your programming skills.
+title: Live Object Programming in Pharo
+description: Learn or rediscover object-oriented programming with Pharo.
 date: 2024-06-19
 image: /images/mooc/pcoopharo.png
 status: open
@@ -10,6 +10,9 @@ assesment:
 lang: ["en"]
 trailer: https://www.youtube.com/embed/9HMYS-mzDKQ?si=Xxc1e0fMi71Vh5CB
 ---
+
+_Revoir le contenu et meta données_
+
 ## Objectif pédagogique / Learning Objective
 **You will get to know and understand the key mechanisms and the essence of Object Oriented Design and discover Test-Driven Design (TDD).**
 
