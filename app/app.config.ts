@@ -239,6 +239,32 @@ export default defineAppConfig({
                 },
             ],
         },
+        {
+            name: "Tristan Rollet",
+            avatar: "https://avatars.githubusercontent.com/u/93080156?v=4",
+            title: "Alternant Ingénieur informatique",
+            links: [
+                {
+                    icon: "lucide:github",
+                    to: "https://github.com/TrRollet",
+                },
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/tristanrollet/?originalSubdomain=fr",
+                },
+            ],
+        },
+        {
+            name: "Laetitia Ecrement",
+            avatar: "/images/team/laetitia.jpg",
+            title: "Alternante Ingénieure Pédagogique",
+            links: [
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/laetitia-ecrement-2624a9201/",
+                },
+            ],
+        },
     ],
     ui: {
         colors: {
