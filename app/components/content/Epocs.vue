@@ -2,7 +2,7 @@
 import type { Collections } from "@nuxt/content";
 
 const { locale, defaultLocale } = useI18n();
-const { data: epocs } = await useAsyncData("epocs", async () => {
+const { data: epocs } = await useAsyncData(`epocs-${locale.value}`, async () => {
     const collection = ("epocs_" + locale.value) as keyof Collections;
 
     return queryCollection(collection).where("path", "NOT LIKE", `/epocs`).order("date", "DESC").all();

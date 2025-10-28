@@ -2,7 +2,7 @@
 import type { Collections } from "@nuxt/content";
 
 const { locale } = useI18n();
-const { data: seriousGames } = await useAsyncData(() => {
+const { data: seriousGames } = await useAsyncData(`serious-games-${locale.value}`, () => {
     const collection = ("seriousGames_" + locale.value) as keyof Collections;
 
     return queryCollection(collection).where("path", "NOT LIKE", "/serious-games").all();
