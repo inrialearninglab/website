@@ -3,12 +3,10 @@ hero:
     description: "Inria Learning Lab conçoit et produit des ressources éducatives libres et des environnements technologiques d'apprentissage innovants. Notre objectif : former aux domaines d’expertise d’Inria grâce à des parcours et ressources pédagogiques de qualité et rendre le numérique accessible et compréhensible par toutes et tous."
 
 activity:
-    title: Découvrez nos activités
+    reverse: true
     links:
         - label: Voir toutes les actualités
           to: blog
-          color: neutral
-          variant: subtle
           trailingIcon: "lucide:arrow-right"
 
 moocs:
@@ -19,8 +17,6 @@ moocs:
     links:
         - label: Voir tous les MOOCs
           to: moocs
-          color: neutral
-          variant: subtle
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 
@@ -31,8 +27,6 @@ epocs:
     links:
         - label: Voir tous les ePocs
           to: epocs
-          color: neutral
-          variant: subtle
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 
@@ -44,8 +38,6 @@ seriousGames:
     links:
         - label: Voir les jeux sérieux
           to: serious-games
-          color: neutral
-          variant: subtle
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 

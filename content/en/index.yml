@@ -6,8 +6,6 @@ activity:
     links:
         - label: See all news
           to: blog
-          color: neutral
-          variant: subtle
           trailingIcon: "lucide:arrow-right"
 moocs:
     title: Discover our MOOCs
@@ -17,8 +15,6 @@ moocs:
     links:
         - label: See all MOOCs
           to: moocs
-          color: neutral
-          variant: subtle
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 epocs:
@@ -28,8 +24,6 @@ epocs:
     links:
         - label: See all ePocs
           to: epocs
-          color: neutral
-          variant: subtle
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 seriousGames:
@@ -40,8 +34,6 @@ seriousGames:
     links:
         - label: See serious games
           to: serious-games
-          color: neutral
-          variant: subtle
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 testimonials:

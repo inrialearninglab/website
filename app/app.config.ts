@@ -74,7 +74,7 @@ export default defineAppConfig({
         },
     },
     footer: {
-        copyright: "Copyright © Inria Learning Lab",
+        copyright: "Copyright © Inria",
         links: {
             fr: [
                 {
@@ -103,16 +103,8 @@ export default defineAppConfig({
                 to: "https://www.youtube.com/playlist?list=PLJ1qHZpFsMsR7wceUpWOVTjJhI4gBC0wk",
             },
             {
-                icon: "simple-icons:twitter",
-                to: "https://twitter.com/InriaLearnLab",
-            },
-            {
                 icon: "simple-icons:linkedin",
                 to: "https://www.linkedin.com/in/inrialearninglab/",
-            },
-            {
-                icon: "simple-icons:facebook",
-                to: "https://www.facebook.com/Inria-Learning-Lab-269656773437569/",
             },
         ],
     },
@@ -129,7 +121,7 @@ export default defineAppConfig({
             ],
         },
         {
-            name: "Marie Colin",
+            name: "Marie Collin",
             avatar: "/images/team/marie.jpg",
             title: "Ingénieure Pédagogique / Product Owner",
             links: [

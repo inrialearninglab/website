@@ -5,7 +5,10 @@ const { locale, defaultLocale } = useI18n();
 const { data: moocs } = await useAsyncData(`moocs-${locale.value}`, async () => {
     const collection = ("moocs_" + locale.value) as keyof Collections;
 
-    return queryCollection(collection).where("path", "NOT LIKE", "/moocs").order("date", "DESC").all();
+    const results = await queryCollection(collection).where("path", "NOT LIKE", "/moocs").order("date", "DESC").all();
+    const statusOrder = { open: 0, archived: 1, closed: 2 };
+
+    return results.sort((a, b) => statusOrder[a.status] - statusOrder[b.status]);
 });
 </script>
 

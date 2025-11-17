@@ -44,17 +44,6 @@ definePageMeta({
 
             <HeroBackground />
 
-            <UPageSection v-bind="home.body.activity">
-                <UBlogPosts>
-                    <UBlogPost
-                        v-for="(post, index) in articles"
-                        :key="index"
-                        v-bind="post"
-                        :to="localePath(post.path)"
-                    />
-                </UBlogPosts>
-            </UPageSection>
-
             <UPageSection v-bind="home.body.moocs">
                 <NuxtImg :src="home.body.moocs.image" />
             </UPageSection>
@@ -65,6 +54,17 @@ definePageMeta({
 
             <UPageSection v-bind="home.body.seriousGames">
                 <NuxtImg :src="home.body.seriousGames.image" />
+            </UPageSection>
+
+            <UPageSection v-bind="home.body.activity">
+                <UBlogPosts>
+                    <UBlogPost
+                        v-for="(post, index) in articles"
+                        :key="index"
+                        v-bind="post"
+                        :to="localePath(post.path)"
+                    />
+                </UBlogPosts>
             </UPageSection>
 
             <UContainer>

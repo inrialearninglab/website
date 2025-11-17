@@ -40,4 +40,11 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 
 À la fin du debrief, les participant·es seront capables de remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique.
 
-Pour prendre en main le jeu : [Site de phone impact](https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Jeu/Presentation.html)
+::u-button
+---
+label: Voir le site
+to: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Jeu/Presentation.html
+trailing-icon: lucide:arrow-up-right
+size: xl
+---
+::

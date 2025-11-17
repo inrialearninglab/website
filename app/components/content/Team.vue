@@ -21,7 +21,7 @@ const { team } = useAppConfig();
                     variant="subtle"
                 >
                     <template #leading>
-                        <UAvatar :src="user.avatar" size="3xl" class="mx-auto" />
+                        <UAvatar :src="user.avatar" size="3xl" class="mx-auto" :ui="{ image: 'size-15!' }" />
                     </template>
                     <div class="flex items-center justify-center gap-1">
                         <UButton

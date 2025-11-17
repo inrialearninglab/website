@@ -62,15 +62,25 @@ const { data: mooc } = await useAsyncData(
             />
             <NuxtImg v-else :src="mooc.image" alt="thumbnail" class="w-full aspect-video rounded-md" />
 
+            <div class="flex items-center justify-center">
+                <UButton
+                    trailing-icon="lucide:arrow-up-right"
+                    size="xl"
+                    :label="mooc.url ? 'Voir le cours' : 'Ce cours n\'est plus accessible'"
+                    :to="mooc.url"
+                    :disabled="!mooc.url"
+                />
+            </div>
+
+            <ContentRenderer :value="mooc" />
+
             <UButton
-                block
-                size="lg"
+                trailing-icon="lucide:arrow-up-right"
+                size="xl"
                 :label="mooc.url ? 'Voir le cours' : 'Ce cours n\'est plus accessible'"
                 :to="mooc.url"
                 :disabled="!mooc.url"
             />
-
-            <ContentRenderer :value="mooc" />
         </UPageBody>
     </UPage>
 
