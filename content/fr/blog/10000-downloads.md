@@ -3,16 +3,20 @@ title: 10 000 téléchargements
 description: ePoc, notre application Mobile Learning, atteint ses premiers 10 000
   téléchargements
 date: 2025-05-01
-image: https://learninglab.inria.fr/files/2025/04/bandeau-ePoc-300x175.png
+image: /images/blog/bandeau-ePoc.png
 tags:
     - milestone
 ---
 
-::image-col
+::u-page-section
 ---
-side: right
-src: https://learninglab.inria.fr/files/2025/04/ePoc-mobile-learning-app-edited.png
+orientation: horizontal
 ---
+
+![illustration application mobile ePoc](/images/blog/epoc-mobile-learning-app.png)
+
+#body
+
 **ePoc, notre solution libre de mobile learning atteint ses premiers 10 000 téléchargements. Entièrement gratuite, open source et ouverte à tous, elle offre aux acteurs de la formation et de l’éducation une solution simple et ergonomique pour créer et partager facilement un parcours d’apprentissage sur mobile tout en respectant la vie privée.**
 
 Depuis son lancement en 2022, ePoc a été adoptée par plus de 10 000 utilisateurs, en particulier dans le domaine de l’Éducation Nationale qui a rapidement manifesté son intérêt pour cette solution de mobile learning ouverte et gratuite, et créé des espaces collaboratifs pour le partage de pratiques pédagogiques basées sur l’utilisation d’ePoc.
@@ -28,10 +32,16 @@ Gratuite et accessible à tous, [l’application ePoc](https://epoc.inria.fr) es
 
 ## ePoc Editor, un éditeur simple et ergonomique pour créer ses propres formations mobiles
 
-::image-col
+::u-page-section
 ---
-src: https://learninglab.inria.fr/files/2025/04/epoc-Editor-600x337.png
+orientation: horizontal
+reverse: true
 ---
+
+![](/images/blog/epoc-Editor.png)
+
+#body
+
 La solution ePoc inclut également un éditeur de bureau, [ePoc Editor](https://epoc.inria.fr/editor), facile à prendre en main pour créer et partager sa propre formation.
 
 L’interface d’ePoc Editor permet :

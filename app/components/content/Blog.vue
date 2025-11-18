@@ -4,7 +4,7 @@ import type { Collections } from "@nuxt/content";
 
 const { locale, defaultLocale } = useI18n();
 const { data: articles } = await useAsyncData(`blog-${locale.value}`, async () => {
-    const collection = ("blog_" + locale.value) as keyof Collections;
+    const collection = ("blog_" + locale.value) as "blog_en" | "blog_fr";
 
     return queryCollection(collection).where("path", "NOT LIKE", "/blog").order("date", "DESC").all();
 });
@@ -14,9 +14,11 @@ const { data: articles } = await useAsyncData(`blog-${locale.value}`, async () =
     <UBlogPosts>
         <UBlogPost
             v-for="(post, index) in articles"
+            :orientation="index === 0 ? 'horizontal' : 'vertical'"
             :key="index"
             v-bind="post"
             :to="(locale === defaultLocale ? '' : `/${locale}`) + post.path"
+            :class="[index === 0 && 'col-span-full']"
         />
     </UBlogPosts>
 </template>
