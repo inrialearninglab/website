@@ -13,7 +13,7 @@ tags:
 orientation: horizontal
 ---
 
-![illustration application mobile ePoc](/images/blog/epoc-mobile-learning-app.png)
+![illustration application mobile ePoc](images/blog/epoc-mobile-learning-app.png)
 
 #body
 
@@ -38,7 +38,7 @@ orientation: horizontal
 reverse: true
 ---
 
-![](/images/blog/epoc-Editor.png)
+![](images/blog/epoc-Editor.png)
 
 #body
 

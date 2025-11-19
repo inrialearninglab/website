@@ -51,4 +51,4 @@ The goal of the Impact'Num MOOC is **to become an awareness-raising tool** and *
 
 Co-produced by [Inria](https://www.inria.fr/) and [Class’Code](https://pixees.fr/classcode-v2/) association, with the support of the Ministry of National Education, Youth and Sports and UNIT in collaboration with many contributors.
 
-![](/images/blog/Partenaires-1.jpg)
+![](images/blog/Partenaires-1.jpg)

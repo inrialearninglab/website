@@ -30,4 +30,4 @@ La veille est accessible sur ce lien : [https://eduscol.education.fr/2517/veille
 Outre la chaîne YouTube "MOOC NSI", n'hésitez pas à consulter **le portail NSI** afin de vous former à la spécialité NSI, grâce à son vaste contenu théorique.  
 Le portail est accessible sur ce lien : [https://mooc-nsi-snt.gitlab.io/portail](https://mooc-nsi-snt.gitlab.io/portail)
 
-![](/images/blog/Logo-Nsi2-3.png){style="max-width:24rem;"}
+![](images/blog/Logo-Nsi2-3.png){style="max-width:24rem;"}

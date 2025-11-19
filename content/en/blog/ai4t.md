@@ -4,7 +4,7 @@ description: "Implementing innovative teacher training methods specifically desi
 date: 2022-04-20
 image: /images/blog/Inria-0307-190-bandeau.png
 ---
-![](/images/blog/Inria-0307-190-bandeau.png)
+![](images/blog/Inria-0307-190-bandeau.png)
 
 Inria Learning Lab is taking part in the AI4T ([Artificial Intelligence for and by teachers](https://www.ai4t.eu/)) project with European Partners in France, Ireland, Italy, Luxembourg and Slovenia. The project consists in implementing innovative teacher training methods specifically designed to meet the challenges of AI in education.
 

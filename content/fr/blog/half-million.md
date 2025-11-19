@@ -9,7 +9,7 @@ Une étape symbolique vient d'être franchie pour nos cours en ligne sur la plat
 
 * * *
 
-![Infographie 1 demi million de participants](/images/blog/visuel-4-infographie.png)
+![Infographie 1 demi million de participants](images/blog/visuel-4-infographie.png)
 
 Depuis 2014, année de lancement du premier Mooc Inria sur FUN, Inria a créé **26 Moocs** couvrant de nombreux sujets en Informatique et Sciences du Numérique, destinés à des profils très variés : du "large public", pour les Moocs d'initiation et de découverte, aux ingénieurs et spécialistes pour les Moocs sur des sujets pointus issus de la recherche.
 

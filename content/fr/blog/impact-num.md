@@ -49,4 +49,4 @@ Le MOOC Impact’Num a pour ambition : **de devenir** **un outil de sensibilisat
 
 Ce Mooc a été co-réalisé par [Inria](https://www.inria.fr/) et l’Association [Class’Code](https://pixees.fr/classcode-v2/), et soutenu par la Délégation Numérique pour l’Education, en collaboration avec de nombreux contributeurs.
 
-![](/images/blog/Partenaires-1.jpg)
+![](images/blog/Partenaires-1.jpg)

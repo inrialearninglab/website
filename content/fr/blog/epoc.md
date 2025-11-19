@@ -26,7 +26,7 @@ Et bien sûr :
 - **Le smartphone et la planète** : identifier les impacts du smartphone sur l’environnement avec 3 scénarios illustrés : Serial Casseur, Autopsie d’un smartphone, La tête dans les nuages.
 - **Produire mon 1er ePoc** : 1 ePoc d’aide à la prise en main de l’éditeur d'ePoc.
 
-![](/images/epoc-showcase.png){style="width: 36rem; margin: auto;"}
+![](images/epoc-showcase.png){style="width: 36rem; margin: auto;"}
 
 Pour **télécharger l’application ePOC, rendez-vous sur le site** : [https://epoc.inria.fr/](https://epoc.inria.fr/?mtm_campaign=WebILL).
 

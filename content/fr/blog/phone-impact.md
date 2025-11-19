@@ -7,7 +7,7 @@ image: /images/blog/133_1x_shots_so.png
 
 Dans un monde où la technologie évolue à une vitesse fulgurante, il est facile de ne penser qu'à l'innovation et d'oublier ce qu'elle coûte à la planète. **PhoneImpact** vous plonge dans cette réalité en incarnant un·e fabricant·e de smartphones à **TechCity**, où la compétition est rude pour produire les téléphones les plus innovants. Mais une question cruciale demeure : **quel est l’impact environnemental et social de leur production ?**
 
-![](/images/blog/133_1x_shots_so-1.png)
+![](images/blog/133_1x_shots_so-1.png)
 
 ## Qu’est-ce que PhoneImpact ?
 

@@ -21,4 +21,4 @@ Début du cours le **6 avril 2020**;
 
 Une co-production Class’Code, Inria, Magic Maker, S24B l’Interactive avec la participation de 4 minutes 34, Data Bingo, Université de Nantes, La Compagnie du Code et de La Ligue de l’enseignement avec le soutien du Ministère de l’Éducation nationale et de la jeunesse, UNIT, EducAzur et leblob.fr
 
-![](/images/blog/credits-IAI.png)
+![](images/blog/credits-IAI.png)

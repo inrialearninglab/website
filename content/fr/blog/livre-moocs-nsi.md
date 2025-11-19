@@ -13,7 +13,7 @@ orientation: horizontal
 reverse: true
 ---
 
-![Couverture Ouvrage ICN-SNT-Python](/images/blog/a99c6b7a-inria-mooc-web-2021-04-14-cover.png)
+![Couverture Ouvrage ICN-SNT-Python](images/blog/a99c6b7a-inria-mooc-web-2021-04-14-cover.png)
 
 #body
 Disponible en libre usage (lecture, réutilisation), [cet ouvrage](https://raw.githubusercontent.com/ejazzfr/Inria-mooc-handbook/main/inria-mooc-web-2021-04-14.pdf) offre une initiation complète aux sciences du numérique par la transcription de 3 Mooc produits par Inria Learning Lab sur la plateforme FUN :

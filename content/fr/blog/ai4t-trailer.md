@@ -6,7 +6,7 @@ image: /images/blog/Capture-decran-2023-11-28-a-14.14.45.png
 ---
 
 <figure>
-    <img src="/images/blog/Capture-decran-2023-11-28-a-14.14.45.png" />
+    <img src="images/blog/Capture-decran-2023-11-28-a-14.14.45.png" />
     <figcaption>
         Extrait du module 2 du MOOC sur FUN : Qu'est-ce que l'IA ?
     </figcaption>
