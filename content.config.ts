@@ -34,20 +34,6 @@ const seriousGameSchema = z.object({
 
 export default defineContentConfig({
     collections: {
-        content_fr: defineCollection({
-            type: "page",
-            source: {
-                include: "fr/**",
-                prefix: "",
-            },
-        }),
-        content_en: defineCollection({
-            type: "page",
-            source: {
-                include: "en/**",
-                prefix: "",
-            },
-        }),
         epocs_fr: defineCollection({
             type: "page",
             source: {
@@ -124,6 +110,21 @@ export default defineContentConfig({
                     }),
                 ),
             }),
+        }),
+        // IMPORTANT : The catch all content HAVE to be defined at the end for the hot reload to work correctly
+        content_fr: defineCollection({
+            type: "page",
+            source: {
+                include: "fr/**",
+                prefix: "",
+            },
+        }),
+        content_en: defineCollection({
+            type: "page",
+            source: {
+                include: "en/**",
+                prefix: "",
+            },
         }),
     },
 });
