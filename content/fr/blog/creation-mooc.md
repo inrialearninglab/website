@@ -1,20 +1,24 @@
 ---
-title: "[:fr]Le processus de conception de MOOC chez Inria Learning Lab[:]"
+title: "Le processus de conception de MOOC chez Inria Learning Lab"
+description: ""
 date: 2017-10-18
-categories: 
-  - "actualites"
----
+image: images/blog/conception-dun-mooc.png
+--- 
 
-\[:fr\]La conception d'un MOOC, depuis la prise de contact avec les auteurs, jusqu'au lancement du cours, dure environ 9 mois. Nous travaillons dans une démarche qui correspond schématiquement à 4 grandes étapes :
+La conception d'un MOOC, depuis la prise de contact avec les auteurs, jusqu'au lancement du cours, dure environ 9 mois. Nous travaillons dans une démarche qui correspond schématiquement à 4 grandes étapes :
 
 - analyse de la situation et définition des objectifs
 - conception du cours
 - déroulement
 - fin du cours et bilan
 
-[![](https://learninglab.inria.fr/files/2017/10/conception-dun-mooc-300x143.png)](https://learninglab.inria.fr/files/2017/10/conception-dun-mooc.png)
+<figure>
+    <img src="images/blog/conception-dun-mooc.png" style="max-width:36rem;margin:auto;" />
+    <figcaption>
+        Figure 1 : chronologie du processus type de conception d'un MOOC
+    </figcaption>
+</figure>
 
-Figure 1 : chronologie du processus type de conception d'un MOOC
 
 ## Analyse de la situation et des besoins
 
@@ -70,4 +74,4 @@ Les ingénieurs pédagogiques ferment les forums mais le cours reste disponible 
 
 Il est alors temps de collecter et d'analyser les données (questionnaires, données FUN) pour faire un bilan de la session passée et, le cas échéant, préparer la suivante (corrections, propositions d'évolution, etc.).
 
-Dans une démarche de valorisation et de pérennisation, nous déposons les vidéos et supports du MOOC sur le site Canal-U.\[:\]
+Dans une démarche de valorisation et de pérennisation, nous déposons les vidéos et supports du MOOC sur le site Canal-U.

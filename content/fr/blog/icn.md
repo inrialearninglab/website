@@ -1,19 +1,11 @@
 ---
-title: "[:fr]MOOC ICN (Informatique et Création Numérique)[:]"
+title: "MOOC ICN (Informatique et Création Numérique)"
+description: ""
 date: 2019-03-15
-categories: 
-  - "actualites"
-  - "cours"
-tags: 
-  - "icn"
-  - "informatique"
-  - "initiation"
-  - "mooc"
-  - "numerique"
-coverImage: "C021TV-icn.jpg"
+image: images/blog/C021TV-icn.jpg
 ---
 
-\[:fr\][![C021TV-icn](https://learninglab.inria.fr/files/2017/02/C021TV-icn-300x200.jpg)](https://learninglab.inria.fr/files/2017/02/C021TV-icn.jpg)
+![C021TV-icn](https://learninglab.inria.fr/files/2017/02/C021TV-icn.jpg)
 
  
 
