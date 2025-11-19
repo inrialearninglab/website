@@ -1,17 +1,17 @@
 <script setup lang="ts">
 import type { Collections } from "@nuxt/content";
 
-const { locale, defaultLocale } = useI18n();
+const { locale } = useI18n();
 const localePath = useLocalePath();
 
 const { data: home } = await useAsyncData(
     `home-${locale.value}`,
     async () => {
-        const collection = ("content_" + locale.value) as keyof Collections;
-        const content = await queryCollection(collection).path("/").first();
+        const collection = ("home_" + locale.value) as "home_fr" | "home_en";
+        const content = await queryCollection(collection).first();
 
         if (!content && locale.value !== "fr") {
-            return await queryCollection("content_fr").path("/").first();
+            return await queryCollection("home_fr").first();
         }
 
         return content;
@@ -22,14 +22,14 @@ const { data: home } = await useAsyncData(
 );
 
 const { data: articles } = await useAsyncData(`blog-preview-${locale.value}`, async () => {
-    const collection = ("blog_" + locale.value) as keyof Collections;
+    const collection = ("blog_" + locale.value) as "blog_fr" | "blog_en";
 
     return queryCollection(collection).where("path", "NOT LIKE", "/blog").order("date", "DESC").limit(3).all();
 });
 
 useSeoMeta({
-    title: home.value?.title,
-    description: home.value?.description,
+    title: home.value?.hero.title,
+    description: home.value?.hero.description,
 });
 
 definePageMeta({
@@ -40,23 +40,23 @@ definePageMeta({
 <template>
     <UPage v-if="home">
         <UPageBody class="pb-0">
-            <UPageHero v-bind="home.body.hero" />
+            <UPageHero v-bind="home.hero" />
 
             <HeroBackground />
 
-            <UPageSection v-bind="home.body.moocs">
-                <NuxtImg :src="home.body.moocs.image" />
+            <UPageSection v-bind="home.moocs">
+                <NuxtImg :src="home.moocs.image" />
             </UPageSection>
 
-            <UPageSection v-bind="home.body.epocs">
-                <NuxtImg :src="home.body.epocs.image" />
+            <UPageSection v-bind="home.epocs">
+                <NuxtImg :src="home.epocs.image" />
             </UPageSection>
 
-            <UPageSection v-bind="home.body.seriousGames">
-                <NuxtImg :src="home.body.seriousGames.image" />
+            <UPageSection v-bind="home.seriousGames">
+                <NuxtImg :src="home.seriousGames.image" />
             </UPageSection>
 
-            <UPageSection v-bind="home.body.activity">
+            <UPageSection v-bind="home.activity">
                 <UBlogPosts>
                     <UBlogPost
                         v-for="(post, index) in articles"
@@ -70,13 +70,13 @@ definePageMeta({
             <UContainer>
                 <UPageSection
                     id="testimonials"
-                    :headline="home.body.testimonials.headline"
-                    :title="home.body.testimonials.title"
-                    :description="home.body.testimonials.description"
+                    :headline="home.testimonials.headline"
+                    :title="home.testimonials.title"
+                    :description="home.testimonials.description"
                 >
                     <UPageColumns class="xl:columns-4">
                         <UPageCard
-                            v-for="(testimonial, index) in home.body.testimonials.items"
+                            v-for="(testimonial, index) in home.testimonials.items"
                             :key="index"
                             variant="subtle"
                             :description="testimonial.quote"
@@ -103,7 +103,7 @@ definePageMeta({
                         <NuxtImg
                             v-for="i in 4"
                             :key="i"
-                            :src="home.body.marquee[i]"
+                            :src="home.marquee[i]"
                             width="460"
                             height="258"
                             :alt="`Image ${i}`"
@@ -120,7 +120,7 @@ definePageMeta({
                         <NuxtImg
                             v-for="i in [5, 6, 7, 8]"
                             :key="i"
-                            :src="home.body.marquee[i]"
+                            :src="home.marquee[i]"
                             width="460"
                             height="258"
                             :alt="`Image ${i}`"
@@ -138,7 +138,7 @@ definePageMeta({
                         <NuxtImg
                             v-for="i in [9, 10, 11, 12]"
                             :key="i"
-                            :src="home.body.marquee[i]"
+                            :src="home.marquee[i]"
                             width="460"
                             height="258"
                             :alt="`Image ${i}`"
@@ -150,7 +150,7 @@ definePageMeta({
 
             <USeparator class="mb-0" />
 
-            <UPageCTA v-bind="home.body.cta" class="overflow-hidden">
+            <UPageCTA v-bind="home.cta" class="overflow-hidden">
                 <StarsBg />
             </UPageCTA>
         </UPageBody>

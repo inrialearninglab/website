@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { useDateFormat } from "@vueuse/core";
 import { withoutLeadingSlash } from "ufo";
-import type { Collections } from "@nuxt/content";
 
 const route = useRoute();
 const { locale } = useI18n();
@@ -10,7 +9,7 @@ const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
 const { data: article } = await useAsyncData(
     `article-${slug.value}-${locale.value}`,
     async () => {
-        const collection = ("blog_" + locale.value) as keyof Collections;
+        const collection = ("blog_" + locale.value) as "blog_fr" | "blog_en";
 
         const article = await queryCollection(collection).path(`/blog/${slug.value}`).first();
 
@@ -39,7 +38,7 @@ const { tags } = useTags();
 
             <div class="flex gap-2 flex-wrap mt-4">
                 <template v-for="tag of article.tags">
-                    <UBadge v-if="tags[tag]" variant="soft" color="neutral">
+                    <UBadge v-if="tags?.[tag]" variant="soft" color="neutral">
                         {{ tags[tag][locale] }}
                     </UBadge>
                 </template>

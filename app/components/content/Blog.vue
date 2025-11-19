@@ -1,8 +1,7 @@
 <script setup lang="ts">
-import type { BlogPostProps } from "@nuxt/ui";
-import type { Collections } from "@nuxt/content";
+const localePath = useLocalePath();
 
-const { locale, defaultLocale } = useI18n();
+const { locale } = useI18n();
 const { data: articles } = await useAsyncData(`blog-${locale.value}`, async () => {
     const collection = ("blog_" + locale.value) as "blog_en" | "blog_fr";
 
@@ -17,7 +16,7 @@ const { data: articles } = await useAsyncData(`blog-${locale.value}`, async () =
             :orientation="index === 0 ? 'horizontal' : 'vertical'"
             :key="index"
             v-bind="post"
-            :to="(locale === defaultLocale ? '' : `/${locale}`) + post.path"
+            :to="localePath(post.path)"
             :class="[index === 0 && 'col-span-full']"
         />
     </UBlogPosts>

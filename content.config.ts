@@ -32,6 +32,56 @@ const seriousGameSchema = z.object({
     date: z.string(),
 });
 
+const linkSchema = z.object({
+    label: z.string(),
+    to: z.string(),
+    trailingIcon: z.string().optional(),
+    icon: z.string().optional(),
+});
+
+const sectionSchema = z.object({
+    title: z.string().optional(),
+    description: z.string().optional(),
+    orientation: z.enum(["horizontal", "vertical"]).optional(),
+    reverse: z.boolean().optional(),
+    links: z.array(linkSchema),
+    image: z.string().optional(),
+    headline: z.string().optional(),
+});
+
+const userSchema = z.object({
+    name: z.string(),
+    description: z.string().optional(),
+    avatar: z.object({
+        src: z.string().optional(),
+        icon: z.string().optional(),
+        text: z.string().optional(),
+    }),
+});
+
+const homeSchema = z.object({
+    hero: sectionSchema,
+    activity: sectionSchema,
+    moocs: sectionSchema,
+    epocs: sectionSchema,
+    seriousGames: sectionSchema,
+    testimonials: z.object({
+        title: z.string(),
+        headline: z.string().optional(),
+        description: z.string().optional(),
+        items: z.array(
+            z.object({
+                quote: z.string(),
+                user: userSchema,
+            }),
+        ),
+    }),
+    marquee: z.array(z.string()),
+    cta: sectionSchema.extend({
+        variant: z.enum(["outline", "solid", "soft", "subtle", "naked"]).optional(),
+    }),
+});
+
 export default defineContentConfig({
     collections: {
         epocs_fr: defineCollection({
@@ -111,6 +161,17 @@ export default defineContentConfig({
                 ),
             }),
         }),
+        home_fr: defineCollection({
+            type: "data",
+            source: "fr/index.yml",
+            schema: homeSchema,
+        }),
+        home_en: defineCollection({
+            type: "data",
+            source: "en/index.yml",
+            schema: homeSchema,
+        }),
+
         // IMPORTANT : The catch all content HAVE to be defined at the end for the hot reload to work correctly
         content_fr: defineCollection({
             type: "page",

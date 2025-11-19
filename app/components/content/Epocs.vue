@@ -1,9 +1,8 @@
 <script setup lang="ts">
-import type { Collections } from "@nuxt/content";
-
-const { locale, defaultLocale } = useI18n();
+const localePath = useLocalePath();
+const { locale } = useI18n();
 const { data: epocs } = await useAsyncData(`epocs-${locale.value}`, async () => {
-    const collection = ("epocs_" + locale.value) as keyof Collections;
+    const collection = ("epocs_" + locale.value) as "epocs_fr" | "epocs_en";
 
     return queryCollection(collection).where("path", "NOT LIKE", `/epocs`).order("date", "DESC").all();
 });
@@ -17,7 +16,7 @@ const { data: epocs } = await useAsyncData(`epocs-${locale.value}`, async () => 
             :description="epoc.description"
             orientation="vertical"
             reverse
-            :to="(locale === defaultLocale ? '' : `/${locale}`) + epoc.path"
+            :to="localePath(epoc.path)"
         >
             <NuxtImg v-if="epoc.image" :src="epoc.image" alt="Thumbnail" class="w-full rounded-md" />
         </UPageCard>

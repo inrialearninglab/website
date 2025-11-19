@@ -1,9 +1,8 @@
 <script setup lang="ts">
-import type { Collections } from "@nuxt/content";
-
-const { locale, defaultLocale } = useI18n();
+const localePath = useLocalePath();
+const { locale } = useI18n();
 const { data: moocs } = await useAsyncData(`moocs-${locale.value}`, async () => {
-    const collection = ("moocs_" + locale.value) as keyof Collections;
+    const collection = ("moocs_" + locale.value) as "moocs_fr" | "moocs_en";
 
     const results = await queryCollection(collection).where("path", "NOT LIKE", "/moocs").order("date", "DESC").all();
     const statusOrder = { open: 0, archived: 1, closed: 2 };
@@ -20,7 +19,7 @@ const { data: moocs } = await useAsyncData(`moocs-${locale.value}`, async () => 
             :description="mooc.description"
             orientation="vertical"
             reverse
-            :to="(locale === defaultLocale ? '' : `/${locale}`) + mooc.path"
+            :to="localePath(mooc.path)"
         >
             <template #leading>
                 <MoocStatus :status="mooc.status" />
