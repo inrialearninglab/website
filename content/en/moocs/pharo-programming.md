@@ -7,7 +7,7 @@ status: open
 url: https://www.fun-mooc.fr/en/courses/live-object-programming-pharo/
 investment:
 assesment:
-lang: ["en"]
+lang: ["en", "fr"]
 trailer: https://www.youtube.com/embed/9HMYS-mzDKQ?si=Xxc1e0fMi71Vh5CB
 ---
 

@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import type { Collections } from "@nuxt/content";
-
 const { locale } = useI18n();
 const localePath = useLocalePath();
 
@@ -56,7 +54,7 @@ definePageMeta({
                 <NuxtImg :src="home.seriousGames.image" />
             </UPageSection>
 
-            <UPageSection v-bind="home.activity">
+            <UPageSection v-bind="home.activity" :ui="{ container: 'gap-0!' }">
                 <UBlogPosts>
                     <UBlogPost
                         v-for="(post, index) in articles"

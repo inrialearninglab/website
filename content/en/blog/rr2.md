@@ -37,7 +37,7 @@ The strength of this new MOOC lies in a general and systematic presentation of t
 
 * * *
 
-## **📍**Format**:**
+## **📍Format**:
 
 Divided into three parts, we talk about: :
 

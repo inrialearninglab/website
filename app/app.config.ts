@@ -112,7 +112,10 @@ export default defineAppConfig({
         {
             name: "Elise Taillant",
             avatar: "/images/team/elise.jpg",
-            title: "Responsable Inria Learning Lab",
+            title: {
+                fr: "Responsable Inria Learning Lab",
+                en: "Inria Learning Lab manager",
+            },
             links: [
                 {
                     icon: "simple-icons:linkedin",
@@ -123,7 +126,10 @@ export default defineAppConfig({
         {
             name: "Marie Collin",
             avatar: "/images/team/marie.jpg",
-            title: "Ingénieure Pédagogique / Product Owner",
+            title: {
+                fr: "Ingénieure pédagogique / Product owner",
+                en: "Pedagogical engineer / Product owner",
+            },
             links: [
                 {
                     icon: "simple-icons:linkedin",
@@ -132,53 +138,12 @@ export default defineAppConfig({
             ],
         },
         {
-            name: "Sherazade Djeballah",
-            avatar: "/images/team/sherazade.jpg",
-            title: "Ingénieure Pédagogique",
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/sherazade-djeballah-6a8759233/",
-                },
-            ],
-        },
-        {
-            name: "Sabah Khalfa",
-            avatar: "/images/team/sabah.jpg",
-            title: "Ingénieure Pédagogique",
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/sabah-khalfa-ab24749/",
-                },
-            ],
-        },
-        {
-            name: "Madeline Montigny",
-            avatar: "/images/team/madeline.jpg",
-            title: "Ingénieure Pédagogique",
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/madelinemontigny/",
-                },
-            ],
-        },
-        {
-            name: "Aurélie Lagarrigue",
-            avatar: "/images/team/aurelie.jpg",
-            title: "Ingénieure Pédagogique",
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/aur%C3%A9lie-lagarrigue-631b5112a/",
-                },
-            ],
-        },
-        {
             name: "Laurence Farhi",
             avatar: "/images/team/laurence.jpg",
-            title: "Ingénieure Pédagogique",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Pedagogical engineer",
+            },
             links: [
                 {
                     icon: "simple-icons:linkedin",
@@ -187,9 +152,26 @@ export default defineAppConfig({
             ],
         },
         {
+            name: "Aurélie Lagarrigue",
+            avatar: "/images/team/aurelie.jpg",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Pedagogical engineer",
+            },
+            links: [
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/aur%C3%A9lie-lagarrigue-631b5112a/",
+                },
+            ],
+        },
+        {
             name: "Christelle Mariais",
             avatar: "/images/team/christelle.jpg",
-            title: "Ingénieure Pédagogique",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Pedagogical engineer",
+            },
             links: [
                 {
                     icon: "simple-icons:linkedin",
@@ -198,24 +180,68 @@ export default defineAppConfig({
             ],
         },
         {
-            name: "Nathan Viaud",
-            avatar: "https://avatars.githubusercontent.com/u/79544144?v=4&size=64",
-            title: "Ingénieur informatique",
+            name: "Sherazade Djeballah",
+            avatar: "/images/team/sherazade.jpg",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Pedagogical engineer",
+            },
             links: [
                 {
-                    icon: "lucide:github",
-                    to: "https://github.com/NathanViaud",
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/sherazade-djeballah-6a8759233/",
                 },
+            ],
+        },
+        {
+            name: "Madeline Montigny",
+            avatar: "/images/team/madeline.jpg",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Pedagogical engineer",
+            },
+            links: [
                 {
                     icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/nathan-viaud-109b09205",
+                    to: "https://www.linkedin.com/in/madelinemontigny/",
+                },
+            ],
+        },
+        {
+            name: "Sabah Khalfa",
+            avatar: "/images/team/sabah.jpg",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Pedagogical engineer",
+            },
+            links: [
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/sabah-khalfa-ab24749/",
+                },
+            ],
+        },
+        {
+            name: "Laetitia Ecrement",
+            avatar: "/images/team/laetitia.jpg",
+            title: {
+                fr: "Alternante ingénieure pédagogique",
+                en: "Apprentice pedagogical engineer",
+            },
+            links: [
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/laetitia-ecrement-2624a9201/",
                 },
             ],
         },
         {
             name: "Benoit Rospars",
             avatar: "/images/team/benoit.jpg",
-            title: "Ingénieur informatique",
+            title: {
+                fr: "Ingénieur informatique",
+                en: "Computer engineer",
+            },
             links: [
                 {
                     icon: "lucide:github",
@@ -232,9 +258,30 @@ export default defineAppConfig({
             ],
         },
         {
+            name: "Nathan Viaud",
+            avatar: "https://avatars.githubusercontent.com/u/79544144?v=4&size=64",
+            title: {
+                fr: "Ingénieur informatique",
+                en: "Computer engineer",
+            },
+            links: [
+                {
+                    icon: "lucide:github",
+                    to: "https://github.com/NathanViaud",
+                },
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/nathan-viaud-109b09205",
+                },
+            ],
+        },
+        {
             name: "Tristan Rollet",
             avatar: "https://avatars.githubusercontent.com/u/93080156?v=4",
-            title: "Alternant Ingénieur informatique",
+            title: {
+                fr: "Alternant ingénieur informatique",
+                en: "Apprentice computer engineer",
+            },
             links: [
                 {
                     icon: "lucide:github",
@@ -243,17 +290,6 @@ export default defineAppConfig({
                 {
                     icon: "simple-icons:linkedin",
                     to: "https://www.linkedin.com/in/tristanrollet/?originalSubdomain=fr",
-                },
-            ],
-        },
-        {
-            name: "Laetitia Ecrement",
-            avatar: "/images/team/laetitia.jpg",
-            title: "Alternante Ingénieure Pédagogique",
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/laetitia-ecrement-2624a9201/",
                 },
             ],
         },

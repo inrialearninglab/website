@@ -1,14 +1,16 @@
 <script setup lang="ts">
 import { withoutLeadingSlash } from "ufo";
-import type { Collections } from "@nuxt/content";
 
-const { locale } = useI18n();
+const { locale, t } = useI18n({
+    useScope: "local",
+});
+
 const route = useRoute();
 const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
 const { data: epoc } = await useAsyncData(
     `epoc-${slug.value}-${locale.value}`,
     async () => {
-        const collection = ("epocs_" + locale.value) as keyof Collections;
+        const collection = ("epocs_" + locale.value) as "epocs_fr" | "epocs_en";
 
         const epoc = await queryCollection(collection).path(`/epocs/${slug.value}`).first();
 
@@ -25,11 +27,11 @@ const { data: epoc } = await useAsyncData(
 
 const links = ref([
     {
-        label: "Découvrir sur Android",
+        label: t("discover-android"),
         trailingIcon: "lucide:arrow-up-right",
     },
     {
-        label: "Découvrir sur IOS",
+        label: t("discover-ios"),
         trailingIcon: "lucide:arrow-up-right",
     },
 ]);
@@ -60,3 +62,16 @@ const links = ref([
         }"
     />
 </template>
+
+<i18n lang="json">
+{
+    "fr": {
+        "discover-ios": "Découvrir sur iOS",
+        "discover-android": "Découvrir sur Android"
+    },
+    "en": {
+        "discover-ios": "Discover on iOS",
+        "discover-android": "Discover on Android"
+    }
+}
+</i18n>

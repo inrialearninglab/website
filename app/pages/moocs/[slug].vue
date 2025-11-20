@@ -1,16 +1,18 @@
 <script setup lang="ts">
 import { useDateFormat } from "@vueuse/core";
 import { withoutLeadingSlash } from "ufo";
-import type { Collections } from "@nuxt/content";
+import * as locales from "@nuxt/ui/locale";
 
 const route = useRoute();
-const { locale } = useI18n();
+const { locale, t } = useI18n({
+    useScope: "local",
+});
 const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
 
 const { data: mooc } = await useAsyncData(
     `mooc-${slug.value}-${locale.value}`,
     async () => {
-        const collection = ("moocs_" + locale.value) as keyof Collections;
+        const collection = ("moocs_" + locale.value) as "moocs_fr" | "moocs_en";
 
         const mooc = await queryCollection(collection).path(`/moocs/${slug.value}`).first();
 
@@ -34,24 +36,30 @@ const { data: mooc } = await useAsyncData(
             </template>
 
             <template #description>
-                <div class="flex gap-4">
-                    <p class="flex items-center gap-1">
+                <div class="flex gap-5">
+                    <p v-if="mooc.date" class="flex items-center gap-2">
                         <UIcon name="lucide:calendar" />
-                        Ouverture : {{ useDateFormat(mooc.date, "D MMMM YYYY", { locales: "fr-FR" }) }}
+                        {{ useDateFormat(mooc.date, "D MMMM YYYY", { locales: locale }) }}
                     </p>
-                    <p class="flex items-center gap-1">
-                        <UIcon name="lucide:clock" />Investissement : {{ mooc.investment }}
+                    <p v-if="mooc.investment" class="flex items-center gap-2">
+                        <UIcon name="lucide:clock" />{{ mooc.investment }}
                     </p>
-                    <p class="flex items-center gap-1">
-                        <UIcon name="lucide:globe" />Langues : {{ mooc.lang.join(", ") }}
-                    </p>
+                    <div v-if="mooc.lang" class="flex items-center gap-2">
+                        <UIcon name="lucide:globe" />
+                        <div class="flex gap-2">
+                            <div v-for="(lang, index) of mooc.lang" class="flex items-center gap-1">
+                                <span>{{ getEmojiFlag(lang) }} </span>
+                                <p>{{ locales[lang].name }}{{ index !== mooc.lang.length - 1 ? ", " : "" }}</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </template>
         </UPageHeader>
 
         <UPageBody>
             <iframe
-                v-if="mooc.trailer"
+                v-if="mooc?.trailer"
                 :src="mooc.trailer"
                 title="Video player"
                 frameborder="0"
@@ -66,7 +74,7 @@ const { data: mooc } = await useAsyncData(
                 <UButton
                     trailing-icon="lucide:arrow-up-right"
                     size="xl"
-                    :label="mooc.url ? 'Voir le cours' : 'Ce cours n\'est plus accessible'"
+                    :label="mooc.url ? t('see-course') : t('not-accessible')"
                     :to="mooc.url"
                     :disabled="!mooc.url"
                 />
@@ -77,7 +85,7 @@ const { data: mooc } = await useAsyncData(
             <UButton
                 trailing-icon="lucide:arrow-up-right"
                 size="xl"
-                :label="mooc.url ? 'Voir le cours' : 'Ce cours n\'est plus accessible'"
+                :label="mooc.url ? t('see-course') : t('not-accessible')"
                 :to="mooc.url"
                 :disabled="!mooc.url"
             />
@@ -88,8 +96,31 @@ const { data: mooc } = await useAsyncData(
         v-else
         :error="{
             statusCode: 404,
-            statusMessage: 'MOOC not found',
-            message: 'The MOOC you are looking for does not exist.',
+            statusMessage: t('not-found'),
+            message: t('not-accessible'),
         }"
     />
 </template>
+
+<i18n lang="json">
+{
+    "fr": {
+        "opening": "Ouverture",
+        "investment": "Investissement",
+        "languages": "Langues",
+        "not-found": "MOOC non trouvé",
+        "error-message": "Le MOOC que vous cherchez n'existe pas",
+        "see-course": "Voir le cours",
+        "not-accessible": "Ce cours n'est plus accessible"
+    },
+    "en": {
+        "opening": "Opening",
+        "investment": "Investment",
+        "languages": "Languages",
+        "not-found": "MOOC not found",
+        "error-message": "The MOOC you are looking for does not exist.",
+        "see-course": "Access the course",
+        "not-accessible": "This course is no longer accessible"
+    }
+}
+</i18n>

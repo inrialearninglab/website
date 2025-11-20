@@ -7,11 +7,9 @@ image: /images/mooc/ppharoprogramming.png
 url: https://www.fun-mooc.fr/fr/cours/programmation-objet-immersive-en-pharo/
 investment:
 assesment:
-lang: ["fr"]
+lang: ["fr", "en"]
 trailer: https://www.youtube.com/embed/-z83bmzRATM?si=GaYz9kAKVJWLrGOw
 ---
-
-# (Re)découvrez les fondamentaux de la programmation objet
 
 Que vous soyez débutant ou expert en programmation orientée objet, ce MOOC va changer votre façon de penser objet : venez apprendre ou redécouvrir la programmation objet grâce à Pharo !
 

@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { withLeadingSlash, withoutTrailingSlash } from "ufo";
-import type { Collections } from "@nuxt/content";
 
 const { locale } = useI18n();
 const route = useRoute();
@@ -20,7 +19,7 @@ const { data: page } = await useAsyncData(
     async () => {
         console.log("[fetch page] client?", import.meta.client, "slug=", slug.value, "route.path=", route.path);
 
-        const collection = `content_${locale.value}` as keyof Collections;
+        const collection = `content_${locale.value}` as "content_fr" | "content_en";
         const content = await queryCollection(collection).path(slug.value).first();
         if (!content && locale.value !== "fr") {
             return await queryCollection("content_fr").path(slug.value).first();

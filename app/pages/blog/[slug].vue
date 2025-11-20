@@ -32,7 +32,7 @@ const { tags } = useTags();
             <template #links>
                 <p class="flex items-center gap-2">
                     <UIcon name="lucide:calendar" class="size-5" />
-                    {{ useDateFormat(article.date, "D MMMM YYYY", { locales: "fr-FR" }) }}
+                    {{ useDateFormat(article.date, "D MMMM YYYY", { locales: locale }) }}
                 </p>
             </template>
 

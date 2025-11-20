@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const { team } = useAppConfig();
+const { locale } = useI18n();
 </script>
 
 <template>
@@ -10,7 +11,7 @@ const { team } = useAppConfig();
                     v-for="(user, index) in team"
                     :key="index"
                     :title="user.name"
-                    :description="user.title"
+                    :description="user.title[locale]"
                     :ui="{
                         container: 'gap-y-3',
                         leading: 'flex justify-center',
