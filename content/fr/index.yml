@@ -28,7 +28,7 @@ epocs:
         - label: Voir tous les ePocs
           to: epocs
           trailingIcon: "lucide:arrow-right"
-    image: https://placehold.co/600x400
+    image: images/epoc-showcase.png
 
 seriousGames:
     title: Découvrez nos jeux sérieux
@@ -39,38 +39,68 @@ seriousGames:
         - label: Voir les jeux sérieux
           to: serious-games
           trailingIcon: "lucide:arrow-right"
-    image: https://placehold.co/600x400
+    image: images/serious-games/phone-impact.png
 
 testimonials:
-    headline: Note
+    headline: Témoignages
     title: Ils ont travaillé avec nous.
     description: Laissez nous vous accompagner pour créer votre prochaine formation en ligne
     items:
-        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo
           user:
               name: Sarah Chen
               description: CTO at TechScale Solutions
               avatar:
                   src: https://i.pravatar.cc/120?img=1
-        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
           user:
               name: Marcus Rodriguez
               description: VP of Engineering at DataFlow
               avatar:
                   src: https://i.pravatar.cc/120?img=7
-        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
           user:
               name: David Kumar
               description: Security Director at SecureStack
               avatar:
                   src: https://i.pravatar.cc/120?img=3
-        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           user:
               name: Emily Zhang
               description: Lead Architect at ScaleForce
               avatar:
                   src: https://i.pravatar.cc/120?img=5
-        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dol
+          user:
+              name: James Wilson
+              description: DevOps Lead at CloudPro
+              avatar:
+                  src: https://i.pravatar.cc/120?img=8
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo
+          user:
+              name: Sarah Chen
+              description: CTO at TechScale Solutions
+              avatar:
+                  src: https://i.pravatar.cc/120?img=1
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+          user:
+              name: Marcus Rodriguez
+              description: VP of Engineering at DataFlow
+              avatar:
+                  src: https://i.pravatar.cc/120?img=7
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+          user:
+              name: David Kumar
+              description: Security Director at SecureStack
+              avatar:
+                  src: https://i.pravatar.cc/120?img=3
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          user:
+              name: Emily Zhang
+              description: Lead Architect at ScaleForce
+              avatar:
+                  src: https://i.pravatar.cc/120?img=5
+        - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dol
           user:
               name: James Wilson
               description: DevOps Lead at CloudPro

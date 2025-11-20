@@ -5,7 +5,11 @@
     --font-sans: "Public Sans", sans-serif;
 
     --color-primary-500: #c9191e;
-    --color-primary-400: #d95e61;
+    --color-primary-400: #c9191e;
+}
+
+:root {
+    --ui-container: 90rem;
 }
 
 .dark {

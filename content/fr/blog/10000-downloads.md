@@ -8,14 +8,11 @@ tags:
     - milestone
 ---
 
-::u-page-section
+::image-col
 ---
-orientation: horizontal
+src: images/blog/epoc-mobile-learning-app.png
+alt: Illustration application mobile ePoc
 ---
-
-![illustration application mobile ePoc](images/blog/epoc-mobile-learning-app.png)
-
-#body
 
 **ePoc, notre solution libre de mobile learning atteint ses premiers 10 000 téléchargements. Entièrement gratuite, open source et ouverte à tous, elle offre aux acteurs de la formation et de l’éducation une solution simple et ergonomique pour créer et partager facilement un parcours d’apprentissage sur mobile tout en respectant la vie privée.**
 
@@ -32,15 +29,12 @@ Gratuite et accessible à tous, [l’application ePoc](https://epoc.inria.fr) es
 
 ## ePoc Editor, un éditeur simple et ergonomique pour créer ses propres formations mobiles
 
-::u-page-section
+::image-col
 ---
-orientation: horizontal
+src: images/blog/epoc-Editor.png
+alt: Illustration editeur ePoc
 reverse: true
 ---
-
-![](images/blog/epoc-Editor.png)
-
-#body
 
 La solution ePoc inclut également un éditeur de bureau, [ePoc Editor](https://epoc.inria.fr/editor), facile à prendre en main pour créer et partager sa propre formation.
 

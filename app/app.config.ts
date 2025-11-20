@@ -298,15 +298,14 @@ export default defineAppConfig({
         colors: {
             primary: "primary",
         },
-        pageSection: {
-            slots: {
-                container: "py-4!",
-            },
-        },
-        pageHero: {
-            slots: {
-                container: "py-8!",
-            },
+        button: {
+            compoundVariants: [
+                {
+                    variant: "solid",
+                    color: "primary",
+                    class: "text-white",
+                },
+            ],
         },
     },
 });
