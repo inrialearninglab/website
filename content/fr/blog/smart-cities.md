@@ -1,55 +1,10 @@
 ---
-title: "[:en]Mooc Smart cities: Take up the challenges of cities in the digital era.[:fr]MOOC Villes intelligentes : nouvelle session longue durée ![:]"
+title: "MOOC Villes intelligentes : nouvelle session longue durée !"
 date: 2019-04-09
-categories: 
-  - "actualites"
-tags: 
-  - "mooc"
-  - "smart-cities"
-  - "smart-city"
-  - "ville"
-  - "ville-intelligente"
-coverImage: "CityLab-v2.png"
+image: images/blog/smart-cities.png"
 ---
 
-\[:en\]
-
-# **"Technological challenges of participatory smart cities"**
-
-  
-
-\[embed\]https://www.dailymotion.com/video/x75zr56\[/embed\]
-
-**Starting on June 24, 2019 for a period of one year, the Mooc "Technological challenges of participatory smart cities" presents the technological architecture required for Smart Cities and prepares cities and companies for a comprehensive and interoperable approach.**
-
-The course is a high level introduction to the constituents of the smart cities’ digital infrastructures, from the network up to the software layers. The proposed survey highlights the technical aspects to be taken into account to **create practical services** and to develop smarter cities **involving citizen participation**. In particular, it imparts information on privacy and interoperability aspects.
-
-Throughout this MOOC you will :
-
-- understand what is a **smart city and the digital technologies supporting it**
-- identify the required skills to design, develop and deploy **innovative services toward smarter cities**
-- picture new digital services for the **urban environment** while capturing the technologies they rely on
-- apprehend the **costs and impediments** (both technological and societal) that may occur to deploy a new digital service in the city
-- investigate public participation in the development of smart cities and the **technological and societal challenges** that emerge from it.
-
-The course is organized in 5 modules :
-
-| **Module 1 :** | Introduction: a perspective on smarter cities |
-| --- | --- |
-| **Module 2 :** | Network infrastructures for participatory urban systems |
-| **Module 3 :** | Software infrastructures for participatory urban systems |
-| **Module 4 :** | Cloud-based urban data management |
-| **Module 5 :** | Privacy-preserving urban systems |
-
-The course has been produced by Inria researchers with the support of EIT Digital in 2017.
-
-**Join the course and register on [FUN-MOOC platform](https://www.fun-mooc.fr/courses/course-v1:inria+41009EN+self-paced/about) !**
-
-### Social networks
-
-Twitter : @InriaLearnLab **#MoocSmartCity**\[:fr\]
-
-<iframe src="https://www.dailymotion.com/embed/video/x38qey9" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.dailymotion.com/embed/video/x38qey9" frameborder="0" allowfullscreen="allowfullscreen" style="aspect-ratio: 16/9; width: 100%;"></iframe>
 
 **Le MOOC "[Défis technologiques des villes intelligentes participatives](https://www.fun-mooc.fr/courses/course-v1:inria+41009+self-paced/about)" (#MoocSmartCity ) vous propose un tour d'horizon des infrastructures numériques de la ville connectée avec un accent particulier sur les technologies encourageant l'implication citoyenne.**
 
@@ -63,7 +18,7 @@ Ce cours s'adresse à tous les **citoyens urbains** ayant un intérêt pour les 
 
 • **métiers de la gouvernance ou de l'urbanisme** qui s'intéressent à l'impact des nouvelles technologies sur la gestion des villes.
 
-### Au programme :
+## Au programme :
 
 Semaine 1 : Introduction  
 Semaine 2 : Infrastructures réseaux des systèmes urbains  
@@ -79,7 +34,7 @@ Semaine 5 : Gestion des données et vie privée du citoyen urbain
 
 * * *
 
-### Quelques témoignages des participants aux sessions précédentes :
+## Quelques témoignages des participants aux sessions précédentes :
 
 > \- Une très bonne articulation entre les explications techniques (logicielles) détaillées et leur application au sein de la ville intelligente. Il propose un point de vue complet des défis sociétaux et des enjeux de la ville connectée.
 > 
@@ -88,7 +43,3 @@ Semaine 5 : Gestion des données et vie privée du citoyen urbain
 > \- Le cours permet de connaître les avancées des recherches dans le domaine des villes intelligentes, l'état de l'art dans ce domaine et fournit une base de travail pour imaginer de nouveaux services.
 > 
 > \- La durée des vidéos est idéalement dimensionnée. J'étais plutôt intéressée par les aspects technologiques, et j'ai trouvé ce que je recherchais !
-
- 
-
- \[:\]

@@ -7,7 +7,6 @@ image: /images/blog/Vignette_RR2_version_finale.jpeg
 
 <iframe src="https://www.youtube.com/embed/bT7EXbL6g-o?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>
 
-
 **Making your research reproducible means taking up the new challenge of science to improve its results!**
 
 Following the success of the MOOC ["Reproducible research: methodological principles for transparent science"](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/), which is bilingual French-English, the authors continue on the same theme, dealing more specifically with the issues of massive data and the complex calculations associated with them. These two MOOCs complement each other and offer a coherent training program on the subject.  

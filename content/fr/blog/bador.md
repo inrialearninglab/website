@@ -1,40 +1,18 @@
 ---
-title: "[:fr]MOOC Bases de données relationnelles : Comprendre pour maîtriser[:]"
+title: "MOOC Bases de données relationnelles : Comprendre pour maîtriser"
 date: 2016-11-29
-categories: 
-  - "cours"
-tags: 
-  - "base-de-donnees"
-  - "bdd"
-  - "benjamin-nguyen"
-  - "mooc"
-  - "philippe-rigaux"
-  - "serge-abiteboul"
-  - "sgbd"
-coverImage: "bddpano_image.jpg"
+image: images/blog/bddpano_image.jpg
 ---
 
-\[:fr\]
-
-\[embed\]https://youtu.be/\_o5WW64r1DE\[/embed\]
-
- 
-
- 
-
- 
-
- 
-
- 
+<iframe src="https://www.youtube.com/embed/_o5WW64r1DE?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>
 
 **Le Mooc "Bases de données relationnelles : comprendre pour maîtriser" (#BADOR) a pour ambition d’expliquer comment fonctionnent ces systèmes.** Il permettra à leurs utilisateurs de mieux les maîtriser, notamment en comprenant les problèmes de performance que ces systèmes peuvent rencontrer.
 
 **Démarrage des cours** : 23 janvier 2017.
 
-<!--more-->
-
 ## Détails du cours
+
+Ce cours est enseigné par Serge Abiteboul, Benjamin Nguyen et Philippe Rigaux. Il a été réalisé par le Mooc Lab Inria
 
 Ce cours s’adresse à toute personne utilisant une base de données ou souhaitant comprendre comment fonctionne le système. Cela recouvre, entre autres :
 
@@ -61,5 +39,3 @@ Ce cours s’adresse à toute personne utilisant une base de données ou souhait
 > Ce cours nous amène à vraiment comprendre le fonctionnement des bases de données et à même faire une conjecture sur le fonctionnement de certains systèmes à la mode actuellement. Il ne nous apprend pas un langage de base de données spécifiques mais va au delà en faisant ressortir les aspects importants qui régissent le fonctionnement de toutes bases de données SQL
 > 
 > Vision générale et complète du sujet. Possibilité de travailler a son rythme (très utile quand on est en activité). J'ai beaucoup apprécié le système des quizz complétés par des exercices et des TP
-
-\[:\]

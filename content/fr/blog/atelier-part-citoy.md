@@ -1,15 +1,12 @@
 ---
-title: "[:fr]Atelier sur les méthodologies de participation citoyenne, 15 mars 2018 à Rennes[:]"
+title: "Atelier sur les méthodologies de participation citoyenne, 15 mars 2018 à Rennes"
+description: ""
 date: 2018-03-07
-categories: 
-  - "actualites"
 ---
 
-\[:fr\]En marge de l'événement [inOut 2018](https://www.inout2018.com), un **atelier sur les méthodologies de participation citoyenne** se tiendra à l'Hôtel Rennes Métropole le 15 mars à 14:00.
+En marge de l'événement [inOut 2018](https://www.inout2018.com), un **atelier sur les méthodologies de participation citoyenne** se tiendra à l'Hôtel Rennes Métropole le 15 mars à 14:00.
 
 Ces méthodologies permettent un changement d'échelle de la participation (citoyens et usagers), notamment grâce à des outils numériques. Venez les découvrir ! L'atelier est gratuit: [s'inscrire.](https://eitdigital-professional-school.lpages.co/atelier-participation-citoyenne-inout-rennes-2018/)
-
-<!--more-->
 
 | **Comment associer la population - citoyens, usagers, collaborateurs - à la conception de vos politiques et projets, en utilisant méthodes participatives et innovations digitales ?** | ![Exemple d'atelier](https://learninglab.inria.fr/files/2018/03/Inria-0261-031.jpg) |
 | --- | --- |
@@ -26,8 +23,17 @@ Dans le cadre de cet atelier, expérimentez des **techniques d'implication** à 
 
 **Les organisateurs :**
 
-[![EIT Digital Professional School](https://lh3.googleusercontent.com/9Fotg-QEyQWjmEi45zkmqX2SR2KjLw3SAIuwgcfPTzX8WJVz4mGg5X4a9sN0r1tswPWDOm0t3NOxxlfasDsCZg=w1024)](https://www.eitdigital.eu/eit-digital-academy/professional-school/)en partenariat avec[![Inria](https://lh3.googleusercontent.com/-eZKihC9rJ7i9rfc8c9OKvs63yY_-8fUHNszZqCs4fq5k4-Ll9QF7QunP41PdVHtrgyFnd5yy44NfKB1NDZ2=w1024)](https://www.inria.fr/) [![Missions Publiques](https://lh3.googleusercontent.com/bpPNaeEjCoImZAi1KbU5pYccjrk7nc783Fqc4aAGV3dITN2ARZqKSobI0wG1GEKrqWxRa1fzfCFvPlJHAKo0Uw=w1024)](https://missionspubliques.org)
+<div style="display:flex;align-items:center;justify-content:space-between;">
+    <a href="https://www.eitdigital.eu/eit-digital-academy/professional-school/">
+        <img src="https://lh3.googleusercontent.com/9Fotg-QEyQWjmEi45zkmqX2SR2KjLw3SAIuwgcfPTzX8WJVz4mGg5X4a9sN0r1tswPWDOm0t3NOxxlfasDsCZg=w1024" style="max-height:8rem;width:auto;" :zoom="false" />
+    </a>
+    <p>En partenariat avec</p>
+    <a href="https://www.inria.fr/" >
+        <img src="https://lh3.googleusercontent.com/-eZKihC9rJ7i9rfc8c9OKvs63yY_-8fUHNszZqCs4fq5k4-Ll9QF7QunP41PdVHtrgyFnd5yy44NfKB1NDZ2=w1024" style="max-height:8rem;width:auto;" :zoom="false" />
+    </a>
+    <a href="https://missionspubliques.org">
+        <img src="https://lh3.googleusercontent.com/bpPNaeEjCoImZAi1KbU5pYccjrk7nc783Fqc4aAGV3dITN2ARZqKSobI0wG1GEKrqWxRa1fzfCFvPlJHAKo0Uw=w1024" style="max-height:8rem;width:auto;" :zoom="false" />
+    </a>
+</div>
 
 Cet atelier préfigure la formation en ligne et en présentiel consacrée à ce sujet, dispensée à partir de la fin de l'année.
-
-\[:\]

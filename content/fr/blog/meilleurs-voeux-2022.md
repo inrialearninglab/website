@@ -1,7 +1,7 @@
 ---
 title: "Meilleurs Vœux 2022"
 date: 2022-01-12
-image: /images/blog/Capture-d’écran-2022-01-12-à-18.31.00.png
+image: images/blog/meilleurs-voeux-2022.png
 ---
 
 <iframe src="https://www.youtube.com/embed/4K4CO_zhudI?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

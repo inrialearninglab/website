@@ -1,27 +1,10 @@
 ---
-title: "[:fr]Newsletters uTOP-Inria : recueil disponible en téléchargement[:]"
+title: "Newsletters uTOP-Inria : recueil disponible en téléchargement"
 date: 2016-12-20
-categories: 
-  - "actualites"
-  - "bilan"
-tags: 
-  - "cooc"
-  - "coursera"
-  - "e-education"
-  - "edx"
-  - "france-universite-numerique"
-  - "inria"
-  - "mooc"
-  - "newsletter"
-  - "plateforme"
-  - "spoc"
-  - "technologie"
-  - "tice"
-  - "udacity"
-  - "utop"
+image: images/blog/bannutoparial-1.png
 ---
 
-\[:fr\]![bannutoparial-1](https://learninglab.inria.fr/files/2016/12/bannutoparial-1.png)
+![bannutoparial-1](images/blog/bannutoparial-1.png){style="max-width:36rem;margin:auto;"}
 
 Le projet uTOP, qui a duré quatre ans, se termine. A cette occasion, nous vous partageons un **recueil des newsletters**  parues de 2013 à 2014 dans le cadre du **sous projet uTOP-Inria**. Ces newsletters portaient sur les usages innovants en e-éducation, et notamment sur le phénomène des MOOCs, dans une optique axée sur les sciences du numérique.
 

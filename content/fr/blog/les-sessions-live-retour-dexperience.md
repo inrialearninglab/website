@@ -1,11 +1,14 @@
 ---
-title: "[:fr]Les sessions Live de MOOC - retour d'expérience[:]"
+title: "Les sessions Live de MOOC - retour d'expérience"
+description: ""
 date: 2017-06-15
-categories: 
-  - "actualites"
 ---
 
-\[:fr\][![](https://learninglab.inria.fr/files/2017/06/Capture-décran-2017-09-07-16.14.20-300x178.png)](https://learninglab.inria.fr/files/2017/06/Capture-décran-2017-09-07-16.14.20.png)[![](https://learninglab.inria.fr/files/2017/06/Capture-décran-2017-09-07-16.10.57-300x178.png)](https://learninglab.inria.fr/files/2017/06/Capture-décran-2017-09-07-16.10.57.png)[![](https://learninglab.inria.fr/files/2017/06/Capture-décran-2017-09-07-16.15.53-300x179.png)](https://learninglab.inria.fr/files/2017/06/Capture-décran-2017-09-07-16.15.53.png)
+<div style="display:flex;">
+    <img src="images/blog/Capture-decran-2017-09-07-16.14.20.png" />
+    <img src="images/blog/Capture-decran-2017-09-07-16.10.57.png" />
+    <img src="images/blog/Capture-decran-2017-09-07-16.15.53.png" />
+</div>
 
 Le Learning Lab ajoute une dimension synchrone à ses MOOC en proposant des rendez-vous virtuels (communément appelés "Live") ou webconférences que l'équipe pédagogique organise pour les apprenants du cours. De nombreux autres MOOC proposent des événements de ce type.
 
@@ -19,7 +22,7 @@ Les enseignants du cours s'adressent à l'ensemble des participants du MOOC selo
 
 La seconde modalité se rapproche d'une visioconférence classique. Les participants s'inscrivent à un temps de rencontre avec une partie de l'équipe pédagogique pour échanger selon une thématique choisie. L'approche est pensée pour être plus interactive.
 
-# Description des différents événements
+## Description des différents événements
 
 ## Meet-up du MOOC Web sémantique et Web de données
 
@@ -88,7 +91,7 @@ Notons que dans le cadre du projet EIFFEL-a, FUN teste un outil collaboratif, Gl
 
 Avec Youtube, la vidéo peut directement être visionnée à l'issue du direct avec la même URL que celle utilisée lors du Live. Les apprenants qui n'ont pas pu assister au Live peuvent ainsi visionner la vidéo plus tard. Youtube propose des outils simples qui permettent d'éditer la vidéo. Il est souvent nécessaire de couper quelques secondes au début et à la fin de la vidéo.
 
-# Quelques liens :
+## Quelques liens :
 
 La chaîne Youtube d'Inria Learning Lab pour visionner les Lives : [https://www.youtube.com/channel/UClr-bzIv10z27ONlSjmosYg](https://www.youtube.com/channel/UClr-bzIv10z27ONlSjmosYg)
 
@@ -100,8 +103,4 @@ Article sur la fin du service Hangouts en direct : [https://www.generation-nt.c
 
 Glowbl et FUN : [https://www.glowbl.com/page/fr/education-formation/projet-eiffel-a-france-universite-numerique-glowbl-pour-des-mooc-live-et-interactifs/](https://www.glowbl.com/page/fr/education-formation/projet-eiffel-a-france-universite-numerique-glowbl-pour-des-mooc-live-et-interactifs/)
 
- 
-
 \* Nous utilisons le terme "Live" qui nous semble le plus couramment employé pour parler de ces temps de rencontre virtuels synchrones dans le cadre de MOOC.
-
- \[:\]
