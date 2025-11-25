@@ -5,21 +5,19 @@ description: ePoc, notre application Mobile Learning, atteint ses premiers 10 00
 date: 2025-05-01
 image: /images/blog/bandeau-ePoc.png
 tags:
-    - milestone
+    - Étape importante
 ---
 
-::image-col
----
-src: images/blog/epoc-mobile-learning-app.png
-alt: Illustration application mobile ePoc
----
+::cols
+#left
+![Aperçu application mobile](images/blog/epoc-mobile-learning-app.png)
 
+#right
 **ePoc, notre solution libre de mobile learning atteint ses premiers 10 000 téléchargements. Entièrement gratuite, open source et ouverte à tous, elle offre aux acteurs de la formation et de l’éducation une solution simple et ergonomique pour créer et partager facilement un parcours d’apprentissage sur mobile tout en respectant la vie privée.**
 
 Depuis son lancement en 2022, ePoc a été adoptée par plus de 10 000 utilisateurs, en particulier dans le domaine de l’Éducation Nationale qui a rapidement manifesté son intérêt pour cette solution de mobile learning ouverte et gratuite, et créé des espaces collaboratifs pour le partage de pratiques pédagogiques basées sur l’utilisation d’ePoc.
 
 ## Une application de formation spécialement conçue pour l’apprentissage sur mobile
-
 Grâce à une approche pédagogique adaptée au mobile, ePoc [electronic Pocket open course] propose des contenus courts et ludiques adaptés au mobile : vidéos, podcasts, textes, quiz, badges de réussite, activités interactives, et attestations de suivi.
 ::
 
@@ -29,12 +27,8 @@ Gratuite et accessible à tous, [l’application ePoc](https://epoc.inria.fr) es
 
 ## ePoc Editor, un éditeur simple et ergonomique pour créer ses propres formations mobiles
 
-::image-col
----
-src: images/blog/epoc-Editor.png
-alt: Illustration editeur ePoc
-reverse: true
----
+::cols
+#left
 
 La solution ePoc inclut également un éditeur de bureau, [ePoc Editor](https://epoc.inria.fr/editor), facile à prendre en main pour créer et partager sa propre formation.
 
@@ -44,6 +38,9 @@ L’interface d’ePoc Editor permet :
 - d’intégrer et configurer des composants prêts à l’emploi pour réaliser les différentes activités du parcours pédagogique. Les composants disponibles sont les vidéos, audios, textes, badges et différents formats d’activités interactives (QCU/QCM, glisser-déposer, tri, swipe).
 
 Pour faciliter la découverte d’ePoc Editor, [“Produire mon 1er ePoc”](https://epoc.inria.fr/epocs/E012MC/) est un ePoc qui détaille les principales fonctionnalités de l’éditeur et accompagne tout nouvel utilisateur à une première prise en main.
+
+#right
+![Aperçu editeur ePoc](images/blog/epoc-Editor.png)
 ::
 
 L’application de bureau ePoc Editor est disponible sur Windows, MacOS et Linux.

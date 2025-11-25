@@ -23,7 +23,6 @@ const { data: article } = await useAsyncData(
         watch: [locale],
     },
 );
-const { tags } = useTags();
 </script>
 
 <template>
@@ -38,8 +37,8 @@ const { tags } = useTags();
 
             <div class="flex gap-2 flex-wrap mt-4">
                 <template v-for="tag of article.tags">
-                    <UBadge v-if="tags?.[tag]" variant="soft" color="neutral">
-                        {{ tags[tag][locale] }}
+                    <UBadge variant="soft" color="neutral">
+                        {{ tag }}
                     </UBadge>
                 </template>
             </div>

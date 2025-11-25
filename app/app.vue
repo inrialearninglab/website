@@ -5,9 +5,6 @@ const { data: files } = useLazyAsyncData("search", () => queryCollectionSearchSe
 });
 
 const searchTerm = ref("");
-
-const { loadTags } = useTags();
-loadTags();
 </script>
 
 <template>
