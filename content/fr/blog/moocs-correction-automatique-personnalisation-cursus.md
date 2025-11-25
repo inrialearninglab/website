@@ -1,21 +1,9 @@
 ---
-title: "[:en]Moocs from automated correction to personalised cursus[:fr]Moocs : de la correction automatique à la personnalisation des cursus[:]"
+title: "Moocs : de la correction automatique à la personnalisation des cursus"
+description: "Lundi 13 janvier 2014, Inria, Paris"
 date: 2014-01-13
-categories: 
-  - "recherche"
-tags: 
-  - "correction-automatique"
-  - "cusus"
-  - "mooc"
-  - "mooc-lab"
-  - "personnalisation"
-  - "seminaire"
-coverImage: "INRIA0049-01092.png"
+image: images/blog/INRIA0049-01092.png
 ---
-
-\[:en\]<!--more-->\[:fr\]Lundi 13 janvier 2014, Inria, Paris
-
-* * *
 
 ## Présentation
 
@@ -96,7 +84,3 @@ Ci-dessous, les liens vers les présentations du séminaire :
 - éric Vantroeyen (école polytechnique) eric\[dot\]vantroeyen\[at\]polytechnique\[dot\]edu
 - Jill-Jênn Vie (ENS Cachan) vie\[at\]jill-jenn\[dot\]net
 - Benjamin Werner (école polytechnique) benjamin\[dot\]werner\[at\]inria\[dot\]fr
-- * * *
-    
-
-\[:\]

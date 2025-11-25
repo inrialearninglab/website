@@ -22,3 +22,11 @@
 figcaption {
     @apply text-center italic pt-1;
 }
+
+.gallery {
+    @apply flex gap-2 flex-wrap justify-center;
+}
+
+.gallery img {
+    @apply max-w-sm;
+}

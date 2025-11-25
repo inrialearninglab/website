@@ -1,21 +1,9 @@
 ---
 title: "Vers des MOOCs accessibles"
+description: "Mardi 9 septembre 2014, CNAM, Paris (Accès 21, 2ème étage, salle 23)"
 date: 2014-08-26
-categories: 
-  - "recherche"
-tags: 
-  - "accessibilite"
-  - "accessible"
-  - "mooc"
-  - "mooc-lab"
-  - "normes"
-  - "seminaire"
-coverImage: "INRIA-0101-B000472.png"
+image: images/blog/INRIA-0101-B000472.png
 ---
-
-Mardi 9 septembre 2014, CNAM, Paris (Accès 21, 2ème étage, salle 23)
-
-* * *
 
 ## Présentation
 

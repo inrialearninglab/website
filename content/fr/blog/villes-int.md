@@ -1,20 +1,9 @@
 ---
-title: "[:fr]MOOC \"Défis technologiques des villes intelligentes participatives\"[:]"
+title: "MOOC \"Défis technologiques des villes intelligentes participatives\""
+description: "Le MOOC Défis technologiques des villes intelligentes participatives (#MoocSmartCity ) vous propose un tour d'horizon des infrastructures numériques de la ville connectée avec un accent particulier sur les technologies encourageant l'implication citoyenne."
 date: 2015-10-06
-categories: 
-  - "cours"
-tags: 
-  - "mooc"
-  - "smart-cities"
-  - "smart-city"
-  - "ville"
-  - "ville-intelligente"
-coverImage: "C0V1pano_image.jpg"
+image: images/blog/C0V1pano_image.jpg
 ---
-
-\[:fr\] 
-
-**Le MOOC "[Défis technologiques des villes intelligentes participatives](https://www.fun-mooc.fr/courses/course-v1:inria+41009+session03/about)" (#MoocSmartCity ) vous propose un **tour d'horizon des infrastructures numériques de la ville connectée** avec un accent particulier sur les technologies encourageant l'implication citoyenne.**
 
 Ce Mooc, d'une durée de **5 semaines**, présente les notions de base des éléments à considérer, de l’infrastructure au traitement des données.
 
@@ -26,13 +15,13 @@ Ce cours s'adresse à tous les **citoyens urbains** ayant un intérêt pour les 
 
 • **métiers de la gouvernance ou de l'urbanisme** qui s'intéressent à l'impact des nouvelles technologies sur la gestion des villes.
 
-### Au programme :
+## Au programme :
 
-Semaine 1 : Introduction  
-Semaine 2 : Infrastructures réseaux des systèmes urbains  
-Semaine 3 : Infrastructures logicielles des systèmes urbains  
-Semaine 4 : Gestion des données urbaines dans les nuages informatiques  
-Semaine 5 : Gestion des données et vie privée du citoyen urbain
+Semaine 1 : Introduction  
+Semaine 2 : Infrastructures réseaux des systèmes urbains  
+Semaine 3 : Infrastructures logicielles des systèmes urbains  
+Semaine 4 : Gestion des données urbaines dans les nuages informatiques  
+Semaine 5 : Gestion des données et vie privée du citoyen urbain
 
 **N’hésitez pas à vous inscrire à ce cours et à diffuser très largement cette information autour de vous. Le cours démarre le 6 novembre 2017, il est entièrement gratuit et ouvert à tous :**
 
@@ -40,7 +29,7 @@ Semaine 5 : Gestion des données et vie privée du citoyen urbain
 
 * * *
 
-### Quelques témoignages des participants à la première session :
+## Quelques témoignages des participants à la première session :
 
 > \- Une très bonne articulation entre les explications techniques (logicielles) détaillées et leur application au sein de la ville intelligente. Il propose un point de vue complet des défis sociétaux et des enjeux de la ville connectée.
 > 
@@ -52,16 +41,10 @@ Semaine 5 : Gestion des données et vie privée du citoyen urbain
 
 * * *
 
-### Historique et liens :
+## Historique et liens :
 
 Session 1 : du 25 janvier au 13 mars 2016 (sous le nom "Villes intelligentes : défis technologiques et sociétaux") Session 2 : du 6 mars au 9 avril 2017 Session 3 : du 6 novembre au 10 décembre 2017
 
- 
-
 - [Page de présentation du cours](https://www.fun-mooc.fr/courses/course-v1:inria+41009+session03/about)
 - Twitter : **#MoocSmartCity**
-- [Infographie de la session 1](https://learninglab.inria.fr/infographie-mooc-villes-intelligentes/) 
-
- 
-
- \[:\]
+- [Infographie de la session 1](/blog/villes-int-infographie) 
