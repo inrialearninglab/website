@@ -24,6 +24,6 @@ Un grand merci au Learning Centre, à Fabien Gandon, Catherine Faron-Zucker et O
 
 **En savoir plus sur uTOP:**
 
-![Logo uTOP](images/blog/logo-utop-2.png){style="max-width:1:rem;"}
+![Logo uTOP](images/blog/logo-utop-2.png){style="max-width:12rem;"}
 
 Ce MOOC a été réalisé par le Mooc Lab Inria dans le cadre du projet uTOP ( [http://utop.fr/](http://utop.fr/) - [http://utop.inria.fr/](http://utop.inria.fr/)). uTOP est un projet IDEFI qui vise à réaliser un démonstrateur de valorisation de la recherche par la formation.
