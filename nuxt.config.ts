@@ -2,7 +2,15 @@
 export default defineNuxtConfig({
     compatibilityDate: "2025-05-15",
     devtools: { enabled: true },
-    modules: ["@nuxt/ui", "@nuxt/content", "@nuxt/icon", "@nuxtjs/color-mode", "@nuxt/image", "@nuxtjs/i18n"],
+    modules: [
+        "@nuxt/ui",
+        "@nuxt/content",
+        "@nuxt/icon",
+        "@nuxtjs/color-mode",
+        "@nuxt/image",
+        "@nuxtjs/i18n",
+        "@nuxtjs/seo",
+    ],
     css: ["~/assets/css/tailwind.css"],
     app: {
         head: {
@@ -36,5 +44,9 @@ export default defineNuxtConfig({
     },
     image: {
         provider: import.meta.env.NODE_ENV === "development" ? "none" : "ipx",
+    },
+
+    site: {
+        name: "Inria Learning Lab",
     },
 });

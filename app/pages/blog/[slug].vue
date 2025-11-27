@@ -23,6 +23,16 @@ const { data: article } = await useAsyncData(
         watch: [locale],
     },
 );
+
+useSeoMeta({
+    title: article.value?.title,
+    description: article.value?.description,
+});
+
+defineOgImageComponent("NuxtSeo", {
+    theme: "#c9191e",
+    siteLogo: "/logo/ill-logo.svg",
+});
 </script>
 
 <template>

@@ -2,6 +2,10 @@
 const { locale } = useI18n();
 const localePath = useLocalePath();
 
+defineOgImageComponent("NuxtSeo", {
+    theme: "#c9191e",
+});
+
 const { data: home } = await useAsyncData(
     `home-${locale.value}`,
     async () => {
