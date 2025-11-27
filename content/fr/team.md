@@ -38,3 +38,6 @@ Nous sommes une équipe d’une dizaine de personnes, composée d’ingénieur(e
 
 ::Team
 ::
+
+## Anciens membres de l’équipe
+Jean-Marc Hasenfratz, Bénédicte Cardon, Tatiana Khomenko, Marie-Hélène Comte, Gilles Dowek, Alexandre Dubus, Florian Dufour, Benjamin Ninassi, Patrick Guillaud, Sébastien Hinderer, Mia Ogouchi, Guillaume Ollivier, Patrick Rambert, Stéphane Ribas, Martin Quinson, Isabelle Rey, Aurélie Bayle, Reinaldo Saavedra-Gomez.
