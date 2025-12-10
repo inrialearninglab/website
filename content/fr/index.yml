@@ -10,7 +10,7 @@ activity:
           trailingIcon: "lucide:arrow-right"
 
 moocs:
-    title: Découvrez nos MOOCs
+    title: Développez vos compétences
     description: Les formations en ligne complètes
     orientation: horizontal
     reverse: true
@@ -21,7 +21,7 @@ moocs:
     image: https://placehold.co/600x400
 
 epocs:
-    title: Découvrez nos ePocs
+    title: Explorez le numérique sur mobile
     description: Les apprentissages sur mobile
     orientation: horizontal
     links:
@@ -31,7 +31,7 @@ epocs:
     image: images/epoc-showcase.png
 
 seriousGames:
-    title: Découvrez nos jeux sérieux
+    title: Apprenez en jouant
     description: La sensibilitation par le jeu
     orientation: horizontal
     reverse: true

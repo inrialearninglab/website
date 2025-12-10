@@ -8,7 +8,7 @@ activity:
           to: blog
           trailingIcon: "lucide:arrow-right"
 moocs:
-    title: Discover our MOOCs
+    title: Develop your skills
     description: Comprehensive online courses
     orientation: horizontal
     reverse: true
@@ -18,7 +18,7 @@ moocs:
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 epocs:
-    title: Discover our ePocs
+    title: Explore the digital world on mobile
     description: Mobile learning experiences
     orientation: horizontal
     links:
@@ -27,7 +27,7 @@ epocs:
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 seriousGames:
-    title: Discover our serious games
+    title: Learn while you play
     description: Raise awareness through gaming
     orientation: horizontal
     reverse: true
