@@ -10,14 +10,22 @@ const { data: articles } = await useAsyncData(`blog-${locale.value}`, async () =
 </script>
 
 <template>
-    <UBlogPosts>
-        <UBlogPost
-            v-for="(post, index) in articles"
-            :orientation="index === 0 ? 'horizontal' : 'vertical'"
-            :key="index"
-            v-bind="post"
-            :to="localePath(post.path)"
-            :class="[index === 0 && 'col-span-full']"
-        />
-    </UBlogPosts>
+    <div v-if="articles" class="flex flex-col gap-16">
+        <UBlogPosts>
+            <UBlogPost
+                v-for="(post, index) in articles.slice(0, 3)"
+                :key="index"
+                v-bind="post"
+                :to="localePath(post.path)"
+            />
+        </UBlogPosts>
+        <UBlogPosts class="xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+            <UBlogPost
+                v-for="(post, index) in articles.slice(3)"
+                :key="index"
+                v-bind="post"
+                :to="localePath(post.path)"
+            />
+        </UBlogPosts>
+    </div>
 </template>

@@ -9,7 +9,7 @@ const { data: epocs } = await useAsyncData(`epocs-${locale.value}`, async () => 
 </script>
 
 <template>
-    <UPageGrid class="gap-5">
+    <UPageGrid class="gap-5 xs:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         <UPageCard
             v-for="epoc of epocs"
             :title="epoc.title"
