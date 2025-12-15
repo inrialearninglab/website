@@ -5,7 +5,7 @@ activity:
     reverse: true
     links:
         - label: See all news
-          to: blog
+          to: /en/blog
           trailingIcon: "lucide:arrow-right"
 moocs:
     title: Develop your skills
@@ -14,7 +14,7 @@ moocs:
     reverse: true
     links:
         - label: See all MOOCs
-          to: moocs
+          to: /en/moocs
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 epocs:
@@ -23,7 +23,7 @@ epocs:
     orientation: horizontal
     links:
         - label: See all ePocs
-          to: epocs
+          to: /en/epocs
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 seriousGames:
@@ -33,7 +33,7 @@ seriousGames:
     reverse: true
     links:
         - label: See serious games
-          to: serious-games
+          to: /en/serious-games
           trailingIcon: "lucide:arrow-right"
     image: https://placehold.co/600x400
 testimonials:
