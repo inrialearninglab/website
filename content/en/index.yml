@@ -2,7 +2,7 @@ hero:
     title: Inria Learning Lab
     description: "Inria Learning Lab designs and produces open educational resources and innovative learning technologies. Our goal: to make digital technology accessible and understandable for everyone through high-quality educational content and pathways."
 activity:
-    title: Discover our activities
+    reverse: true
     links:
         - label: See all news
           to: blog
