@@ -44,7 +44,7 @@ export default defineAppConfig({
             en: [
                 {
                     label: "News",
-                    to: "/en/blog",
+                    to: "/blog",
                 },
                 {
                     label: "Pedagogical Resources",
@@ -52,23 +52,23 @@ export default defineAppConfig({
                         {
                             label: "ePocs",
                             description: "Discover our ePocs collection",
-                            to: "/en/epocs",
+                            to: "/epocs",
                         },
                         {
                             label: "MOOCs",
                             description: "Discover our MOOCs",
-                            to: "/en/moocs",
+                            to: "/moocs",
                         },
                         {
                             label: "Serious Games",
                             description: "Discover our serious games",
-                            to: "/en/serious-games",
+                            to: "/serious-games",
                         },
                     ],
                 },
                 {
                     label: "Team",
-                    to: "/en/team",
+                    to: "/team",
                 },
             ],
         },
@@ -85,15 +85,23 @@ export default defineAppConfig({
                     label: "Vie privée",
                     to: "/privacy",
                 },
+                {
+                    label: "Plan du site",
+                    to: "/sitemap",
+                },
             ],
             en: [
                 {
                     label: "Terms of Use",
-                    to: "/en/terms",
+                    to: "/terms",
                 },
                 {
                     label: "Privacy Policy",
-                    to: "/en/privacy",
+                    to: "/privacy",
+                },
+                {
+                    label: "Sitemap",
+                    to: "/sitemap",
                 },
             ],
         },
