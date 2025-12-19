@@ -33,6 +33,6 @@ Accessible à toute personne qui souhaite produire des contenus (documents, site
 - Module 4: Les méthodes de conception de nouvelles aides. 
 - Module 5: Les assistances numériques. 
 
-## Auteurs
+## Équipe pédagogique
 - Pascal Guitton, professeur d’informatique à l’université de Bordeaux et membre de l’équipe de recherche Potioc (Inria, Université de Bordeaux, CNRS)
 - Hélène Sauzéon, professeure de psychologie et de sciences cognitives à l’université de Bordeaux et membre de l’équipe de recherche Phoenix (Inria, Université de Bordeaux, CNRS).
