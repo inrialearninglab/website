@@ -10,7 +10,7 @@ activity:
           trailingIcon: "lucide:arrow-right"
 
 moocs:
-    title: Développez vos compétences
+    title: Développez vos compétences autour du numérique
     description: Les formations en ligne complètes
     orientation: horizontal
     reverse: true

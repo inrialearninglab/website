@@ -17,17 +17,17 @@ export default defineAppConfig({
                     children: [
                         {
                             label: "ePocs",
-                            description: "Découvrez notre collection d'ePocs",
+                            description: "Explorez le numérique sur mobile",
                             to: "/epocs",
                         },
                         {
                             label: "MOOCs",
-                            description: "Découvrez nos MOOCs",
+                            description: "Développez vos compétences autour du numérique",
                             to: "/moocs",
                         },
                         {
                             label: "Jeux sérieux",
-                            description: "Découvrez nos jeux sérieux",
+                            description: "Apprenez en jouant",
                             to: "/serious-games",
                         },
                     ],
@@ -51,17 +51,17 @@ export default defineAppConfig({
                     children: [
                         {
                             label: "ePocs",
-                            description: "Discover our ePocs collection",
+                            description: "Explore the digital world on mobile",
                             to: "/en/epocs",
                         },
                         {
                             label: "MOOCs",
-                            description: "Discover our MOOCs",
+                            description: "Develop your skills in the digital field",
                             to: "/en/moocs",
                         },
                         {
                             label: "Serious Games",
-                            description: "Discover our serious games",
+                            description: "Learn while you play",
                             to: "/en/serious-games",
                         },
                     ],

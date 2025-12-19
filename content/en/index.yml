@@ -8,7 +8,7 @@ activity:
           to: /en/blog
           trailingIcon: "lucide:arrow-right"
 moocs:
-    title: Develop your skills
+    title: Develop your skills in the digital field
     description: Comprehensive online courses
     orientation: horizontal
     reverse: true
