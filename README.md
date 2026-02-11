@@ -23,3 +23,4 @@ npm install
 ```
 npm run dev
 ```
+Après quelques secondes, le site devrait être visible ici : http://localhost:3000
