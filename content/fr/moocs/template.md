@@ -11,6 +11,9 @@ lang: ["fr"]
 trailer: https://www.youtube.com/embed/fLDEZthdtZQ
 ---
 
+## Description du cours
+Reprendre la rubrique description de FUN
+
 ## Objectifs du cours
 Comprendre les principes de la conception orientée objet
 Appliquer le développement piloté par les tests (TDD)
