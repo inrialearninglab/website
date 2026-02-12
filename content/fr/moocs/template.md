@@ -27,6 +27,7 @@ titre de chaque module
 
 ## Équipe pédagogique
 Auteurs
+Ingénieurs pédagogiques
 
 ## Ressources complémentaires
 Code source sur GitHub
