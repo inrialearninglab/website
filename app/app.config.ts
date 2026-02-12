@@ -222,20 +222,6 @@ export default defineAppConfig({
             ],
         },
         {
-            name: "Laetitia Ecrement",
-            avatar: "/images/team/laetitia.jpg",
-            title: {
-                fr: "Alternante ingénieure pédagogique",
-                en: "Apprentice pedagogical engineer",
-            },
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/laetitia-ecrement-2624a9201/",
-                },
-            ],
-        },
-        {
             name: "Benoit Rospars",
             avatar: "/images/team/benoit.jpg",
             title: {
@@ -259,7 +245,8 @@ export default defineAppConfig({
         },
         {
             name: "Nathan Viaud",
-            avatar: "https://avatars.githubusercontent.com/u/79544144?v=4&size=64",
+            avatar: "/images/team/nathan.jpg",
+            gold: true,
             title: {
                 fr: "Ingénieur informatique",
                 en: "Computer engineer",

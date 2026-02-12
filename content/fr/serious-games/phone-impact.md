@@ -4,11 +4,8 @@ description: "PhoneImpact, un jeu sérieux co-créé avec des expert·es scienti
 date: 2024-12-25
 image: "/images/serious-games/phone-impact.png"
 ---
-## Qu'est ce que Phone Impact ?
 
-PhoneImpact, un jeu sérieux co-créé avec des expert·es scientifiques, conçu pour sensibiliser aux impacts environnementaux des activités extractives liées à la fabrication des smartphones.
-
-## I - L'univers
+## L'univers
 
 Dans la ville de TechCity, vous incarnez un·e fabricant·e de smartphones. Alors que la compétition fait rage pour produire les téléphones portables les plus innovants, une question cruciale émerge : l'impact environnemental de la production de ces appareils.
 
@@ -18,13 +15,13 @@ Vous devrez faire des choix stratégiques en tenant compte des contraintes envir
 
 Le temps est venu de construire un avenir plus durable. Êtes-vous prêt·e à relever ce défi de taille ? Le destin de TechCity est entre vos mains.
 
-## II - But du jeu
+## But du jeu
 
 Le but du jeu est de gagner le maximum de points en fabriquant des composants de votre smartphone avant la fin de la partie. Pour cela, vous devez acquérir les ressources nécessaires à leur fabrication chez les 3 fournisseurs proposés.
 
 Mais attention à ne pas trop polluer !
 
-## III - Objectifs pédagogiques
+## Objectifs pédagogiques
 
 Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer un smartphone et prendre conscience des impacts environnementaux et sociaux liés à leur extraction.
 
@@ -39,6 +36,14 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 - Identifier et analyser différentes pistes d'action pour limiter les impacts environnementaux liés à l'extraction des métaux (recyclage, réglementation...)
 
 À la fin du debrief, les participant·es seront capables de remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique.
+
+
+## Équipe pédagogique
+Auteurs
+
+## Ressources complémentaires
+
+## Partenaires
 
 ::u-button
 ---

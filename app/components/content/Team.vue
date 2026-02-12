@@ -20,6 +20,7 @@ const { locale } = useI18n();
                         description: 'text-center',
                     }"
                     variant="subtle"
+                    :class="{ gold: user.gold }"
                 >
                     <template #leading>
                         <UAvatar :src="user.avatar" size="3xl" class="mx-auto" />
@@ -41,3 +42,28 @@ const { locale } = useI18n();
         </UPageBody>
     </UPage>
 </template>
+
+<style scoped>
+.gold {
+    background:
+        radial-gradient(
+            ellipse farthest-corner at right bottom,
+            #fedb37 0%,
+            #fdb931 8%,
+            #9f7928 30%,
+            #8a6e2f 40%,
+            transparent 80%
+        ),
+        radial-gradient(
+            ellipse farthest-corner at left top,
+            #ffffff 0%,
+            #ffffac 8%,
+            #d1b464 25%,
+            #5d4a1f 62.5%,
+            #5d4a1f 100%
+        );
+}
+.gold * {
+    color: white !important;
+}
+</style>
