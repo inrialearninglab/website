@@ -59,25 +59,27 @@ const { data: mooc } = await useAsyncData(
         </UPageHeader>
 
         <UPageBody>
-            <iframe
-                v-if="mooc?.trailer"
-                :src="mooc.trailer"
-                title="Video player"
-                frameborder="0"
-                allow="
-                    accelerometer;
-                    autoplay;
-                    clipboard-write;
-                    encrypted-media;
-                    gyroscope;
-                    picture-in-picture;
-                    web-share;
-                "
-                referrerpolicy="strict-origin-when-cross-origin"
-                allowfullscreen
-                class="w-full aspect-video rounded-md"
-            />
-            <NuxtImg v-else :src="mooc.image" alt="thumbnail" class="w-full aspect-video rounded-md" />
+            <div class="max-w-2xl mx-auto">
+                <iframe
+                    v-if="mooc?.trailer"
+                    :src="mooc.trailer"
+                    title="Video player"
+                    frameborder="0"
+                    allow="
+                        accelerometer;
+                        autoplay;
+                        clipboard-write;
+                        encrypted-media;
+                        gyroscope;
+                        picture-in-picture;
+                        web-share;
+                    "
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen
+                    class="w-full aspect-video rounded-md"
+                />
+                <NuxtImg v-else :src="mooc.image" alt="thumbnail" class="w-full aspect-video rounded-md" />
+            </div>
 
             <div class="flex items-center justify-center">
                 <UButton
