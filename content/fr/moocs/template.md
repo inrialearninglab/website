@@ -29,7 +29,7 @@ titre de chaque module
 
 
 ## Équipe pédagogique
-Auteurs
+Auteurs, fonction, institution(s)
 Ingénieurs pédagogiques
 
 ## Ressources complémentaires
