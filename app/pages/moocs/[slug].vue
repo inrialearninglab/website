@@ -36,6 +36,7 @@ const { data: mooc } = await useAsyncData(
             </template>
 
             <template #description>
+                <p class="mb-4">{{ mooc.description }}</p>
                 <div class="flex gap-5">
                     <p v-if="mooc.date" class="flex items-center gap-2">
                         <UIcon name="lucide:calendar" />
@@ -63,7 +64,15 @@ const { data: mooc } = await useAsyncData(
                 :src="mooc.trailer"
                 title="Video player"
                 frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allow="
+                    accelerometer;
+                    autoplay;
+                    clipboard-write;
+                    encrypted-media;
+                    gyroscope;
+                    picture-in-picture;
+                    web-share;
+                "
                 referrerpolicy="strict-origin-when-cross-origin"
                 allowfullscreen
                 class="w-full aspect-video rounded-md"
