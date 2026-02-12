@@ -11,8 +11,6 @@ lang: ["fr"]
 trailer: https://www.youtube.com/embed/33JLFhyMbJQ?si=v1ZRdshIP5kI4_b2
 ---
 
-# Comment favoriser l'accès au monde numérique pour les personnes en situation de handicap
-
 Ce MOOC est un cours généraliste d'introduction à l'accessibilité numérique tant en termes de problématique générale que de présentation d'éléments de réponse concrets pour contribuer au développement de l'accessibilité numérique.
 
 ## Objectifs du cours
