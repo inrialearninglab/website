@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     },
     i18n: {
         locales: [
-            { code: "en", name: "English", language: "en-US" },
+            { code: "en", name: "English", language: "en" },
             { code: "fr", name: "French", language: "fr-FR" },
         ],
         defaultLocale: "fr",
@@ -20,7 +20,7 @@ export default defineNuxtConfig({
         static: true,
         prerender: {
             crawlLinks: true,
-            routes: ["/", "/fr"],
+            routes: ["/", "/en"],
             failOnError: false,
         },
     },

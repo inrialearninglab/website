@@ -17,6 +17,7 @@ const moocSchema = z.object({
     type: z.enum(["self-paced", "session", "MAOI"]),
     assesment: z.string(),
     lang: z.array(z.string()),
+    licence: z.string().default("CC BY 4.0"),
     trailer: z.string().url(),
 });
 

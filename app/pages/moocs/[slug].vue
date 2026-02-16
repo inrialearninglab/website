@@ -31,13 +31,11 @@ const { data: mooc } = await useAsyncData(
 <template>
     <UPage v-if="mooc">
         <UPageHeader :title="mooc.title" headline="MOOC">
-            <template #links>
-                <MoocStatus :status="mooc.status" />
-            </template>
-
             <template #description>
                 <p class="mb-4">{{ mooc.description }}</p>
                 <div class="flex gap-5">
+                    <MoocStatus :status="mooc.status" />
+
                     <p v-if="mooc.date" class="flex items-center gap-2">
                         <UIcon name="lucide:calendar" />
                         {{ useDateFormat(mooc.date, "D MMMM YYYY", { locales: locale }) }}
@@ -54,6 +52,11 @@ const { data: mooc } = await useAsyncData(
                             </div>
                         </div>
                     </div>
+
+                    <p v-if="mooc.licence" class="flex items-center gap-2">
+                        <UIcon name="lucide:copyright" />
+                        {{ mooc.licence }}
+                    </p>
                 </div>
             </template>
         </UPageHeader>
