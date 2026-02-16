@@ -59,6 +59,21 @@ const { data: mooc } = await useAsyncData(
         </UPageHeader>
 
         <UPageBody>
+            <UAlert
+                v-if="mooc.status === 'closed'"
+                :description="t('closed-callout')"
+                variant="subtle"
+                color="error"
+                icon="lucide:circle-alert"
+            />
+            <UAlert
+                v-if="mooc.status === 'archived'"
+                :description="t('archived-callout')"
+                variant="subtle"
+                color="warning"
+                icon="lucide:circle-alert"
+            />
+
             <div class="max-w-2xl mx-auto">
                 <iframe
                     v-if="mooc?.trailer"
@@ -122,7 +137,9 @@ const { data: mooc } = await useAsyncData(
         "not-found": "MOOC non trouvé",
         "error-message": "Le MOOC que vous cherchez n'existe pas",
         "see-course": "Voir le cours",
-        "not-accessible": "Ce cours n'est plus accessible"
+        "not-accessible": "Ce cours n'est plus accessible",
+        "closed-callout": "Ce cours est fermé sur FUN et n'est plus accessible",
+        "archived-callout": "Ce cours est archivé, son accès est limité en lecture seule"
     },
     "en": {
         "opening": "Opening",
@@ -131,7 +148,9 @@ const { data: mooc } = await useAsyncData(
         "not-found": "MOOC not found",
         "error-message": "The MOOC you are looking for does not exist.",
         "see-course": "Access the course",
-        "not-accessible": "This course is no longer accessible"
+        "not-accessible": "This course is no longer accessible",
+        "closed-callout": "This course is closed on FUN and no longer accessible",
+        "archived-callout": "This course is archived, access is limited to read-only"
     }
 }
 </i18n>
