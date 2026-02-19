@@ -3,6 +3,7 @@ title: Nom de l'ePoc
 description: Phrase d'accroche qui parait sur la vignette
 date: 2022-01-19
 image: /images/mooc/pad-patrouille.png
+licence: CC BY 4.0
 ---
 
 ## Objectifs du cours
@@ -17,7 +18,6 @@ Toute personne intéressée par les méthodes agiles
 
 ## Plan du cours
 titre de chaque module
-
 
 ## Équipe pédagogique
 Auteurs

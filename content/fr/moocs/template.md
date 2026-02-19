@@ -9,6 +9,7 @@ investment:
 assesment:
 lang: ["fr"]
 trailer: https://www.youtube.com/embed/fLDEZthdtZQ
+licence: CC BY 4.0
 ---
 
 ## Description du cours
@@ -26,7 +27,6 @@ Toute personne intéressée par les méthodes agiles
 
 ## Plan du cours
 titre de chaque module
-
 
 ## Équipe pédagogique
 Auteurs, fonction, institution(s)
