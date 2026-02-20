@@ -1,19 +1,23 @@
 ---
 title: Intelligence Artificielle pour et par les enseignants
-description: Explorer et soutenir l'utilisation éclairée de l'IA dans l'éducation. <br/>Ce MOOC a pour objectif d’aider les enseignants et la communauté éducative dans son ensemble à acquérir une compréhension générale sur l'IA - ses usages, ses technologies et ses limites, et à les accompagner vers un usage éclairé des outils basés sur l'IA dans le contexte de l'Éducation.
-date: 2023-12-01
+description: Explorer et soutenir l'utilisation éclairée de l'IA dans l'éducation. 
+date: 2023-11-16
 image: /images/mooc/pai4t.png
 status: open
 url: https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/
-investment:
-assesment:
+investment: 3h
+assesment: Open badge
 lang: ["fr"]
 trailer: https://www.youtube.com/embed/9t-fm4liJPw?si=nmVGNaIGGFYORWil
+licence: CC BY 4.0
 ---
 
-Ce Mooc a été élaboré, expérimenté et déployé dans le cadre du projet européen Erasmus+ AI4T (2021-2024) impliquant 5 pays Européens (France, Irlande, Italie, Luxembourg et Slovénie) dont chacun des 5 ministères de l’éducation, et notamment le MENJ (Direction du numérique pour l'éducation) en France.
+## Description du cours
+Ce cours a pour objectif d’aider les enseignants et la communauté éducative dans son ensemble à acquérir une compréhension générale sur l'IA - ses usages, ses technologies et ses limites, et à les accompagner vers un usage éclairé des outils basés sur l'IA dans le contexte de l'Éducation.
 
-## Objectifs pédagogiques
+Les contenus ont été élaborés en collaboration avec les cinq ministères de l’éducation impliqués dans le projet européen Erasmus+ AI4T (France, Irlande, Italie, Luxembourg et Slovénie) et notamment avec la Direction du Numérique pour l'Éducation (DNE- MEN).
+
+## Objectifs du cours
 À la fin de ce cours, vous saurez :
 
 - Identifier le potentiel et les utilisations actuelles de l'IA en éducation
@@ -22,7 +26,11 @@ Ce Mooc a été élaboré, expérimenté et déployé dans le cadre du projet eu
 - Identifier la place cruciale des données pour les outils éducatifs basés sur l'IA
 - Appliquer une méthodologie pour analyser un outil pédagogique basé sur une IA
 
-## Synopsis
+## À qui s'adresse ce cours ?
+- Enseignants et la communauté éducative dans son ensemble.
+- Toute personne intéressée par les enjeux et l'usage de l'IA en éducation et formation.
+
+## Plan du cours
 Le Mooc est organisé en quatre modules :
 - Module 1 : **Utiliser l’IA en éducation**
 - Module 2 : **Qu’est-ce que l’IA ?**
@@ -30,10 +38,23 @@ Le Mooc est organisé en quatre modules :
 - Module 4 : **L’IA à notre service en tant qu’enseignants ?**
 
 Chaque module propose des vidéos, des textes, des activités, des quiz et un accès au forum pour partager vos expériences et interagir avec l’équipe pédagogique et avec les autres participants.
-La durée totale du cours est estimée entre 2 et 3 heures, en fonction du temps que vous souhaitez consacrer aux activités et à la consultation des documents d'appui.
 
-## Informations utiles
+## Équipe pédagogique
+Auteurs :
+- Anne Boyer, Professeure en Informatique, Université de Lorraine
+- Jiajun Pan, chercheur postdoctoral, Université de Lorraine
+- Laurent Romary, directeur de l'information et de la culture scientifique, Inria
+- Nicolas Rougier, chercheur en neurosciences computationnelles, Inria
+- Azim Roussanaly, enseignant-chercheur en informatique, Université de Lorraine
 
-- Accès au MOOC [Intelligence Artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) sur la plateforme fun-mooc-fr
-- Date d'ouverture du MOOC: 16 novembre 2023
-- Mode de suivi du MOOC : Auto-rythmé
+Ingénieurs pédagogiques :
+- Bénédicte Cardon, ingénieure pédagogique, Inria Learning Lab.
+- Marie Collin, ingénieure pédagogique, Inria Learning Lab.
+
+## Ressources complémentaires
+- Sources du contenu du MOOC sur GitHub
+- Portail du MOOC en consultation libre et en 5 langues
+
+## Partenaires
+- [Ministère de l'Education Nationale](https://www.education.gouv.fr/)
+- Partenaires du projets [européen AI4T](https://www.ai4t.eu/about/partners/)
