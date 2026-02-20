@@ -41,20 +41,20 @@ Chaque module propose des vidéos, des textes, des activités, des quiz et un ac
 
 ## Équipe pédagogique
 Auteurs :
-- Anne Boyer, Professeure en Informatique, Université de Lorraine
-- Jiajun Pan, chercheur postdoctoral, Université de Lorraine
-- Laurent Romary, directeur de l'information et de la culture scientifique, Inria
-- Nicolas Rougier, chercheur en neurosciences computationnelles, Inria
-- Azim Roussanaly, enseignant-chercheur en informatique, Université de Lorraine
+- **Anne Boyer**, Professeure en Informatique, Université de Lorraine
+- **Jiajun Pan**, chercheur postdoctoral, Université de Lorraine
+- **Laurent Romary**, directeur de l'information et de la culture scientifique, Inria
+- **Nicolas Rougier**, chercheur en neurosciences computationnelles, Inria
+- **Azim Roussanaly**, enseignant-chercheur en informatique, Université de Lorraine
 
 Ingénieurs pédagogiques :
-- Bénédicte Cardon, ingénieure pédagogique, Inria Learning Lab.
-- Marie Collin, ingénieure pédagogique, Inria Learning Lab.
+- **Bénédicte Cardon**, ingénieure pédagogique, Inria Learning Lab.
+- **Marie Collin**, ingénieure pédagogique, Inria Learning Lab.
 
 ## Ressources complémentaires
-- Sources du contenu du MOOC sur GitHub
-- Portail du MOOC en consultation libre et en 5 langues
+- <a href="https://github.com/inrialearninglab/ai4t" target=_blank>Sources du MOOC</a> sur GitHub
+- <a href="https://inrialearninglab.github.io/ai4t/index.html" target=_blank>Portail du MOOC</a> en consultation libre et en 5 langues
 
 ## Partenaires
-- [Ministère de l'Education Nationale](https://www.education.gouv.fr/)
-- Partenaires du projets [européen AI4T](https://www.ai4t.eu/about/partners/)
+- <a href="https://www.education.gouv.fr/" target=_blank>Ministère de l'Éducation Nationale</a>
+- Partenaires du projets <a href="https://www.ai4t.eu/about/partners/" target=_blank>européen AI4T</a>
