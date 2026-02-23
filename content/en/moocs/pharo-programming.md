@@ -8,7 +8,7 @@ url: https://www.fun-mooc.fr/en/courses/live-object-programming-pharo/
 investment: 40 hours
 assesment: Open badge
 lang: ["en", "fr"]
-trailer: https://www.youtube.com/watch?v=EqqNWJ6m-U0
+trailer: https://www.youtube.com/embed/-z83bmzRATM?si=GaYz9kAKVJWLrGOw
 licence: CC BY NC
 ---
 
@@ -22,7 +22,7 @@ Pharo is also a very powerful open-source environment used by companies to devel
 
 Throughout this MOOC you will be immersed in a live environment and live a new programming experience.
 
-This Mooc will start with a special, optional, sequence for Newbies to introduce the basics on object-oriented programming.
+This MOOC will start with a special, optional, sequence for Newbies to introduce the basics on object-oriented programming.
 All along this MOOC, we present more specifically Pharo’s Web stack which changes the way you build web applications.
 In addition we present fundamental programming concepts and how Pharo uses them. We present some coding idioms and Design Patterns to better design object-oriented applications. Such concepts can be applied to any object-oriented programming language.
 
@@ -33,25 +33,16 @@ This MOOC will also provide a new vision of the fundamental principles of object
 ## Learning Objective
 At the end of this course, you will be able to:
 
-to program in Pharo,
-to develop a web application to apply the different aspects of Pharo.
-The duration of the complete course is estimated at 40 hours.
+- to program in Pharo,
+- to develop a web application to apply the different aspects of Pharo.
 
 Testimony of a participant
-"I have just completed week seven of the Pharo Mooc (beginner and object oriented tracks) I am starting a redo of the Mooc with the web track (TinyBlog project). I have already learned so much! I have spent the last 20 years or so in software development and, following this Mooc, I realized I hadn’t really grasped the essence of object oriented design."
+"I have just completed week seven of the Pharo MOOC (beginner and object oriented tracks) I am starting a redo of the MOOC with the web track (TinyBlog project). I have already learned so much! I have spent the last 20 years or so in software development and, following this MOOC, I realized I hadn’t really grasped the essence of object oriented design."
 
 ## Audience
 - Students, beginners and experienced developers
 - IT teachers
 - Anyone interested in agile methods
-
-## Prerequisites
-A first experience in object-oriented programming is better.
-
-Pharo installation
-
-Install the specific version of Pharo for the MOOC
-Go to this webpage and follow the instructions.
 
 ## Content
 - Week 1: Welcome on Board and Syntax Discovery
@@ -66,9 +57,11 @@ Go to this webpage and follow the instructions.
 - Stéphane Ducasse, Research director - Inria
 - Damien Cassou, software developer - Företagsplatsen
 - Luc Fabresse, Professor - IMT Nord Europe
+- Marie Collin, Learning Designer - Inria Learning Lab
+- Isabelle Collignon, Learning Designer - Inria Learning Lab
 
 ## Complementary resources
 - [YouTube playlist of MOOC Pharo videos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf)
 - [Pharo MOOC videos & slides](https://mooc.pharo.org)
-- [Pharo Mooc on github](hhttps://github.com/pharo-mooc)
+- [Pharo MOOC on github](hhttps://github.com/pharo-mooc)
 - [Pharo Discord Channel](https://discord.gg/QewZMZa)
