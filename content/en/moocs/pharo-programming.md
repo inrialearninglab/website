@@ -6,7 +6,7 @@ image: /images/mooc/ppharoprogramming.png
 status: open
 url: https://www.fun-mooc.fr/en/courses/live-object-programming-pharo/
 investment: 40 hours
-assesment:
+assesment: Open badge
 lang: ["en", "fr"]
 trailer: https://www.youtube.com/watch?v=EqqNWJ6m-U0
 licence: CC BY NC
@@ -38,7 +38,7 @@ to develop a web application to apply the different aspects of Pharo.
 The duration of the complete course is estimated at 40 hours.
 
 Testimony of a participant
-"I have just completed week seven of the Pharo Mooc (beginner and object oriented tracks) I am starting a redo of the Mooc with the web track (TinyBlog project). I have already learned so much ! I have spent the last 20 years or so in software development and, following this Mooc, I realized I hadn’t really grasped the essence of object oriented design."
+"I have just completed week seven of the Pharo Mooc (beginner and object oriented tracks) I am starting a redo of the Mooc with the web track (TinyBlog project). I have already learned so much! I have spent the last 20 years or so in software development and, following this Mooc, I realized I hadn’t really grasped the essence of object oriented design."
 
 ## Audience
 - Students, beginners and experienced developers
@@ -54,13 +54,13 @@ Install the specific version of Pharo for the MOOC
 Go to this webpage and follow the instructions.
 
 ## Content
-- Week 1 : Welcome on Board and Syntax Discovery
-- Week 2 : Pharo Syntax, Blocks and Inspector
-- Week 3 : Design, Class Methods and Collections
-- Week 4 : Inheritance & Lookup and Web Development
-- Week 5 : Exception, Debugging and Reflection
-- Week 6 : Rethink Lookup and Advanced Object-Oriented Design
-- Week 7 : More on Object-Oriented Design and Testing
+- Week 1: Welcome on Board and Syntax Discovery
+- Week 2: Pharo Syntax, Blocks and Inspector
+- Week 3: Design, Class Methods and Collections
+- Week 4: Inheritance & Lookup and Web Development
+- Week 5: Exception, Debugging and Reflection
+- Week 6: Rethink Lookup and Advanced Object-Oriented Design
+- Week 7: More on Object-Oriented Design and Testing
 
 ## Educational team
 - Stéphane Ducasse, Research director - Inria
