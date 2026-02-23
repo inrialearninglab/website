@@ -6,7 +6,7 @@ image: /images/mooc/ppharoprogramming.png
 status: open
 url: https://www.fun-mooc.fr/fr/cours/programmation-objet-immersive-en-pharo/
 investment: 40 heures
-assesment: Open 
+assesment: Open Badge
 lang: ["fr", "en"]
 trailer: https://www.youtube.com/embed/-z83bmzRATM?si=GaYz9kAKVJWLrGOw
 licence: CC BY NC

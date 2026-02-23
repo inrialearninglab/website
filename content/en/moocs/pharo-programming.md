@@ -6,7 +6,7 @@ image: /images/mooc/ppharoprogramming.png
 status: open
 url: https://www.fun-mooc.fr/en/courses/live-object-programming-pharo/
 investment: 40 hours
-assesment: Open badge
+assesment: Open Badge
 lang: ["en", "fr"]
 trailer: https://www.youtube.com/embed/-z83bmzRATM?si=GaYz9kAKVJWLrGOw
 licence: CC BY NC
@@ -54,9 +54,9 @@ Testimony of a participant
 - Week 7: More on Object-Oriented Design and Testing
 
 ## Educational team
-- Stéphane Ducasse, Research director - Inria
-- Damien Cassou, software developer - Företagsplatsen
-- Luc Fabresse, Professor - IMT Nord Europe
+- Stéphane Ducasse, Research director, University of Lille - Inria
+- Damien Cassou, software developer, University of Lille - Företagsplatsen
+- Luc Fabresse, Professor, University of Lille - IMT Nord Europe - Inria
 - Marie Collin, Learning Designer - Inria Learning Lab
 - Isabelle Collignon, Learning Designer - Inria Learning Lab
 
