@@ -1,25 +1,52 @@
 ---
 title: Produire mon 1er ePoc
-date: 2017-01-01
-description: "Découvrez l'éditeur \"ePoc Editor\" et créez votre première formation <em>mobile learning</em>, courte, ludique, en quelques clics. L'ePoc \"Produire mon 1er ePoc\" est conçu pour faciliter la prise en main de l'éditeur epoc Editor, gratuit et open source, développé et maintenu par Inria Learning Lab depuis 2020."
+date: 2025-04-01
+description: Créer et publier votre formation mobile avec ePoc Editor.
 image: "/images/epoc/premierspas.png"
+investment: 40 min
+assesment:
+lang: ["fr"]
+licence: CC BY 4.0
 ---
-<!--![/Produire mon 1er ePoc](images/epoc-editor-scenario.png)-->
 
-Le parcours de l'ePoc "Produire mon 1er ePoc" vous guide pas à pas pour la découverte d'ePoc Editor, l'application de bureau pour construire votre ePoc.
-En suivant les étapes de l'ePoc "Produire mon 1er ePoc" sur votre mobile, vous pouvez en parallèle, avec ePoc Editor sur votre ordinateur, découvrir son interface, expérimenter la création de contenus, le paramétrage d'évaluation puis l'export de votre premier ePoc au format .epoc, prêt à être téléchargé et suivi sur l'application mobile.
+## Description de la micro-formation
 
-## Synopsis
+L'ePoc "Produire mon 1er ePoc" facilite la prise en main d'ePoc Editor, l'application de bureau conçue pour construire et publier des micro-formations sur l'application mobile ePoc.
 
-Conçue comme un accompagnement structuré et ludique, l'apprenant est guidé pas à pas pour découvrir l'éditeur d'ePoc et expérimenter comment :
+## Objectifs pédagogiques
 
-•	Structurer votre parcours pédagogique
-•	Créer des contenus variés
-•	Paramétrer une évaluation
-•	Exporter votre ePoc pour lecture sur l'application mobile
+En suivant les étapes pédgogiques de cette micro-formation sur votre application mobile ePoc, tout en expérimentant ePoc Editor en parallèle sur votre ordinateur, vous pourrez :
+- découvrir l'interface ePoc editor, 
+- expérimenter la création de contenus, 
+- paramétrer l'évaluation d'un ePoc puis 
+- exporter votre ePoc au format .epoc, prêt à être téléchargé et suivi sur l'application mobile.
 
-## Informations pratiques
+## A qui s’adresse cet ePoc ? 
+- ingénieur.es pédagogiques, formateur.ices
+- toute personne intéressée par la création et la publication de micro-formations sur l'application ePoc.
 
-•	Télécharger [ePoc Editor](https://epoc.inria.fr/editor/) sur votre ordinateur (MacOS, Windows, Linux),
-•	Suivre les modules de l'ePoc "[Produire mon 1er ePoc](https://epoc.inria.fr/epocs/)" sur votre téléphone mobile tout en expérimentant les fonctionnalités présentées.
-•	Durée de l'apprentissage : 40 min (10 min par module)
+## Plan de l'ePoc
+
+La micro-formation est conçue comme un accompagnement structuré et ludique, en 4 étapes :
+
+- Étape 1 : **Structurer votre parcours pédagogique**
+- Étape 2 : **Intégrer des contenus variés (texte, vidéos, audios, quiz)**
+- Étape 3 : **Paramétrer une évaluation**
+- Étape 4 : **Exporter votre ePoc pour lecture sur l'application mobile ePoc**
+
+## Équipe pédagogique
+Auteurs :
+- **Marie Collin**, ingénieure pédagogique, Inria Learning Lab
+- **Laetitia Ecrement**, apprentie ingénieure pédagogique, Inria Learning Lab
+
+## Ressources complémentaires
+- <a href="https://epoc.inria.fr/" target:=_blank>ePoc (electronic Pocket open course)</a> est une solution complète de mobile learning libre et ouverte. Gratuite et open source. Développée et maintenue par Inria Learning Lab depuis 2020.
+
+## Accès à l'ePoc
+1- Télécharger l'application ePoc (<a href="https://apps.apple.com/app/epoc/id1596317383" target=_blank>App Store iOS</a> ou <a href="https://play.google.com/store/apps/details?id=fr.inria.epoc" target=_blank>Google Play Android</a>) et l'ouvrir
+
+2- Dans la collection "Mes ePocs", cliquer sur la vignette "Ajouter votre ePoc"
+
+3- Sélectionner "Ajouter depuis un QR code"
+
+4- Scanner le <a href="https://epoc.inria.fr/_ipx/_/images/qr-E012MC.png" target=_blank>QR Code accessible par ce lien</a> pour accéder à l'ePoc.
