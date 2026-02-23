@@ -5,7 +5,7 @@ date: 2023-11-16
 image: /images/mooc/pai4t.png
 status: open
 url: https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/
-investment: 3h
+investment: 4h
 assesment: Open badge
 lang: ["fr"]
 trailer: https://www.youtube.com/embed/9t-fm4liJPw?si=nmVGNaIGGFYORWil

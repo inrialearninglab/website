@@ -1,33 +1,78 @@
 ---
-title: L’Internet des Objets sur microcontrôleurs par la pratique
-description: Découvrez comment développer des applications IoT de l’objet au cloud grâce à ce MOOC complet, mêlant théorie, pratiques interactives et exploration de la plateforme FIT IoT-Lab, idéal pour ingénieur·e·s, étudiant·e·s ou makers passionnés.
-date: 2020-01-04
+title: "Internet of Things with Microcontrollers: a hands-on course"
+description: IoT microcontroller programming, from object to cloud.
+date: 2020-03-30
 image: /images/mooc/piot.png
 status: closed
-investment:
+url: https://www.fun-mooc.fr/en/courses/internet-things-microcontrollers-hands-course/
+investment: 20h
 assesment:
 lang: ["en"]
 trailer: https://www.youtube.com/embed/De0CI9r1-r4?si=svfE6zuGqAoU5zE4
+licence: CC BY NC
 ---
-Ce MOOC a pour but d’aider les ingénieur.e.s, étudiant·e.s en informatique ou « makers » à comprendre les spécificités de la programmation d’objets connectés à travers une alliance de contenus théoriques et d’activités pratiques.
+## Course description
 
+With billions of connected objects, the Internet of Things has a very wide range of applications including for instance home automation, agriculture, but also healthcare and industry.
+The Internet of Things meets a lot of challenges among which:
 
-A la fin de ce cours chaque participant sera capable de développer une application IoT de l’objet au cloud. Il n’est pas nécessaire de posséder de matériel spécifique pour suivre ce cours : chacun pourra programmer et tester son logiciel en utilisant la plateforme d’expérimentation FIT IoT-Lab.
+- Energy efficiency of the IoT devices for a long autonomy and energy saving
+- Interoperability between all the connected objects
+- Updates of the devices for a long-term use
+- Security of the IoT devices to prevent them from being hacked
+- Data privacy of the users
 
-Les contenus du cours et les activités pratiques ont été produites par des ingénieurs et chercheurs impliqués dans la plateforme FIT-IoTLab ou dans les recherches sur l’IoT: Alexandre Abadie (Ingénieur de recherche, Inria), Emmanuel Baccelli (Professeur Freie Universität Berlin), Antoine Gallais (Professeur, Université Polytechnique Hauts-de-France), Olivier Gladin (Ingénieur de recherche, Inria), Nathalie Mitton (Chercheuse, Inria), Frédéric Saint-Marcel (Ingénieur de recherche, Inria), Guillaume Schreiner (Ingénieur, CNRS), Laurent Toutain (Enseignant-chercheur, IMT Atlantique) and Julien Vandaële (Ingénieur de recherche, Inria).
+Most of the software and coding in the hands-on activities of the course is based on the open source IoT operating system RIOT. 
+No need to possess specific hardware to take the course: you will be able to program and test your firmware using the FIT IoT-Lab testbed.
 
-## Programme du cours :
+## Course objectives
 
-- Module 1 : Présentation générale de l’Internet des Objets
-- Module 2 : Zoom sur les aspects matériels
-- Module 3 : Zoom sur les logiciels embarqués
-- Module 4 : Zoom sur les réseaux basse consommation sans-fil
-- Module 5: Zoom sur les réseaux LoRaWAN
-- Module 6 : Sécurisation des objets connectés
+By the end of this course, you will be able to:
+- explain the specific features of connected object programming,  
+- program and experiment with the Internet of Things without the need for specific hardware,  
+- discover and use the FIT IoT-Lab experimentation platform,  
+- develop your own IoT application, from the object to the cloud.
 
-## À qui s’adresse ce cours ?
+## Who is this course for?
 
-Ce cours s’adresse aux développeur·se.s, étudiant·e.s en informatique, ingénieur·e.s ou tout simplement maker fan de technologie. Pour suivre ce cours il est nécessaire de posséder les pré-requis suivants :
+This course is intended for developers, computer science students, engineers, or just makers fond of technology. Following this course assumes the following prior knowledge:
+- Programming notions of C and/or Python or Bash
+- Linux systems (use of command lines)
 
-    Notions de programmation en C et/ou Python ou Bash
-    Connaissance des systèmes Linux (lignes de commandes)
+## Course curriculum
+
+- Module 1: **Internet of Things: General Presentation**
+- Module 2: **Focus on Hardware Aspects**
+- Module 3: **Focus on Embedded Softwares**
+- Module 4: **Focus on Low-Power Wireless Networks**
+- Module 5: **Focus on LoRaWAN Networks**
+- Module 6: **Securing Connected Objects**
+
+The 6 modules of the course combine textual content,  videos, tutorials, quizzes and hands-on activities with Jupyter notebooks and the FIT IoT-Lab platform.
+
+# Pedagogical team
+Authors :
+- **Alexandre Abadie**, Research engineer, Inria
+- **Emmanuel Baccelli**, Researcher, Inria ; Professor, Freie Universität Berlin
+- **Antoine Gallais**, Professor, Université Polytechnique Hauts-de-France
+- **Olivier Gladin**, Research engineer, Inria
+- **Nathalie Mitton**, Researcher, Inria
+- **Frédéric Saint-Marcel**, Research engineer, Inria
+- **Guillaume Schreiner**, Engineer, CNRS
+- **Laurent Toutain**, Teacher and researcher, IMT Atlantique
+- **Julien Vandaële**, Research engineer, Inria
+
+Pedagogical support:
+- **Marie Collin**, pedagogical engineer, Inria Learning Lab.
+- **Christelle Mariais**, pedagogical engineer, Inria Learning Lab.
+- **Isabelle Collignon**, pedagogical engineer, Inria Learning Lab.
+- **Benoit Rospars**, IT engineer, Inria Learning Lab. 
+
+## Complementary resources
+- the open source IoT operating system <a href="https://www.riot-os.org/" target=_blank> RIOT</a>
+- the <a href="https://www.iot-lab.info/" target=_blank>FIT IoT-Lab testbed</a>.
+
+## Partners
+- <a href="https://www.cnrs.fr/fr" target=_blank>CNRS</a>
+- <a href="https://www.imt-atlantique.fr/fr" target=_blank>IMT Atlantique</a>
+- <a href="https://www.uphf.fr/" target=_blank>Université Polytechnique Hauts de France</a>

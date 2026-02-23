@@ -1,68 +1,56 @@
 ---
 title: Défis technologiques des villes intelligentes participatives
-description: Comment les technologies numériques façonnent-elles les villes de demain ? Ce MOOC explore les infrastructures des villes intelligentes en mettant l’accent sur l’implication citoyenne, combinant défis technologiques et enjeux sociétaux pour construire des espaces urbains connectés et inclusifs.
-date: 2015-10-06
-status: archived
+description: "Concevoir des villes intelligentes, de leurs infrastructures au traitement des données collectées: les différents enjeux et technologies numériques à considérer."
+date: 2016-01-25
+status: closed
 image: /images/mooc/pvilleintel.jpg
-url: https://www.fun-mooc.fr/en/courses/technological-challenges-participatory-smart-cities/
-investment:
+url: https://www.fun-mooc.fr/fr/cours/defis-technologiques-des-villes-intelligentes-participatives/
+investment: 15h*
 assesment:
 lang: ["fr"]
 trailer: https://www.youtube.com/embed/hDpVDNVcV8w?si=0hxh3ScaU0tCnm6f
+licence: CC BY NC ND
 ---
-Le MOOC « Défis technologiques des villes intelligentes participatives » (#MoocSmartCity ) vous propose un tour d’horizon des infrastructures numériques de la ville connectée avec un accent particulier sur les technologies encourageant l’implication citoyenne.
 
-Ce Mooc, d’une durée de 5 semaines, présente les notions de base des éléments à considérer, de l’infrastructure au traitement des données.
+## Description du cours
+Ce MOOC vous propose un tour d’horizon des infrastructures numériques de la ville connectée avec un accent particulier sur les technologies encourageant l’implication citoyenne.
 
-Ce cours est proposé par N. Anciaux, S.Grumbach, V. Issarny, N. Mitton, C. Morin, A. Pathak et H.Rivano. Chercheurs en informatique, ils sont respectivement spécialistes des systèmes de gestion de bases de données, plateformes d’intermédiation, systèmes logiciels distribués, réseaux sans fil, informatique en nuage, solutions logicielles pour les réseaux de capteurs ou réseaux urbains.
+Il s’agit d’une introduction aux différents constituants des infrastructures numériques cibles, du réseau aux systèmes logiciels, qui met en particulier en avant les défis posés aux nouvelles technologies pour répondre aux exigences de la ville connectée.
 
-Ce cours s’adresse à tous les citoyens urbains ayant un intérêt pour les sciences et technologies du numérique et possédant une bonne culture informatique. Il s’adresse plus particulièrement aux étudiants et professionnels :
+## Objectifs du cours
+À la fin de ce sours, vous saurez :
 
-• ingénieurs dans le domaine du numérique qui souhaitent approfondir les applications des nouvelles infrastructures réseaux et logicielles au domaine de la ville connectée ;
+- définir ce qu'est une ville intelligente et les technologies numériques qui la soutiennent ;
+- identifier les compétences requises pour concevoir, développer et déployer des services innovants en vue de créer des villes plus intelligentes ;
+- imaginer de nouveaux services numériques pour l'environnement urbain tout en saisissant les technologies sur lesquelles ils s'appuient ;
+- appréhender les coûts et les obstacles (tant technologiques que sociétaux) qui peuvent survenir lors du déploiement d'un nouveau service numérique dans la ville ;
+- étudier la participation du public au développement des villes intelligentes et les défis technologiques et sociétaux qui en découlent.
 
-• métiers de la gouvernance ou de l’urbanisme qui s’intéressent à l’impact des nouvelles technologies sur la gestion des villes.
+## À qui s’adresse ce cours ?
 
+Ce cours s’adresse à :
+- toute personne ayant un intérêt pour les sciences et technologies du numérique et une bonne culture informatique 
+- ingénieur.es dans le domaine du numérique qui souhaitent approfondir les applications des nouvelles infrastructures réseaux et logicielles au domaine de la ville connectée
+- métiers de la gouvernance ou de l’urbanisme qui s’intéressent à l’impact des nouvelles technologies sur la gestion des villes.
 
-## Au programme :
+## Plan du cours
 
-Semaine 1 : Introduction
+- Module 1 : **Introduction**
+- Module 2 : **Infrastructures réseaux des systèmes urbains**
+- Module 3 : **Infrastructures logicielles des systèmes urbains**
+- Module 4 : **Gestion des données urbaines dans les nuages informatiques**
+- Module 5 : **Gestion des données et vie privée du citoyen urbain**
 
-Semaine 2 : Infrastructures réseaux des systèmes urbains
+## Équipe pédagogique
+Auteurs :
+- **Nicolas Anciaux**, Chercheur en systèmes de gestion de bases de données, Inria
+- **Stéphane Grumbach**, Chercheur en plateformes d’intermédiation, Inria
+- **Valérie Issarny**, Chercheuse en systèmes logiciels distribués, Inria
+- **Nathalie Mitton**, Chercheuse en réseaux sans fil, Inria
+- **Christine Morin**, Chercheuse en informatique en nuage, Inria
+- **Animesh Pathak**, Chercheur en solutions logicielles pour les réseaux de capteurs, Inria
+- **Hervé Rivano**, Professeur des universités en solutions logicielles pour les réseaux urbains, INSA Lyon
 
-Semaine 3 : Infrastructures logicielles des systèmes urbains
-
-Semaine 4 : Gestion des données urbaines dans les nuages informatiques
-
-Semaine 5 : Gestion des données et vie privée du citoyen urbain
-
-N’hésitez pas à vous inscrire à ce cours et à diffuser très largement cette information autour de vous. Le cours démarre le 6 novembre 2017, il est entièrement gratuit et ouvert à tous :
-
-
-## Détails du cours et inscription sur FUN
-
-Quelques témoignages des participants à la première session :
-
-– Une très bonne articulation entre les explications techniques (logicielles) détaillées et leur application au sein de la ville intelligente. Il propose un point de vue complet des défis sociétaux et des enjeux de la ville connectée.
-
-– Ce cours est innovant et ouvre l’esprit sur les à-côtés de la production de données de masse. Il est intéressant de voir comment sont recueillies puis traitées les données.
-
-– Le cours permet de connaître les avancées des recherches dans le domaine des villes intelligentes, l’état de l’art dans ce domaine et fournit une base de travail pour imaginer de nouveaux services.
-
-– La durée des vidéos est idéalement dimensionnée. J’étais plutôt intéressée par les aspects technologiques, et j’ai trouvé ce que je recherchais !
-
-
-## Historique et liens :
-
-Session 1 : du 25 janvier au 13 mars 2016 (sous le nom « Villes intelligentes : défis technologiques et sociétaux »)
-
-Session 2 : du 6 mars au 9 avril 2017
-
-Session 3 : du 6 novembre au 10 décembre 2017
-
-**Lien** :
-
-[Page de présentation du cours](https://www.fun-mooc.fr/en/courses/technological-challenges-participatory-smart-cities/)
-
-Twitter : #MoocSmartCity
-
-[Infographie de la session 1](https://learninglab.inria.fr/infographie-mooc-villes-intelligentes/)
+Ingénieures pédagogiques :
+- **Christelle Mariais**, Inria
+- **Marie Collin**, Inria
