@@ -5,6 +5,10 @@ const epocSchema = z.object({
     description: z.string(),
     date: z.string(),
     image: z.string(),
+    link: z.string(),
+    licence: z.string().default("CC BY 4.0"),
+    lang: z.array(z.string()),
+    duration: z.string().optional(),
 });
 
 const moocSchema = z.object({

@@ -35,7 +35,7 @@ La micro-formation est conçue comme un accompagnement structuré et ludique, en
 - Étape 4 : **Exporter votre ePoc pour lecture sur l'application mobile ePoc**
 
 ## Équipe pédagogique
-Auteurs :
+Autrices :
 - **Marie Collin**, ingénieure pédagogique, Inria Learning Lab
 - **Laetitia Ecrement**, apprentie ingénieure pédagogique, Inria Learning Lab
 
@@ -43,10 +43,15 @@ Auteurs :
 - <a href="https://epoc.inria.fr/" target:=_blank>ePoc (electronic Pocket open course)</a> est une solution complète de mobile learning libre et ouverte. Gratuite et open source. Développée et maintenue par Inria Learning Lab depuis 2020.
 
 ## Accès à l'ePoc
-1- Télécharger l'application ePoc (<a href="https://apps.apple.com/app/epoc/id1596317383" target=_blank>App Store iOS</a> ou <a href="https://play.google.com/store/apps/details?id=fr.inria.epoc" target=_blank>Google Play Android</a>) et l'ouvrir
 
-2- Dans la collection "Mes ePocs", cliquer sur la vignette "Ajouter votre ePoc"
+::steps{level="4"}
+#### Télécharger l'application ePoc (<a href="https://apps.apple.com/app/epoc/id1596317383" target=_blank>App Store iOS</a> ou <a href="https://play.google.com/store/apps/details?id=fr.inria.epoc" target=_blank>Google Play Android</a>) et l'ouvrir
 
-3- Sélectionner "Ajouter depuis un QR code"
+#### Dans la collection "Mes ePocs", cliquer sur la vignette "Ajouter votre ePoc"
 
-4- Scanner le <a href="https://epoc.inria.fr/_ipx/_/images/qr-E012MC.png" target=_blank>QR Code accessible par ce lien</a> pour accéder à l'ePoc.
+#### Sélectionner "Ajouter depuis un QR code"
+
+#### Scanner le QR Code pour accéder à l'ePoc.
+![QR Code ePoc](https://epoc.inria.fr/_ipx/_/images/qr-E012MC.png){style="max-width:20rem;"}
+
+::
