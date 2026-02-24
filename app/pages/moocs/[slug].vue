@@ -106,6 +106,7 @@ const { data: mooc } = await useAsyncData(
                     :label="mooc.url ? t('see-course') : t('not-accessible')"
                     :to="mooc.url"
                     :disabled="!mooc.url"
+                    target="_blank"
                 />
             </div>
 
@@ -117,6 +118,7 @@ const { data: mooc } = await useAsyncData(
                 :label="mooc.url ? t('see-course') : t('not-accessible')"
                 :to="mooc.url"
                 :disabled="!mooc.url"
+                target="_blank"
             />
         </UPageBody>
     </UPage>
