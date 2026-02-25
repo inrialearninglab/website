@@ -3,7 +3,7 @@ import { useDateFormat } from "@vueuse/core";
 import { withoutLeadingSlash } from "ufo";
 
 const route = useRoute();
-const { locale } = useI18n();
+const { locale, t } = useI18n();
 const slug = computed(() => withoutLeadingSlash(String(route.params.slug)));
 
 const { data: article } = await useAsyncData(
@@ -52,15 +52,19 @@ const { data: article } = await useAsyncData(
         v-else
         :error="{
             statusCode: 404,
-            statusMessage: 'Article not found',
-            message: 'The article you are looking for does not exist.',
+            statusMessage: t('error-title'),
+            message: t('error-message'),
         }"
     />
 </template>
 
-<i18n lang="yaml" global>
+<i18n lang="yaml">
 en:
     article: Article
+    error-title: Article not found
+    error-message: The article you are looking for does not exist.
 fr:
     article: Article
+    error-title: Article introuvable
+    error-message: L'article que vous recherchez n'existe pas.
 </i18n>

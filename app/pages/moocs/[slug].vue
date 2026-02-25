@@ -128,7 +128,7 @@ const { data: mooc } = await useAsyncData(
         :error="{
             statusCode: 404,
             statusMessage: t('not-found'),
-            message: t('not-accessible'),
+            message: t('error-message'),
         }"
     />
 </template>
@@ -139,7 +139,7 @@ const { data: mooc } = await useAsyncData(
         "opening": "Ouverture",
         "investment": "Investissement",
         "languages": "Langues",
-        "not-found": "MOOC non trouvé",
+        "not-found": "MOOC introuvable",
         "error-message": "Le MOOC que vous cherchez n'existe pas",
         "see-course": "Voir le cours",
         "not-accessible": "Ce cours n'est plus accessible",

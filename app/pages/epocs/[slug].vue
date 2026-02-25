@@ -81,8 +81,8 @@ const links = ref([
         v-else
         :error="{
             statusCode: 404,
-            statusMessage: 'ePoc not found',
-            message: 'The ePoc you are looking for does not exist.',
+            statusMessage: t('error-title'),
+            message: t('error-message'),
         }"
     />
 </template>
@@ -91,11 +91,15 @@ const links = ref([
 {
     "fr": {
         "discover-ios": "Découvrir sur iOS",
-        "discover-android": "Découvrir sur Android"
+        "discover-android": "Découvrir sur Android",
+        "error-title": "ePoc introuvable",
+        "error-message": "L'ePoc que vous recherchez n'existe pas."
     },
     "en": {
         "discover-ios": "Discover on iOS",
-        "discover-android": "Discover on Android"
+        "discover-android": "Discover on Android",
+        "error-title": "ePoc not found",
+        "error-message": "The ePoc you are looking for does not exist."
     }
 }
 </i18n>
