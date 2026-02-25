@@ -58,7 +58,7 @@ Ingénieures pédagogiques :
 - Marie-Hélène Compte, ingénieure pédagogique - Inria Learning Lab
 - Aurélie Lagarrigue, ingénieure pédagogique - Inria Learning Lab
 
-## Ressources complémentaires
+## Ressource complémentaire
 
 - [Playlist Youtube des vidéos du MOOC IAI](https://www.youtube.com/playlist?list=PLWvGMqXvyJAPkTI9ys20fSUETg_C6KA-g)
 
