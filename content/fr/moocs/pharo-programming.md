@@ -56,9 +56,12 @@ Témoignage d'un participant
 - Semaine 7 : Conception orientée objet et tests
 
 ## Équipe pédagogique
+Auteurs : 
 - Stéphane Ducasse, directeur de recherche - Inria
 - Damien Cassou, développeur logiciel - Företagsplatsen
 - Luc Fabresse, professeur - IMT Nord Europe
+
+Ingénieures pédagogiques :
 - Marie Collin, ingénieure pédagogique - Inria Learning Lab
 - Isabelle Collignon, ingénieure pédagogique - Inria Learning Lab
 

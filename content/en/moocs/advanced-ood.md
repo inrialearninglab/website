@@ -70,10 +70,13 @@ To understand the Pharo syntax, start by taking Module 0: Warm up. If you want t
 - Module 10: About Types 
 
 ## Educational team
+Authors :
 - Stéphane Ducasse, Research director, University of Lille - Inria
 - Luc Fabresse, Professor, University of Lille - IMT Nord Europe - Inria
 - Guillermo Polito, permanent researcher, University of Lille - Inria
 - Pablo Tesone, engineer, University of Lille - Inria
+
+Learning designers :
 - Sherazade Djeballah, Learning Designer - Inria Learning Lab
 - Sabah Khalfa, Learning Designer - Inria Learning Lab
 - Marie Collin, Learning Designer - Inria Learning Lab
