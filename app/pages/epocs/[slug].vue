@@ -51,6 +51,9 @@ const links = ref([
                 :links="links"
                 orientation="horizontal"
                 variant="naked"
+                :ui="{
+                    container: 'p-0!',
+                }"
             >
                 <template #headline>
                     <div class="flex gap-2 items-center">
@@ -60,7 +63,7 @@ const links = ref([
                         <UBadge v-if="epoc.duration" variant="soft" color="neutral" icon="lucide:clock">
                             {{ epoc.duration }}
                         </UBadge>
-                        <UBadge v-if="epoc.lang.length" variant="soft" color="neutral" icon="lucide:earth">
+                        <UBadge v-if="epoc.lang?.length" variant="soft" color="neutral" icon="lucide:earth">
                             <div v-for="(lang, index) of epoc.lang" class="flex items-center gap-1">
                                 <span>{{ getEmojiFlag(lang) }} </span>
                                 <p>{{ locales[lang].name }}{{ index !== epoc.lang.length - 1 ? ", " : "" }}</p>
