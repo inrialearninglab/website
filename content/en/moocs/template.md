@@ -31,7 +31,7 @@ Toute personne intéressée par les méthodes agiles
 ## Pedagogical team
 Authors:
 - **Name surname**, fonction, institution(s)
-Peadagogical support:
+Pedagogical support:
 - **Name surname**, learning engineer, Inria Learning Lab
 - **Name surname**, IT engineer, Inria Learning Lab
 
