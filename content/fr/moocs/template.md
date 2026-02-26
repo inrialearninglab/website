@@ -26,11 +26,14 @@ Enseignants en informatique
 Toute personne intéressée par les méthodes agiles
 
 ## Plan du cours
-titre de chaque module
+- Module 1: **titre de chaque module**
 
 ## Équipe pédagogique
-Auteurs, fonction, institution(s)
-Ingénieurs pédagogiques
+Auteurs :
+- **Prénom nom**, fonction, institution(s)
+Accompagnement pédagogique : 
+- **Prénom nom**, ingénieur pédagogique, Inria Learning Lab
+- **Prénom nom**, ingénieur développement, Inria Learning Lab
 
 ## Ressources complémentaires
 Code source sur GitHub
@@ -38,4 +41,4 @@ Fiches mémo à télécharger
 Forum d'entraide
 
 ## Partenaires
-Ceux indiqués sur la page de présentation du MOOC/ePoc/Jeu
+Ceux indiqués sur la page de présentation du MOOC/ePoc/Jeu avec lien vers le site web <a href="https://www.cnrs.fr/en" target=_blank>CNRS</a>
