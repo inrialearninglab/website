@@ -24,6 +24,9 @@ This MOOC introduces the Linked Data standards and principles that provide the f
 
 Each module content alternates short videos and quizzes, as well as supplementary resources, to gradually progress through the different principles and standards.
 
+## Who is this course for?
+Everyone with basic Web notions (e.g. browsers) and able to install software on their machine.
+
 ## Course objectives
 - Understand the principles of a Web of Linked Data
 - Publish linked data with RDF standard
@@ -31,14 +34,17 @@ Each module content alternates short videos and quizzes, as well as supplementar
 - Exchange and integrate RDF data with other data and format sources
 
 ## Course outline
-- Module 1: Principles of a Web of Linked Data
-- Module 2: The RDF Data Model
-- Module 3: SPARQL Query Language
-- Module 4: Integration with Other Data Formats and Sources
+- Module 1: **Principles of a Web of Linked Data**
+- Module 2: **The RDF Data Model**
+- Module 3: **SPARQL Query Language**
+- Module 4: **Integration with Other Data Formats and Sources**
 
-## Teaching team
-- Fabien GANDON: Senior Researcher, Inria
-- Olivier CORBY: Phd in computer science, UNS
-- Catherine FARON ZUCKER: Lecturer, Université Côte d'Azur.
-- Marie-Hélène COMTE: Pedagogical engineer, Inria Learning Lab
-- Aurélie LAGARRIGUE: Pedagogical engineer, Inria Learning Lab
+## Pedagogical team
+Authors: 
+- **Fabien GANDON**: Senior Researcher, Inria
+- **Olivier CORBY**: Ph.D in computer science, UNS
+- **Catherine FARON ZUCKER**: Lecturer, Université Côte d'Azur.
+
+Pedagogical support
+- **Marie-Hélène COMTE**: Learning engineer, Inria Learning Lab
+- **Aurélie LAGARRIGUE**: Learning engineer, Inria Learning Lab
