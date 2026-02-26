@@ -39,7 +39,7 @@ This course is intended for developers, computer science students, engineers, or
 - Programming notions of C and/or Python or Bash
 - Linux systems (use of command lines)
 
-## Course curriculum
+## Course outline
 
 - Module 1: **Internet of Things: General Presentation**
 - Module 2: **Focus on Hardware Aspects**
@@ -51,7 +51,7 @@ This course is intended for developers, computer science students, engineers, or
 The 6 modules of the course combine textual content,  videos, tutorials, quizzes and hands-on activities with Jupyter notebooks and the FIT IoT-Lab platform.
 
 # Pedagogical team
-Authors :
+Authors:
 - **Alexandre Abadie**, Research engineer, Inria
 - **Emmanuel Baccelli**, Researcher, Inria ; Professor, Freie Universität Berlin
 - **Antoine Gallais**, Professor, Université Polytechnique Hauts-de-France
@@ -63,16 +63,16 @@ Authors :
 - **Julien Vandaële**, Research engineer, Inria
 
 Pedagogical support:
-- **Marie Collin**, pedagogical engineer, Inria Learning Lab.
-- **Christelle Mariais**, pedagogical engineer, Inria Learning Lab.
-- **Isabelle Collignon**, pedagogical engineer, Inria Learning Lab.
+- **Marie Collin**, learning engineer, Inria Learning Lab.
+- **Christelle Mariais**, learning engineer, Inria Learning Lab.
+- **Isabelle Collignon**, learning engineer, Inria Learning Lab.
 - **Benoit Rospars**, IT engineer, Inria Learning Lab. 
 
-## Complementary resources
+## Additional resources
 - the open source IoT operating system <a href="https://www.riot-os.org/" target=_blank> RIOT</a>
 - the <a href="https://www.iot-lab.info/" target=_blank>FIT IoT-Lab testbed</a>.
 
 ## Partners
 - <a href="https://www.cnrs.fr/fr" target=_blank>CNRS</a>
-- <a href="https://www.imt-atlantique.fr/fr" target=_blank>IMT Atlantique</a>
+- <a href="https://www.imt-atlantique.fr/en" target=_blank>IMT Atlantique</a>
 - <a href="https://www.uphf.fr/" target=_blank>Université Polytechnique Hauts de France</a>

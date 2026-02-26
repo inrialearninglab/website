@@ -29,7 +29,7 @@ By the end of the course, you will be able to:
 
 The course is designed for engineers or project leaders working for a company developing or willing to develop smart city projects involving citizen participation. It also addresses the challenges of professionals of a city government or a public institution who implement a smart city project which involves the deployment of digital technologies in the urban environment.
 
-## Course curriculum
+## Course outline
 
 Module 1: **Introduction: a perspective on smarter cities**
 
@@ -43,18 +43,18 @@ Module 4: **Cloud-based urban data management**
 
 
 # Pedagogical team
-Authors :
+Authors:
 - **Nicolas Anciaux**, research scientist, Inria
 - **Stéphane Grumbach**, research scientist in the ecosystems of intermédiation platforms, Inria
 - **Valérie Issarny**, research scientist distributed systems, Inria
 - **Nathalie Mitton**, research scientist in wireless networks, Inria
 - **Christine Morin**, research scientist, Inria
 - **Animesh Pathak**, research scientist in softaware for sensor networks, Inria
-- **Hervé Rivano**, Professor and research scientist in wireless networks for digital cities, INSA
+- **Hervé Rivano**, Professor in wireless networks for digital cities, INSA
 
 Pedagogical support:
-- **Marie Collin**, pedagogical engineer, Inria Learning Lab.
-- **Christelle Mariais**, pedagogical engineer, Inria Learning Lab.
+- **Marie Collin**, learning engineer, Inria Learning Lab.
+- **Christelle Mariais**, learning engineer, Inria Learning Lab.
 
 ## Partners
 The course has been produced by Inria with the support of <a href="https://masterschool.eitdigital.eu/" taget=_blank>EIT Digital</a> in 2017.
