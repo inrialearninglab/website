@@ -9,7 +9,7 @@ lang: ["fr"]
 licence: CC BY 4.0
 ---
 
-## Description de la micro-formation
+## Description de l'ePoc
 
 L'ePoc "Produire mon 1er ePoc" facilite la prise en main d'ePoc Editor, l'application de bureau conçue pour construire et publier des micro-formations sur l'application mobile ePoc.
 
