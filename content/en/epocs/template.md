@@ -4,7 +4,7 @@ description: Phrase d'accroche qui parait sur la vignette
 date: 2022-01-19
 image: /images/mooc/pad-patrouille.png
 investment:
-assesment:
+assesment: 30min
 lang: ["en"]
 licence: CC BY 4.0
 ---

@@ -3,7 +3,7 @@ title: Nom de l'ePoc
 description: Phrase d'accroche qui parait sur la vignette
 date: 2022-01-19
 image: /images/mooc/pad-patrouille.png
-investment:
+investment: 40min
 assesment:
 lang: ["fr"]
 licence: CC BY 4.0
