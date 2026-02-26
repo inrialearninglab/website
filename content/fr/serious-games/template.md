@@ -4,7 +4,8 @@ description: Phrase d'accroche qui parait sur la vignette
 date: 2022-01-19
 image: /images/mooc/pad-patrouille.png
 investment:
-assesment:
+url: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Jeu/Presentation.html
+image: "/images/serious-games/phone-impact.png"
 lang: ["fr"]
 licence: CC BY 4.0
 ---
@@ -21,12 +22,10 @@ Reprendre les objectifs du jeu
 - Toute personne intéressée par les méthodes agiles
 
 ## Déroulé du jeu
-- Module 1: **titre de chaque module**
 
 ## Équipe pédagogique
 Auteurs
 - **Prénon nom**, fonction, organisme
-Accompagnement pédagogique
 - **Prénon nom**, ingénieure pédagogique, Inria Learning Lab
 - **Prénon nom**, ingénieure développement, Inria Learning Lab
 
@@ -35,3 +34,12 @@ Accompagnement pédagogique
 
 ## Partenaires
 Ceux indiqués sur la page de présentation du jeu avec lien vers le site web <a href="https://www.cnrs.fr/fr" target=_blank>CNRS</a>
+
+::u-button
+---
+label: Voir le site
+to: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Jeu/Presentation.html
+trailing-icon: lucide:arrow-up-right
+size: xl
+---
+::

@@ -2,6 +2,7 @@
 title: Phone Impact
 description: "PhoneImpact, un jeu sérieux co-créé avec des expert·es scientifiques pour sensibiliser aux impacts environnementaux des activités extractives liées à la fabrication des smartphones."
 date: 2024-12-25
+investment:
 image: "/images/serious-games/phone-impact.png"
 ---
 
