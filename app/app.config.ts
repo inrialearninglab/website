@@ -128,7 +128,7 @@ export default defineAppConfig({
             avatar: "/images/team/marie.jpg",
             title: {
                 fr: "Ingénieure pédagogique / Product owner",
-                en: "Pedagogical engineer / Product owner",
+                en: "Learning designer / Product owner",
             },
             links: [
                 {
@@ -142,7 +142,7 @@ export default defineAppConfig({
             avatar: "/images/team/laurence.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -156,7 +156,7 @@ export default defineAppConfig({
             avatar: "/images/team/aurelie.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -170,7 +170,7 @@ export default defineAppConfig({
             avatar: "/images/team/christelle.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -184,7 +184,7 @@ export default defineAppConfig({
             avatar: "/images/team/sherazade.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -198,7 +198,7 @@ export default defineAppConfig({
             avatar: "/images/team/madeline.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -212,7 +212,7 @@ export default defineAppConfig({
             avatar: "/images/team/sabah.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -225,8 +225,8 @@ export default defineAppConfig({
             name: "Benoit Rospars",
             avatar: "/images/team/benoit.jpg",
             title: {
-                fr: "Ingénieur informatique",
-                en: "Computer engineer",
+                fr: "Développeur",
+                en: "Developer",
             },
             links: [
                 {
@@ -248,8 +248,8 @@ export default defineAppConfig({
             avatar: "/images/team/nathan.jpg",
             gold: true,
             title: {
-                fr: "Ingénieur informatique",
-                en: "Computer engineer",
+                fr: "Développeur",
+                en: "Developer",
             },
             links: [
                 {
@@ -266,8 +266,8 @@ export default defineAppConfig({
             name: "Tristan Rollet",
             avatar: "https://avatars.githubusercontent.com/u/93080156?v=4",
             title: {
-                fr: "Alternant ingénieur informatique",
-                en: "Apprentice computer engineer",
+                fr: "Alternant développeur",
+                en: "Apprentice developer",
             },
             links: [
                 {

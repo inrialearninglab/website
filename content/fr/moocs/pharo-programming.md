@@ -47,25 +47,25 @@ Témoignage d'un participant
 
 ## Plan du cours
 
-- Semaine 1 : Bienvenue à bord - Découverte de la syntaxe
-- Semaine 2 : Syntaxe Pharo, blocs et inspecteur
-- Semaine 3 : Conception, méthodes de classes et collections
-- Semaine 4 : Héritage & sélection de méthode (lookup) et développement web
-- Semaine 5 : Exception, débogage et réflexion
-- Semaine 6 : Retour sur le lookup et conception orientée objet avancée
-- Semaine 7 : Conception orientée objet et tests
+- Module 1 : **Bienvenue à bord - Découverte de la syntaxe**
+- Module 2 : **Syntaxe Pharo, blocs et inspecteur**
+- Module 3 : **Conception, méthodes de classes et collections**
+- Module 4 : **Héritage & sélection de méthode (lookup) et développement web**
+- Module 5 : **Exception, débogage et réflexion**
+- Module 6 : **Retour sur le lookup et conception orientée objet avancée**
+- Module 7 : **Conception orientée objet et tests**
 
 ## Équipe pédagogique
 Auteurs : 
-- Stéphane Ducasse, directeur de recherche - Inria
-- Damien Cassou, développeur logiciel - Företagsplatsen
-- Luc Fabresse, professeur - IMT Nord Europe
+- **Stéphane Ducasse**, directeur de recherche, Inria
+- **Damien Cassou**, développeur logiciel, Företagsplatsen
+- **Luc Fabresse**, professeur, IMT Nord Europe
 
-Ingénieures pédagogiques :
-- Marie Collin, ingénieure pédagogique - Inria Learning Lab
-- Isabelle Collignon, ingénieure pédagogique - Inria Learning Lab
+Accompagnement pédagogique : 
+- **Marie Collin**, ingénieure pédagogique, Inria Learning Lab
+- **Isabelle Collignon**, ingénieure pédagogique, Inria Learning Lab
 
-## Complementary resources
+## Ressources complémentaires
 - [Playlist Youtube des vidéos du MOOC Pharo](https://www.youtube.com/playlist?list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf)
 - [Vidéos et diapositives du MOOC](https://mooc.pharo.org)
 - [Le MOOC Pharo sur Github](hhttps://github.com/pharo-mooc)

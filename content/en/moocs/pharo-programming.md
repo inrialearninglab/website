@@ -30,7 +30,7 @@ This MOOC is intended for people with a programming experience but everyone moti
 
 This MOOC will also provide a new vision of the fundamental principles of object-oriented programming, i.e. polymorphism and late binding.
 
-## Learning Objective
+## Course objectives
 At the end of this course, you will be able to:
 
 - to program in Pharo,
@@ -39,28 +39,30 @@ At the end of this course, you will be able to:
 Testimony of a participant
 "I have just completed week seven of the Pharo MOOC (beginner and object oriented tracks) I am starting a redo of the MOOC with the web track (TinyBlog project). I have already learned so much! I have spent the last 20 years or so in software development and, following this MOOC, I realized I hadn’t really grasped the essence of object oriented design."
 
-## Audience
+## Who is this course for?
 - Students, beginners and experienced developers
 - IT teachers
 - Anyone interested in agile methods
 
-## Content
-- Week 1: Welcome on Board and Syntax Discovery
-- Week 2: Pharo Syntax, Blocks and Inspector
-- Week 3: Design, Class Methods and Collections
-- Week 4: Inheritance & Lookup and Web Development
-- Week 5: Exception, Debugging and Reflection
-- Week 6: Rethink Lookup and Advanced Object-Oriented Design
-- Week 7: More on Object-Oriented Design and Testing
+## Course outline
+- Module 1: **Welcome on Board and Syntax Discovery**
+- Module 2: **Pharo Syntax, Blocks and Inspector**
+- Module 3: **Design, Class Methods and Collections**
+- Module 4: **Inheritance & Lookup and Web Development**
+- Module 5: **Exception, Debugging and Reflection**
+- Module 6: **Rethink Lookup and Advanced Object-Oriented Design**
+- Module 7: **More on Object-Oriented Design and Testing**
 
-## Educational team
-- Stéphane Ducasse, Research director, University of Lille - Inria
-- Damien Cassou, software developer, University of Lille - Företagsplatsen
-- Luc Fabresse, Professor, University of Lille - IMT Nord Europe - Inria
-- Marie Collin, Learning Designer - Inria Learning Lab
-- Isabelle Collignon, Learning Designer - Inria Learning Lab
+## Pedagogical team
+Authors:
+- **Stéphane Ducasse**, Research director, University of Lille, Inria
+- **Damien Cassou**, software developer, University of Lille, Företagsplatsen
+- **Luc Fabresse**, Professor, University of Lille - IMT Nord Europe, Inria
+Pedagogical support:
+- **Marie Collin**, Learning Designer, Inria Learning Lab
+- **Isabelle Collignon**, Learning Designer, Inria Learning Lab
 
-## Complementary resources
+## Additional resources
 - [YouTube playlist of MOOC Pharo videos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf)
 - [Pharo MOOC videos & slides](https://mooc.pharo.org)
 - [Pharo MOOC on github](hhttps://github.com/pharo-mooc)

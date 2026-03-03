@@ -40,23 +40,23 @@ La formation s’adresse à toutes et tous et plus spécifiquement :
 
 ## Plan du cours
 Le MOOC est organisé en 3 modules :
-- **Module 1 :** Vous avez dit IA ! Acquérir une première compréhension de que l’on entend par IA et de ce que ça n’est pas.
-- **Module 2 :** Boosté à l’IA ! Comprendre les principes de l’apprentissage machine et la place cruciale que joue la maîtrise des jeux de données.
-- **Module 3 :** Humain et IA ... Comprendre les enjeux et les leviers pour que l’IA soit au service de l’humain.
+- Module 1 : **Vous avez dit IA !** Acquérir une première compréhension de que l’on entend par IA et de ce que ça n’est pas.
+- Module 2 : **Boosté à l’IA !** Comprendre les principes de l’apprentissage machine et la place cruciale que joue la maîtrise des jeux de données.
+- Module 3 : **Humain et IA ...** Comprendre les enjeux et les leviers pour que l’IA soit au service de l’humain.
 
 ## Équipe pédagogique
 
 Auteurs : 
-- Frédéric Alexandre, directeur de recherche -  Inria
-- Jade Becker, conceptrice pédagogique et animatrice - Magic Makers – co-fondatrice de Class’Code.
-- Sonia Cruchon, conceptrice, cheffe de projet multimédia et réalisatrice 
-- Thierry Viéville, chercheur -  Inria
-- Sophie De Quatrebarbes, coordinatrice du programme Class’Code.
-- Julie Stein, chargée de projet numérique éducatif - Ligue de l’enseignement
+- **Frédéric Alexandre**, directeur de recherche, Inria
+- **Jade Becker**, conceptrice pédagogique et animatrice, Magic Makers, co-fondatrice de Class’Code.
+- **Sonia Cruchon**, conceptrice, cheffe de projet multimédia et réalisatrice 
+- **Thierry Viéville**, chercheur, Inria
+- **Sophie De Quatrebarbes**, coordinatrice du programme Class’Code.
+- **Julie Stein**, chargée de projet numérique éducatif, Ligue de l’enseignement
 
-Ingénieures pédagogiques : 
-- Marie-Hélène Compte, ingénieure pédagogique - Inria Learning Lab
-- Aurélie Lagarrigue, ingénieure pédagogique - Inria Learning Lab
+Accompagnement pédagogique :
+- **Marie-Hélène Compte**, ingénieure pédagogique - Inria Learning Lab
+- **Aurélie Lagarrigue**, ingénieure pédagogique - Inria Learning Lab
 
 ## Ressource complémentaire
 
