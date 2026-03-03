@@ -87,7 +87,7 @@ De nombreux scientifiques ont de plus contribué en écrivant des fiches concept
 Accompagnement pédagogique : 
 - **Laurence Farhi**, ingénieure pédagogique, Inria Learning Lab
 - **Tatiana Khomenko**, ingénieure pédagogique, Inria Learning Lab
-- **Sophie de Quatrebarbes**, S24B pour Class'code
+- **Sophie de Quatrebarbes**, ingénieure pédagogique, S24B pour Class'code
 - **Benoit Rospart**, ingénieur développement, Inria Learning Lab
 
 ## Ressources complémentaires
