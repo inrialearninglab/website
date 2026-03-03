@@ -1,48 +1,94 @@
 ---
 title: Impacts environnementaux du numérique
-description: "Impact Num : Explorez les impacts environnementaux du numérique, apprenez à mesurer, comprendre et agir pour un numérique plus responsable. Un MOOC interactif pour devenir un citoyen conscient dans le monde numérique."
-date: 2021-11-27
+description: "ImpactNum est un Mooc pour se questionner sur les impacts environnementaux du numérique, apprendre à mesurer, décrypter et agir, pour trouver sa place de citoyen dans un monde numérique."
+date: 2021-11-16
 image: /images/mooc/pimpactnum.png
 status: open
-url:
-investment:
-assesment:
+url: https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/
+investment: entre 5h (parcours initial) et 10h (parcours avancé)
+assesment: Open Badge
 lang: ["fr"]
+trailer: https://www.youtube.com/embed/x3vf4mxVXNA?si=xdg9pe0H-6wWQnpj
+licence: CC BY 4.0
 ---
-Impact Num est un Mooc pour se questionner sur les impacts environnementaux du numérique, apprendre à mesurer, décrypter et agir, pour trouver sa place de citoyen dans un monde numérique.
 
-## Description
-
+## Description du cours
 Ce Mooc a été co-produit par l’Association Class’Code et Inria.
 
-À l’heure ou transition écologique rime souvent avec transition numérique, qu’en est-il réellement des impacts environnementaux du numérique ? Le numérique est-il la solution ?
+À l’heure ou transition écologique rime souvent avec transition numérique, qu’en est-il réellement des impacts environnementaux du numérique ? Le numérique est-il la solution ? 
 
-Sous couvert de virtualisation et de dématérialisation, c'est en fait tout un écosystème gourmand en énergie et en ressources non renouvelables qui se déploie à grande vitesse.
+Sous couvert de virtualisation et de dématérialisation, c'est en fait tout un écosystème gourmand en énergie et en ressources non renouvelables qui se déploie à grande vitesse. 
 
-Alors qu’il a fallu près de 50 ans pour prendre la mesure du changement climatique, stabiliser les indicateurs et les données, arriver à des consensus qui permette d’agir.
+Alors qu’il a fallu près de 50 ans pour prendre la mesure du changement climatique, stabiliser les indicateurs et les données, arriver à des consensus qui permette d’agir. 
 
 Où en sommes-nous en ce qui concerne le numérique ? Comment se repérer dans les informations et les discours parfois contradictoires ? Sur quelles mesures s’appuyer ? Comment dès à présent commencer à agir pour un numérique plus responsable et plus durable ?
 
-## Format
+## Objectifs du cours
 
-Le Mooc est découpé en 4 parties, chacune étant constituée de
-- une **activité d'éveil** pour faire le point sur ses pratiques, ses idées reçues ou ses impensés,
-- une **vidéo** pédagogique pour exposer les enjeux sous la forme d’un dialogue entre les citoyens plus ou moins avertis que nous sommes et l’état de la recherche, parfois complétée par une activité interactive,
-- **d’activités formatives** pour questionner les indicateurs, les données, analyser les tendances et vous forger votre propre diagnostique,
-- **d’activités formatives** pour découvrir ce que nous pouvons faire en tant que consommateur, concepteur, enseignant, citoyen ? Des pistes de réponses à explorer, expérimenter et discuter…
-- **de ressources complémentaires** pour aller plus loin,
-- **de quiz** en fin de partie vous invitant à faire le point sur les connaissances et compétences acquises.
+- Comprendre les enjeux du numérique pour l’environnement et la société 
+- Questionner les indicateurs, les données, analyser les tendances et se forger son propre diagnostic
+- Identifier des possibilités d’actions pour un numérique durable en intégrant une réflexion sur les effets indirects, les jeux d’acteurs et les échelles
+- Avoir un regard critique par rapport à la place du numérique dans le monde actuel et pouvoir comprendre les débats autour de ces thématiques
+- Sensibiliser vos élèves ou vos proches en utilisant les ressources du Mooc ou en identifiant les outils et les partenaires pour poursuivre le débat
 
-Des **fiches concept** plus théoriques approfondissent les notions abordées dans la vidéo ou les activités.
-
-Un **forum de discussion** permet d’échanger et de débattre avec les autres participants et des chercheurs.
-
-## Prérequis
-
+## A qui s’adresse ce cours ?
 La formation s’adresse à toutes et tous et plus spécifiquement :
 
-- aux **professionnels de l’éducation** (professeurs, éducateurs, animateurs) qui trouveront des ressources directement mobilisables auprès de leur public,
-- aux **jeunes à partir de la seconde** au travers des vidéos et des activités qui sont proposées,
-- **à toutes celles et ceux qui se questionnent sur les impacts environnementaux du numérique** et qui souhaitent comprendre les enjeux et apprendre à mesurer, décrypter et agir, pour trouver leur place de citoyen dans un monde numérique.
+- aux professionnels de l’éducation (professeurs, éducateurs, animateurs) qui trouveront des ressources directement mobilisables auprès de leur public,
+- aux jeunes à partir de la seconde au travers des vidéos et des activités qui sont proposées,
+- à toutes celles et ceux qui se questionnent sur les impacts environnementaux du numérique et qui souhaitent comprendre les enjeux et apprendre à mesurer, décrypter et agir, pour trouver leur place de citoyen dans un monde numérique.
 
 Il vous suffit d’un ordinateur et d’une bonne connexion Internet pour suivre ce cours !
+
+## Plan du cours
+- Partie 1 - Introduction : Les impacts environnementaux du numérique
+- Partie 2 - Des équipements non renouvelables
+- Partie 3 - Des services numériques très matériels
+- Partie 4 - Impacts économiques et sociétaux
+
+## Équipe pédagogique
+Auteurs, référents de partie :
+
+- **Françoise Berthoud**, ingénieure de recherche, GRICAD, CNRS
+- **Franck Beysson**, Directeur-Adjoint Service Education à l'Environnement et à la Transition Ecologique, Ligue de l’enseignement
+- **Julie Cornet**, Formatrice spécialisée en sciences et technologies, La Compagnie du Code
+- **Laurent Devernay**, Référent Formateurs Occitanie, Simplon.co
+- **Laurent Lefèvre**, chercheur, Inria
+- **Benjamin Ninassi**, Ingénieur de recherche, Inria
+- **Martine Olivi**, chercheuse, Inria
+- **Julie Orgelet**, consultante ACV et numérique responsable, DDemain / NegaOctet
+- **Anne-Cécile Orgerie**, chercheuse, CNRS
+- **Charles Poulmaire**, Agrégé de Mathématiques, professeur de NSI et SNT, Education Nationale
+
+De nombreux scientifiques ont de plus contribué en écrivant des fiches concept, articles à destination des enseignants et du grand public pour aller un peu plus loin et comprendre les notions clés liées au sujet.
+- Eric Blayo, professeur en mathématiques appliquées, Université Grenoble Alpes
+- Frédéric Bordage, collectif GreenIT.fr
+- Antoine Boubault, chercheur en écologie industrielle, BRGM
+- Christophe Bravard, Université Grenoble Alpes
+- Juliette Chabassier, chargée de recherches, Inria
+- Jacques Combaz, ingénieur recherche, CNRS / VERIMAG
+- Jean-Yves Courtone, chargé de recherche, Inria
+- Romaric David, ingénieur de recherche, Université de Strasbourg
+- Emmanuelle Frenoux, maître de Conférences, Université Paris-Saclay
+- Ronan Groussier, responsable des affaires publiques de HOP (Halte à l'Obsolescence Programmée)
+- Pascal Guitton, professeur d'informatique et chercheur dans l'équipe Potioc, Inria, Université de Bordeaux, CNRS
+- Christine Leininger, chef de projet médiation scientifique, Inria
+- Anne-Laure Ligozat, maître de conférences au LISN et à l'ENSIIE
+- Pierre-Yves Longaretti, chercheur à l'Université Grenoble Alpes, CNRS-INSU, IPAG et Inria équipe STEEP
+- Didier Mallarino, chercheur, CNRS, EcoInfo
+- Guillaume Mandil, enseignant chercheur, UGA, UFR PhITEM, Inria équipe STEEP
+- Servane Mouton, neurologue, Neuville-sur-Saone
+- Sophie Quinton, chercheuse à l'Inria Grenoble, équipe SPADES
+- Gauthier Roussilhe, Designer et doctorant ; RMIT, CRD (ENS Saclay, ENSCI)
+- Eric Tannier, directeur de recherche chez Inria
+- Thomas Tari, sociologue au médialab de Sciences Po et responsable du Centre d'exploration des controverses
+- Corinne Touati, chercheuse, référente en médiation, Inria
+
+Accompagnement pédagogique : 
+- **Laurence Farhi**, ingénieure pédagogique, Inria Learning Lab
+- **Tatiana Khomenko**, ingénieure pédagogique, Inria Learning Lab
+- **Sophie de Quatrebarbes**, S24B pour Class'code
+- **Benoit Rospart**, ingénieur développement, Inria Learning Lab
+
+## Ressources complémentaires
+[Portail web des ressources du Mooc](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html)
