@@ -2,7 +2,7 @@
 title: Web sémantique et Web de données
 description: Phrase d'accroche qui parait sur la vignette
 date: 2015-03-02
-image: /images/mooc/websem.png
+image: /images/mooc/pwebsem.png
 status: open
 url: https://www.fun-mooc.fr/fr/cours/web-semantique-et-web-de-donnees/
 investment:
