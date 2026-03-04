@@ -92,3 +92,6 @@ Accompagnement pédagogique :
 
 ## Ressources complémentaires
 [Portail web des ressources du Mooc](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html)
+
+## Partenaires
+Ce Mooc a été co-produit par l’Association [Class’Code](https://www.class-code.fr/) et [Inria](https://inria.fr/fr), avec le soutien de la Délégation Numérique pour l’Education ([DNE](https://www.education.gouv.fr/direction-du-numerique-pour-l-education-dne-9983)) et de l'université numérique ingénierie et technologie ([UNIT](https://unit.eu/)).
