@@ -43,7 +43,6 @@ Auteurs :
 
 
 ## Ressources complémentaires
-- titre, description et lien d'accès <a href="https://www.inria.fr" target=_blank>ressource</a>
 - <a href="https://epoc.inria.fr/" target:=_blank>ePoc (electronic Pocket open course)</a> est une solution complète de mobile learning libre et ouverte. Gratuite et open source. Développée et maintenue par Inria Learning Lab depuis 2020.
 
 ## Accès à l'ePoc (ne pas modifier)
