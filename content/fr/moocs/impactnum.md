@@ -7,7 +7,7 @@ status: open
 url: https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/
 investment: entre 5h (parcours initial) et 10h (parcours avancé)
 assesment: Open Badge
-lang: ["fr"]
+lang: ["fr","en"]
 trailer: https://www.youtube.com/embed/x3vf4mxVXNA?si=xdg9pe0H-6wWQnpj
 licence: CC BY 4.0
 ---
@@ -54,7 +54,8 @@ Auteurs, référents de partie :
 - **Anne-Cécile Orgerie**, chercheuse, CNRS
 - **Charles Poulmaire**, Agrégé de Mathématiques, professeur de NSI et SNT, Education Nationale
 
-De nombreux scientifiques ont de plus contribué en écrivant des fiches concept, articles à destination des enseignants et du grand public pour aller un peu plus loin et comprendre les notions clés liées au sujet.
+::note
+De nombreux scientifiques ont de plus contribué en écrivant des fiches concept, articles à destination des enseignants et du grand public pour aller un peu plus loin et comprendre les notions clés liées au sujet
 - Eric Blayo, professeur en mathématiques appliquées, Université Grenoble Alpes
 - Frédéric Bordage, collectif GreenIT.fr
 - Antoine Boubault, chercheur en écologie industrielle, BRGM
@@ -77,6 +78,7 @@ De nombreux scientifiques ont de plus contribué en écrivant des fiches concept
 - Eric Tannier, directeur de recherche chez Inria
 - Thomas Tari, sociologue au médialab de Sciences Po et responsable du Centre d'exploration des controverses
 - Corinne Touati, chercheuse, référente en médiation, Inria
+::
 
 Accompagnement pédagogique : 
 - **Laurence Farhi**, ingénieure pédagogique, Inria Learning Lab
