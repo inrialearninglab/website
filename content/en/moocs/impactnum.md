@@ -55,29 +55,31 @@ Principal authors:
 - **Charles Poulmaire**, teacher of mathematics, NTS and NSI, Education Nationale
 
 ::note
-Many scientists have also contributed by writing concept sheets and articles for teachers and the general public to help them understand the key concepts related to the subject
-- Eric Blayo, professor of applied mathematics, Grenoble Alpes University
-- Frédéric Bordage, GreenIT.fr collective
-- Antoine Boubault, researcher in industrial ecology, BRGM
-- Christophe Bravard, Grenoble Alpes University
-- Juliette Chabassier, researcher, Inria
-- Jacques Combaz, research engineer, CNRS / VERIMAG
-- Jean-Yves Courtone, researcher, Inria
-- Romaric David, research engineer, University of Strasbourg
-- Emmanuelle Frenoux, lecturer, University of Paris-Saclay
-- Ronan Groussier, Head of Public Affairs, HOP (Halte à l'Obsolescence Programmée)
-- Pascal Guitton, professor of computer science and researcher in the Potioc team, Inria, University of Bordeaux, CNRS
-- Christine Leininger, scientific mediation project manager, Inria
-- Anne-Laure Ligozat, lecturer at the LISN Laboratory and ENSIIE school
-- Pierre-Yves Longaretti, researcher at Grenoble Alpes University, CNRS-INSU, IPAG and Inria STEEP team
-- Didier Mallarino, researcher, CNRS, EcoInfo
-- Guillaume Mandil, research professor, UGA, PhITEM department, Inria STEEP team
-- Servane Mouton, neurologist, Neuville-sur-Saone
-- Sophie Quinton, researcher at Inria Grenoble, SPADES team
-- Gauthier Roussilhe, Designer and PhD student at the RMIT University Melbourne, ENSCI
-- Eric Tannier, research director at Inria
-- Thomas Tari, sociologist at Sciences Po médialab and head of the Centre for the Exploration of Controversies
-- Corinne Touati, researcher, Inria mediation referent
+    ::details
+    :summary[Many scientists have also contributed by writing concept sheets and articles for teachers and the general public to help them understand the key concepts related to the subject]
+    - Eric Blayo, professor of applied mathematics, Grenoble Alpes University
+    - Frédéric Bordage, GreenIT.fr collective
+    - Antoine Boubault, researcher in industrial ecology, BRGM
+    - Christophe Bravard, Grenoble Alpes University
+    - Juliette Chabassier, researcher, Inria
+    - Jacques Combaz, research engineer, CNRS / VERIMAG
+    - Jean-Yves Courtone, researcher, Inria
+    - Romaric David, research engineer, University of Strasbourg
+    - Emmanuelle Frenoux, lecturer, University of Paris-Saclay
+    - Ronan Groussier, Head of Public Affairs, HOP (Halte à l'Obsolescence Programmée)
+    - Pascal Guitton, professor of computer science and researcher in the Potioc team, Inria, University of Bordeaux, CNRS
+    - Christine Leininger, scientific mediation project manager, Inria
+    - Anne-Laure Ligozat, lecturer at the LISN Laboratory and ENSIIE school
+    - Pierre-Yves Longaretti, researcher at Grenoble Alpes University, CNRS-INSU, IPAG and Inria STEEP team
+    - Didier Mallarino, researcher, CNRS, EcoInfo
+    - Guillaume Mandil, research professor, UGA, PhITEM department, Inria STEEP team
+    - Servane Mouton, neurologist, Neuville-sur-Saone
+    - Sophie Quinton, researcher at Inria Grenoble, SPADES team
+    - Gauthier Roussilhe, Designer and PhD student at the RMIT University Melbourne, ENSCI
+    - Eric Tannier, research director at Inria
+    - Thomas Tari, sociologist at Sciences Po médialab and head of the Centre for the Exploration of Controversies
+    - Corinne Touati, researcher, Inria mediation referent
+    ::
 ::
 
 Pedagogical support:

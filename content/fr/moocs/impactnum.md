@@ -55,29 +55,31 @@ Auteurs, référents de partie :
 - **Charles Poulmaire**, professeur de mathématiques, NSI et SNT, Education Nationale
 
 ::note
-De nombreux scientifiques ont de plus contribué en écrivant des fiches concept, articles à destination des enseignants et du grand public pour aller un peu plus loin et comprendre les notions clés liées au sujet
-- Eric Blayo, professeur en mathématiques appliquées, Université Grenoble Alpes
-- Frédéric Bordage, collectif GreenIT.fr
-- Antoine Boubault, chercheur en écologie industrielle, BRGM
-- Christophe Bravard, Université Grenoble Alpes
-- Juliette Chabassier, chargée de recherches, Inria
-- Jacques Combaz, ingénieur recherche, CNRS / VERIMAG
-- Jean-Yves Courtone, chargé de recherche, Inria
-- Romaric David, ingénieur de recherche, Université de Strasbourg
-- Emmanuelle Frenoux, maître de Conférences, Université Paris-Saclay
-- Ronan Groussier, responsable des affaires publiques de HOP (Halte à l'Obsolescence Programmée)
-- Pascal Guitton, professeur d'informatique et chercheur dans l'équipe Potioc, Inria, Université de Bordeaux, CNRS
-- Christine Leininger, chef de projet médiation scientifique, Inria
-- Anne-Laure Ligozat, maître de conférences au LISN et à l'ENSIIE
-- Pierre-Yves Longaretti, chercheur à l'Université Grenoble Alpes, CNRS-INSU, IPAG et Inria équipe STEEP
-- Didier Mallarino, chercheur, CNRS, EcoInfo
-- Guillaume Mandil, enseignant chercheur, UGA, UFR PhITEM, Inria équipe STEEP
-- Servane Mouton, neurologue, Neuville-sur-Saone
-- Sophie Quinton, chercheuse à l'Inria Grenoble, équipe SPADES
-- Gauthier Roussilhe, Designer et doctorant ; RMIT, CRD (ENS Saclay, ENSCI)
-- Eric Tannier, directeur de recherche chez Inria
-- Thomas Tari, sociologue au médialab de Sciences Po et responsable du Centre d'exploration des controverses
-- Corinne Touati, chercheuse, référente en médiation, Inria
+    ::details
+    :summary[De nombreux scientifiques ont de plus contribué en écrivant des fiches concept, articles à destination des enseignants et du grand public pour aller un peu plus loin et comprendre les notions clés liées au sujet]
+    - Eric Blayo, professeur en mathématiques appliquées, Université Grenoble Alpes
+    - Frédéric Bordage, collectif GreenIT.fr
+    - Antoine Boubault, chercheur en écologie industrielle, BRGM
+    - Christophe Bravard, Université Grenoble Alpes
+    - Juliette Chabassier, chargée de recherches, Inria
+    - Jacques Combaz, ingénieur recherche, CNRS / VERIMAG
+    - Jean-Yves Courtone, chargé de recherche, Inria
+    - Romaric David, ingénieur de recherche, Université de Strasbourg
+    - Emmanuelle Frenoux, maître de Conférences, Université Paris-Saclay
+    - Ronan Groussier, responsable des affaires publiques de HOP (Halte à l'Obsolescence Programmée)
+    - Pascal Guitton, professeur d'informatique et chercheur dans l'équipe Potioc, Inria, Université de Bordeaux, CNRS
+    - Christine Leininger, chef de projet médiation scientifique, Inria
+    - Anne-Laure Ligozat, maître de conférences au LISN et à l'ENSIIE
+    - Pierre-Yves Longaretti, chercheur à l'Université Grenoble Alpes, CNRS-INSU, IPAG et Inria équipe STEEP
+    - Didier Mallarino, chercheur, CNRS, EcoInfo
+    - Guillaume Mandil, enseignant chercheur, UGA, UFR PhITEM, Inria équipe STEEP
+    - Servane Mouton, neurologue, Neuville-sur-Saone
+    - Sophie Quinton, chercheuse à l'Inria Grenoble, équipe SPADES
+    - Gauthier Roussilhe, Designer et doctorant ; RMIT, CRD (ENS Saclay, ENSCI)
+    - Eric Tannier, directeur de recherche chez Inria
+    - Thomas Tari, sociologue au médialab de Sciences Po et responsable du Centre d'exploration des controverses
+    - Corinne Touati, chercheuse, référente en médiation, Inria
+    ::
 ::
 
 Accompagnement pédagogique : 
