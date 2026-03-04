@@ -15,13 +15,7 @@ licence: CC BY 4.0
 ## Description du cours
 Ce Mooc a été co-produit par l’Association Class’Code et Inria.
 
-À l’heure ou transition écologique rime souvent avec transition numérique, qu’en est-il réellement des impacts environnementaux du numérique ? Le numérique est-il la solution ? 
-
-Sous couvert de virtualisation et de dématérialisation, c'est en fait tout un écosystème gourmand en énergie et en ressources non renouvelables qui se déploie à grande vitesse. 
-
-Alors qu’il a fallu près de 50 ans pour prendre la mesure du changement climatique, stabiliser les indicateurs et les données, arriver à des consensus qui permette d’agir. 
-
-Où en sommes-nous en ce qui concerne le numérique ? Comment se repérer dans les informations et les discours parfois contradictoires ? Sur quelles mesures s’appuyer ? Comment dès à présent commencer à agir pour un numérique plus responsable et plus durable ?
+À l’heure ou transition écologique rime souvent avec transition numérique, qu’en est-il réellement des impacts environnementaux du numérique ? Le numérique est-il la solution ? Sous couvert de virtualisation et de dématérialisation, c'est en fait tout un écosystème gourmand en énergie et en ressources non renouvelables qui se déploie à grande vitesse. Alors qu’il a fallu près de 50 ans pour prendre la mesure du changement climatique, stabiliser les indicateurs et les données, arriver à des consensus qui permette d’agir. Où en sommes-nous en ce qui concerne le numérique ? Comment se repérer dans les informations et les discours parfois contradictoires ? Sur quelles mesures s’appuyer ? Comment dès à présent commencer à agir pour un numérique plus responsable et plus durable ?
 
 ## Objectifs du cours
 
