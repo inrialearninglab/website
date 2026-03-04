@@ -43,16 +43,16 @@ Il vous suffit d’un ordinateur et d’une bonne connexion Internet pour suivre
 ## Équipe pédagogique
 Auteurs, référents de partie :
 
-- **Françoise Berthoud**, ingénieure de recherche, GRICAD, CNRS
-- **Franck Beysson**, Directeur-Adjoint Service Education à l'Environnement et à la Transition Ecologique, Ligue de l’enseignement
-- **Julie Cornet**, Formatrice spécialisée en sciences et technologies, La Compagnie du Code
-- **Laurent Devernay**, Référent Formateurs Occitanie, Simplon.co
-- **Laurent Lefèvre**, chercheur, Inria
-- **Benjamin Ninassi**, Ingénieur de recherche, Inria
-- **Martine Olivi**, chercheuse, Inria
+- **Françoise Berthoud**, ingénieur de recherche qui a co-créé le GDS EcoInfo, GRICAD, CNRS
+- **Franck Beysson**, directeur-Adjoint Service Education à l'Environnement et à la Transition Ecologique, Ligue de l’enseignement
+- **Julie Cornet**, dédiatrice pédagogique spécialisée en sciences et technologies, La Compagnie du Code
+- **Laurent Devernay**, consultant et formateur, Simplon.co
+- **Laurent Lefèvre**, chercheur en informatique, Inria
+- **Benjamin Ninassi**, adjoint au Responsable du programme Numérique et Environnement, Inria
+- **Martine Olivi**, chercheuse en mathématiques appliquées, Inria
 - **Julie Orgelet**, consultante ACV et numérique responsable, DDemain / NegaOctet
-- **Anne-Cécile Orgerie**, chercheuse, CNRS
-- **Charles Poulmaire**, Agrégé de Mathématiques, professeur de NSI et SNT, Education Nationale
+- **Anne-Cécile Orgerie**, chercheuse en informatique, CNRS
+- **Charles Poulmaire**, professeur de mathématiques, NSI et SNT, Education Nationale
 
 ::note
 De nombreux scientifiques ont de plus contribué en écrivant des fiches concept, articles à destination des enseignants et du grand public pour aller un peu plus loin et comprendre les notions clés liées au sujet
@@ -90,4 +90,4 @@ Accompagnement pédagogique :
 [Portail web des ressources du Mooc](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html)
 
 ## Partenaires
-Ce Mooc a été co-produit par l’Association [Class’Code](https://www.class-code.fr/) et [Inria](https://inria.fr/fr), avec le soutien de la Délégation Numérique pour l’Education ([DNE](https://www.education.gouv.fr/direction-du-numerique-pour-l-education-dne-9983)) et de l'université numérique ingénierie et technologie ([UNIT](https://unit.eu/)).
+Ce Mooc a été co-produit par l’Association [Class’Code](https://www.class-code.fr/) et [Inria](https://inria.fr/fr), avec le soutien de la Délégation Numérique pour l’Education ([DNE](https://www.education.gouv.fr/direction-du-numerique-pour-l-education-dne-9983)) et de l'Université Numérique Ingénierie et Technologie ([UNIT](https://unit.eu/)).
