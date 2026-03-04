@@ -1,7 +1,7 @@
 ---
 title: Recherche reproductible - Principes méthodologiques pour une science transparente
 description: Ce Mooc propose des principes méthodologiques pour une science ouverte et transparente. Il aborde de manière pratique la prise de notes, le document computationnel, la réplicabilité des analyses.
-date: 2020-03-20
+date: 2018-10-22
 image: /images/mooc/prr.png
 status: open
 url: https://www.fun-mooc.fr/fr/cours/recherche-reproductible-principes-methodologiques-pour-une-science-transparente/
