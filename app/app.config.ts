@@ -137,6 +137,20 @@ export default defineAppConfig({
                 },
             ],
         },
+          {
+            name: "Sherazade Djeballah",
+            avatar: "/images/team/sherazade.jpg",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Learning designer",
+            },
+            links: [
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/sherazade-djeballah-6a8759233/",
+                },
+            ],
+        },
         {
             name: "Laurence Farhi",
             avatar: "/images/team/laurence.jpg",
@@ -148,6 +162,20 @@ export default defineAppConfig({
                 {
                     icon: "simple-icons:linkedin",
                     to: "https://www.linkedin.com/in/laurence-farhi-760981ba/",
+                },
+            ],
+        },
+        {
+            name: "Sabah Khalfa",
+            avatar: "/images/team/sabah.jpg",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Learning designer",
+            },
+            links: [
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/sabah-khalfa-ab24749/",
                 },
             ],
         },
@@ -180,20 +208,6 @@ export default defineAppConfig({
             ],
         },
         {
-            name: "Sherazade Djeballah",
-            avatar: "/images/team/sherazade.jpg",
-            title: {
-                fr: "Ingénieure pédagogique",
-                en: "Learning designer",
-            },
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/sherazade-djeballah-6a8759233/",
-                },
-            ],
-        },
-        {
             name: "Madeline Montigny",
             avatar: "/images/team/madeline.jpg",
             title: {
@@ -204,20 +218,6 @@ export default defineAppConfig({
                 {
                     icon: "simple-icons:linkedin",
                     to: "https://www.linkedin.com/in/madelinemontigny/",
-                },
-            ],
-        },
-        {
-            name: "Sabah Khalfa",
-            avatar: "/images/team/sabah.jpg",
-            title: {
-                fr: "Ingénieure pédagogique",
-                en: "Learning designer",
-            },
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/sabah-khalfa-ab24749/",
                 },
             ],
         },
