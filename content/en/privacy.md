@@ -1,5 +1,50 @@
 ---
-title: Politique de confidentialité
+title: Privacy Policy
+description: In the Privacy Policy, we explain how we collect, use, share, retain and transfer information. We also let you know your rights.
 ---
 
-## 🚧 WIP
+**Last updated**: March 6th, 2026
+
+Inria is committed to protecting the personal data it processes for its operational needs. In this regard, Inria is committed to complying with the General Data Protection Regulation 2016/679 of April 27, 2016 ("GDPR") and the amended French Data Protection Act. This page describes the personal data processing related to the use of the https://learninglab.inria.fr website.
+
+The Data Protection Officer (DPO) appointed by Inria can be contacted by email at dpo@inria.fr
+
+## Data Transfer Outside the European Union
+
+No data is transferred outside the European Union.
+
+## Individual Rights
+
+In accordance with applicable legal and regulatory provisions, particularly the amended French Data Protection Act n° 78-17 of January 6 and the European Regulation n° 2016/679/UE of April 27, 2016 (applicable since May 25, 2018), you have the following rights:
+
+*   Exercise your right of access to know the personal data concerning you;
+*   Request the update of your data if they are inaccurate;
+*   Request the portability or deletion of your data;
+*   Request the limitation of the processing of your data;
+*   Object, for legitimate reasons, to the processing of your data.
+
+## Right to Lodge a Complaint
+
+If you believe, after contacting us, that your data protection rights are not being respected, you may file a complaint online with the CNIL or by postal mail.
+
+## Cookies and Connection Logs
+
+When a person visits the https://learninglab.inria.fr website, cookies or connection logs may be placed on their device (computer, mobile, tablet). This page helps you better understand how cookies work and how to use current tools to configure them.
+
+### Definition
+
+A "cookie" is a text file that may be placed on your device when you visit our site. Its purpose is to collect anonymous navigation status information and to provide you with content adapted to your device or interests. Only the issuer of a cookie can read or modify the information it contains.
+
+### Purposes of Cookies
+
+The cookies we issue allow:
+
+- To establish statistics and traffic volumes of the various elements composing our site (number of pages viewed, number of visits, activity, return frequency, etc.) in order to monitor and improve the quality of our services
+- To adapt the presentation of our site to your device's display preferences (language, display resolution, operating system, etc.)
+- To facilitate your use of our site, for example by remembering data related to a form or information you have chosen on our site in order to provide you with content related to your interest in Inria's activities.
+
+### Analytics
+
+We use analytical cookies solely for internal research purposes on how we can improve the service we offer to all our users. These cookies simply allow us to evaluate how you interact with our websites - as an anonymous user (the data collected does not allow us to personally identify you).
+
+https://learninglab.inria.fr uses _Matomo_, a free and _open source_ web statistics software, recommended by the CNIL.
