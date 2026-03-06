@@ -33,7 +33,7 @@ const { data: mooc } = await useAsyncData(
         <UPageHeader :title="mooc.title" headline="MOOC">
             <template #description>
                 <p class="mb-4">{{ mooc.description }}</p>
-                <div class="flex gap-5">
+                <div class="flex gap-5 flex-wrap">
                     <MoocStatus :status="mooc.status" />
 
                     <p v-if="mooc.date" class="flex items-center gap-2">
