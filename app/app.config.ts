@@ -137,7 +137,7 @@ export default defineAppConfig({
                 },
             ],
         },
-          {
+        {
             name: "Sherazade Djeballah",
             avatar: "/images/team/sherazade.jpg",
             title: {
@@ -264,7 +264,7 @@ export default defineAppConfig({
         },
         {
             name: "Tristan Rollet",
-            avatar: "https://avatars.githubusercontent.com/u/93080156?v=4",
+            avatar: "/images/team/tristan.jpg",
             title: {
                 fr: "Alternant développeur",
                 en: "Apprentice developer",
