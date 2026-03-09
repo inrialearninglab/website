@@ -1,43 +1,50 @@
 ---
 title: Introduction to a Web of Linked Data
-description: "Le Web est bien plus qu'un réseau de pages : c'est un espace d'information interconnecté où les données prennent tout leur sens. Ce cours vous guide pas à pas à travers les principes des données liées, les standards essentiels comme RDF et SPARQL, et les outils pour intégrer et échanger des données sur le Web"
-date: 2019-03-15
-status: archived
+description: "This MOOC introduces the Linked Data standards and principles that provide the foundation of the Semantic Web."
+date: 2016-11-21
+status: closed
 image: /images/mooc/pweblinkdata.png
 url: https://www.fun-mooc.fr/fr/cours/introduction-to-a-web-of-linked-data/
-investment:
-assesment:
+investment: 12h
+assesment: 
 lang: ["en"]
 trailer: https://www.youtube.com/embed/K6hj819Sezc?si=TvkZftg3oMnx28Bc
+licence: CC BY-NC-ND
 ---
-Parmi ses nombreuses évolutions, le Web est devenu un moyen pour les applications d’échanger des données. Chaque jour, nous consommons et produisons ces données à travers une variété d’applications qui fonctionnent sur une variété de dispositifs. Cette évolution majeure du Web s’applique à tous les domaines d’activité.
-## Contenu :
 
-Ce cours est structuré en 4 parties / semaines :
+## Course description
+Among its many evolutions, the Web became a way to exchange data between applications. Everyday we consume and produce these data through a growing variety of applications running on a growing variety of devices. This major evolution of the Web has applications in all domains of activity.
 
-– Les principes fondamentaux des données liées sur le Web
+This MOOC introduces the Linked Data standards and principles that provide the foundation of the Semantic web. We divided this introduction into four parts:
 
-– La recommandation RDF qui fournit un modèle de données standard et des syntaxes pour publier et lier les données sur le Web
+- the fundamental principles of linked data on the Web
+- the RDF recommendation that provides a standard data model and syntaxes to publish and link data on the Web
+- an overview of the SPARQL query language that allows us to access data sources on the Web
+- the standards supporting the exchange and integration of RDF data with other formats and data sources (R2RML, CSVW, JSON-LD, RDFa, GRDDL, LDP).
 
-– Une vue d’ensemble du langage de requête SPARQL qui nous permet d’accéder aux sources de données sur le Web
+Each module content alternates short videos and quizzes, as well as supplementary resources, to gradually progress through the different principles and standards.
 
-– Les standards qui soutiennent l’échange et l’intégration des données RDF avec d’autres formats et sources de données (R2RML, CSVW, JSON-LD, RDFa, GRDDL, LDP)
+## Who is this course for?
+Everyone with basic Web notions (e.g. browsers) and able to install software on their machine.
 
-Chaque semaine, vous aurez accès au contenu (courtes vidéos accompagnées de quiz, ressources supplémentaires) qui vous permettra de progressivement vous familiariser avec les différents principes et standards.
-Pour suivre ce cours de manière optimale, les prérequis sont les suivants : avoir des connaissances de bases sur le Web (ex : navigateur) et être capable d’installer un logiciel sur sa machine.
+## Course objectives
+- Understand the principles of a Web of Linked Data
+- Publish linked data with RDF standard
+- Access data sources on the web with SPARQL query language
+- Exchange and integrate RDF data with other data and format sources
 
-## Historique et liens :
+## Course outline
+- Module 1: **Principles of a Web of Linked Data**
+- Module 2: **The RDF Data Model**
+- Module 3: **SPARQL Query Language**
+- Module 4: **Integration with Other Data Formats and Sources**
 
-Session 1 : du 21 novembre au 11 décembre 2016
+## Pedagogical team
+Authors: 
+- **Fabien GANDON**: Senior Researcher, Inria
+- **Olivier CORBY**: Ph.D in computer science, UNS
+- **Catherine FARON ZUCKER**: Lecturer, Université Côte d'Azur.
 
-Session 2 : du 9 mai au 23 juin 2017
-
-Session 3 : du 25 septembre au 29 octobre 2017
-
-Session 3 : du 25 septembre au 29 octobre 2017
-
-Session 4 : du 4 février 2019 au 2 février 2020
-
-[Page de présentation et d’inscription sur FUN](https://www.fun-mooc.fr/fr/cours/introduction-to-a-web-of-linked-data/)
-[Groupe Facebook](https://www.facebook.com/groups/1164101990342596/)
-Suivez nous sur Twitter #moocWoLD
+Pedagogical support
+- **Marie-Hélène COMTE**: Learning engineer, Inria Learning Lab
+- **Aurélie LAGARRIGUE**: Learning engineer, Inria Learning Lab

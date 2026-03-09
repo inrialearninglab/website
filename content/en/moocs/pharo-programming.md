@@ -1,14 +1,14 @@
 ---
 title: Live Object Programming in Pharo
-description: If you are either a beginner or an expert in object-oriented programming, this MOOC will change the way you program with objects: come and learn or rediscover object-oriented programming with Pharo!
+description: "If you are either a beginner or an expert in object-oriented programming, this MOOC will change the way you program with objects: come and learn or rediscover object-oriented programming with Pharo!"
 date: 2020-11-09
 image: /images/mooc/ppharoprogramming.png
 status: open
 url: https://www.fun-mooc.fr/en/courses/live-object-programming-pharo/
 investment: 40 hours
-assesment:
+assesment: Open Badge
 lang: ["en", "fr"]
-trailer: https://www.youtube.com/watch?v=EqqNWJ6m-U0
+trailer: https://www.youtube.com/embed/-z83bmzRATM?si=GaYz9kAKVJWLrGOw
 licence: CC BY NC
 ---
 
@@ -22,7 +22,7 @@ Pharo is also a very powerful open-source environment used by companies to devel
 
 Throughout this MOOC you will be immersed in a live environment and live a new programming experience.
 
-This Mooc will start with a special, optional, sequence for Newbies to introduce the basics on object-oriented programming.
+This MOOC will start with a special, optional, sequence for Newbies to introduce the basics on object-oriented programming.
 All along this MOOC, we present more specifically Pharo’s Web stack which changes the way you build web applications.
 In addition we present fundamental programming concepts and how Pharo uses them. We present some coding idioms and Design Patterns to better design object-oriented applications. Such concepts can be applied to any object-oriented programming language.
 
@@ -30,46 +30,40 @@ This MOOC is intended for people with a programming experience but everyone moti
 
 This MOOC will also provide a new vision of the fundamental principles of object-oriented programming, i.e. polymorphism and late binding.
 
-## Learning Objective
+## Course objectives
 At the end of this course, you will be able to:
 
-to program in Pharo,
-to develop a web application to apply the different aspects of Pharo.
-The duration of the complete course is estimated at 40 hours.
+- to program in Pharo,
+- to develop a web application to apply the different aspects of Pharo.
 
 Testimony of a participant
-"I have just completed week seven of the Pharo Mooc (beginner and object oriented tracks) I am starting a redo of the Mooc with the web track (TinyBlog project). I have already learned so much ! I have spent the last 20 years or so in software development and, following this Mooc, I realized I hadn’t really grasped the essence of object oriented design."
+"I have just completed week seven of the Pharo MOOC (beginner and object oriented tracks) I am starting a redo of the MOOC with the web track (TinyBlog project). I have already learned so much! I have spent the last 20 years or so in software development and, following this MOOC, I realized I hadn’t really grasped the essence of object oriented design."
 
-## Audience
+## Who is this course for?
 - Students, beginners and experienced developers
 - IT teachers
 - Anyone interested in agile methods
 
-## Prerequisites
-A first experience in object-oriented programming is better.
+## Course outline
+- Module 1: **Welcome on Board and Syntax Discovery**
+- Module 2: **Pharo Syntax, Blocks and Inspector**
+- Module 3: **Design, Class Methods and Collections**
+- Module 4: **Inheritance & Lookup and Web Development**
+- Module 5: **Exception, Debugging and Reflection**
+- Module 6: **Rethink Lookup and Advanced Object-Oriented Design**
+- Module 7: **More on Object-Oriented Design and Testing**
 
-Pharo installation
+## Pedagogical team
+Authors:
+- **Stéphane Ducasse**, Research director, University of Lille, Inria
+- **Damien Cassou**, software developer, University of Lille, Företagsplatsen
+- **Luc Fabresse**, Professor, University of Lille - IMT Nord Europe, Inria
+Pedagogical support:
+- **Marie Collin**, Learning Designer, Inria Learning Lab
+- **Isabelle Collignon**, Learning Designer, Inria Learning Lab
 
-Install the specific version of Pharo for the MOOC
-Go to this webpage and follow the instructions.
-
-## Content
-- Week 1 : Welcome on Board and Syntax Discovery
-- Week 2 : Pharo Syntax, Blocks and Inspector
-- Week 3 : Design, Class Methods and Collections
-- Week 4 : Inheritance & Lookup and Web Development
-- Week 5 : Exception, Debugging and Reflection
-- Week 6 : Rethink Lookup and Advanced Object-Oriented Design
-- Week 7 : More on Object-Oriented Design and Testing
-
-## Educational team
-- Stéphane Ducasse, Research director - Inria
-- Damien Cassou, software developer - Företagsplatsen
-- Luc Fabresse, Professor - IMT Nord Europe
-
-## Complementary resources
+## Additional resources
 - [YouTube playlist of MOOC Pharo videos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf)
 - [Pharo MOOC videos & slides](https://mooc.pharo.org)
-- [Pharo Mooc on github](hhttps://github.com/pharo-mooc)
+- [Pharo MOOC on github](hhttps://github.com/pharo-mooc)
 - [Pharo Discord Channel](https://discord.gg/QewZMZa)
-

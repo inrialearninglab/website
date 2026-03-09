@@ -1,53 +1,60 @@
 ---
 title: Recherche reproductible - Principes méthodologiques pour une science transparente
-description: Comment garantir la transparence et la fiabilité de vos travaux scientifiques ? Ce MOOC explore les principes et outils de la recherche reproductible, essentiels pour une science ouverte et rigoureuse, adaptée à toutes les disciplines.
-date: 2018-09-04
+description: Ce Mooc propose des principes méthodologiques pour une science ouverte et transparente. Il aborde de manière pratique la prise de notes, le document computationnel, la réplicabilité des analyses.
+date: 2018-10-22
 image: /images/mooc/prr.png
 status: open
-url: https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/
-investment:
-assesment:
-lang: ["fr"]
-trailer: Comment garantir la transparence et la fiabilité de vos travaux scientifiques ? Ce MOOC explore les principes et outils de la recherche reproductible, essentiels pour une science ouverte et rigoureuse, adaptée à toutes les disciplines.
+url: https://www.fun-mooc.fr/fr/cours/recherche-reproductible-principes-methodologiques-pour-une-science-transparente/
+investment: 24 heures
+assesment: Open badge
+lang: ["fr","en"]
+trailer: https://www.youtube.com/embed/h5nRdvDPpUY?si=YNjeJmPhFvs5h1aU
+licence: CC BY 3.0
 ---
-Rendre votre recherche reproductible, c’est relever le nouveau défi de la science pour améliorer ses résultats !
 
-Le Mooc [« Recherche reproductible : principes méthodologiques pour une science transparente »](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) propose des principes méthodologiques pour une science ouverte et transparente inscrite désormais dans [« le plan national pour la science ouverte »](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-2021-2024-vers-une-generalisation-de-la-science-ouverte-en-48525). Le cours aborde de manière pratique des thématiques telles que la prise de notes, le document computationnel, la réplicabilité des analyses.
-La troisième session de MOOC, proposé par Inria Learning Lab, est ouverte pour une durée longue (au moins un an) à partir du 20 mars 2020. L‘ensemble des contenus est disponible dès le lancement avec une délivrance d’attestations de suivi tous les 3 mois : vous pouvez ainsi suivre le MOOC à votre rythme et selon vos besoins ! Le temps estimé pour suivre ce cours et faire les exercices est de 24h.
+## Description du cours
+Vous prenez des notes et vous voulez vous y retrouver ? Vous faites des calculs sur ordinateur et vos résultats changent d’un jour à l’autre ? Vous aimeriez partager avec vos collègues vos analyses de données et vos derniers travaux et qu’ils puissent les réutiliser ?
 
-Ce MOOC est pour vous tous, **doctorant-e-s, chercheur-se-s, étudiant-e-s en master, enseignant-e-s, ingénieur-e-s** de toutes disciplines qui souhaitez vous former à des environnements de publication et des outils modernes et fiables. Arnaud Legrand, Chercheur en informatique (CNRS/LIG, Inria, UGA), Christophe Pouzat, Neurophysiologiste (CNRS/MAP5 Univ. Paris Descartes), Konrad Hinsen, Biophysicien (CNRS, Centre de biophysique moléculaire, Soleil) poseront les bases d’une recherche reproductible et vous expliqueront comment utiliser les bons outils  :
+Les auteurs de ce Mooc poseront les bases d’une recherche reproductible et vous expliqueront comment utiliser les bons outils  :
 
 - **Markdown** pour la prise de note structurée
-- des **outils d’indexation** (DocFetcher et ExifTool)
-- **GitLab** pour le suivi de version et le travail collaboratif
-- **Notebooks (Jupyter, Rstudio ou Org-mode)** pour combiner efficacement calcul, représentation et analyse des données
+- des **Outils d'indexation** (DocFetcher et ExifTool)
+- **Gitlab** pour le suivi de version et le travail collaboratif
+- **Notebooks** (Jupyter, Rstudio ou Org-mode) pour combiner efficacement calcul, représentation et analyse des données
 
-## Détail du cours
+Vous apprendrez au cours des **exercices basés sur des cas pratiques** à utiliser ces outils pour améliorer votre prise de notes, votre gestion des données et des calculs. Pour cela, vous disposerez d'un **espace Gitlab et d'un espace Jupyter**, intégrés à la plateforme FUN et qui ne nécessitent aucune installation. Ceux qui le souhaitent pourront réaliser les travaux pratiques avec **Rstudio** ou **Org-mode** après avoir installé ces outils sur leur machine. Toutes les procédures d'installation et de configuration des outils sont fournies dans le Mooc, ainsi que de nombreux tutoriels.
 
-Nous proposons dans ce MOOC trois parcours différents utilisant chacun une technologie de Notebook :
+Les auteurs présenterons également les enjeux et les difficultés de la recherche reproductible.
 
-Le premier parcours repose sur **Jupyter** et le **langage Python (ou R)**. Il ne nécessite aucune installation de votre part sur votre ordinateur.
+## Objectifs du cours
+- Comprendre les enjeux et les difficultés de la recherche reproductible
+- Découvrir des outils pour améliorer sa prise de notes, sa gestion des données, et des calculs
+- Se familiariser avec un outil de suivi de gestion de version (Gitlab)
+- Se familiariser avec les documents computationnels réplicables (Jupyter, RStudio ou Org-Mode)
+- Écrire un notebook pour combiner efficacement une analyse de données et sa documentation
 
-Le deuxième parcours repose sur **RStudio** et le **langage R**.
+## A qui s’adresse ce cours ?
+Ce Mooc s'adresse aux doctorant-e-s, chercheur-se-s , étudiant-e-s en master, enseignant-e-s, ingénieur-e-s de toutes disciplines qui souhaitent se former à des environnements de publication et des outils fiables.
 
-Le troisième parcours repose sur **Emacs/Org-Mode** et les langages **Python et R**.
+## Plan du cours
+- Posons le décor : La reproductibilité, en crise ? Reproductibilité et transparence
+- Module 1 : Cahier de notes, cahier de laboratoire
+- Module 2 : La vitrine et l’envers du décor : le document computationnel
+- Module 3 : La main à la pâte : une analyse réplicable
+- Module 4 : Vers une étude reproductible : la réalité du terrain
 
-Nous vous présenterons également les enjeux et les difficultés de la recherche reproductible. À l’issue de ce MOOC, vous aurez acquis les techniques vous permettant de préparer des documents réplicables et de partager en toute transparence les résultats de vos travaux.
+## Équipe pédagogique
+Auteurs :
+- **Arnaud Legrand**, Chercheur en informatique, CNRS/LIG, Inria, UGA
+- **Christophe Pouzat**, Neurophysiologiste, CNRS/MAP5 Univ. Paris Descartes
+- **Konrad Hinsen**, Biophysicien, CNRS, Centre de biophysique moléculaire, Soleil
 
-## Nouveautés 3e session
+Accompagnement pédagogique : 
+- **Laurence Farhi**, ingénieure pédagogique, Inria Learning Lab
+- **Marie-Hélène Comte**, ingénieure pédagogique, Inria Learning Lab
+- **Benoit Rospart**, ingénieur développement, Inria Learning Lab
 
-De nombreux contenus ont été ajoutés dans cette nouvelle session :
 
-- des vidéos sur git/Gitlab pour les débutants,
-- un aperçu historique de la recherche reproductible,
-- des synthèses et des témoignages pour des besoins spécifiques aux domaines des sciences humaines et sociales.
+## Partenaires
+Avec le soutien du [Fonds national de la science ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
 
-- Pour voir la description du cours et s’inscrire dès à présent, [rendez-vous sur la plateforme FUN](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/).
-
-## Suivez-nous
-
-X (Twitter) : [@InriaLearningLab](https://x.com/InriaLearnLab)
-
-Facebook : [@InriaLearninLab](https://www.facebook.com/InriaLearningLab)
-
-…avec ces hashtags : #RRMooc

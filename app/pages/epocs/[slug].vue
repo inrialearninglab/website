@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { withoutLeadingSlash } from "ufo";
+import * as locales from "@nuxt/ui/locale";
 
 const { locale, t } = useI18n({
     useScope: "local",
@@ -28,11 +29,15 @@ const { data: epoc } = await useAsyncData(
 const links = ref([
     {
         label: t("discover-android"),
+        to: "https://play.google.com/store/apps/details?id=fr.inria.epoc",
         trailingIcon: "lucide:arrow-up-right",
+        icon: "simple-icons:googleplay",
     },
     {
         label: t("discover-ios"),
+        to: "https://apps.apple.com/app/epoc/id1596317383",
         trailingIcon: "lucide:arrow-up-right",
+        icon: "simple-icons:apple",
     },
 ]);
 </script>
@@ -40,16 +45,38 @@ const links = ref([
 <template>
     <UPage v-if="epoc">
         <UPageBody>
-            <UPageCTA
+            <UPageSection
                 :title="epoc.title"
                 :description="epoc.description"
                 :links="links"
                 orientation="horizontal"
                 variant="naked"
+                :ui="{
+                    container: 'p-0!',
+                }"
             >
-                <NuxtImg :src="epoc.image" alt="" />
-            </UPageCTA>
+                <template #headline>
+                    <div class="flex gap-2 items-center">
+                        <UBadge variant="soft" color="neutral" icon="lucide:copyright">
+                            {{ epoc.licence }}
+                        </UBadge>
+                        <UBadge v-if="epoc.duration" variant="soft" color="neutral" icon="lucide:clock">
+                            {{ epoc.duration }}
+                        </UBadge>
+                        <UBadge v-if="epoc.lang?.length" variant="soft" color="neutral" icon="lucide:earth">
+                            <div v-for="(lang, index) of epoc.lang" class="flex items-center gap-1">
+                                <span>{{ getEmojiFlag(lang) }} </span>
+                                <p>{{ locales[lang].name }}{{ index !== epoc.lang.length - 1 ? ", " : "" }}</p>
+                            </div>
+                        </UBadge>
+                    </div>
+                </template>
+                <NuxtImg :src="epoc.image" alt="" class="w-full" />
+            </UPageSection>
             <ContentRenderer :value="epoc" />
+            <div class="flex gap-6">
+                <UButton v-for="link of links" v-bind="link" />
+            </div>
         </UPageBody>
     </UPage>
 
@@ -57,8 +84,8 @@ const links = ref([
         v-else
         :error="{
             statusCode: 404,
-            statusMessage: 'ePoc not found',
-            message: 'The ePoc you are looking for does not exist.',
+            statusMessage: t('error-title'),
+            message: t('error-message'),
         }"
     />
 </template>
@@ -67,11 +94,15 @@ const links = ref([
 {
     "fr": {
         "discover-ios": "Découvrir sur iOS",
-        "discover-android": "Découvrir sur Android"
+        "discover-android": "Découvrir sur Android",
+        "error-title": "ePoc introuvable",
+        "error-message": "L'ePoc que vous recherchez n'existe pas."
     },
     "en": {
         "discover-ios": "Discover on iOS",
-        "discover-android": "Discover on Android"
+        "discover-android": "Discover on Android",
+        "error-title": "ePoc not found",
+        "error-message": "The ePoc you are looking for does not exist."
     }
 }
 </i18n>

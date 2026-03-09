@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { withLeadingSlash, withoutTrailingSlash } from "ufo";
 
-const { locale } = useI18n();
+const { locale, t } = useI18n();
 const route = useRoute();
 
 const slug = computed(() => {
@@ -49,8 +49,20 @@ useSeoMeta({
         v-else
         :error="{
             statusCode: 404,
-            statusMessage: 'Page not found',
-            message: 'The page you are looking for does not exist.',
+            statusMessage: t('error-title'),
+            message: t('error-message'),
         }"
     />
 </template>
+<i18n lang="json">
+{
+    "fr": {
+        "error-title": "Page non trouvée",
+        "error-message": "La page que vous recherchez n'existe pas."
+    },
+    "en": {
+        "error-title": "Page not found",
+        "error-message": "The page you are looking for does not exist."
+    }
+}
+</i18n>

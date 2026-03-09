@@ -5,6 +5,10 @@ const epocSchema = z.object({
     description: z.string(),
     date: z.string(),
     image: z.string(),
+    link: z.string(),
+    licence: z.string().default("CC BY 4.0"),
+    lang: z.array(z.string()),
+    duration: z.string().optional(),
 });
 
 const moocSchema = z.object({
@@ -117,6 +121,22 @@ export default defineContentConfig({
             },
             schema: moocSchema,
         }),
+        serious_games_fr: defineCollection({
+            type: "page",
+            source: {
+                include: "fr/serious-games/*.md",
+                prefix: "serious-games/",
+            },
+            schema: seriousGameSchema,
+        }),
+        serious_games_en: defineCollection({
+            type: "page",
+            source: {
+                include: "en/serious-games/*.md",
+                prefix: "serious-games/",
+            },
+            schema: seriousGameSchema,
+        }),
         blog_fr: defineCollection({
             type: "page",
             source: {
@@ -132,22 +152,6 @@ export default defineContentConfig({
                 prefix: "blog/",
             },
             schema: blogSchema,
-        }),
-        seriousGames_fr: defineCollection({
-            type: "page",
-            source: {
-                include: "fr/serious-games/*.md",
-                prefix: "serious-games/",
-            },
-            schema: seriousGameSchema,
-        }),
-        seriousGames_en: defineCollection({
-            type: "page",
-            source: {
-                include: "en/serious-games/*.md",
-                prefix: "serious-games/",
-            },
-            schema: seriousGameSchema,
         }),
         tags: defineCollection({
             type: "data",

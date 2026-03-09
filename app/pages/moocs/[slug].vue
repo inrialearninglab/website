@@ -33,7 +33,7 @@ const { data: mooc } = await useAsyncData(
         <UPageHeader :title="mooc.title" headline="MOOC">
             <template #description>
                 <p class="mb-4">{{ mooc.description }}</p>
-                <div class="flex gap-5">
+                <div class="flex gap-5 flex-wrap">
                     <MoocStatus :status="mooc.status" />
 
                     <p v-if="mooc.date" class="flex items-center gap-2">
@@ -106,6 +106,7 @@ const { data: mooc } = await useAsyncData(
                     :label="mooc.url ? t('see-course') : t('not-accessible')"
                     :to="mooc.url"
                     :disabled="!mooc.url"
+                    target="_blank"
                 />
             </div>
 
@@ -117,6 +118,7 @@ const { data: mooc } = await useAsyncData(
                 :label="mooc.url ? t('see-course') : t('not-accessible')"
                 :to="mooc.url"
                 :disabled="!mooc.url"
+                target="_blank"
             />
         </UPageBody>
     </UPage>
@@ -126,7 +128,7 @@ const { data: mooc } = await useAsyncData(
         :error="{
             statusCode: 404,
             statusMessage: t('not-found'),
-            message: t('not-accessible'),
+            message: t('error-message'),
         }"
     />
 </template>
@@ -137,7 +139,7 @@ const { data: mooc } = await useAsyncData(
         "opening": "Ouverture",
         "investment": "Investissement",
         "languages": "Langues",
-        "not-found": "MOOC non trouvé",
+        "not-found": "MOOC introuvable",
         "error-message": "Le MOOC que vous cherchez n'existe pas",
         "see-course": "Voir le cours",
         "not-accessible": "Ce cours n'est plus accessible",

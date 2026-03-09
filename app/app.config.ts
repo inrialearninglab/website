@@ -128,7 +128,7 @@ export default defineAppConfig({
             avatar: "/images/team/marie.jpg",
             title: {
                 fr: "Ingénieure pédagogique / Product owner",
-                en: "Pedagogical engineer / Product owner",
+                en: "Learning designer / Product owner",
             },
             links: [
                 {
@@ -138,11 +138,25 @@ export default defineAppConfig({
             ],
         },
         {
+            name: "Sherazade Djeballah",
+            avatar: "/images/team/sherazade.jpg",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Learning designer",
+            },
+            links: [
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/sherazade-djeballah-6a8759233/",
+                },
+            ],
+        },
+        {
             name: "Laurence Farhi",
             avatar: "/images/team/laurence.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -152,11 +166,25 @@ export default defineAppConfig({
             ],
         },
         {
+            name: "Sabah Khalfa",
+            avatar: "/images/team/sabah.jpg",
+            title: {
+                fr: "Ingénieure pédagogique",
+                en: "Learning designer",
+            },
+            links: [
+                {
+                    icon: "simple-icons:linkedin",
+                    to: "https://www.linkedin.com/in/sabah-khalfa-ab24749/",
+                },
+            ],
+        },
+        {
             name: "Aurélie Lagarrigue",
             avatar: "/images/team/aurelie.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -170,7 +198,7 @@ export default defineAppConfig({
             avatar: "/images/team/christelle.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -180,25 +208,11 @@ export default defineAppConfig({
             ],
         },
         {
-            name: "Sherazade Djeballah",
-            avatar: "/images/team/sherazade.jpg",
-            title: {
-                fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
-            },
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/sherazade-djeballah-6a8759233/",
-                },
-            ],
-        },
-        {
             name: "Madeline Montigny",
             avatar: "/images/team/madeline.jpg",
             title: {
                 fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
+                en: "Learning designer",
             },
             links: [
                 {
@@ -208,25 +222,11 @@ export default defineAppConfig({
             ],
         },
         {
-            name: "Sabah Khalfa",
-            avatar: "/images/team/sabah.jpg",
-            title: {
-                fr: "Ingénieure pédagogique",
-                en: "Pedagogical engineer",
-            },
-            links: [
-                {
-                    icon: "simple-icons:linkedin",
-                    to: "https://www.linkedin.com/in/sabah-khalfa-ab24749/",
-                },
-            ],
-        },
-        {
             name: "Benoit Rospars",
             avatar: "/images/team/benoit.jpg",
             title: {
-                fr: "Ingénieur informatique",
-                en: "Computer engineer",
+                fr: "Développeur",
+                en: "Developer",
             },
             links: [
                 {
@@ -248,8 +248,8 @@ export default defineAppConfig({
             avatar: "/images/team/nathan.jpg",
             gold: true,
             title: {
-                fr: "Ingénieur informatique",
-                en: "Computer engineer",
+                fr: "Développeur",
+                en: "Developer",
             },
             links: [
                 {
@@ -264,10 +264,10 @@ export default defineAppConfig({
         },
         {
             name: "Tristan Rollet",
-            avatar: "https://avatars.githubusercontent.com/u/93080156?v=4",
+            avatar: "/images/team/tristan.jpg",
             title: {
-                fr: "Alternant ingénieur informatique",
-                en: "Apprentice computer engineer",
+                fr: "Alternant développeur",
+                en: "Apprentice developer",
             },
             links: [
                 {

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const { locale } = useI18n();
 const { data: seriousGames } = await useAsyncData(`serious-games-${locale.value}`, () => {
-    const collection = ("seriousGames_" + locale.value) as "seriousGames_fr" | "seriousGames_en";
+    const collection = ("serious_games_" + locale.value) as "serious_games_fr" | "serious_games_en";
 
     return queryCollection(collection).where("path", "NOT LIKE", "/serious-games").all();
 });

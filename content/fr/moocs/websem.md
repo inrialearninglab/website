@@ -1,14 +1,14 @@
 ---
-title: Nom du MOOC
+title: Web sémantique et Web de données
 description: Phrase d'accroche qui parait sur la vignette
-date: 2022-01-19
-image: /images/mooc/pad-patrouille.png
+date: 2015-03-02
+image: /images/mooc/pwebsem.png
 status: open
-url: https://www.fun-mooc.fr/en/courses/sinitier-a-lenseignement-en-sciences-numeriques-et-technologie/
+url: https://www.fun-mooc.fr/fr/cours/web-semantique-et-web-de-donnees/
 investment:
 assesment:
 lang: ["fr"]
-trailer: https://www.youtube.com/embed/fLDEZthdtZQ
+trailer: 
 licence: CC BY 4.0
 ---
 
