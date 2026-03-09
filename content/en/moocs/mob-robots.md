@@ -9,8 +9,14 @@ investment:
 assesment:
 lang: ["en"]
 trailer: https://www.youtube.com/embed/I4NN1DSqCmQ?si=WE80JUAfEYHrl1f7
+licence: CC BY NC ND 3.0
 ---
-It is taught by **Christian LAUGIER, Agostino MARTINELLI and Dizan VASQUEZ** from Inria.
+
+
+## Course description
+Mobile Robots are increasingly working in close interaction with human beings in environments as diverse as homes, hospitals, public spaces, public transportation systems and disaster areas. The situation is similar when it comes to Autonomous Vehicles, which are equipped with robot-like capabilities (sensing, decision and control).
+
+Such robots must balance constraints such as safety, efficiency and autonomy, while addressing the novel problems of acceptability and human-robot interaction. Given the high stakes involved, developing these technologies is clearly a major challenge for both the industry and the human society.
 
 This course is designed around a **real-time decision architecture using Bayesian approaches**. It covers topics such as:
 
@@ -20,18 +26,45 @@ This course is designed around a **real-time decision architecture using Bayesia
 
 - **Integrating human knowledge to be used for scene interpretation and decision making:** discussion on how to interpret the dynamic scene, predict its evolution, and evaluate the risk of potential collisions in order to take safe and efficient navigation decisions.
 
+
+## Course objectives
+The objective of this course is to introduce the key concepts required to program mobile robots and autonomous vehicles. The course presents both formal and algorithmic tools, and for its last week's topics (behavior modeling and learning), it will also provide realistic examples and programming exercises in Python.
+
+## Who is this course for?
 The course is primarily intended for **students with an engineering or masters degree**, but any person with **basic familiarity with probabilities, linear algebra and Python** can benefit from it.
 
 The course can also complement the skills of **engineers and researchers** working in the field of mobile robots and autonomous vehicles.
 
+## Course outline
+    Week 1: OBJECTIVES, CHALLENGES, STATE OF THE ART
+    Week 2: BAYES & KALMAN FILTERS
+    Week 3: EXTENDED KALMAN FILTERS
+    Week 4: PERCEPTION & SITUATION AWARENESS & DECISION MAKING
+    Week 5: BEHAVIOR MODELING AND LEARNING (with examples and exercises in Python)
+
+## Pedagogical team
+Authors:
+- **Christian Laugier**, first class Research Director, Inria
+- **Agostino Martinelli**, computer science researcher, Inria
+- **Dizan Vasquez**, computer science researcher, Inria
+
+Pedagogical support:
+- **Christelle Mariais**, learning engineer, Inria Learning Lab.
+- **Isabelle Rey**, learning engineer, Inria Learning Lab.
+
+## Additional resources
+- Infographic : [Figures from the 2nd session of the MOOC ](https://learninglab.inria.fr/en/infographie-mooc-robots-mobiles-2/)
+- The videos and the slides of the MOOC can be downloaded on [Canal U](https://www.canal-u.tv/chaines/inria/formation-cours/moocs/mobile-robots-and-autonomous-vehicles)
+
+## Partners
 This MOOC was created by Inria’s MoocLab, as part of the uTOP project ( http://utop.fr/ – http://utop.inria.fr/). uTOP is an IDEFI project that aims to create a demonstrator for increasing research visibility through out training.
 
-## Track record and links:
 
-Session 1 : May 18 to July 21, 2015
 
-Session 2 : February 8 to March 27, 2016
 
-- Infographic : [Figures from the 2nd session of the MOOC ](https://learninglab.inria.fr/en/infographie-mooc-robots-mobiles-2/)
-- [course presentation page on FUN](https://france-universite-numerique-mooc.fr)
-- The videos and the slides of the MOOC can be downloaded on [Canal U](https://www.canal-u.tv/chaines/inria/formation-cours/moocs/mobile-robots-and-autonomous-vehicles)
+
+
+
+
+
+
