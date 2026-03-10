@@ -53,7 +53,5 @@ Ce MOOC est principalement destiné aux enseignants de lycée qui enseignent l�
 - **Aurélie Bayle**, ingénieure pédagogique, Inria Learning Lab.
 - **Marie-Hélène Comte**, Ingénieure pédagogique, Inria Learning Lab.
 
-
-
 ## Partenaires
 Ce MOOC a été réalisé par Inria, avec le soutien du Ministère de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche, en partenariat avec [Class'Code](https://www.class-code.fr/).

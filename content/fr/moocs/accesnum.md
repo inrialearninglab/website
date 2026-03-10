@@ -16,7 +16,6 @@ Ce MOOC est un cours généraliste d'introduction à l'accessibilité numérique
 
 ## Objectifs du cours
 À la fin de ce cours d’introduction à l’accessibilité numérique vous saurez :
-
 - Appréhender la diversité des situations de handicap dans le monde numérique.   
 - Présenter les normes existantes en matière d'accessibilité des sites web et des logiciels. 
 - Concevoir des systèmes numériques ouverts au plus grand nombre. 
