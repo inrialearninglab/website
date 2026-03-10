@@ -2,7 +2,7 @@
 title: Mobile Robots and Autonomous Vehicles
 description: The objective of this course is to introduce the key concepts required to program mobile robots and autonomous vehicles**. The course presents both formal and algorithmic tools, and for its last week’s topics (behavior modeling and learning), it will also provide **realistic examples and programming exercises in Python.
 date: 2015-03-15
-status: archived
+status: closed
 image: /images/mooc/pmobilerobot.png
 url: https://france-universite-numerique-mooc.fr
 investment:
@@ -28,7 +28,7 @@ This course is designed around a **real-time decision architecture using Bayesia
 
 
 ## Course objectives
-The objective of this course is to introduce the key concepts required to program mobile robots and autonomous vehicles. The course presents both formal and algorithmic tools, and for its last week's topics (behavior modeling and learning), it will also provide realistic examples and programming exercises in Python.
+The objective of this course is to **introduce the key concepts required to program mobile robots and autonomous vehicles**. The course presents both **formal and algorithmic tools**, and for its last week's topics (behavior modeling and learning), it will also provide **realistic examples and programming exercises in Python**.
 
 ## Who is this course for?
 The course is primarily intended for **students with an engineering or masters degree**, but any person with **basic familiarity with probabilities, linear algebra and Python** can benefit from it.
@@ -36,25 +36,25 @@ The course is primarily intended for **students with an engineering or masters d
 The course can also complement the skills of **engineers and researchers** working in the field of mobile robots and autonomous vehicles.
 
 ## Course outline
-    Week 1: OBJECTIVES, CHALLENGES, STATE OF THE ART
-    Week 2: BAYES & KALMAN FILTERS
-    Week 3: EXTENDED KALMAN FILTERS
-    Week 4: PERCEPTION & SITUATION AWARENESS & DECISION MAKING
-    Week 5: BEHAVIOR MODELING AND LEARNING (with examples and exercises in Python)
+- **Week 1:** Objectives, hallenges, state of the art 
+- **Week 2:** Bayes and Kalman filters
+- **Week 3:** Extended Kalman filters 
+- **Week 4:** Perception and situation awareness and decision making
+- **Week 5:** Behavior modeling and learning (with examples and exercises in Python) 
 
 ## Pedagogical team
-Authors:
+**Authors:**
 - **Christian Laugier**, first class Research Director, Inria
 - **Agostino Martinelli**, computer science researcher, Inria
 - **Dizan Vasquez**, computer science researcher, Inria
 
-Pedagogical support:
+**Pedagogical support:**
 - **Christelle Mariais**, learning engineer, Inria Learning Lab.
 - **Isabelle Rey**, learning engineer, Inria Learning Lab.
 
 ## Additional resources
 - Infographic : [Figures from the 2nd session of the MOOC ](https://learninglab.inria.fr/en/infographie-mooc-robots-mobiles-2/)
-- The videos and the slides of the MOOC can be downloaded on [Canal U](https://www.canal-u.tv/chaines/inria/formation-cours/moocs/mobile-robots-and-autonomous-vehicles)
+- Videos and slides of the MOOC downloadable on [Canal U](https://www.canal-u.tv/chaines/inria/formation-cours/moocs/mobile-robots-and-autonomous-vehicles)
 
 ## Partners
 This MOOC was created by Inria’s MoocLab, as part of the uTOP project ( http://utop.fr/ – http://utop.inria.fr/). uTOP is an IDEFI project that aims to create a demonstrator for increasing research visibility through out training.

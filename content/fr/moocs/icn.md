@@ -2,7 +2,7 @@
 title: Informatique et Création Numérique
 description: Comment enseigner l'informatique et la création numérique au lycée ? Ce MOOC vous guide à travers les fondamentaux de l'option I.C.N., en fournissant les outils, ressources et compétences nécessaires pour accompagner les élèves dans leurs projets de création numérique et les préparer à être acteurs du monde numérique.
 date: 2019-03-15
-status: archived
+status: closed
 image: /images/mooc/picn.png
 url: https://www.fun-mooc.fr/en/organizations/inria/
 investment:
@@ -57,15 +57,3 @@ Ce MOOC est principalement destiné aux enseignants de lycée qui enseignent l�
 
 ## Partenaires
 Ce MOOC a été réalisé par Inria, avec le soutien du Ministère de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche, en partenariat avec [Class'Code](https://www.class-code.fr/).
-
---
-
-
-
-
-
-
-
-Article repris de [Pixees.fr](https://pixees.fr/mooc-icn-de-linformatique-de-la-creation-du-numerique-des-le-20-fevrier/)
-
-Voir aussi la présentation du MOOC par Sylvie Boldo sur Binaire : [Ça y est : on va apprendre à inventer le numérique](https://www.lemonde.fr/blog/binaire/2017/01/12/ca-y-est-on-va-apprendre-a-inventer-le-numerique/)

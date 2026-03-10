@@ -3,7 +3,7 @@ title: "Bioinformatique : algorithmes et génomes"
 description: Découvrez l'analyse des génomes et l'informatique avec ce MOOC interactif, où vous apprendrez à appliquer des algorithmes sur des séquences génétiques et à exécuter des programmes en Python pour explorer des données réelles
 date: 2015-05-04
 image: /images/mooc/pbioinformatic.png
-status: archived
+status: closed
 investment:
 assesment:
 lang: ["fr"]
@@ -37,7 +37,7 @@ Ce cours s’adresse à toute personne souhaitant découvrir l’analyse informa
 ## Équipe pédagogique
 
 **Auteurs :**  
-- **François Rechenmann**, chercheur en bioinformatique, Inria
+- **François Rechenmann**, chercheur en bioinformatique, Inria.
 - **Thierry Parmentelat**, ingénieur de recherche, Inria.
 
 **Accompagnement pédagogique :**  
