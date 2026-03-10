@@ -8,7 +8,7 @@ url: https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-t
 investment: 35 hours
 assesment: Open badge
 lang: ["en"]
-trailer: https://youtu.be/bT7EXbL6g-o?si=oRImBYnOAoVGQJ_C
+trailer: https://youtube.com/embed/bT7EXbL6g-o?si=oRImBYnOAoVGQJ_C
 licence: CC-BY-NC-SA
 ---
 
@@ -54,4 +54,3 @@ Pedagogical support:
 
 ## Partners
 With the support of [Fonds national de la science ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
-
