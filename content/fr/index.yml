@@ -1,6 +1,6 @@
 hero:
     title: Inria Learning Lab
-    description: "Inria Learning Lab conçoit et produit des ressources éducatives libres et des environnements technologiques d'apprentissage innovants. Notre objectif : former aux domaines d’expertise d’Inria grâce à des parcours et ressources pédagogiques de qualité et rendre le numérique accessible et compréhensible par toutes et tous."
+    description: "Former aux sciences et technologies du numérique par des parcours et ressources pédagogiques de qualité, accessibles à toutes et tous. Des ressources éducatives libres. Des environnements technologiques d'apprentissage innovants."
 
 activity:
     reverse: true
@@ -11,7 +11,7 @@ activity:
 
 moocs:
     title: Développez vos compétences autour du numérique
-    description: Les formations en ligne complètes
+    description: "Nos formations en ligne structurées, conçues par des scientifiques experts en sciences du numérique, accessibles gratuitemeent et à votre rythme."
     orientation: horizontal
     reverse: true
     links:
@@ -22,7 +22,7 @@ moocs:
 
 epocs:
     title: Explorez le numérique sur mobile
-    description: Les apprentissages sur mobile
+    description: "Nos modules d'apprentissage sur mobile, courts et ciblés, conçus pour l'introduction ou la sensibilisation aux enjeux du numérique."
     orientation: horizontal
     links:
         - label: Voir tous les ePocs
@@ -32,7 +32,7 @@ epocs:
 
 seriousGames:
     title: Apprenez en jouant
-    description: La sensibilitation par le jeu
+    description: "Nos jeux sérieux, comme leviers pédagogiques ludiques et engageants, pour favoriser la réflexion critique et l’apprentissage par l’expérience."
     orientation: horizontal
     reverse: true
     links:
@@ -43,8 +43,8 @@ seriousGames:
 
 testimonials:
     headline: Témoignages
-    title: Ils ont travaillé avec nous.
-    description: Laissez nous vous accompagner pour créer votre prochaine formation en ligne
+    title: Ils ont participé à nos formations.
+    description: L'accès aux connaissances, l'impact des apprentissages.
     items:
         - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo
           user:
