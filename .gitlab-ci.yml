@@ -1,5 +1,5 @@
 pages:
-    image: node
+    image: node:lts-alpine
     tags:
         - gitlab-ci-learninglab-4
     before_script:
