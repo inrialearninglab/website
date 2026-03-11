@@ -13,21 +13,18 @@ licence: CC BY 4.0
 
 Ce parcours se destine à toutes celles et ceux qui s'interrogent sur le fonctionnement de l'informatique. Dans cet ePoc, on vous propose de comprendre quelques fondamentaux sur les données.
 
-## Objectifs pédagogiques
-
 À la fin de cette courte formation, vous saurez ce que l'informatique a changé dans le codage, le stockage et l'échange de l'information. Vous saurez pourquoi les ordinateurs encodent l'information en binaire et vous aurez quelques clés pour comprendre et manipuler ce système binaire.
 
-ℹ️ **Informations pratiques :**
+## Objectifs pédagogiques
 
-• Ouvert gratuitement et accessible à tout moment, à suivre à votre rythme
+- décrire simplement comment la machine encode les données
+- comprendre et utiliser le système binaire
+- expliquer brièvement comment on stocke et transmet les données
 
-• Langue : Français
+## À qui s’adresse cet ePoc ?
+- au grand public mais aussi aux éducateurs (enseignants, médiateurs scientifiques, animateurs et parents) aux curieux du numérique.
 
-• Public cible : Ce cours s'adresse à un large public, des éducateurs (enseignants, médiateurs scientifiques, animateurs et parents) aux curieux du numérique
-
-• Certification : Badge disponible à la fin du cours
-
-📍**Plan de cours :**
+## Plan de l'ePoc
 
 Conçu comme une progression structurée et ludique, cet ePoc permet à l'apprenant d'acquérir les bases en informatique à travers six modules interactifs :
 
@@ -43,9 +40,14 @@ Conçu comme une progression structurée et ludique, cet ePoc permet à l'appren
 
 • Module 6 : Comment stocker l’information ? Découverte des méthodes de stockage de l’information numérique et des différentes technologies utilisées.
 
-⏳ **Temps d’investissement :**
+## Équipe pédagogique
 
-La formation Smartphone et vie privée est pensée pour être accessible et rapide à suivre :
+- **Laurent Romary**, chercheur Inria en informatique linguistique et en humanités numriques. Relecture et validation scientifique de la formation.
+Accompagnement pédagogique
+- **Pauline Eysseric**, ingénieure pédagogique, Inria Learning Lab. Conception et scénarisation de la formation.
+- **Aurélie Lagarrigue**, ingénieure pédagogique, Inria Learning Lab. Relecture.
+
+La formation est pensée pour être accessible et rapide à suivre :
 
 • Durée totale : environ 1h
 
