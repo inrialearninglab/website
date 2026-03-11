@@ -1,20 +1,23 @@
 ---
-title: Phone Impact
+title: PhoneImpact
 description: "PhoneImpact, un jeu sérieux co-créé avec des expert·es scientifiques pour sensibiliser aux impacts environnementaux des activités extractives liées à la fabrication des smartphones."
-date: 2024-12-25
-investment:
+date: 2023-01-19
+url: https://phoneimpact.inria.fr
+investment: 1h30
 image: "/images/serious-games/phone-impact.png"
+lang: ["fr","en"]
+licence: CC-BY-SA 4.0
 ---
 
-## L'univers
+## Description
 
-Dans la ville de TechCity, vous incarnez un·e fabricant·e de smartphones. Alors que la compétition fait rage pour produire les téléphones portables les plus innovants, une question cruciale émerge : l'impact environnemental de la production de ces appareils.
+C’est un jeu sérieux qui sensibilise aux impacts environnementaux et sociaux des activités extractives liées à la fabrication des smartphones.
 
-Au fil des tours de jeu et des événements, vous découvrirez la diversité des métaux présents dans les smartphones, les grandes étapes de l'extraction minière et ses impacts environnementaux et sociaux.
+Ce jeu s’adresse aux 14 ans et plus et se joue de 3 à 5 personnes en environ 40 minutes. Les joueurs et joueuses incarnent des fabricants dans la ville fictive de TechCity et doivent fabriquer un smartphone tout en minimisant leur impact écologique.
 
-Vous devrez faire des choix stratégiques en tenant compte des contraintes environnementales et économiques ! Attention, chaque choix aura des conséquences...
+Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par nos experts scientifiques. On a collaboré pour que les messages passés au travers du jeu soient le plus proche de la réalité tout en préservant la fluidité du jeu.
 
-Le temps est venu de construire un avenir plus durable. Êtes-vous prêt·e à relever ce défi de taille ? Le destin de TechCity est entre vos mains.
+Un portail dédié met à disposition toutes les ressources pédagogiques nécessaires pour jouer et animer une session : règles détaillées, supports visuels, bibliographie, conseils d’animation et ressources pédagogiques. Les boîtes de jeu sont disponibles à l’achat, mais aussi en version gratuite, PDF à imprimer et à découper, afin de faciliter son utilisation dans des contextes éducatifs, associatifs ou de sensibilisation.
 
 ## But du jeu
 
@@ -38,18 +41,24 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 
 À la fin du debrief, les participant·es seront capables de remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique.
 
-
 ## Équipe pédagogique
-Auteurs
+
+- Équipe pédagogique Inria Learning Lab : Sherazade Djeballah, Laurence Farhi, Aurélie Lagarrigue, Madeline Montigny, Benoit Rospars
+- Développeur : Nathan Viaud, Inria Learning Lab
+- Expert·es scientifiques : Benjamin Ninassi (Adjoint au Responsable du programme Numérique et Environnement d'Inria) et Sophie Quinton (Chercheuse Inria)
+- Graphiste : Donovann Bonnet
 
 ## Ressources complémentaires
+- "Impact environnementaux du numérique", Mooc Inria/Class'code, publié sous licence CC-BY sur le site fun-mooc.fr <a href="https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/" target=_blank>MOOC ImpactNum</a>
 
-## Partenaires
+## Autres participations
+
+Nous remercions Suzon Beaussant (Evolud'- Serious Game Designer) qui nous accompagné dans la phase de conception du jeu ainsi que le Service STIP Inria Grenoble qui nous a soutenu tout le long du projet. Nous remercions également Guilain Praseuth (Responsable projet innovation pédagogique, TBS Education) pour la traduction anglaise du jeu.
 
 ::u-button
 ---
 label: Voir le site
-to: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Jeu/Presentation.html
+to: https://phoneimpact.inria.fr
 trailing-icon: lucide:arrow-up-right
 size: xl
 ---
