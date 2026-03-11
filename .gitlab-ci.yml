@@ -1,7 +1,7 @@
 pages:
     image: node:lts-alpine
     tags:
-        - gitlab-ci-learninglab-4
+        - gitlab-ci-learninglab-5
     before_script:
         - npm ci --cache .npm --prefer-offline
     script:
