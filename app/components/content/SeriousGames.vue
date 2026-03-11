@@ -1,5 +1,7 @@
 <script setup lang="ts">
+const localePath = useLocalePath();
 const { locale } = useI18n();
+
 const { data: seriousGames } = await useAsyncData(`serious-games-${locale.value}`, () => {
     const collection = ("serious_games_" + locale.value) as "serious_games_fr" | "serious_games_en";
 
@@ -15,7 +17,7 @@ const { data: seriousGames } = await useAsyncData(`serious-games-${locale.value}
             :description="seriousGame.description"
             orientation="vertical"
             reverse
-            :to="seriousGame.path"
+            :to="localePath(seriousGame.path)"
         >
             <NuxtImg
                 v-if="seriousGame.image"
