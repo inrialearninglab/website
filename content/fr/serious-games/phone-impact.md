@@ -53,7 +53,9 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 
 ## Autres participations
 
-Nous remercions Suzon Beaussant (Evolud'- Serious Game Designer) qui nous accompagné dans la phase de conception du jeu ainsi que le Service STIP Inria Grenoble qui nous a soutenu tout le long du projet. Nous remercions également Guilain Praseuth (Responsable projet innovation pédagogique, TBS Education) pour la traduction anglaise du jeu.
+- Suzon Beaussant (Evolud'- Serious Game Designer) qui nous accompagné dans la phase de conception du jeu.
+- Service STIP Inria Grenoble qui nous a soutenu tout le long du projet.
+- Guilain Praseuth (Responsable projet innovation pédagogique, TBS Education) pour la traduction anglaise du jeu.
 
 ::u-button
 ---
