@@ -1,5 +1,5 @@
 ---
-title: Python : des fondamentaux aux concepts avancés du langage
+title: "Python : des fondamentaux aux concepts avancés du langage"
 description: Pour apprendre à bien programmer en Python, à écrire rapidement des programmes efficaces, faciles à comprendre et à maintenir qui exploitent pleinement les possibilités du langage !
 date: 2017-11-06
 image: /images/mooc/ppythonfond.png
@@ -62,4 +62,3 @@ Accompagnement pédagogique :
 
 ## Partenaires
 Ce Mooc a été produit par [Inria](https://inria.fr/fr), avec le soutien de l'Université Côte d'Azur ([UCA](https://univ-cotedazur.fr)).
-
