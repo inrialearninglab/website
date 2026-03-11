@@ -17,12 +17,13 @@ Ce parcours se destine à toutes celles et ceux qui s'interrogent sur le fonctio
 
 ## Objectifs pédagogiques
 
-- décrire simplement comment la machine encode les données
-- comprendre et utiliser le système binaire
-- expliquer brièvement comment on stocke et transmet les données
+- Décrire simplement comment la machine encode les données
+- Comprendre et utiliser le système binaire
+- Expliquer brièvement comment on stocke et transmet les données
 
 ## À qui s’adresse cet ePoc ?
-- au grand public mais aussi aux éducateurs (enseignants, médiateurs scientifiques, animateurs et parents) aux curieux du numérique.
+
+Au grand public mais aussi aux éducateurs (enseignants, médiateurs scientifiques, animateurs et parents) aux curieux du numérique.
 
 ## Plan de l'ePoc
 
@@ -45,12 +46,4 @@ Conçu comme une progression structurée et ludique, cet ePoc permet à l'appren
 - **Laurent Romary**, chercheur Inria en informatique linguistique et en humanités numriques. Relecture et validation scientifique de la formation.
 Accompagnement pédagogique
 - **Pauline Eysseric**, ingénieure pédagogique, Inria Learning Lab. Conception et scénarisation de la formation.
-- **Aurélie Lagarrigue**, ingénieure pédagogique, Inria Learning Lab. Relecture.
-
-La formation est pensée pour être accessible et rapide à suivre :
-
-• Durée totale : environ 1h
-
-• Modules : chaque module dure entre 6 et 9 minutes
-
-Cet ePoc a été développé par Inria
+- **Aurélie Lagarrigue**, ingénieure pédagogique, Inria Learning Lab. Relecture de la formation.
