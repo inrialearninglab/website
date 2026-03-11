@@ -1,13 +1,21 @@
 ---
 title: B.A.-BA des data
-description: "💡 Découvrez l'epoc B.A.-BA des données numériques : une
-  initiation interactive et accessible pour percer les mystères de
-  l'informatique et des données, conçue par Inria ! 🚀"
-date: 2017-01-02
+description: Ce parcours se destine à toutes celles et ceux qui s'interrogent sur le fonctionnement de l'informatique. Dans cet ePoc on vous propose de comprendre quelques fondamentaux sur les données.
+date: 2022-07-26
 image: /images/epoc/babadata.png
+investment: 40min
+assesment:
+lang: ["fr"]
+licence: CC BY 4.0
 ---
 
-B.A.-BA des data est un ePoc conçu pour aider tous ceux qui se posent des questions sur le fonctionnement de l'informatique et des données. Ce parcours interactif et accessible offre une initiation aux concepts fondamentaux des données numériques, depuis leur création jusqu'à leur traitement par les machines. Développé par Inria, cet ePoc permet aux apprenants de mieux comprendre comment les informations sont manipulées au cœur des systèmes numériques modernes.
+## Description
+
+Ce parcours se destine à toutes celles et ceux qui s'interrogent sur le fonctionnement de l'informatique. Dans cet ePoc, on vous propose de comprendre quelques fondamentaux sur les données.
+
+## Objectifs pédagogiques
+
+À la fin de cette courte formation, vous saurez ce que l'informatique a changé dans le codage, le stockage et l'échange de l'information. Vous saurez pourquoi les ordinateurs encodent l'information en binaire et vous aurez quelques clés pour comprendre et manipuler ce système binaire.
 
 ℹ️ **Informations pratiques :**
 
