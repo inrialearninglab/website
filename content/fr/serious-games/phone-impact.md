@@ -9,8 +9,11 @@ lang: ["fr","en"]
 licence: CC-BY-SA 4.0
 ---
 
-## Description
+![Logo PhoneImpact](/images/serious-games/logo-phone-impact.png){class="max-w-2xl mx-auto"}
 
+::cols
+#left
+## Description
 C’est un jeu sérieux qui sensibilise aux impacts environnementaux et sociaux des activités extractives liées à la fabrication des smartphones.
 
 Ce jeu s’adresse aux 14 ans et plus et se joue de 3 à 5 personnes en environ 40 minutes. Les joueurs et joueuses incarnent des fabricants dans la ville fictive de TechCity et doivent fabriquer un smartphone tout en minimisant leur impact écologique.
@@ -18,6 +21,10 @@ Ce jeu s’adresse aux 14 ans et plus et se joue de 3 à 5 personnes en environ 
 Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par nos experts scientifiques. On a collaboré pour que les messages passés au travers du jeu soient le plus proche de la réalité tout en préservant la fluidité du jeu.
 
 Un portail dédié met à disposition toutes les ressources pédagogiques nécessaires pour jouer et animer une session : règles détaillées, supports visuels, bibliographie, conseils d’animation et ressources pédagogiques. Les boîtes de jeu sont disponibles à l’achat, mais aussi en version gratuite, PDF à imprimer et à découper, afin de faciliter son utilisation dans des contextes éducatifs, associatifs ou de sensibilisation.
+
+#right
+![Partie de PhoneImpact](/images/serious-games/phone-impact-game.png)
+::
 
 ## But du jeu
 
