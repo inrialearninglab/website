@@ -1,6 +1,6 @@
 hero:
     title: Inria Learning Lab
-    description: "Inria Learning Lab designs and produces open educational resources and innovative learning technologies. Our goal: to make digital technology accessible and understandable for everyone through high-quality educational content and pathways."
+    description: "Learn about digital science and technology through high-quality educational courses and resources that are accessible to everyone. Open educational resources. Innovative technological learning environments."
 activity:
     reverse: true
     links:
@@ -9,7 +9,7 @@ activity:
           trailingIcon: "lucide:arrow-right"
 moocs:
     title: Develop your skills in the digital field
-    description: Comprehensive online courses
+    description: Structured online training courses developed with the expertise of digital science specialists, free of charge, at your own pace.
     orientation: horizontal
     reverse: true
     links:
@@ -19,7 +19,7 @@ moocs:
     image: https://placehold.co/600x400
 epocs:
     title: Explore the digital world on mobile
-    description: Mobile learning experiences
+    description: Short, targeted mobile learning modules designed to introduce or raise awareness around digital issues.
     orientation: horizontal
     links:
         - label: See all ePocs
@@ -28,7 +28,7 @@ epocs:
     image: https://placehold.co/600x400
 seriousGames:
     title: Learn while you play
-    description: Raise awareness through gaming
+    description: Serious games as fun and engaging educational tools to promote critical thinking and experiential learning.
     orientation: horizontal
     reverse: true
     links:
@@ -38,8 +38,8 @@ seriousGames:
     image: https://placehold.co/600x400
 testimonials:
     headline: Testimonials
-    title: They have worked with us.
-    description: Let us support you in creating your next online course
+    title: They participated in our training courses.
+    description: Access to knowledge, the impact of learning.
     items:
         - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo
           user:
@@ -118,7 +118,7 @@ marquee:
     - /images/mooc/pthymi.png
 cta:
     title: Contact us
-    description: Lorem ipsum qlf qm jqsdfj qksdfq sfdqk
+    description: Get in touch with the Inria Learning Lab team 
     variant: naked
     links:
         - label: ill-contact@inria.fr

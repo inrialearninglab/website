@@ -123,8 +123,8 @@ marquee:
     - /images/mooc/pthymi.png
 
 cta:
-    title: Contact us
-    description: Lorem ipsum qlf qm jqsdfj qksdfq sfdqk
+    title: Contactez-nous
+    description: Des questions, des projets ? Inria Learning Lab est à votre disposition.
     variant: naked
     links:
         - label: ill-contact@inria.fr
