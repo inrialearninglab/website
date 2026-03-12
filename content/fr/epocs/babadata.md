@@ -23,7 +23,7 @@ Ce parcours se destine à toutes celles et ceux qui s'interrogent sur le fonctio
 
 ## À qui s’adresse cet ePoc ?
 
-Au grand public mais aussi aux éducateurs (enseignants, médiateurs scientifiques, animateurs et parents) aux curieux du numérique.
+Destiné au grand public, pas de prérequis nécessaire.
 
 ## Plan de l'ePoc
 
