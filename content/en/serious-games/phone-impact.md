@@ -5,7 +5,7 @@ date: 2024-12-25
 image: "/images/serious-games/phone-impact.png"
 ---
 
-![PhoneImpact Logo](/images/serious-games/logo-phone-impact.png){class="max-w-2xl mx-auto"}
+![PhoneImpact Logo](images/serious-games/logo-phone-impact.png){class="max-w-2xl mx-auto"}
 
 ::cols
 #left
@@ -20,7 +20,7 @@ The theoretical content on the impacts of mining was written by our scientific e
 A dedicated portal all the educational resources needed to play and facilitate a session: detailed rules, visual aids, bibliography, facitilitation tips and educational resources. The game boxes are available for purchases, but also in a free version, as a PDF to print and cut out, to facilitate its use in educational, community or awareness-raising contexts.
 
 #right
-![A PhoneImpact game](/images/serious-games/phone-impact-game.png)
+![A PhoneImpact game](images/serious-games/phone-impact-game.png)
 ::
 
 ## Aim of the game

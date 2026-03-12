@@ -9,7 +9,7 @@ lang: ["fr","en"]
 licence: CC-BY-SA 4.0
 ---
 
-![Logo PhoneImpact](/images/serious-games/logo-phone-impact.png){class="max-w-2xl mx-auto"}
+![Logo PhoneImpact](images/serious-games/logo-phone-impact.png){class="max-w-2xl mx-auto"}
 
 ::cols
 #left
@@ -23,7 +23,7 @@ Les contenus théoriques sur les impacts liés à l’extraction minière ont é
 Un portail dédié met à disposition toutes les ressources pédagogiques nécessaires pour jouer et animer une session : règles détaillées, supports visuels, bibliographie, conseils d’animation et ressources pédagogiques. Les boîtes de jeu sont disponibles à l’achat, mais aussi en version gratuite, PDF à imprimer et à découper, afin de faciliter son utilisation dans des contextes éducatifs, associatifs ou de sensibilisation.
 
 #right
-![Partie de PhoneImpact](/images/serious-games/phone-impact-game.png)
+![Partie de PhoneImpact](images/serious-games/phone-impact-game.png)
 ::
 
 ## But du jeu
