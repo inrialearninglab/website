@@ -11,7 +11,7 @@ activity:
 
 moocs:
     title: Développez vos compétences autour du numérique
-    description: "Nos formations en ligne structurées, conçues par des scientifiques experts en sciences du numérique, accessibles gratuitemeent et à votre rythme."
+    description: "Des formations en ligne structurées, élaborées avec l'expertise de scientifiques en sciences du numérique, accessibles gratuitement, et à votre rythme."
     orientation: horizontal
     reverse: true
     links:
@@ -22,7 +22,7 @@ moocs:
 
 epocs:
     title: Explorez le numérique sur mobile
-    description: "Nos modules d'apprentissage sur mobile, courts et ciblés, conçus pour l'introduction ou la sensibilisation aux enjeux du numérique."
+    description: "Des modules d'apprentissage sur mobile, courts et ciblés, conçus pour l'introduction ou la sensibilisation aux enjeux du numérique."
     orientation: horizontal
     links:
         - label: Voir tous les ePocs
@@ -32,7 +32,7 @@ epocs:
 
 seriousGames:
     title: Apprenez en jouant
-    description: "Nos jeux sérieux, comme leviers pédagogiques ludiques et engageants, pour favoriser la réflexion critique et l’apprentissage par l’expérience."
+    description: "Les jeux sérieux, comme leviers pédagogiques ludiques et engageants, pour favoriser la réflexion critique et l’apprentissage par l’expérience."
     orientation: horizontal
     reverse: true
     links:
