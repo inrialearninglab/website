@@ -11,7 +11,6 @@ const { data: home } = await useAsyncData(
         if (!content && locale.value !== "fr") {
             return await queryCollection("home_fr").first();
         }
-
         return content;
     },
     {
@@ -29,7 +28,6 @@ useSeoMeta({
     title: home.value?.hero.title,
     description: home.value?.hero.description,
 });
-
 definePageMeta({
     layout: "fullpage",
 });
@@ -132,7 +130,7 @@ definePageMeta({
             </UBlogPosts>
         </UPageSection>
 
-        <UPageSection
+        <!-- <UPageSection
             id="testimonials"
             :headline="home.testimonials.headline"
             :title="home.testimonials.title"
@@ -162,7 +160,7 @@ definePageMeta({
                     </UPageCard>
                 </UPageColumns>
             </UContainer>
-        </UPageSection>
+        </UPageSection> -->
 
         <USeparator class="mb-0" />
 
