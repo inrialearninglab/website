@@ -37,13 +37,13 @@ Elle intéresse potentiellement :
 ## Plan du cours
 Le Mooc est organisé en quatre blocs, subdivisés en modules :
 - Bloc 1: **Data**
-Représentation et traitement des données, Bases de données
+    Représentation et traitement des données, Bases de données
 - Bloc 2: **Programmation**
-Programmation Orientée Objet, impérative et procédurale, Introduction à la complexité de programme
+    Programmation Orientée Objet, impérative et procédurale, Introduction à la complexité de programme
 - Bloc 3: **Algorithmique**
-Fondamentaux, correction et complexité
+    Fondamentaux, correction et complexité
 - Bloc 4: **Architecture des ordinateurs - Réseaux - Web**
-Architecture matérielle, Système d'exploitation, Réseaux, Technologies web
+    Architecture matérielle, Système d'exploitation, Réseaux, Technologies web
 
 ## Équipe pédagogique
 Coordinateur :
@@ -69,10 +69,11 @@ Accompagnement pédagogique :
 
 ## Ressources complémentaires
 - [Portail web des ressources du Mooc](https://mooc-nsi-snt.gitlab.io/portail/0_Accueil.html)
+- [Vidéos du Mooc NSI](https://www.youtube.com/@moocnsi)
 - [Forum](https://mooc-forums.inria.fr/moocnsi/)
 - [NSI-cookies](https://mooc-nsi-snt.gitlab.io/portail/6_Communaute.html)
 - [MOOC Apprendre à enseigner le Numérique et les Sciences Informatiques](https://learninglab.gitlabpages.inria.fr/site-ll/moocs/nsipratique)
 
 ## Partenaires
-Le projet a été porté et opéré par le Learning Lab Inria avec la Communauté d'Apprentissage de l'Informatique, sous l'égide de la Société Informatique de France ([SIF](https://www.socinfo.fr) avec l'association Enseignement Public et Informatique ([EPI](https://www.epi.asso.fr)) et l'association [Class’Code](https://www.class-code.fr/).
+Le projet a été porté et opéré par le Learning Lab Inria avec la Communauté d'Apprentissage de l'Informatique, sous l'égide de la Société Informatique de France ([SIF](https://www.socinfo.fr)) avec l'association Enseignement Public et Informatique ([EPI](https://www.epi.asso.fr)) et l'association [Class’Code](https://www.class-code.fr/).
 Cette formation a été soutenue par la Délégation Numérique pour l’Education ([DNE](https://www.education.gouv.fr/direction-du-numerique-pour-l-education-dne-9983)), l'Université Ouverte des Humanités ([UOH](https://uoh.fr/front/)) associée à l'Université Numérique Ingénierie et Technologie ([UNIT](https://unit.eu/)) et [Inria](https://inria.fr/fr).

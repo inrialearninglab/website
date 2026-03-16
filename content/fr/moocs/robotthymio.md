@@ -8,7 +8,7 @@ url: https://www.fun-mooc.fr/fr/cours/le-robot-thymio-comme-outil-de-decouverte-
 investment: 20 heures
 assesment:
 lang: ["fr"]
-trailer: https://www.dailymotion.com/video/x6uqdio
+trailer:
 licence: CC BY NC ND
 ---
 

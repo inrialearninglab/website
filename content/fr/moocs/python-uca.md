@@ -41,16 +41,16 @@ Ce MOOC s'adresse aussi bien à des **programmeurs confirmés** qui veulent déc
 ## Plan du cours
 Le Mooc est organisé en neuf semaines *(les semaines 7 à 9 sont optionnelles, cad non évaluées)* :
 - Tronc commun :
-    Semaine 1 : Introduction au MOOC et aux outils Python
-    Semaine 2 : Découverte des types builtins
-    Semaine 3 : Types builtins (suite), introduction aux modules et classes
-    Semaine 4 : Fonctions
-    Semaine 5 : Itération et importation
-    Semaine 6 : Conception des classes
+    - Semaine 1 : Introduction au MOOC et aux outils Python
+    - Semaine 2 : Découverte des types builtins
+    - Semaine 3 : Types builtins (suite), introduction aux modules et classes
+    - Semaine 4 : Fonctions
+    - Semaine 5 : Itération et importation
+    - Semaine 6 : Conception des classes
 - Semaines optionnelles
-    Semaine 7 : L'ecosystème data science Python
-    Semaine 8 : Programmation asynchrone / asyncio
-    Semaine 9 : Sujets avancés de Python
+    - Semaine 7 : L'ecosystème data science Python
+    - Semaine 8 : Programmation asynchrone / asyncio
+    - Semaine 9 : Sujets avancés de Python
 
 ## Équipe pédagogique
 Auteurs :
