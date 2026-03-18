@@ -1,9 +1,9 @@
 ---
 title: PhoneImpact
-description: "PhoneImpact, un jeu sérieux co-créé avec des expert·es scientifiques pour sensibiliser aux impacts environnementaux des activités extractives liées à la fabrication des smartphones."
+description: "Découvrez la diversité des métaux utilisés pour fabriquer votre smartphone et les impacts environnementaux liés à leur extraction."
 date: 2023-01-19
 url: https://phoneimpact.inria.fr
-investment: 1h30
+investment: 40min
 image: "/images/serious-games/phone-impact.png"
 lang: ["fr","en"]
 licence: CC-BY-SA 4.0
@@ -13,14 +13,14 @@ licence: CC-BY-SA 4.0
 
 ::cols
 #left
+
 ## Description
-C’est un jeu sérieux qui sensibilise aux impacts environnementaux et sociaux des activités extractives liées à la fabrication des smartphones.
+Phone Impact est un jeu sérieux qui sensibilise aux impacts environnementaux et sociaux de la fabrication des smartphones.  
+Il permet de découvrir la diversité des métaux utilisés pour leur fabrication et de prendre conscience des impacts liés à leur extraction.  
+Les joueurs et joueuses incarnent des fabricants dans la ville fictive de TechCity et doivent fabriquer un smartphone tout en minimisant leur impact écologique.
 
-Ce jeu s’adresse aux 14 ans et plus et se joue de 3 à 5 personnes en environ 40 minutes. Les joueurs et joueuses incarnent des fabricants dans la ville fictive de TechCity et doivent fabriquer un smartphone tout en minimisant leur impact écologique.
-
-Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par nos experts scientifiques. On a collaboré pour que les messages passés au travers du jeu soient le plus proche de la réalité tout en préservant la fluidité du jeu.
-
-Un portail dédié met à disposition toutes les ressources pédagogiques nécessaires pour jouer et animer une session : règles détaillées, supports visuels, bibliographie, conseils d’animation et ressources pédagogiques. Les boîtes de jeu sont disponibles à l’achat, mais aussi en version gratuite, PDF à imprimer et à découper, afin de faciliter son utilisation dans des contextes éducatifs, associatifs ou de sensibilisation.
+Le scénario de jeu a été élaboré au plus proche de la réalité tout en préservant la fluidité du jeu. 
+Les contenus théoriques sur les impacts liés à l’extraction minière ont été rédigés par des experts scientifiques.
 
 #right
 ![Partie de PhoneImpact](images/serious-games/phone-impact-game.png)
@@ -28,15 +28,13 @@ Un portail dédié met à disposition toutes les ressources pédagogiques néces
 
 ## But du jeu
 
-Le but du jeu est de gagner le maximum de points en fabriquant des composants de votre smartphone avant la fin de la partie. Pour cela, vous devez acquérir les ressources nécessaires à leur fabrication chez les 3 fournisseurs proposés.
+Le but du jeu est de gagner le maximum de points en fabriquant les composants de votre smartphone avant la fin de la partie. Pour cela, vous devez acquérir les ressources nécessaires à leur fabrication chez les 3 fournisseurs proposés.
 
 Mais attention à ne pas trop polluer !
 
 ## Objectifs pédagogiques
 
-Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabriquer un smartphone et prendre conscience des impacts environnementaux et sociaux liés à leur extraction.
-
-- À la fin de la partie, les joueur·euses seront capables de :
+À la fin de la partie, les joueur·euses seront capables de :
 - Identifier les différents types de métaux nécessaires à la fabrication d’un smartphone
 - Lister les grandes étapes de la production des métaux
 - Décrire les principaux impacts environnementaux et sociaux liés à l'extraction minière
@@ -46,7 +44,18 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 - Prendre conscience des grandes tendances de l'industrie minière (baisse des teneurs, tensions géopolitiques, croissance des besoins...)
 - Identifier et analyser différentes pistes d'action pour limiter les impacts environnementaux liés à l'extraction des métaux (recyclage, réglementation...)
 
-À la fin du debrief, les participant·es seront capables de remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique.
+À la fin du debrief du jeu, les participant·es seront capables de remettre en perspective ces impacts par rapport aux impacts environnementaux du numérique.
+
+## À qui s’adresse ce jeu?
+- 3 à 5 joueurs, à partir de 14 ans.
+- animateur·trice et curieux·se de sciences du numérique et de l'environnement.
+
+## Déroulé du jeu
+Chaque joueur·euse dispose d’un plateau smartphone composé de l’écran tactile (dalle et vitre), la batterie, la coque et de la carte mère.
+
+Chaque composant doit être fabriqué à partir de ressources qui correspondent à différents types de ressources (métaux communs, métaux précieux, terres rares, autres métaux et autres matières). Chaque composant nécessite un nombre et un type de ressources déterminé. 
+
+À chaque tour de jeu, chaque joueur.se peut soit s'approvisionner, soit fabriquer un composant, soit dépolluer. Au cours du jeu, des cartes malus peuvent perturber la progression de la fabrication en répercutant les conséquences environnementales des choix et décisions de chaque joueur.
 
 ## Équipe pédagogique
 
@@ -56,13 +65,15 @@ Ce jeu sérieux vise à découvrir la diversité des métaux utilisés pour fabr
 - Graphiste : Donovann Bonnet
 
 ## Ressources complémentaires
-- "Impact environnementaux du numérique", Mooc Inria/Class'code, publié sous licence CC-BY sur le site fun-mooc.fr <a href="https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/" target=_blank>MOOC ImpactNum</a>
+- Mise à disposition gratuite, sur le site web, de la version PDF du jeu, prête à imprimer et à découper, et de toutes les ressources pédagogiques nécessaires pour jouer et animer une session : règles détaillées, supports visuels, bibliographie, conseils d’animation et ressources pédagogiques. 
+- Boîtes de jeu disponibles à l’achat via le site web.
+- MOOC Inria/Class'code <a href="https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/" target=_blank>"Impacts environnementaux du numérique"</a> sur le site fun-mooc.fr.
 
-## Autres participations
+## Partenaires
 
-- Suzon Beaussant (Evolud'- Serious Game Designer) qui nous accompagné dans la phase de conception du jeu.
-- Service STIP Inria Grenoble qui nous a soutenu tout le long du projet.
-- Guilain Praseuth (Responsable projet innovation pédagogique, TBS Education) pour la traduction anglaise du jeu.
+- Suzon Beaussant, Serious Game Designer, <a href= "https://evolud.fr/" target=_blank>Evolud'</a>
+- Service STIP, <a href="https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes" target=_blank>Centre Inria de l'Université Grenoble Alpes</a>
+- Guilain Praseuth, Responsable projet innovation pédagogique, <a href="http://www.tbs-education.fr" target=_blank>TBS Education</a>
 
 ::u-button
 ---
