@@ -29,6 +29,7 @@ const blogSchema = z.object({
     date: z.string(),
     image: z.string(),
     tags: z.array(z.string()),
+    draft: z.boolean().optional().default(false),
 });
 
 const seriousGameSchema = z.object({
@@ -65,7 +66,14 @@ const userSchema = z.object({
 });
 
 const homeSchema = z.object({
-    hero: sectionSchema,
+    hero: sectionSchema.extend({
+        list: z.array(
+            z.object({
+                text: z.string(),
+                icon: z.string(),
+            }),
+        ),
+    }),
     activity: sectionSchema,
     moocs: sectionSchema,
     epocs: sectionSchema,

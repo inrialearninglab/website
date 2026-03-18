@@ -35,7 +35,13 @@ definePageMeta({
 
 <template>
     <div v-if="home">
-        <UPageHero v-bind="home.hero" />
+        <UPageHero v-bind="home.hero" :ui="{ description: 'sm:text-2xl' }">
+            <template #links>
+                <div class="grid gap-2">
+                    <UPageFeature v-for="item of home.hero.list" :icon="item.icon" :title="item.text" />
+                </div>
+            </template>
+        </UPageHero>
 
         <UPageSection
             v-bind="home.moocs"

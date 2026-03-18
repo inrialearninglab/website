@@ -1,6 +1,13 @@
 hero:
     title: Inria Learning Lab
-    description: "Inria Learning Lab crée des formations aux sciences et technologies du numérique. Nous proposons des parcours et des ressources pédagogiques de qualité, accessibles à toutes et tous. Des productions pédagogiques réalisées avec l'expertise des scientifiques. Des ressources éducatives libres. Des environnements technologiques d'apprentissage innovants."
+    description: "Inria Learning Lab crée des formations aux sciences et technologies du numérique. Nous proposons des parcours et des ressources pédagogiques de qualité, accessibles à toutes et tous."
+    list:
+        - text: Des productions pédagogiques réalisées avec l'expertise des scientifiques.
+          icon: "lucide:flask-conical"
+        - text: Des ressources éducatives libres.
+          icon: "lucide:graduation-cap"
+        - text: Des environnements technologiques d'apprentissage innovants.
+          icon: "lucide:laptop"
 
 activity:
     reverse: true

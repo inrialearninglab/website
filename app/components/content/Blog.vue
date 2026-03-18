@@ -5,7 +5,11 @@ const { locale } = useI18n();
 const { data: articles } = await useAsyncData(`blog-${locale.value}`, async () => {
     const collection = ("blog_" + locale.value) as "blog_en" | "blog_fr";
 
-    return queryCollection(collection).where("path", "NOT LIKE", "/blog").order("date", "DESC").all();
+    return queryCollection(collection)
+        .where("path", "NOT LIKE", "/blog")
+        .where("draft", "=", false)
+        .order("date", "DESC")
+        .all();
 });
 </script>
 
