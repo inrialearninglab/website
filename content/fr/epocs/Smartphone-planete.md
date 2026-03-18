@@ -1,10 +1,10 @@
 ---
 title: Le smartphone et la planète
-description: Une formation courte sur mobile pour comprendre les impacts environnementaux du smartphone.
+description: Explorer les enjeux écologiques associés à l’utilisation des smartphones.
 date: 2022-01-19
 image: /images/epoc/planete-smartphone.png
 investment: 40min
-assesment:
+assesment: Attestation
 lang: ["fr"]
 licence: CC BY 4.0
 ---
@@ -27,23 +27,23 @@ Destiné au grand public, pas de prérequis nécessaire.
 
 ## Plan de l'ePoc
 
-Imaginée comme une progression pas à pas, la formation Le smartphone et la planète permet à l’apprenant d’avancer de manière logique dans sa réflexion. Découpée en cinq modules, cette formation propose des activités, des podcasts, des quiz, une vidéo et des réflexions pour approfondir les notions abordées :
+Imaginée comme une progression pas à pas, la formation Le smartphone et la planète vous permet d’avancer de manière logique dans votre réflexion. Découpée en cinq modules, cette formation propose des activités, des podcasts, des quiz, une vidéo et des réflexions pour approfondir les notions abordées :
 
-•	Module 1 – Serial casseur : invite à réfléchir à la fréquence de remplacement des appareils et aux solutions possibles lorsqu’un smartphone tombe en panne ou devient obsolète.
+- Module 1 – Serial casseur : invite à réfléchir à la fréquence de remplacement des appareils et aux solutions possibles lorsqu’un smartphone tombe en panne ou devient obsolète.
 
-•	Module 2 – Autopsie d'un smartphone : explore l’intérieur d’un smartphone pour comprendre ses composants, les ressources nécessaires à sa fabrication ainsi que les impacts environnementaux et sociaux associés.
+- Module 2 – Autopsie d'un smartphone : explore l’intérieur d’un smartphone pour comprendre ses composants, les ressources nécessaires à sa fabrication ainsi que les impacts environnementaux et sociaux associés.
 
-•	Module 3 – La tête dans les nuages : s’intéresse aux impacts moins visibles du numérique, notamment ceux liés au stockage des données, au cloud et aux infrastructures numériques.
+- Module 3 – La tête dans les nuages : s’intéresse aux impacts moins visibles du numérique, notamment ceux liés au stockage des données, au cloud et aux infrastructures numériques.
 
 ## Équipe pédagogique
 Auteurs
-- **Frédéric Bordage**, spécialiste du numérique responsable, fondateur du collectif GreenIT. Relecture et validation scientifique de la formation.
-- **Servane Mouton**, neurologue. Relecture et validation scientifique des contenus sur les questions d'attention.
-- **Martine Olivi**, docteur en Mathématique et chargée de recherche à Inria. Partcipe au GDS EcoInfo.  Relecture et validation scientifique de la formation.
-- **Donovann Bonnet**, illustrateur. Réalisation des illustrations de la formation.
-- **Madeline Montigny**, ingénieure pédagogique, Inria Learning Lab. Conception et scénarisation de la formation.
-- **Laurence Farhi**, ingénieure pédagogique, Inria Learning Lab. Relecture de la formation.
-- **Aurélie Lagarrigue**, ingénieure pédagogique, Inria Learning Lab. Relecture de la formation.
+- **Frédéric Bordage**, spécialiste du numérique responsable, fondateur du collectif GreenIT
+- **Servane Mouton**, neurologue
+- **Martine Olivi**, chercheuse, Inria
+- **Donovann Bonnet**, illustrateur
+- **Madeline Montigny**, ingénieure pédagogique, Inria Learning Lab
+- **Laurence Farhi**, ingénieure pédagogique, Inria Learning Lab
+- **Aurélie Lagarrigue**, ingénieure pédagogique, Inria Learning Lab
 
 ## Ressources complémentaires
 - "Impact environnementaux du numérique", Mooc Inria/Class'code, publié sous licence CC-BY sur le site fun-mooc.fr <a href="https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/" target=_blank>MOOC ImpactNum</a>

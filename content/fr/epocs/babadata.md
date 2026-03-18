@@ -1,10 +1,10 @@
 ---
 title: B.A.-BA des data
-description: Ce parcours se destine à toutes celles et ceux qui s'interrogent sur le fonctionnement de l'informatique. Dans cet ePoc on vous propose de comprendre quelques fondamentaux sur les données.
+description: Quelques fondamentaux sur les données, du principe de codage et stockage au mécanisme de transmission.
 date: 2022-07-26
 image: /images/epoc/babadata.png
 investment: 40min
-assesment:
+assesment: Attestation
 lang: ["fr"]
 licence: CC BY 4.0
 ---

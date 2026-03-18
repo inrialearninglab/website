@@ -1,10 +1,10 @@
 ---
 title: Produire mon 1er ePoc
 date: 2025-04-01
-description: Créer et publier votre formation mobile avec ePoc Editor.
+description: Créer et publier votre formation mobile avec l'application de bureau ePoc Editor.
 image: "/images/epoc/premierspas.png"
 investment: 40 min
-assesment:
+assesment: Attestation
 lang: ["fr"]
 licence: CC BY 4.0
 ---

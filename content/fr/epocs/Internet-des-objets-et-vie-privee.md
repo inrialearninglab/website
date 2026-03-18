@@ -1,54 +1,52 @@
 ---
 title: Internet des objets et vie privée
 date: 2017-01-01
-description: 💡🔒 Découvrez comment préserver votre vie privée dans un monde
-  d'objets connectés ! Ce parcours vous guide pas à pas pour comprendre les
-  enjeux des données personnelles et adopter des pratiques sécurisées au
-  quotidien. 🏡🤖
+description: Les données personnelles dans un monde d'objets connectés et les pratiques de protection à adopter.
 image: /images/epoc/iot-vieprive.png
+investment: 1h environ
+assesment: Attestation
+lang: ["fr"]
+licence: CC BY 4.0
 ---
 
-Internet des objets et vie privée est une formation ePoc dédiée à explorer les enjeux de la vie privée dans l’univers des objets connectés, et plus spécifiquement dans le contexte de la maison intelligente. Ce parcours vous invite à mieux comprendre les défis de la protection des données dans un environnement numérique de plus en plus omniprésent.
+## Description
 
-ℹ️ **Informations pratiques** :
+Ce parcours ePoc permet d'explorer les enjeux de la vie privée dans l’univers des objets connectés, et plus spécifiquement dans le contexte de la maison intelligente. Il vous invite à mieux comprendre les défis de la protection des données dans un environnement numérique de plus en plus omniprésent.
 
-• Ouvert gratuitement et à suivre à votre rythme
+## Objectifs pédagogiques
+Avec cet ePoc, nous vous proposons de :
+- Faire connaissance avec la maison intelligente : l'une des facettes de l'internet des objets,
+- Identiifer les implications en matière de vie privée de cette maison intelligente.
 
-• Langue : Français
+## À qui s’adresse cet ePoc ?
+Tout public curieux des technologies et des usages du numérique.
 
-• Public cible : Ce cours s’adresse au grand public
+## Plan de l'ePoc
 
-• Certification : Badge disponible en fin de cours
+- Introduction : **Un pas de plus vers un monde entièrement numérique**
 
-📍**Plan de cours** :
-La formation est conçue pour guider l'apprenant pas à pas dans la compréhension des implications des objets connectés pour la vie privée. Structuré en plusieurs modules courts, ce parcours offre des vidéos explicatives, des études de cas et des outils pratiques.
-Modules :
-
-• Introduction : Un pas de plus vers un monde entièrement numérique
-
-• Module 1 : Les réseaux utilisés par les objets connectés
+- Module 1 : **Les réseaux utilisés par les objets connectés**
 Comprendre les protocoles de communication utilisés par les objets intelligents.
 
-• Module 2 : Exemples dans le domaine de la maison intelligente
+- Module 2 : **Exemples dans le domaine de la maison intelligente**
 Présentation d'exemples concrets d'objets connectés dans nos foyers.
 
-• Module 3 : Les acteurs, leurs motivations et la vie privée
+- Module 3 : **Les acteurs, leurs motivations et la vie privée**
 Qui sont les acteurs du marché et comment leurs intérêts affectent la vie privée des utilisateurs ?
 
-• Module 4 : Cas d’étude : Analyse des ampoules connectées
+- Module 4 : **Cas d’étude : Analyse des ampoules connectées**
 Un zoom sur les ampoules intelligentes, leurs avantages et leurs risques pour la confidentialité.
 
-• Module 5 :que faire ? Analyse des chartes de vie privée et solutions alternatives
-Comment lire et interpréter les politiques de confidentialité, et quelles sont les alternatives pour protéger vos données ?
+- Module 5 : **Que faire ? Analyse des chartes de vie privée et solutions alternatives**
+Comment lire et interpréter les politiques de confidentialité, et quelles sont les alternatives pour protéger vos données.
 
-• Conclusion : Résumé des bonnes pratiques pour naviguer dans l'univers des objets connectés en toute sécurité.
+- Conclusion : **Résumé des bonnes pratiques** pour naviguer dans l'univers des objets connectés en toute sécurité.
 
-⏳ **Temps d’investissement :**
+## Équipe pédagogique
+Auteurs :
+- **Vincent Roca**, chercheur, Inria
+- **Marie-Hélène Compte**, ingénieure pédagogique, Inria Learning Lab
+- **Tatiana Komenko**, ingénieure pédagogique, Inria Learning Lab
 
-La formation Internet des objets et vie privée est pensée pour être accessible et rapide à suivre :
-
-• Durée totale : environ 40 minutes.
-
-• Modules : chaque module dure entre 3 et 9 minutes
-
-Cet ePoc a été développé par Inria
+## Ressources complémentaires
+- <a href="https://epoc.inria.fr/" target:=_blank>ePoc (electronic Pocket open course)</a> est une solution complète de mobile learning libre et ouverte. Gratuite et open source. Développée et maintenue par Inria Learning Lab depuis 2020.
