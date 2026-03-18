@@ -93,6 +93,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "fr/epocs/*.md",
+                exclude: ["fr/epocs/index.md"],
                 prefix: "epocs/",
             },
             schema: epocSchema,
@@ -101,6 +102,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "en/epocs/*.md",
+                exclude: ["en/epocs/index.md"],
                 prefix: "epocs/",
             },
             schema: epocSchema,
@@ -109,6 +111,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "fr/moocs/*.md",
+                exclude: ["fr/moocs/index.md"],
                 prefix: "moocs/",
             },
             schema: moocSchema,
@@ -117,6 +120,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "en/moocs/*.md",
+                exclude: ["en/moocs/index.md"],
                 prefix: "moocs/",
             },
             schema: moocSchema,
@@ -125,6 +129,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "fr/serious-games/*.md",
+                exclude: ["fr/serious-games/index.md"],
                 prefix: "serious-games/",
             },
             schema: seriousGameSchema,
@@ -133,6 +138,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "en/serious-games/*.md",
+                exclude: ["en/serious-games/index.md"],
                 prefix: "serious-games/",
             },
             schema: seriousGameSchema,
@@ -141,6 +147,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "fr/blog/*.md",
+                exclude: ["fr/blog/index.md"],
                 prefix: "blog/",
             },
             schema: blogSchema,
@@ -149,6 +156,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "en/blog/*.md",
+                exclude: ["en/blog/index.md"],
                 prefix: "blog/",
             },
             schema: blogSchema,
