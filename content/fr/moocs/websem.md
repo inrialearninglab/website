@@ -1,6 +1,6 @@
 ---
 title: Web sémantique et Web de données
-description: Phrase d'accroche qui parait sur la vignette
+description: Comprendre et se former aux technologies les plus avancées du Web, utilisées par les plus grands acteurs actuels.
 date: 2015-03-02
 image: /images/mooc/pwebsem.png
 status: open

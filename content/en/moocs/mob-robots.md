@@ -1,6 +1,6 @@
 ---
 title: Mobile Robots and Autonomous Vehicles
-description: The objective of this course is to introduce the key concepts required to program mobile robots and autonomous vehicles**. The course presents both formal and algorithmic tools, and for its last week’s topics (behavior modeling and learning), it will also provide **realistic examples and programming exercises in Python.
+description: "The key concepts to program mobile robots and autonomous vehicles: formal and algorithmic tools, realistic examples and programming exercises in Python."
 date: 2015-03-15
 status: closed
 image: /images/mooc/pmobilerobot.png

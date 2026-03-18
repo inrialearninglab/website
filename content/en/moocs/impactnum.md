@@ -1,6 +1,6 @@
 ---
 title: Environmental impacts of digital technologies
-description: "ImpactNum is a Mooc to question the environmental impacts of digital technologies, to learn how to measure, decipher and act, to find one's place as a citizen in a digital world."
+description: "Question the environmental impacts of digital technologies and learn how to measure, decipher and act, to find one's place as a citizen in a digital world."
 date: 2022-03-29
 image: /images/mooc/pimpactnum.png
 status: open

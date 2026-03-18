@@ -1,6 +1,6 @@
 ---
 title: Programmation objet immersive en Pharo
-description: "Que vous soyez un débutant ou un expert en programmation orientée objet, ce MOOC va changer votre façon de penser objet : venez apprendre ou redécouvrir la programmation objet avec Pharo !"
+description: "Que vous soyez débutant ou expert en programmation orientée objet, apprenez ou redécouvrez la programmation objet avec Pharo et changez votre façon de penser objet !"
 date: 2020-09-11
 image: /images/mooc/ppharoprogramming.png
 status: open

@@ -1,6 +1,6 @@
 ---
 title: Introduction to a Web of Linked Data
-description: "This MOOC introduces the Linked Data standards and principles that provide the foundation of the Semantic Web."
+description: "Explore the linked data standards and principles that provide the foundation of the Semantic Web."
 date: 2016-11-21
 status: closed
 image: /images/mooc/pweblinkdata.png

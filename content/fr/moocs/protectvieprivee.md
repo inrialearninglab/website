@@ -1,6 +1,6 @@
 ---
 title: Protection de la vie privée dans le monde numérique
-description: Dévolopper un usage éclairé et raisonné des applications et objets du monde numérique.
+description: Dévolopper un usage éclairé et raisonné des applications et objets du monde numérique, et mettre en oeuvre certaines mesures pour protéger sa vie privée.
 date: 2018-01-29
 status: archived
 image: /images/mooc/pprotectvieprivee.png

@@ -1,6 +1,6 @@
 ---
 title: Impacts environnementaux du numérique
-description: "ImpactNum est un Mooc pour se questionner sur les impacts environnementaux du numérique, apprendre à mesurer, décrypter et agir, pour trouver sa place de citoyen dans un monde numérique."
+description: "Se questionner sur les impacts environnementaux du numérique, apprendre à mesurer, décrypter et agir, pour trouver sa place de citoyen dans un monde numérique."
 date: 2021-11-16
 image: /images/mooc/pimpactnum.png
 status: open

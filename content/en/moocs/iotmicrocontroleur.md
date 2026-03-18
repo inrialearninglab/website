@@ -1,6 +1,6 @@
 ---
 title: "Internet of Things with Microcontrollers: a hands-on course"
-description: IoT microcontroller programming, from object to cloud.
+description: Discover the specifics of programming connected device and develop IoT applications, from object to cloud.
 date: 2020-03-30
 image: /images/mooc/piot.png
 status: closed

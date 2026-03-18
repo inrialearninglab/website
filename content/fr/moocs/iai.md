@@ -1,6 +1,6 @@
 ---
 title: L'Intelligence Artificielle... avec intelligence !
-description: "Class'Code IAI est un MOOC citoyen accessible à toutes et à tous de 7 à 107 ans pour se questionner, expérimenter et comprendre ce qu’est l’Intelligence Artificielle… avec intelligence !"
+description: "Se questionner, expérimenter et comprendre ce qu’est l’Intelligence Artificielle… avec intelligence !"
 date: 2020-04-06
 image: images/mooc/photoiai.png
 status: open

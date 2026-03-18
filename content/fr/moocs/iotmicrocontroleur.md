@@ -1,6 +1,6 @@
 ---
 title: L’Internet des Objets sur microcontrôleurs par la pratique
-description: Développer des applications IoT, concrètement, de l’objet au cloud.
+description: Comprendre les spécificités de la programmation d'objets connectés et développer des applications IoT, concrètement, de l’objet au cloud.
 date: 2020-03-30
 image: /images/mooc/piot.png
 status: closed

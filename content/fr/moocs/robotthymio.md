@@ -1,6 +1,6 @@
 ---
 title: Le robot Thymio comme outil de découverte des sciences du numérique
-description: Comment maîtriser le robot Thymio et l’utiliser en classe ? Ce MOOC propose une exploration complète, de la robotique à la programmation avec des mises en pratique pédagogique, pour accompagner enseignants et passionnés du numérique.
+description: Une exploration complète de Thymio, de la robotique à la programmation, avec des mises en pratique pédagogique pour accompagner enseignants et passionnés du numérique.
 date: 2018-10-24
 status: archived
 image: /images/mooc/pthymi.png

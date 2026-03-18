@@ -1,6 +1,6 @@
 ---
 title: Binaural hearing for robots
-description:  This course describes the computational principles of binaural hearing; how these principles could be implemented on a robot head and how they could lead towards robust interaction capabilities.
+description: "The computational principles of binaural hearing: how these principles could be implemented on a robot head and how they could lead towards robust interaction capabilities."
 date: 2015-03-14
 image: /images/mooc/phearingrobot.png
 status: closed

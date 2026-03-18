@@ -1,6 +1,6 @@
 ---
 title: Live Object Programming in Pharo
-description: "If you are either a beginner or an expert in object-oriented programming, this MOOC will change the way you program with objects: come and learn or rediscover object-oriented programming with Pharo!"
+description: "Learn or rediscover object-oriented programming with Pharo and change the way you program with objects!"
 date: 2020-11-09
 image: /images/mooc/ppharoprogramming.png
 status: open

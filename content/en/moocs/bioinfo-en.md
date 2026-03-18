@@ -1,6 +1,6 @@
 ---
 title: Bioinformatics, Genomes and Algorithms
-description: Dive into the intersection of genomics and computer science with this MOOC! Learn how computer algorithms analyze genomic data to predict gene locations and protein functions. Whether you're a biologist or a computer scientist, this course offers an introduction to both fields, with practical exercises and hands-on coding using Python and iPython notebooks.
+description: Dive into the intersection of genomics and computer science! Learn how computer algorithms analyze genomic data to predict gene locations and protein functions.
 date: 2015-11-02
 image: /images/mooc/pbioinformatic-en.png
 status: closed

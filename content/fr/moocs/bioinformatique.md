@@ -1,6 +1,6 @@
 ---
 title: "Bioinformatique : algorithmes et génomes"
-description: Découvrez l'analyse des génomes et l'informatique avec ce MOOC interactif, où vous apprendrez à appliquer des algorithmes sur des séquences génétiques et à exécuter des programmes en Python pour explorer des données réelles
+description: Découvrez l'analyse des génomes et l'informatique ! Apprenez à appliquer des algorithmes sur des séquences génétiques et à exécuter des programmes en Python pour explorer des données réelles.
 date: 2015-05-04
 image: /images/mooc/pbioinformatic.png
 status: closed

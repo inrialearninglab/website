@@ -1,6 +1,6 @@
 ---
 title: Reproducible Research II - Practices and tools for managing computations and data
-description: In this MOOC, we will show you how to improve your practices and your ability to manage and process larger amounts of data, complex computations, while controlling your software environment.
+description: How to improve your practices and your ability to manage and process larger amounts of data, complex computations, while controlling your software environment.
 date: 2025-05-05
 image: /images/mooc/rr2.png
 status: open

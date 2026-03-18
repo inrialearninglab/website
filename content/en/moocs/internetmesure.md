@@ -1,6 +1,6 @@
 ---
 title: Internet Measurements - A Hands-on Introduction
-description: Learn the basics of internet measurement with this practical MOOC.
+description: "Learn the basics of internet measurement: network topology and routing, losses, latency, geolocation, bandwidth and traffic measurements."
 date: 2016-01-01
 image: /images/mooc/piotmesure.png
 status: closed

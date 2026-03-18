@@ -1,6 +1,6 @@
 ---
 title: Advanced object oriented design and development with Pharo
-description: "This MOOC focuses on Advanced Object-Oriented Design from a programming perspective. In particular it stresses Test-Driven Design (TDD)"
+description: "Advanced Object-Oriented Design from a programming perspective. In particular it stresses Test-Driven Design (TDD)."
 date: 2024-06-17
 image: /images/mooc/pcoopharo.png
 status: open

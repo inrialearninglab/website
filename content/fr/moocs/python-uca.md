@@ -1,6 +1,6 @@
 ---
 title: "Python : des fondamentaux aux concepts avancés du langage"
-description: Pour apprendre à bien programmer en Python, à écrire rapidement des programmes efficaces, faciles à comprendre et à maintenir qui exploitent pleinement les possibilités du langage !
+description: "Bien programmer en Python : écrire rapidement des programmes efficaces, faciles à comprendre et à maintenir, en exploitant pleinement les possibilités du langage."
 date: 2017-11-06
 image: /images/mooc/ppythonfond.png
 status: open

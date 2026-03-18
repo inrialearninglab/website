@@ -1,6 +1,6 @@
 ---
 title: Intelligence Artificielle pour et par les enseignants
-description: Explorer et soutenir l'utilisation éclairée de l'IA dans l'éducation. 
+description: "Explorer et soutenir l'utilisation éclairée de l'IA dans l'éducation : comprendre le fonctionnement de l'IA et identifier ses utilisations actuelles en éducation."
 date: 2023-11-16
 image: /images/mooc/pai4t.png
 status: open

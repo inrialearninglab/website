@@ -1,6 +1,6 @@
 ---
 title: Reproducible research - methodological principles for transparent science
-description: This Mooc proposes methodological principles for open and transparent science. It deals in a practical way with note-taking, computational documentation, replicability of analyses.
+description: "The methodological principles for open and transparent science: a practical way with note-taking, computational documentation, replicability of analyses."
 date: 2018-10-22
 image: /images/mooc/prr.png
 status: open

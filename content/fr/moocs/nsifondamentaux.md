@@ -1,6 +1,6 @@
 ---
 title: Numérique et Sciences Informatiques - Les fondamentaux
-description: Comment enseigner l’informatique au lycée dans la spécialité NSI et se préparer aux métiers du numérique ? Cette formation vous apporte les bases théoriques et pratiques indispensables pour comprendre et transmettre les fondamentaux de l’informatique.
+description: Comment enseigner l’informatique au lycée dans la spécialité NSI et se préparer aux métiers du numérique.
 date: 2022-02-07
 image: /images/mooc/pnsifonda.png
 status: open
