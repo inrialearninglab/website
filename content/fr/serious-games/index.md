@@ -12,11 +12,13 @@ Diffusés par les relais partenaires ou en ligne, ce sont :
 - des émotions mobilisées.
 
 Notre approche :
+- Co-création avec des expert.es scientifiques
 - Conception centrée sur les objectifs d’apprentissage avant la mécanique de jeu
 - Interdisciplinarité associant pédagogie, narration et design
 - Tests utilisateurs et ajustements itératifs
 - Attention portée à l’accessibilité et à la simplicité des interfaces
 - Démarche d’innovation pédagogique responsable
+
 
 ::serious-games
 ::
