@@ -6,8 +6,8 @@ const statusOrder: Record<string, number> = { open: 0, archived: 1, closed: 2 };
 
 const { data: moocs } = await useAsyncData(`moocs-combined-${locale.value}`, async () => {
     const [fr, en] = await Promise.all([
-        queryCollection("moocs_fr").where("path", "NOT LIKE", "/moocs").all(),
-        queryCollection("moocs_en").where("path", "NOT LIKE", "/moocs").all(),
+        queryCollection("moocs_fr").where("path", "NOT LIKE", "/moocs").where("draft", "=", false).all(),
+        queryCollection("moocs_en").where("path", "NOT LIKE", "/moocs").where("draft", "=", false).all(),
     ]);
 
     const merged = [...fr, ...en];

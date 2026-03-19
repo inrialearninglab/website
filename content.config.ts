@@ -9,6 +9,7 @@ const epocSchema = z.object({
     licence: z.string().default("CC BY 4.0"),
     lang: z.array(z.string()),
     duration: z.string().optional(),
+    draft: z.boolean().optional().default(false),
 });
 
 const moocSchema = z.object({
@@ -23,6 +24,7 @@ const moocSchema = z.object({
     lang: z.array(z.string()),
     licence: z.string().default("CC BY 4.0"),
     trailer: z.string().url(),
+    draft: z.boolean().optional().default(false),
 });
 
 const blogSchema = z.object({
@@ -36,6 +38,7 @@ const seriousGameSchema = z.object({
     title: z.string(),
     image: z.string(),
     date: z.string(),
+    draft: z.boolean().optional().default(false),
 });
 
 const linkSchema = z.object({
