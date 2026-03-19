@@ -10,6 +10,7 @@ assesment:
 lang: ["fr"]
 trailer: https://www.youtube.com/embed/fLDEZthdtZQ
 licence: CC BY 4.0
+draft: true
 ---
 
 ## Description du cours

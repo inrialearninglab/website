@@ -8,6 +8,7 @@ url: https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Jeu/Presen
 image: "/images/serious-games/phone-impact.png"
 lang: ["fr"]
 licence: CC BY 4.0
+draft: true
 ---
 
 ## Description du jeu
