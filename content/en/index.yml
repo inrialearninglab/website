@@ -1,6 +1,15 @@
 hero:
     title: Inria Learning Lab
-    description: "Learn about digital science and technology through high-quality educational courses and resources that are accessible to everyone. Training programs developed with the expertise of scientists. Open educational resources. Innovative technological learning environments."
+    description: Inria Learning Lab develops training courses in digital science and technology.
+    section:
+        description: We offer high-quality learning pathways and educational resources that are accessible to everyone.
+        features:
+            - description: Educational materials developed with the expertise of scientists.
+              icon: "lucide:flask-conical"
+            - description: Open educational resources.
+              icon: "lucide:graduation-cap"
+            - description: Innovative technological learning environments.
+              icon: "lucide:laptop"
 activity:
     reverse: true
     links:
@@ -118,7 +127,7 @@ marquee:
     - /images/mooc/pthymi.png
 cta:
     title: Contact us
-    description: Get in touch with the Inria Learning Lab team 
+    description: Get in touch with the Inria Learning Lab team
     variant: naked
     links:
         - label: ill-contact@inria.fr

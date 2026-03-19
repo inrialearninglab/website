@@ -45,6 +45,12 @@ const linkSchema = z.object({
     icon: z.string().optional(),
 });
 
+const featureSchema = z.object({
+    icon: z.string().optional(),
+    title: z.string().optional(),
+    description: z.string().optional(),
+});
+
 const sectionSchema = z.object({
     title: z.string().optional(),
     description: z.string().optional(),
@@ -53,6 +59,7 @@ const sectionSchema = z.object({
     links: z.array(linkSchema),
     image: z.string().optional(),
     headline: z.string().optional(),
+    features: z.array(featureSchema).optional(),
 });
 
 const userSchema = z.object({
@@ -67,12 +74,7 @@ const userSchema = z.object({
 
 const homeSchema = z.object({
     hero: sectionSchema.extend({
-        list: z.array(
-            z.object({
-                text: z.string(),
-                icon: z.string(),
-            }),
-        ),
+        section: sectionSchema,
     }),
     activity: sectionSchema,
     moocs: sectionSchema,
