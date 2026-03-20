@@ -246,7 +246,6 @@ export default defineAppConfig({
         {
             name: "Nathan Viaud",
             avatar: "/images/team/nathan.jpg",
-            gold: true,
             title: {
                 fr: "Développeur",
                 en: "Developer",
