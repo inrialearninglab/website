@@ -39,7 +39,7 @@ useSeoMeta({
 
 <template>
     <UPage v-if="page">
-        <UPageHeader :title="page.title" :description="page.description" />
+        <UPageHeader :title="page.title" :description="page.description" :links="page.links" />
         <UPageBody>
             <ContentRenderer :value="page" />
         </UPageBody>

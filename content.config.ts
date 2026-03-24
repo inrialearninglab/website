@@ -100,13 +100,17 @@ const homeSchema = z.object({
     }),
 });
 
+const pageSchema = z.object({
+    links: z.array(linkSchema),
+});
+
 export default defineContentConfig({
     collections: {
         epocs_fr: defineCollection({
             type: "page",
             source: {
                 include: "fr/epocs/*.md",
-                exclude: ["fr/epocs/index.md"],
+                exclude: ["fr/epocs/1.index.md"],
                 prefix: "epocs/",
             },
             schema: epocSchema,
@@ -115,7 +119,7 @@ export default defineContentConfig({
             type: "page",
             source: {
                 include: "en/epocs/*.md",
-                exclude: ["en/epocs/index.md"],
+                exclude: ["en/epocs/1.index.md"],
                 prefix: "epocs/",
             },
             schema: epocSchema,
@@ -205,6 +209,7 @@ export default defineContentConfig({
                 include: "fr/**",
                 prefix: "",
             },
+            schema: pageSchema,
         }),
         content_en: defineCollection({
             type: "page",
@@ -212,6 +217,7 @@ export default defineContentConfig({
                 include: "en/**",
                 prefix: "",
             },
+            schema: pageSchema,
         }),
     },
 });

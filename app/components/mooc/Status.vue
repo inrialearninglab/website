@@ -2,14 +2,14 @@
 import type { BadgeProps } from "@nuxt/ui";
 
 defineProps<{
-    status: "open" | "closed" | "archived";
+    status: (typeof statuses)[number];
 }>();
 
 const { t } = useI18n({
     useScope: "local",
 });
 
-const statusInfo: Record<string, BadgeProps["color"]> = {
+const statusInfo: Record<(typeof statuses)[number], BadgeProps["color"]> = {
     open: "success",
     closed: "error",
     archived: "warning",
