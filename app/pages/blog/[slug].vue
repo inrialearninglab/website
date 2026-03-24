@@ -27,7 +27,7 @@ const { data: article } = await useAsyncData(
 
 <template>
     <UPage v-if="article">
-        <UPageHeader :title="article.title" :description="article.description" :headline="$t('article')">
+        <UPageHeader :title="article.title" :description="article.description" :headline="t('article')">
             <template #links>
                 <p class="flex items-center gap-2">
                     <UIcon name="lucide:calendar" class="size-5" />
@@ -58,13 +58,17 @@ const { data: article } = await useAsyncData(
     />
 </template>
 
-<i18n lang="yaml">
-en:
-    article: Article
-    error-title: Article not found
-    error-message: The article you are looking for does not exist.
-fr:
-    article: Article
-    error-title: Article introuvable
-    error-message: L'article que vous recherchez n'existe pas.
+<i18n lang="json" scoped>
+{
+    "en": {
+        "article": "Article",
+        "error-title": "Article not found",
+        "error-message": "The article you are looking for does not exist."
+    },
+    "fr": {
+        "article": "Article",
+        "error-title": "Article introuvable",
+        "error-message": "L'article que vous recherchez n'existe pas."
+    }
+}
 </i18n>
