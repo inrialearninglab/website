@@ -40,6 +40,11 @@ const links = ref([
         icon: "simple-icons:apple",
     },
 ]);
+
+useSeoMeta({
+    title: epoc.value?.title,
+    description: epoc.value?.description,
+});
 </script>
 
 <template>

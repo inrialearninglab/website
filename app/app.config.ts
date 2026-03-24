@@ -101,10 +101,12 @@ export default defineAppConfig({
             {
                 icon: "simple-icons:youtube",
                 to: "https://www.youtube.com/playlist?list=PLJ1qHZpFsMsR7wceUpWOVTjJhI4gBC0wk",
+                label: "YouTube",
             },
             {
                 icon: "simple-icons:linkedin",
                 to: "https://www.linkedin.com/in/inrialearninglab/",
+                label: "LinkedIn",
             },
         ],
     },
@@ -302,6 +304,44 @@ export default defineAppConfig({
             slots: {
                 container: "py-16!",
             },
+        },
+        badge: {
+            compoundVariants: [
+                {
+                    color: "warning",
+                    variant: "subtle",
+                    class: "text-warning-700",
+                },
+                {
+                    color: "error",
+                    variant: "subtle",
+                    class: "text-error-700",
+                },
+                {
+                    color: "success",
+                    variant: "subtle",
+                    class: "text-success-800",
+                },
+            ],
+        },
+        alert: {
+            compoundVariants: [
+                {
+                    color: "warning",
+                    variant: "subtle",
+                    class: { root: "text-warning-700" },
+                },
+                {
+                    color: "error",
+                    variant: "subtle",
+                    class: { root: "text-error-700" },
+                },
+                {
+                    color: "success",
+                    variant: "subtle",
+                    class: { root: "text-success-800" },
+                },
+            ],
         },
     },
 });

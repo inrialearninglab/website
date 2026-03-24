@@ -9,7 +9,7 @@ const localePath = useLocalePath();
 <template>
     <UHeader :to="localePath('/')">
         <template #title>
-            <UColorModeImage light="/logo/ill-logo.svg" dark="/logo/ill-logo-dark.svg" class="h-8" />
+            <UColorModeImage light="/logo/ill-logo.svg" dark="/logo/ill-logo-dark.svg" class="h-8" alt="Logo" />
         </template>
 
         <UNavigationMenu :items="header.nav[locale]" />

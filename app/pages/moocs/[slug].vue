@@ -26,6 +26,11 @@ const { data: mooc } = await useAsyncData(
         watch: [locale],
     },
 );
+
+useSeoMeta({
+    title: mooc.value?.title,
+    description: mooc.value?.description,
+});
 </script>
 
 <template>

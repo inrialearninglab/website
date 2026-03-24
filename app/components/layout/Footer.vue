@@ -21,6 +21,7 @@ const { locale } = useI18n();
                 :to="link.to"
                 variant="ghost"
                 color="neutral"
+                :aria-label="link.label"
             />
         </template>
     </UFooter>

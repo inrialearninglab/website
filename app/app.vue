@@ -25,9 +25,11 @@ const { locale } = useI18n();
         <div class="min-h-screen flex flex-col">
             <NuxtRouteAnnouncer />
             <LayoutHeader />
-            <NuxtLayout>
-                <NuxtPage class="w-full" />
-            </NuxtLayout>
+            <UMain>
+                <NuxtLayout>
+                    <NuxtPage class="w-full" />
+                </NuxtLayout>
+            </UMain>
             <LayoutFooter />
         </div>
     </UApp>

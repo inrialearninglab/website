@@ -103,7 +103,7 @@ definePageMeta({
                         :src="home.marquee[i]"
                         width="460"
                         height="258"
-                        :alt="`Image ${i}`"
+                        :alt="`Mooc image ${i}`"
                         class="aspect-video border border-default rounded-lg bg-white"
                     />
                 </UMarquee>
@@ -116,7 +116,7 @@ definePageMeta({
                 root: 'bg-gradient-to-b border-t border-default from-muted dark:from-muted/40 to-20% to-default',
             }"
         >
-            <NuxtImg :src="home.epocs.image" />
+            <NuxtImg :src="home.epocs.image" alt="ePoc illustration" />
         </UPageSection>
 
         <UPageSection
@@ -125,7 +125,7 @@ definePageMeta({
                 root: 'bg-gradient-to-b border-t border-default from-muted dark:from-muted/40 to-20% to-default',
             }"
         >
-            <NuxtImg :src="home.seriousGames.image" />
+            <NuxtImg :src="home.seriousGames.image" alt="Serious game illustration" />
         </UPageSection>
 
         <UPageSection
