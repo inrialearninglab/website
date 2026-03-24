@@ -36,7 +36,7 @@ Le contenu a été conçu pour un apprentissage mobile fluide et dynamique, avec
 
 ## Comment accéder à la formation ?
 Rien de plus simple :  
-    • Téléchargez l’application ePoc : https://epoc.inria.fr/epocs/e013jm 
+    • Téléchargez l’application ePoc : https://epoc.inria.fr/epocs/e013jm   
     • Recherchez la formation dans le catalogue : « Fondamentaux de la robotique de manipulation »  
 Commencez votre apprentissage à votre rythme, directement sur mobile.  
 
