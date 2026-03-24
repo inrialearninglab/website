@@ -293,5 +293,15 @@ export default defineAppConfig({
                 },
             ],
         },
+        pageSection: {
+            slots: {
+                container: "py-16!",
+            },
+        },
+        pageHero: {
+            slots: {
+                container: "py-16!",
+            },
+        },
     },
 });

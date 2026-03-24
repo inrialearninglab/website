@@ -35,12 +35,13 @@ definePageMeta({
 
 <template>
     <div v-if="home">
-        <UPageHero v-bind="home.hero" :ui="{ description: 'sm:text-2xl', container: 'pb-0!' }" />
+        <UPageHero v-bind="home.hero" :ui="{ container: 'pb-0!' }" />
         <UPageSection
             v-bind="home.hero.section"
             orientation="vertical"
             :ui="{
-                container: 'pt-2!',
+                container: 'pt-0!',
+                description: 'sm:text-xl text-lg',
                 body: 'mt-6!',
                 features: 'grid-cols-1! mx-auto text-center items-center justify-center [&_li]:w-fit w-fit gap-4',
             }"
