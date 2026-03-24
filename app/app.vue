@@ -1,14 +1,18 @@
 <script setup lang="ts">
+import * as locales from "@nuxt/ui/locale";
+
 const { data: navigation } = await useAsyncData("navigation", () => queryCollectionNavigation("content_fr"));
 const { data: files } = useLazyAsyncData("search", () => queryCollectionSearchSections("content_fr"), {
     server: false,
 });
 
 const searchTerm = ref("");
+
+const { locale } = useI18n();
 </script>
 
 <template>
-    <UApp>
+    <UApp :locale="locales[locale]">
         <ClientOnly>
             <LazyUContentSearch
                 v-model:search-term="searchTerm"
