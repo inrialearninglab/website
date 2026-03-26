@@ -43,7 +43,8 @@ definePageMeta({
                 container: 'pt-0!',
                 description: 'sm:text-xl text-lg',
                 body: 'mt-6!',
-                features: 'grid-cols-1! mx-auto text-center items-center justify-center [&_li]:w-fit w-fit gap-4',
+                features:
+                    'grid-cols-1! mx-auto text-center items-center justify-center [&_li]:w-fit w-fit gap-4 **:text-base!',
             }"
         />
 
