@@ -4,6 +4,8 @@
     "type": "module",
     "scripts": {
         "build": "nuxt build",
+        "predev": "node scripts/symlink-moocs.mjs",
+        "prebuild": "node scripts/symlink-moocs.mjs",
         "dev": "nuxt dev",
         "generate": "nuxt generate",
         "preview": "nuxt preview",
