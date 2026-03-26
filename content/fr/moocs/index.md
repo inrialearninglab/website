@@ -3,7 +3,7 @@ title: "Tous nos MOOCs"
 description: "Des formations en ligne structurées, élaborées avec l'expertise de scientifiques en sciences du numérique, accessibles gratuitement, et à votre rythme."
 links:
     - label: FUN MOOC
-      to: https://www.fun-mooc.fr/
+      to: https://www.fun-mooc.fr/fr/cours/?limit=21&offset=0&organizations=2812
       icon: 'lucide:link'
       color: primary
       variant: solid

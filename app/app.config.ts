@@ -108,6 +108,16 @@ export default defineAppConfig({
                 to: "https://www.linkedin.com/in/inrialearninglab/",
                 label: "LinkedIn",
             },
+            {
+                icon: "simple-icons:x",
+                to: "https://x.com/InriaLearnLab",
+                label: "X",
+            },
+            {
+                icon: "simple-icons:instagram",
+                to: "https://www.instagram.com/inrialearninglab/",
+                label: "Instagram",
+            },
         ],
     },
     team: [
