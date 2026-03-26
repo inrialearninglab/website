@@ -79,7 +79,7 @@ useSeoMeta({
                 <NuxtImg :src="epoc.image" alt="" class="w-full" />
             </UPageSection>
             <ContentRenderer :value="epoc" />
-            <div class="flex gap-6">
+            <div class="flex gap-6 flex-wrap">
                 <UButton v-for="link of links" v-bind="link" />
             </div>
         </UPageBody>
