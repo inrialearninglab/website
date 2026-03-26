@@ -3,7 +3,7 @@ title: S’initier à l’enseignement en Sciences Numériques et Technologie
 description: Les prérequis et les premières ressources pour démarrer des activités en SNT avec les lycéens, en lien avec les 7 thématiques du programme.
 date: 2019-03-15
 image: /images/mooc/psnt.png
-status: open
+status: archived
 url: https://www.fun-mooc.fr/en/courses/sinitier-a-lenseignement-en-sciences-numeriques-et-technologie/
 investment:
 assesment:
