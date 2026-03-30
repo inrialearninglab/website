@@ -49,7 +49,7 @@ Présentation de l'outil Exodus Privacy pour analyser les permissions accordées
 
 - Module 8 : **Cercle vertueux**
 
-- Conclusion :** Les bonnes pratiques pour un usage plus respectueux de la vie privée sur smartphone.**
+- Conclusion : **Les bonnes pratiques pour un usage plus respectueux de la vie privée sur smartphone.**
 
 ## Équipe pédagogique
 Auteurs :
