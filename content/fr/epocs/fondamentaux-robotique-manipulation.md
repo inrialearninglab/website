@@ -42,4 +42,5 @@ Auteurs :
 
 
 ## Ressources complémentaires
+- [Discord ePoc](https://discord.com/invite/xzSVeuPEtH){target="_blank"}, le forum consacré à l'ePoc, pour échanger avec d’autres apprenants, poser vos questions et partager vos retours d’expérience.
 - <a href="https://epoc.inria.fr/" target:=_blank>ePoc (electronic Pocket open course)</a> est une solution complète de mobile learning libre et ouverte. Gratuite et open source. Développée et maintenue par Inria Learning Lab depuis 2020.

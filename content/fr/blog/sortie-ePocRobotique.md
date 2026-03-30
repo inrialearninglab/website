@@ -29,22 +29,9 @@ Le contenu a été conçu pour un apprentissage mobile fluide et dynamique, avec
     • des vidéos courtes et pédagogiques,  
     • des animations interactives,  
     • des quiz pour tester vos connaissances,  
-    • et des contenus réalisés avec l'expertise de scientifiques : Jean-Pierre Merlet, chercheur Inria et Clara Thomas, doctorante Inria à l'Institut 3IA de l’université Côte d'Azur.  
+    • et des contenus réalisés avec l'expertise de scientifiques : Jean-Pierre Merlet, chercheur Inria et Clara Thomas, doctorante Inria à l'Institut 3IA de l’université Côte d'Azur. 
 
-## Ce que vous allez apprendre
-À l’issue de cette formation, vous serez en mesure de :    
-✔ Comprendre la genèse et les grandes étapes de la robotique.   
-✔ Identifier les différentes stratégies de mouvement des robots.   
-✔ Appréhender les bases de la perception robotique.   
-✔ Explorer les applications de l’intelligence artificielle en robotique.     
-✔ Analyser les défis technologiques et les enjeux éthiques associés.   
-
-## Comment accéder à la formation ?
-Rien de plus simple :  
-    • Téléchargez l’application ePoc : https://epoc.inria.fr/epocs/e013jm   
-    • Recherchez la formation dans le catalogue : « Fondamentaux de la robotique de manipulation »  
-Commencez votre apprentissage à votre rythme, directement sur mobile.  
-
-## Rejoignez la communauté
-Pour aller plus loin, échangez avec d’autres apprenants, posez vos questions et partagez vos retours d’expérience sur le serveur Discord ePoc : https://discord.com/invite/xzSVeuPEtH 
 Une formation idéale pour acquérir des bases en robotique, comprendre ses enjeux actuels et se préparer aux innovations de demain.
+
+## En savoir plus et accéder à la formation
+ [ePoc “Fondamentaux de la robotique de manipulation”](/epocs/fondamentaux-robotique-manipulation){target="_blank"}
