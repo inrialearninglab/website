@@ -14,4 +14,5 @@ Notre approche :
 
 Diffusés sur la plateforme nationale de référence FUN, nos MOOCs sont :
 - des temps de formation de durée variable de 3h à 40h, 
-- des contenus avec une alternance de textes illustrés, vidéos, quiz, activités ou mises en situation de programmation.
+- des contenus avec une alternance de textes illustrés, vidéos, quiz, activités
+- et des mises en situation de programmation si nécessaire pour les MOOCs d'apprentissage de la programmation.
