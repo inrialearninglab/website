@@ -3,9 +3,14 @@ title: "Nouvel ePoc : Fondamentaux de la robotique de manipulation"
 description: "Qu’est-ce qu'un robot, quelle est son évolution historique, quels sont ses principaux composants techniques."
 date: 2026-03-24
 image: /images/blog/com_ePocRobotique_sansfond.png
+published: true
+tags:
+    - ePoc
+    - Mobile Learning
+    - Robotique
 ---
 
-![Aperçu ePoc robotique](images/blog/com_ePocRobotique_sansfond.png)
+![Aperçu ePoc robotique](images/blog/com_ePocRobotique_sansfond.png){class="max-w-2xl mx-auto"}
 
 Découvrez notre nouvel ePoc dédié à un domaine en pleine expansion : la robotique de manipulation. Accessible à tous, ce programme propose une immersion claire et progressive dans les bases essentielles de la robotique moderne.  
 
@@ -42,6 +47,4 @@ Commencez votre apprentissage à votre rythme, directement sur mobile.
 
 ## Rejoignez la communauté
 Pour aller plus loin, échangez avec d’autres apprenants, posez vos questions et partagez vos retours d’expérience sur le serveur Discord ePoc : https://discord.com/invite/xzSVeuPEtH 
-Une formation idéale pour acquérir des bases en robotique, comprendre ses enjeux actuels et se préparer aux innovations de demain.  
-
-#ePoc #MobileLearning #Robotique. 
+Une formation idéale pour acquérir des bases en robotique, comprendre ses enjeux actuels et se préparer aux innovations de demain.

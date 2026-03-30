@@ -31,7 +31,7 @@ const blogSchema = z.object({
     date: z.string(),
     image: z.string(),
     tags: z.array(z.string()),
-    draft: z.boolean().optional().default(false),
+    published: z.boolean().optional().default(false),
 });
 
 const seriousGameSchema = z.object({

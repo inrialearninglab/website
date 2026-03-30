@@ -3,9 +3,14 @@ title: "ePoc release: Fundamentals of Manipulation Robotics"
 description: "Discover the free mobile training: Fundamentals of Manipulation Robotics"
 date: 2026-03-24
 image: /images/blog/com_ePocRobotique_sansfond.png
+published: true
+tags:
+    - ePoc
+    - Mobile Learning
+    - Robotics
 ---
 
-![ePoc robotics preview](images/blog/com_ePocRobotique_sansfond.png)
+![ePoc robotics preview](images/blog/com_ePocRobotique_sansfond.png){class="max-w-2xl mx-auto"}
 
 The Learning Lab team is launching a new free mobile training course dedicated to a rapidly growing field: manipulation robotics. Accessible to everyone, this program offers a clear and progressive introduction to the essential foundations of modern robotics.  
 
@@ -42,6 +47,4 @@ Start learning at your own pace, directly on your mobile device.
 
 ## Join the community
 To go further, connect with other learners, ask your questions, and share your feedback on the ePoc Discord server: https://discord.com/invite/xzSVeuPEtH 
-An ideal training course to acquire robotics fundamentals, understand current challenges, and prepare for tomorrow’s innovations.  
-
-#ePoc #MobileLearning #Robotics
+An ideal training course to acquire robotics fundamentals, understand current challenges, and prepare for tomorrow’s innovations.

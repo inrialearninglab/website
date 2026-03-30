@@ -5,6 +5,8 @@ description: "Les jeux sérieux, comme leviers pédagogiques ludiques et engagea
 
 Avec les jeux sérieux notre objectif est de proposer une approche ludique et immersive pour comprendre des notions complexes liées au numérique. Ils s'adressent à toute personne, jeune ou adulte, qui apprécie les jeux sur plateau ou en ligne. Dans un cadre d'usage pédagogique, de médiation ou de sensibilisation, le jeu favorise l’engagement, la réflexion critique et l’apprentissage par l’expérience.
 
+::cols
+#left
 Notre approche :
 - Co-création avec des expert.es scientifiques
 - Conception centrée sur les objectifs d’apprentissage avant la mécanique de jeu
@@ -13,7 +15,11 @@ Notre approche :
 - Attention portée à l’accessibilité et à la simplicité des interfaces
 - Démarche d’innovation pédagogique responsable
 
-Diffusés matrériellement par nos relais partenaires ou accessibles en ligne, nos jeux sérieux sont constitués :
-- d'apports scientifiques pédagogiques intégrés dans le matériel de jeu,
-- de scénarios ancrés dans des contextes réalistes,
-- de mises en situation, de prises de décision et d'expérimentations qui mobilisent des émotions.
+#right
+![Aperçu partie de jeu](/images/serious-game-showcase.jpg){class="max-w-sm mx-auto"}
+::
+
+Diffusés matériellement par nos relais partenaires ou accessibles en ligne, ce sont :
+- des apports scientifiques pédagogiques intégrés dans le matériel de jeu,
+- des scénarios ancrés dans des contextes réalistes,
+- des mises en situation, des prises de décision et des expérimentations qui mobilisent des émotions

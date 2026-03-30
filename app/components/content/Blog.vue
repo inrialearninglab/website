@@ -7,7 +7,7 @@ const { data: articles } = await useAsyncData(`blog-${locale.value}`, async () =
 
     return queryCollection(collection)
         .where("path", "NOT LIKE", "/blog")
-        .where("draft", "=", false)
+        .where("published", "=", true)
         .order("date", "DESC")
         .all();
 });

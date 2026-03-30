@@ -3,8 +3,14 @@ title: À propos de nos ePocs
 description: "Des modules d'apprentissage sur mobile, courts et ciblés, conçus pour l'introduction ou la sensibilisation aux enjeux du numérique."
 ---
 
+![Logo ePoc](/logo/epoc.svg){class="max-w-sm mx-auto"}
+
 Les ePoc *(electronic Pocket Open Course)* sont des micro-formations spécifiquement conçues pour les téléphones portables. Avec un format court et ciblé, notre objectif est de répondre à des besoins précis de formation ou de sensibilisation. 
 Complémentaires des MOOCs, ils s'adressent à un public qui préfère un format court, ludique et facile d'accès, qu'il soit néophyte, de communautés professionnelles ou académiques. 
+
+::cols
+
+#left
 
 Notre approche :
 - Collaboration étroite entre chercheur.ses, ingénieur.es pédagogiques, développeur.ses et partenaires
@@ -12,6 +18,12 @@ Notre approche :
 - Efficacité pédagogique et immersion thématique
 - Design pédagogique centré sur l’usage et l’expérience d’apprentissage
 - Sobriété des formats et attention portée à l’impact des contenus
+
+#right
+![Aperçu ePoc](/images/blog/epoc-Editor.png)
+
+::
+
 
 Diffusés sur notre application mobile ePoc, ce sont :
 - des micro-formations variant de 30 min à 3 h,
