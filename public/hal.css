@@ -1,0 +1,54 @@
+html {
+    font-family: "Public Sans", sans-serif;
+}
+
+p.Rubrique {
+    color: oklch(0.208 0.042 265.755);
+    font-size: 1.25rem;
+}
+
+p.SousRubrique {
+    color: oklch(0.372 0.044 257.287);
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.NoticeResAvecVignette,
+.NoticeRes {
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    padding: 0.5rem;
+    display: grid;
+    gap: 0.5rem;
+}
+
+.NoticeResAvecVignette {
+    grid-template-columns: auto 1fr;
+}
+
+.Titre > a {
+    text-decoration: none;
+    color: #c9191e;
+}
+
+.Titre > a:hover {
+    text-decoration: underline;
+}
+
+.Vignette {
+    margin: auto;
+    grid-row: span 4;
+    height: auto;
+}
+
+/*.Auteurs {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}*/
+
+.ValeurResAvecVignette {
+    margin: 0;
+    margin-bottom: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
