@@ -1,13 +1,13 @@
 ---
 title: "Nouvel ePoc : Fondamentaux de la robotique de manipulation"
-description: "Qu’est-ce qu'un robot, quelle est son évolution, ses principaux composants techniques."
+description: "Qu’est-ce qu'un robot, quelle est son évolution historique, quels sont ses principaux composants techniques."
 date: 2026-03-24
 image: /images/blog/com_ePocRobotique_sansfond.png
 ---
 
 ![Aperçu ePoc robotique](images/blog/com_ePocRobotique_sansfond.png)
 
-Nous vous proposons un nouvel ePoc dédié à un domaine en pleine expansion : la robotique de manipulation. Accessible à tous, ce programme propose une immersion claire et progressive dans les bases essentielles de la robotique moderne.  
+Découvrez notre nouvel ePoc dédié à un domaine en pleine expansion : la robotique de manipulation. Accessible à tous, ce programme propose une immersion claire et progressive dans les bases essentielles de la robotique moderne.  
 
 ## Pourquoi s’intéresser à la robotique aujourd’hui ?  
 La robotique transforme déjà de nombreux secteurs — industrie, santé, logistique — et son évolution s’accélère. Comprendre ses fondements devient un véritable atout, que vous soyez étudiant, professionnel ou simplement curieux des technologies émergentes.  
