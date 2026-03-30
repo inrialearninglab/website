@@ -1,5 +1,5 @@
 ---
-title: En savoir plus
+title: À propos de nos MOOCs
 description: "Des formations en ligne structurées, élaborées avec l'expertise de scientifiques en sciences du numérique, accessibles gratuitement, et à votre rythme."
 ---
 

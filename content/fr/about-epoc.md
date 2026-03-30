@@ -1,5 +1,5 @@
 ---
-title: En savoir plus
+title: À propos de nos ePocs
 description: "Des modules d'apprentissage sur mobile, courts et ciblés, conçus pour l'introduction ou la sensibilisation aux enjeux du numérique."
 ---
 
