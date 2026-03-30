@@ -1,19 +1,19 @@
 ---
-title: "Sortie de l'ePoc : fondamentaux de la robotique de manipulation"
-description: "Découvrez la formation mobile gratuite : Fondamentaux de la robotique de manipulation"
+title: "Nouvel ePoc : Fondamentaux de la robotique de manipulation"
+description: "Qu’est-ce qu'un robot, quelle est son évolution, ses principaux composants techniques."
 date: 2026-03-24
 image: /images/blog/com_ePocRobotique_sansfond.png
 ---
 
 ![Aperçu ePoc robotique](images/blog/com_ePocRobotique_sansfond.png)
 
-L’équipe du Learning Lab lance une nouvelle formation mobile gratuite dédiée à un domaine en pleine expansion : la robotique de manipulation. Accessible à tous, ce programme propose une immersion claire et progressive dans les bases essentielles de la robotique moderne.  
+Nous vous proposons un nouvel ePoc dédié à un domaine en pleine expansion : la robotique de manipulation. Accessible à tous, ce programme propose une immersion claire et progressive dans les bases essentielles de la robotique moderne.  
 
 ## Pourquoi s’intéresser à la robotique aujourd’hui ?  
 La robotique transforme déjà de nombreux secteurs — industrie, santé, logistique — et son évolution s’accélère. Comprendre ses fondements devient un véritable atout, que vous soyez étudiant, professionnel ou simplement curieux des technologies émergentes.  
 
-## Une formation complète, accessible et interactive
-Intitulée « Fondamentaux de la robotique de manipulation », cette formation vous guide à travers les concepts clés :    
+## Une formation sur mobile, accessible et interactive
+Les différents modules de l'ePoc "Fondamentaux de la robotique de manipulation" vous guident à travers les concepts clés :    
     • L’évolution historique de la robotique.   
     • Les composants essentiels des systèmes robotiques.   
     • Les différentes méthodes de mouvement.   
@@ -24,7 +24,7 @@ Le contenu a été conçu pour un apprentissage mobile fluide et dynamique, avec
     • des vidéos courtes et pédagogiques,  
     • des animations interactives,  
     • des quiz pour tester vos connaissances,  
-    • et des contenus validés scientifiquement par Jean-Pierre Merlet, chercheur Inria et Clara Thomas, doctorante Inria/3IA.  
+    • et des contenus réalisés avec l'expertise de scientifiques : Jean-Pierre Merlet, chercheur Inria et Clara Thomas, doctorante Inria à l'Institut 3IA de l’université Côte d'Azur.  
 
 ## Ce que vous allez apprendre
 À l’issue de cette formation, vous serez en mesure de :    
