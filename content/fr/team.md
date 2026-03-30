@@ -1,13 +1,13 @@
 ---
 title: Inria Learning Lab
-description:
+description: Nos missions, nos valeurs, notre équipe
 ---
 
 Inria Learning Lab est le Service Éducation Scientifique (SES) de la Direction de la Culture et de l'Information Scientifiques (DCIS), dirigée par Laurent Romary. Cette direction dépend de la Direction Générale Déléguée à la Science (DGDS), dirigée par Jean-Frédéric Gerbeau.
 
 ## Nos Missions
 
-Le Learning Lab a pour missions de :
+Inria Learning Lab a pour missions de :
 - concevoir et diffuser des formations sur les sciences du numérique (sous formes de MOOC, ePoc et jeux sérieux) pour valoriser les expertises scientifiques d’Inria,
 - accompagner les chercheurs dans la dissémination pédagogique et publique de leurs travaux,
 - soutenir les politiques numériques et éducatives d’Inria, avec une ouverture vers les universités, l’éducation nationale et les structures scientifiques,
