@@ -13,8 +13,7 @@ Notre approche :
 - Attention portée à l’accessibilité et à la simplicité des interfaces
 - Démarche d’innovation pédagogique responsable
 
-Diffusés matrériellement par nos relais partenaires ou accessibles en ligne, ce sont :
-- des apports scientifiques pédagogiques intégrés dans le matériel de jeu,
-- des scénarios ancrés dans des contextes réalistes,
-- des mises en situation, des prises de décision et des expérimentations,
-- des émotions mobilisées.
+Diffusés matrériellement par nos relais partenaires ou accessibles en ligne, nos jeux sérieux sont constitués :
+- d'apports scientifiques pédagogiques intégrés dans le matériel de jeu,
+- de scénarios ancrés dans des contextes réalistes,
+- de mises en situation, de prises de décision et d'expérimentations qui mobilisent des émotions.
