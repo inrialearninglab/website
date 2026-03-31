@@ -3,7 +3,7 @@ title: À propos de nos MOOCs
 description: "Des formations en ligne structurées, élaborées avec l'expertise de scientifiques en sciences du numérique, accessibles gratuitement, et à votre rythme."
 ---
 
-![Logo FUN MOOC](/logo/fun.svg){class="max-w-sm mx-auto"}
+![Logo FUN MOOC](logo/fun.svg){class="max-w-sm mx-auto"}
 
 Avec les MOOCs (Massive Online Open Course) notre objectif est de rendre accessibles les connaissances issues de la recherche en sciences du numérique. Certains MOOCs s’adressent au plus grand nombre et aux curieux de sciences, d’autres, plus experts, aux ingénieur.es et étudiant.es en numérique. 
 
@@ -17,7 +17,7 @@ Notre approche :
 - Accessibilité sous forme de ressources éducatives libres
 
 #right
-![Aperçu cours sur FUN](/images/fun-showcase.png)
+![Aperçu cours sur FUN](images/fun-showcase.png)
 ::
 
 Diffusés sur la plateforme nationale de référence FUN, nos MOOCs sont :

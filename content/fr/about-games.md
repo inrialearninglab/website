@@ -16,7 +16,7 @@ Notre approche :
 - Démarche d’innovation pédagogique responsable
 
 #right
-![Aperçu partie de jeu](/images/serious-game-showcase.jpg){class="max-w-sm mx-auto"}
+![Aperçu partie de jeu](images/serious-game-showcase.jpg){class="max-w-sm mx-auto"}
 ::
 
 Diffusés matériellement par nos relais partenaires ou accessibles en ligne, ce sont :
