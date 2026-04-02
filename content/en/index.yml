@@ -34,7 +34,8 @@ epocs:
         - label: See all ePocs
           to: /en/epocs
           trailingIcon: "lucide:arrow-right"
-    image: https://placehold.co/600x400
+    image: images/epoc-showcase.png
+
 seriousGames:
     title: Learn while you play
     description: Serious games as fun and engaging educational tools to promote critical thinking and experiential learning.
@@ -44,7 +45,8 @@ seriousGames:
         - label: See serious games
           to: /en/serious-games
           trailingIcon: "lucide:arrow-right"
-    image: https://placehold.co/600x400
+    image: images/serious-games/phone-impact.png
+
 testimonials:
     headline: Testimonials
     title: They participated in our training courses.
@@ -127,7 +129,7 @@ marquee:
     - /images/mooc/pthymi.png
 cta:
     title: Contact us
-    description: Get in touch with the Inria Learning Lab team
+    description: Questions ? projects ? Inria Learning Lab is at your disposal.
     variant: naked
     links:
         - label: ill-contact@inria.fr
