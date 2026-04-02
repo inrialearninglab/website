@@ -9,8 +9,9 @@ const { locale } = useI18n();
 
     <UFooter>
         <template #left>
-            <p class="text-muted text-sm">{{ footer.copyright }}</p>
+            <img src="/logo/inria.svg" class="max-w-40 mx-auto" />
         </template>
+
         <UNavigationMenu :items="footer.links[locale]" />
 
         <template #right>

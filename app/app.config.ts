@@ -312,7 +312,7 @@ export default defineAppConfig({
         },
         pageHero: {
             slots: {
-                container: "py-4!",
+                container: "py-8!",
             },
         },
         badge: {

@@ -35,10 +35,6 @@ definePageMeta({
 
 <template>
     <div v-if="home">
-        <UContainer class="items-center justify-center mt-8">
-            <img src="/logo/inria.svg" class="max-w-sm mx-auto" />
-        </UContainer>
-
         <UPageHero v-bind="home.hero" :ui="{ container: 'pb-0!' }" />
         <UPageSection
             v-bind="home.hero.section"
