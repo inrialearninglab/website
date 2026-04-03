@@ -3,6 +3,7 @@ title: "MOOC \"Introduction to functional programming in OCaml\""
 description: "In this course you will discover the power of Functional Programming, using the OCaml language to write concise, efficient and elegant programs."
 date: 2015-07-20
 image: images/blog/ocaml-code.png
+draft: true
 ---
 
 <iframe src="//www.dailymotion.com/embed/video/x2ymo3x" frameborder="0" allowfullscreen="allowfullscreen" style="aspect-ratio:16/9;width:100%;"></iframe>

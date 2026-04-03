@@ -2,6 +2,7 @@
 title: "MOOC Introduction to a Web of Linked Data"
 date: 2019-03-15
 image: images/blog/web-of-linked-data-v2.png
+draft: true
 ---
 
 ![](images/blog/web-of-linked-data-v2.png)

@@ -3,6 +3,7 @@ title: "Parution de l’ouvrage “Informatique et culture scientifique du numé
 description: ""
 date: 2021-10-25
 image: /images/blog/Ouvrage-ICN-SNT-Python.png
+draft: true
 ---
 
 **Basé sur les succès des 3 Mooc ICN, SNT et Python déjà consultés par près de 118 000 personnes depuis 2019, ce manuel constitue un condensé de connaissances de base en informatique accessibles à tous et disponible en téléchargement.**

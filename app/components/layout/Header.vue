@@ -16,7 +16,7 @@ const localePath = useLocalePath();
 
         <template #right>
             <UContentSearchButton />
-            <UColorModeButton />
+
             <ULocaleSelect
                 variant="ghost"
                 :locales="[fr, en]"

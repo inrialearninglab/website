@@ -3,6 +3,7 @@ title: "Créer un MOOC ? Inria accompagne ses chercheurs"
 description: ""
 date: 2019-01-17
 image: images/blog/ill-accompagnement-mooc.png
+draft: true
 ---
 
 

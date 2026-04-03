@@ -2,6 +2,7 @@
 title: "Événements internes récents et à venir autour de l'e-éducation"
 date: 2017-02-03
 image: images/blog/time-273857_1920.jpg
+draft: true
 ---
 
 ![](images/blog/time-273857_1920.jpg){style="max-width:36rem;margin:auto;"}

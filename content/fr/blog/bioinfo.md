@@ -2,6 +2,7 @@
 title: "MOOC \"Bioinformatique : algorithmes et génomes\""
 date: 2015-03-13
 image: images/blog/bandeau_bioinfo.png
+draft: true
 ---
 
 

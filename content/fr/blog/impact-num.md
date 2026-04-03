@@ -3,6 +3,7 @@ title: "MOOC Impacts environnementaux du numérique"
 description: ""
 date: 2021-12-02
 image: /images/blog/MoocImpactNumVignette.jpg
+draft: true
 ---
 
 **ImpactNum** est un MOOC pour se **questionner sur les impacts environnementaux du numérique**, apprendre à mesurer, décrypter et agir, pour trouver sa place de citoyen dans un monde numérique. Co-réalisé par l’Association Class’Code et Inria et soutenu par la Délégation Numérique pour l’Education, ce Mooc est une œuvre collective avec la contribution de plus de **trente experts du numérique et son impact sur l'environnement** : des scientifiques ainsi que des médiateurs éducatifs.

@@ -3,6 +3,7 @@ title: "Retour sur le Meetup \"MOOC Web Sémantique\""
 description: "Un Meetup sur le MOOC Web Sémantique a eu lieu au Learning Centre du Campus SophiaTech le mardi 21 avril dernier. Cette rencontre a été l’occasion pour une vingtaine de participants (sur 3800 inscrits) d’échanger avec Fabien Gandon, Catherine Faron-Zucker et Olivier Corby, auteurs du MOOC, mais également avec des membres de l'équipe du Mooc Lab Inria, qui ont accompagné la réalisation de ce cours."
 date: 2015-04-28
 image: images/blog/meetup1.jpg
+draft: true
 ---
 
 ![Meetup MOOC Web Semantique](images/blog/meetup1.jpg)

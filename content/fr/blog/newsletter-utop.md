@@ -2,6 +2,7 @@
 title: "Newsletters uTOP-Inria : recueil disponible en téléchargement"
 date: 2016-12-20
 image: images/blog/bannutoparial-1.png
+draft: true
 ---
 
 ![bannutoparial-1](images/blog/bannutoparial-1.png){style="max-width:36rem;margin:auto;"}

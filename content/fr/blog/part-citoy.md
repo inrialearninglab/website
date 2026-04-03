@@ -2,6 +2,7 @@
 title: "Formez-vous aux outils de participation citoyenne !"
 date: 2019-10-02
 image: /images/blog/C031VI-vignette-v2.png
+draft: true
 ---
 
 ## Formation destinée aux professionnels

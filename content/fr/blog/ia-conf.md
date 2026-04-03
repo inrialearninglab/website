@@ -3,6 +3,7 @@ title: "Conférence IA & Éducation"
 description: "Retour sur les MOOCs, formations et partage d’expériences"
 date: 2023-06-14
 image: /images/blog/PHOTO-2023-06-09-18-34-45.jpg
+draft: true
 ---
 
 <figure>

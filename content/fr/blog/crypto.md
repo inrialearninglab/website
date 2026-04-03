@@ -2,6 +2,7 @@
 title: "MOOC \"Code-based Cryptography\""
 description: ""
 date: 2015-03-16
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/3R297Ws7uR8?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

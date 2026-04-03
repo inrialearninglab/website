@@ -3,6 +3,7 @@ title: "Plus d'1/2 Million de participants"
 description: "une étape symbolique vient d'être franchie pour nos Mooc"
 date: 2022-09-06
 image: /images/blog/visuel-4-infographie.png
+draft: true 
 ---
 
 Une étape symbolique vient d'être franchie pour nos cours en ligne sur la plateforme FUN : plus d'un demi-million de participants se sont inscrits aux 26 Mooc que nous avons créés, animés, et mis librement à disposition depuis 2014. Du plus accessible, avec des contenus vulgarisés, aux plus technologiques, découvrez une sélection de nos cours pour se former gratuitement aux sciences du numérique.

@@ -3,6 +3,7 @@ title: "Moocs : de la correction automatique à la personnalisation des cursus"
 description: "Lundi 13 janvier 2014, Inria, Paris"
 date: 2014-01-13
 image: images/blog/INRIA0049-01092.png
+draft: true
 ---
 
 ## Présentation

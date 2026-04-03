@@ -2,6 +2,7 @@
 title: "MOOC Teaching Digital Sciences and Technology"
 date: 2019-01-22
 image: images/blog/imagecours-SNT.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/k9bv21-Gg9s?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

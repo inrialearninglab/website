@@ -3,6 +3,7 @@ title: "Mooc Lab Inria devient Inria learning Lab"
 description: ""
 date: 2016-07-06
 image: images/blog/LearningLab_logo.png
+draft: true
 ---
 
 Le Mooc Lab a été créé en 2013 pour favoriser la production de MOOCs (Massive Open Online Courses) chez Inria. En trois ans, il aura produit 12 cours en ligne et rejoué 8 d’entre eux. 60 000 personnes, issues d’une centaine de pays différents, ont déjà suivi ces cours ([voir notre infographie](https://learninglab.inria.fr/infographie-mooclab-inria-3-ans/)).

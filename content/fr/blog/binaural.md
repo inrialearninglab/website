@@ -1,6 +1,7 @@
 ---
 title: "MOOC \"Binaural hearing for robots\""
 date: 2015-03-14
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/c0YQRh0oUrM" frameborder="0" allowfullscreen="allowfullscreen" style="aspect-ratio:16/9;width:100%;"></iframe>

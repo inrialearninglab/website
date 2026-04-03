@@ -2,6 +2,7 @@
 title: "Atelier sur les méthodologies de participation citoyenne, 15 mars 2018 à Rennes"
 description: ""
 date: 2018-03-07
+draft: true
 ---
 
 En marge de l'événement [inOut 2018](https://www.inout2018.com), un **atelier sur les méthodologies de participation citoyenne** se tiendra à l'Hôtel Rennes Métropole le 15 mars à 14:00.

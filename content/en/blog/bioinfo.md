@@ -2,6 +2,7 @@
 title: "MOOC \"Bioinformatics: genomes and algorithms\""
 date: 2015-03-13
 image: images/blog/bandeau_bioinfo.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/nc0mX7KN06E?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

@@ -2,6 +2,7 @@
 title: "Les sessions Live de MOOC - retour d'expérience"
 description: ""
 date: 2017-06-15
+draft: true
 ---
 
 <div style="display:flex;">

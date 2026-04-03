@@ -3,6 +3,7 @@ title: "AI in education : A Mooc and learning resources for teachers"
 description: "Implementing innovative teacher training methods specifically designed to meet the challenges of AI in education  is the objective of the \"Artificial Intelligence for and by teachers\" (AI4T) Erasmus+ project to explore and support the use of AI in Education."
 date: 2022-04-20
 image: /images/blog/Inria-0307-190-bandeau.png
+draft: true
 ---
 ![](images/blog/Inria-0307-190-bandeau.png)
 

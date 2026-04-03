@@ -3,6 +3,7 @@ title: "MOOC \"Protection de la vie privée dans le monde numérique\""
 description: ""
 date: 2019-03-11
 image: images/blog/C029CL3-Vignette-fond-gris-inria.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/9etwdSgqb9s?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

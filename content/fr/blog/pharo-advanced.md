@@ -3,6 +3,7 @@ title: "Pharo advanced"
 description: "Maîtrisez la \"Conception Orientée Objet Avancée\" avec ce nouveau MOOC"
 date: 2024-06-19
 image: /images/blog/vignette_pharo_1826.png
+draft: true
 ---
 
 **Vous cherchez à perfectionner vos compétences en développement logiciel ? Ne manquez pas le nouveau cours en ligne intitulé** ["Advanced Object-Oriented Design and Development with Pharo"](https://www.fun-mooc.fr/fr/cours/advanced-object-oriented-design-and-development-with-pharo/).

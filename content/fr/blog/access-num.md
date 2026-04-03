@@ -3,6 +3,7 @@ title: "MOOC \"Accessibilité numérique\""
 description: ""
 date: 2016-08-04
 image: images/blog/V3-C026PG-accessnum.jpg
+draft: true
 ---
 
 

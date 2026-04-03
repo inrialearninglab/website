@@ -3,7 +3,6 @@ title: "ePoc release: Fundamentals of Manipulation Robotics"
 description: "Discover the free mobile training: Fundamentals of Manipulation Robotics"
 date: 2026-03-24
 image: /images/blog/com_ePocRobotique_sansfond.png
-published: true
 tags:
     - ePoc
     - Mobile Learning

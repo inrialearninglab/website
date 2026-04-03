@@ -2,6 +2,7 @@
 title: "MOOC S'initier à l'enseignement en Sciences Numériques et Technologie"
 date: 2019-01-22
 image: images/blog/imagecours-SNT.png
+draft: true
 ---
 
 

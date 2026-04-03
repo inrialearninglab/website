@@ -2,6 +2,7 @@
 title: "[Infographie] MOOC \"Accessibilité numérique\" - session 3"
 date: 2018-07-30
 image: images/blog/C026PG3-illustration-infographie.png
+draft: true
 ---
 
 Cette infographie apporte un aperçu de la manière dont s'est déroulée la troisième session du MOOC "Accessibilité numérique". Un grand merci à tous ceux qui ont suivi ce MOOC.

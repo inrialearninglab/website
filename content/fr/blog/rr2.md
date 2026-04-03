@@ -2,6 +2,7 @@
 title: "🚀 Prêt à relever le défi de la science ? Découvrez notre nouveau MOOC \"Reproducible Research II\" !"
 date: 2024-05-16
 image: /images/blog/Vignette_RR2_version_finale.jpeg
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/bT7EXbL6g-o?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

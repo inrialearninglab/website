@@ -3,7 +3,7 @@ title: "Nouvel ePoc : Fondamentaux de la robotique de manipulation"
 description: "Qu’est-ce qu'un robot, quelle est son évolution historique, quels sont ses principaux composants techniques."
 date: 2026-03-24
 image: /images/blog/com_ePocRobotique_sansfond.png
-published: true
+draft: false
 tags:
     - ePoc
     - Mobile Learning

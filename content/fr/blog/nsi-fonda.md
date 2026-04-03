@@ -3,6 +3,7 @@ title: "MOOC Numérique et Sciences Informatiques : les fondamentaux"
 description: "Pour apprendre les fondamentaux nécessaires à l’enseignement de l’informatique au secondaire supérieur et, au delà, pour aller vers les métiers de l'informatique !"
 date: 2022-03-24
 image: /images/blog/nsi-fonda.webp
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/9JVc36YL9vQ?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

@@ -3,6 +3,7 @@ title: "[Infographie] Le Mooc Lab Inria a 3 ans"
 description: "A l'occasion de ses 3 ans, le Mooc Lab Inria vous propose une infographie qui fait le bilan de son activité de ces dernières années."
 date: 2016-05-30
 image: images/blog/Infographie-Mooc-Lab-2016.png
+draft: true
 ---
 
 Les MOOCs Inria en sciences du Numérique, c'est :

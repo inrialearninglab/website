@@ -2,6 +2,7 @@
 title: "Meilleurs Vœux 2024 !"
 date: 2024-01-09
 image: "/images/blog/IMG_2333.jpeg"
+draft: true 
 ---
 
 **L'équipe d'Inria Learning Lab vous présente ses meilleurs voeux pour l'année 2024 !**

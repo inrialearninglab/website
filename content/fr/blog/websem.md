@@ -2,6 +2,7 @@
 title: "MOOC Web sémantique et web de données"
 date: 2019-03-25
 image: images/blog/bandeau_websem.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/K6hj819Sezc" frameborder="0" allowfullscreen="allowfullscreen" style="aspect-ratio: 16/9; width: 100%;"></iframe>

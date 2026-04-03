@@ -3,7 +3,6 @@ title: Phone Impact
 description: "Le jeu sérieux qui sensibilise aux impacts environnementaux liés à la fabrication des smartphones."
 date: 2025-01-07
 image: /images/blog/133_1x_shots_so.png
-published: true
 tags:
     - JeuSérieux
     - SeriousGame

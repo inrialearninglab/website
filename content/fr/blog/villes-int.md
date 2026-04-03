@@ -3,6 +3,7 @@ title: "MOOC \"Défis technologiques des villes intelligentes participatives\""
 description: "Le MOOC Défis technologiques des villes intelligentes participatives (#MoocSmartCity ) vous propose un tour d'horizon des infrastructures numériques de la ville connectée avec un accent particulier sur les technologies encourageant l'implication citoyenne."
 date: 2015-10-06
 image: images/blog/C0V1pano_image.jpg
+draft: true
 ---
 
 Ce Mooc, d'une durée de **5 semaines**, présente les notions de base des éléments à considérer, de l’infrastructure au traitement des données.

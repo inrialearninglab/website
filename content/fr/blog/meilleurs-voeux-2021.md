@@ -2,6 +2,7 @@
 title: "Meilleurs Vœux 2021 !"
 date: 2021-01-08
 image: /images/blog/Voeux-2021.jpg
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/dF4r4KrfckM?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

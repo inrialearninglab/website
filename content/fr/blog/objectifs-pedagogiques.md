@@ -3,6 +3,7 @@ title: "Définir les objectifs pédagogiques de son MOOC"
 description: ""
 date: 2019-01-17
 image: images/blog/ill-conception-pedagogique-1.png
+draft: true
 ---
 
 

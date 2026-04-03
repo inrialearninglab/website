@@ -3,6 +3,7 @@ title: "MOOC Environmental impacts of digital technologies"
 description: ""
 date: 2021-12-02
 image: /images/blog/MoocImpactNumVignette.jpg
+draft: true
 ---
 
 **Impact'Num** is a Mooc **to question** the environmental impacts of digital technologies, **to learn** how to measure it, **to** **decipher, to** **act** and **to** **find** one's place as a citizen in a digital world.

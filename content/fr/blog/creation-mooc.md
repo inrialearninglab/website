@@ -3,6 +3,7 @@ title: "Le processus de conception de MOOC chez Inria Learning Lab"
 description: ""
 date: 2017-10-18
 image: images/blog/conception-dun-mooc.png
+draft: true 
 --- 
 
 La conception d'un MOOC, depuis la prise de contact avec les auteurs, jusqu'au lancement du cours, dure environ 9 mois. Nous travaillons dans une démarche qui correspond schématiquement à 4 grandes étapes :

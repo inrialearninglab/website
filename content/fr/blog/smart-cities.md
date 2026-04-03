@@ -2,6 +2,7 @@
 title: "MOOC Villes intelligentes : nouvelle session longue durée !"
 date: 2019-04-09
 image: images/blog/smart-cities.png"
+draft: true
 ---
 
 <iframe src="https://www.dailymotion.com/embed/video/x38qey9" frameborder="0" allowfullscreen="allowfullscreen" style="aspect-ratio: 16/9; width: 100%;"></iframe>

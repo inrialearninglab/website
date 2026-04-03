@@ -2,6 +2,7 @@
 title: "MOOC Python  : témoignages de la saison 1"
 description: "A vos agendas !"
 date: 2015-08-25
+draft: true
 ---
 
 Le MOOC "[Python : des fondamentaux à l'utilisation du langage](http://www.france-universite-numerique-mooc.fr/courses/inria/41001S02/session02/about)" sera rejoué sur la plateforme France Université Numérique (FUN) le 14 septembre prochain et donnera lieu à une attestation de suivi.

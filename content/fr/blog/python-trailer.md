@@ -3,6 +3,7 @@ title: "Un MOOC Inria sur Python"
 description: "Le premier MOOC Inria sera bientôt lancé sur la plateforme France Université Numérique (FUN)"
 date: 2014-09-12
 image: images/blog/INRIA-0080-106.png
+draft: true
 ---
 
 "[**Python : des fondamentaux à l'utilisation du langage**](https://www.france-universite-numerique-mooc.fr/courses/inria/41001/Trimestre_4_2014/about)", sera donné par Arnaud Legout et Thierry Parmentelat, chargé de recherche et ingénieur de recherche à Inria Sophia Antipolis - Méditerranée, du 3 novembre au 21 décembre 2014.

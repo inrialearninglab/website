@@ -31,7 +31,7 @@ const blogSchema = z.object({
     date: z.string(),
     image: z.string(),
     tags: z.array(z.string()),
-    published: z.boolean().optional().default(false),
+    draft: z.boolean().optional().default(false),
 });
 
 const seriousGameSchema = z.object({
@@ -102,6 +102,7 @@ const homeSchema = z.object({
 
 const pageSchema = z.object({
     links: z.array(linkSchema),
+    draft: z.boolean().optional().default(false),
 });
 
 export default defineContentConfig({

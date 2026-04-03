@@ -2,6 +2,7 @@
 title: "MOOC \"L'Internet des Objets sur microcontrôleurs par la pratique\""
 date: 2020-01-04
 image: /images/blog/C034AA-image.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/De0CI9r1-r4?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

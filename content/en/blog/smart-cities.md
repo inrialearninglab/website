@@ -2,6 +2,7 @@
 title: "Mooc Smart cities: Take up the challenges of cities in the digital era."
 date: 2019-04-09
 image: images/blog/smart-cities.png
+draft: true
 ---
 
 <iframe src="https://www.dailymotion.com/embed/video/x75zr56" frameborder="0" allowfullscreen="allowfullscreen" style="aspect-ratio: 16/9; width: 100%;"></iframe>

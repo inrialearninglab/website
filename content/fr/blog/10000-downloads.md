@@ -3,7 +3,6 @@ title: ePoc, déjà 10 000 téléchargements !
 description: "Notre application mobile learning ePoc atteint ses premiers 10 000 téléchargements."
 date: 2025-05-01
 image: /images/blog/bandeau-ePoc.png
-published: true
 tags:
     - Étape
 ---

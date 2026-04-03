@@ -17,6 +17,7 @@ export default defineNuxtConfig({
             link: [{ rel: "icon", type: "image/x-icon", href: "/logo/favicon.ico" }],
         },
     },
+
     i18n: {
         locales: [
             { code: "en", name: "English", language: "en" },
@@ -24,6 +25,7 @@ export default defineNuxtConfig({
         ],
         defaultLocale: "fr",
     },
+
     nitro: {
         static: true,
         prerender: {
@@ -31,6 +33,10 @@ export default defineNuxtConfig({
             routes: ["/", "/en"],
             failOnError: false,
         },
+    },
+
+    ui: {
+        colorMode: false,
     },
 
     routeRules: {

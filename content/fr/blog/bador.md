@@ -2,6 +2,7 @@
 title: "MOOC Bases de données relationnelles : Comprendre pour maîtriser"
 date: 2016-11-29
 image: images/blog/bddpano_image.jpg
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/_o5WW64r1DE?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

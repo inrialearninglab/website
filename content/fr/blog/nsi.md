@@ -3,6 +3,7 @@ title: "MOOC Apprendre à enseigner le Numérique et les Sciences Informatiques"
 description: "Apprendre à enseigner l’informatique au secondaire supérieur en rejoignant une communauté de pratique, d’entraide et de partage, y compris pour se préparer au concours du CAPES en France."
 date: 2022-03-24
 image: /images/blog/nsi.webp
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/RRdHEn3Nfl4?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

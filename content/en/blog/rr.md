@@ -2,6 +2,7 @@
 title: "Mooc Reproducible research: new self-paced session from March 20, 2020!"
 date: 2018-09-04
 image: images/blog/C028AL-vignette-charte.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/h5nRdvDPpUY?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

@@ -3,6 +3,7 @@ title: "Making-of du MOOC Python"
 description: "Le MOOC Python : des fondamentaux à l'utilisation du langage débutera le 3 Novembre prochain."
 date: 2014-10-29
 image: images/blog/INRIA-0110-2521.png
+draft: true
 ---
 
 Pour cette première édition, ce cours, qui propose d'aller des premiers pas dans ce langage de programmation à l’étude des concepts les plus évolués, a d'ores et déjà réuni **plus de 7500 inscrits**. Un résultat très encourageant pour ce premier MOOC Inria, réalisé par le Mooc Lab.

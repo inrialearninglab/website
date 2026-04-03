@@ -3,6 +3,7 @@ title: Un MOOC Inria-uTOP sur le Web Sémantique bientôt sur FUN"
 description: "Un nouveau cours réalisé par le Mooc Lab sera bientôt disponible sur la plateforme France Université Numérique"
 date: 2015-01-19
 image: images/blog/INRIA-0101-B000472.png
+draft: true
 ---
 
 Il s'agit du MOOC Inria-uTOP "[Web Sémantique et Web de données](https://www.france-universite-numerique-mooc.fr/courses/inria/41002/Trimestre_1_2015/about)" de Fabien Gandon, Olivier Corby et Catherine Faron-Zucker, de l’équipe Wimmics (Inria, I3S, CNRS, UNS). Plus de 1300 personnes se sont d'ores et déjà inscrites à ce cours qui débutera le 2 mars prochain.

@@ -2,6 +2,7 @@
 title: Nouveau MOOC  ! L'Intelligence Artificielle avec Intelligence
 date: 2020-04-07
 image: /images/blog/mooc-iai-v2-1.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/er6MxgHOr4I?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

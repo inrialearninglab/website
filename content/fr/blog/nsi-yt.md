@@ -3,6 +3,7 @@ title: "Chaine Youtube NSI"
 description: "Découvrez la chaîne YouTube du MOOC NSI : un incontournable pour se former en informatique !" 
 date: 2023-06-26
 image: /images/blog/Capture-decran-2023-06-23-a-15.18.08.png
+draft: true
 ---
 
 <figure>

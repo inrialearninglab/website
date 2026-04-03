@@ -3,6 +3,7 @@ title: "ePoc"
 description: "Notre nouvelle application mobile: ePoc [electronic Pocket open course]."
 date: 2022-11-28
 image: /images/epoc-showcase.png
+draft: true
 ---
 
 En complément des Mooc produits, Inria Learning Lab a développé un nouveau format de contenus pédagogiques, spécialement conçu pour le mobile, qui permet de bénéficier de formations :

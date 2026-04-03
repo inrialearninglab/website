@@ -3,6 +3,7 @@ title: "MOOC \"Python : des fondamentaux à l'utilisation du langage\""
 description: ""
 date: 2014-11-03
 image: images/blog/bandeau_python.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/5TX0TRWNEYk" frameborder="0" allowfullscreen="allowfullscreen" style="aspect-ratio:16/9;width:100%r"></iframe>

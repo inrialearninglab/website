@@ -3,6 +3,7 @@ title: "Fin uTOP-Inria"
 description: "uTOP-Inria : c’est terminé… mais Inria poursuit ses actions dans le domaine de la e-formation !"
 date: 2017-03-15
 image: images/blog/logo-utop-2.png
+draft: true 
 ---
 
 ## **Le projet uTOP**

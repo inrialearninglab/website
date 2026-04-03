@@ -2,6 +2,7 @@
 title: "MOOC \"Mobile Robots and Autonomous Vehicles\""
 description: ""
 date: 2015-03-15
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/I4NN1DSqCmQ" frameborder="0" allowfullscreen="allowfullscreen" style="aspect-ratio:16/9;width:100%;"></iframe>

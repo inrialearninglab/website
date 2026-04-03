@@ -3,6 +3,7 @@ title: "Le robot Thymio comme outil de découverte des sciences du numérique"
 description: ""
 date: 2018-10-24
 image: images/blog/C030DR-vignette.png
+draft: true
 ---
 
 

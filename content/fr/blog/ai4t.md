@@ -3,6 +3,7 @@ title: "Intelligence Artificielle pour et par les enseignants"
 description: "IA et éducation : comment et pour quoi utiliser l’IA en éducation ?"
 date: 2023-12-01
 image: /images/blog/Source-Visuel-MOOC.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/9t-fm4liJPw?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

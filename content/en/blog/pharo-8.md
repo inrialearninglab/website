@@ -5,6 +5,7 @@ categories:
   - "actualites"
   - "cours"
 image: /images/blog/C048SD-image-cours.png
+draft: true
 ---
 
 <iframe src="https://www.youtube.com/embed/-z83bmzRATM?feature=oembed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9; width: 100%;"></iframe>

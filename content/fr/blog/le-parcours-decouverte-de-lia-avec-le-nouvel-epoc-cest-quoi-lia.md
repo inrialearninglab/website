@@ -3,6 +3,7 @@ title: "C’est quoi l’IA ?"
 description: "Le parcours découverte de l’IA avec le nouvel ePoc \"C’est quoi l’IA ?\""
 date: 2025-01-06
 image: /images/blog/ePocIA.jpg
+draft: true
 ---
 
 

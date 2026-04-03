@@ -3,6 +3,7 @@ title: "100 000+ people registered to Inria's MOOCs on FUN"
 description: "Thank you!"
 date: 2017-03-27
 image: images/blog/100000inscrits.png
+draft: true
 ---
 
 ![](images/blog/100000inscrits.png){style="max-width:36rem;margin:auto;"}
