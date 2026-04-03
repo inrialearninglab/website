@@ -39,35 +39,16 @@ const filteredMoocs = computed(() => {
     <div class="space-y-5">
         <MoocFilters v-model="filters" :results="filteredMoocs.length" />
 
-        <UPageGrid class="gap-5">
-            <template v-if="filteredMoocs.length">
-                <UPageCard
-                    v-for="mooc of filteredMoocs"
-                    :title="mooc.title"
-                    :description="mooc.description"
-                    orientation="vertical"
-                    reverse
-                    :to="localePath(mooc.path)"
-                >
-                    <template #leading>
-                        <div class="flex gap-2 items-center">
-                            <MoocStatus :status="mooc.status" />
-                            <span v-for="l of mooc.lang" class="text-2xl">{{ getEmojiFlag(l) }}</span>
-                        </div>
-                    </template>
-                    <NuxtImg v-if="mooc.image" :src="mooc.image" alt="Thumbnail" class="w-full rounded-md" />
-                </UPageCard>
-            </template>
+        <ListMoocs v-if="filteredMoocs.length" :moocs="filteredMoocs" />
 
-            <UEmpty
-                v-else
-                :title="t('not-found')"
-                :description="t('not-found-description')"
-                class="w-full col-span-1 md:col-span-2 xl:col-span-3"
-                variant="naked"
-                icon="lucide:file"
-            />
-        </UPageGrid>
+        <UEmpty
+            v-else
+            :title="t('not-found')"
+            :description="t('not-found-description')"
+            class="w-full col-span-1 md:col-span-2 xl:col-span-3"
+            variant="naked"
+            icon="lucide:file"
+        />
     </div>
 </template>
 

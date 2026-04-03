@@ -14,7 +14,13 @@ export default defineAppConfig({
                 },
                 {
                     label: "Productions pédagogiques",
+                    to: "/productions",
                     children: [
+                        {
+                            label: "Toutes nos productions",
+                            description: "Découvrez tout les types de productions du Learning Lab",
+                            to: "/productions",
+                        },
                         {
                             label: "ePocs",
                             description: "Explorez le numérique sur mobile",
@@ -48,7 +54,13 @@ export default defineAppConfig({
                 },
                 {
                     label: "Pedagogical Resources",
+                    to: "/en/productions",
                     children: [
+                        {
+                            label: "All our productions",
+                            description: "Discover all the types of productions of the Learning Lab",
+                            to: "/en/productions",
+                        },
                         {
                             label: "ePocs",
                             description: "Explore the digital world on mobile",
