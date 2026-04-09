@@ -29,7 +29,7 @@ Participer à la sensibilisation aux défis du numérique et à la formation des
 
 ### Coopération et partenariats
 
-La coopération est au cœur de notre organisation. Au dedlà de la mise en commun des ressources, connaissances et compétences, elle s’étend également au travail en réseau avec les équipes d’Inria et à l’ouverture à des partenaires extérieurs, français et européens, pour atteindre des objectifs communs.
+La coopération est au cœur de notre organisation. Au delà de la mise en commun des ressources, connaissances et compétences, elle s’étend également au travail en réseau avec les équipes d’Inria et à l’ouverture à des partenaires extérieurs, français et européens, pour atteindre des objectifs communs.
 
 
 ## Notre équipe
