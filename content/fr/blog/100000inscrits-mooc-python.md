@@ -50,12 +50,3 @@ Par ailleurs, certains des outils développés pour ce MOOC ont été repris ou 
 ## Une réussite collective et reproductible
 La barre des 100 000 inscrits marque un jalon. Elle rappelle qu’un MOOC peut être un vrai levier quand il conjugue expertise, rigueur pédagogique et vision à longs termes.
 Elle témoigne aussi de ce que peut produire une collaboration entre chercheurs, ingénieurs pédagogiques, développeurs et institutions engagées.
-
-
-
-## accessibilité à un large public francophone.
-
-Une formation idéale pour acquérir des bases en robotique, comprendre ses enjeux actuels et se préparer aux innovations de demain.
-
-## En savoir plus et accéder à la formation
- [ePoc “Fondamentaux de la robotique de manipulation”](/epocs/fondamentaux-robotique-manipulation){target="_blank"}
