@@ -9,8 +9,8 @@ tags:
     - Python
 ---
 
-!!! info
-Un MOOC pionnier, une diffusion massive, une communauté durable. Dix ans après le lancement de la première session, la session actuelle du MOOC Python franchit les 100 000 inscrits et confirme l’intérêt d’une initiative construite sur l’engagement, la rigueur et l’innovation pédagogique.
+:::info
+Un MOOC pionnier, une diffusion massive, une communauté durable. Dix ans après le lancement de la première session, la session actuelle du MOOC Python franchit les 100 000 inscrits et confirme l’intérêt d’une initiative construite sur l’engagement, la rigueur et l’innovation pédagogique.:::
 
 **La session du [MOOC Python](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/)**, diffusé sur la plateforme FUN, **vient de franchir le cap des 100 000 inscrits**. Ce jalon met en lumière une initiative portée dès l’origine par l’ambition de conjuguer excellence scientifique, innovation pédagogique et accessibilité. Retour sur une réussite collective, toujours d’actualité dix ans après sa création.
 
