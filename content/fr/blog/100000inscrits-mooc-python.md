@@ -2,7 +2,7 @@
 title: "Plus de 100 000 inscrits pour le MOOC Python"
 description: "Retour sur une réussite collective"
 date: 2025-06-03
-image: public/images/blog/100000inscrits-Python.jpg
+image: /images/blog/100000inscrits-Python.jpg
 draft: false
 tags:
     - MOOC
