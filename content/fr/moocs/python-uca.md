@@ -8,7 +8,7 @@ url: https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-ava
 investment: 80h
 assesment:
 lang: ["fr"]
-trailer: https://www.youtube.com/watch?v=-HF7yRthTsg
+trailer: https://www.youtube.com/embed/-HF7yRthTsg?si=sevAh7EAE6JbjEHz
 licence: CC BY NC ND
 ---
 
