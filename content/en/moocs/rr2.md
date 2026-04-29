@@ -1,7 +1,7 @@
 ---
 title: Reproducible Research II - Practices and tools for managing computations and data
 description: How to improve your practices and your ability to manage and process larger amounts of data, complex computations, while controlling your software environment.
-date: 2025-05-05
+date: 2026-05-05
 image: /images/mooc/rr2.png
 status: open
 url: https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/
@@ -14,11 +14,11 @@ licence: CC-BY-NC-SA
 
 ## Course description
 
-Following the success of the MOOC "Reproducible research: methodological principles for transparent science", the authors continue exploring reproducibility with a focus on massive data and complex calculations. These two MOOCs complement each other and offer a coherent training program on the subject.
+Following the success of the MOOC “Reproducible research: methodological principles for transparent science”, the authors continue exploring reproducibility with a focus on massive data and complex calculations. These two MOOCs complement each other and offer a coherent training program on the subject.
 
-In this second MOOC, you will learn how to manage large datasets and complex computations in controlled software environments, using formats such as: JSON, FITS, and HDF5, platforms like Zenodo and Software Heritage, tools like git-annex, Docker, Singularity, Guix, make, and Snakemake. These concepts are illustrated through a real-life use case on sunspot detection, demonstrating how to work in a reliable and reproducible way.
+In this second MOOC, you will learn how to manage large datasets and complex computations in controlled software environments, using formats such as JSON, FITS, and HDF5, platforms like Zenodo and Software Heritage, tools like git-annex, Docker, Singularity, Guix, make, and Snakemake. Underlying concepts are systematically presented and applied through numerous hands-on exercises as well as through a real-life use case on sunspot detection, demonstrating how to work in a reliable and reproducible way.
 
-A new module added for this session proposes exercises that illustrate how the tools and techniques we teach are helpful in the daily practice of computational research. In interviews with experienced practitioners of reproducible research with high expertise in data management and processing, we discuss related tools or techniques. These interviews may help you understand whether you should invest into more elaborate tools or not, and which pitfalls you may stumble upon.
+A new module added for this session proposes exercises that illustrate how the tools and techniques we teach are helpful in the daily practice of computational research. We also discuss related tools or techniques in interviews with experienced practitioners of reproducible research with high expertise in data management and processing. These interviews may help you understand whether you should invest in more elaborate tools or not, and which pitfalls you may stumble upon.
 
 ## Course objectives
 
@@ -50,23 +50,21 @@ This course is for everyone who relies on a computer to perform data analysis. Y
 
 ## Assessment and certification
 
-An Open Badge for successful completion of the course will be issued on request to learners who obtain an overall score of 50% correct answers to all the quizzes and learning activities. Assessment is based on quizzes and practical exercises.
+An Open Badge for successful completion of the course will be issued on request to learners who obtain an overall score of 30% correct answers to all the quizzes and learning activities. Assessment is based on quizzes and practical exercises.
 
 ## Format
 
-This MOOC consists of four independent modules that combine video lectures, quizzes, pratical sessions, textual course supports, and many exercises for getting hands-on experience with the tools and methods that are presented.
+This MOOC consists of three independent modules that combine video lectures, quizzes, pratical sessions, textual course supports, and many exercises for getting hands-on experience with the tools and methods that are presented. A fourth module proposes exercises illustrating how the tools and techniques we teach are helpful in the daily practice of computational research.
 
 Most of the exercises can be carried out in a JupyterLab environment made available to each MOOC learner. Some exercises require a Linux computer and the possibility to install system software on it.
 
 ## Course outline
 
-- Welcome
 - Module Preparing for the MOOC mountain hike to reproducibility
 - Module 1: Managing data
 - Module 2: Managing software
 - Module 3: Managing computations
 - Module 4: Reproducibility in the large
-- Conclusion
 
 ## Pedagogical team
 
