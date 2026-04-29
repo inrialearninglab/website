@@ -18,7 +18,7 @@ export default defineAppConfig({
                     children: [
                         {
                             label: "Toutes nos productions",
-                            description: "Découvrez tout les types de productions du Learning Lab",
+                            description: "Découvrez nos formations élaborées avec les experts scientifiques",
                             to: "/productions",
                         },
                         {
@@ -58,7 +58,7 @@ export default defineAppConfig({
                     children: [
                         {
                             label: "All our productions",
-                            description: "Discover all the types of productions of the Learning Lab",
+                            description: "Discover our training courses, developed in collaboration with scientific experts",
                             to: "/en/productions",
                         },
                         {
