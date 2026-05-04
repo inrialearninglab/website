@@ -58,7 +58,8 @@ export default defineAppConfig({
                     children: [
                         {
                             label: "All our productions",
-                            description: "Discover our training courses, developed in collaboration with scientific experts",
+                            description:
+                                "Discover our training courses, developed in collaboration with scientific experts",
                             to: "/en/productions",
                         },
                         {
@@ -151,8 +152,8 @@ export default defineAppConfig({
             name: "Marie Collin",
             avatar: "/images/team/marie.jpg",
             title: {
-                fr: "Ingénieure pédagogique / Product owner",
-                en: "Learning designer / Product owner",
+                fr: "Ingénieure pédagogique",
+                en: "Learning designer",
             },
             links: [
                 {
