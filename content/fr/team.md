@@ -19,7 +19,7 @@ L’objectif est double : d’une part, rendre le numérique accessible et compr
 ## Nos Valeurs
 
 ### Qualité scientifique et innovation technologique
-Nos contenus sont élaborés et validés par des experts scientifiques reconnus. Quant à nos parcours pédagogiques et nos environnements d’apprentissage, ils intègrent une part d’innovation, fruit du travail de nos ingénieur(e)s pédagogiques et développeurs informaticiens. Cette approche alliant validation scientifique et innovation assure une expérience d’apprentissage riche et de qualité.
+Nos contenus sont élaborés et validés par des experts scientifiques reconnus. Quant à nos parcours pédagogiques et nos environnements d’apprentissage, ils intègrent une part d’innovation, fruit du travail de nos ingénieur(e)s pédagogiques et développeurs. Cette approche alliant validation scientifique et innovation assure une expérience d’apprentissage riche et de qualité.
 
 ### Citoyenneté
 
@@ -34,7 +34,7 @@ La coopération est au cœur de notre organisation. Au delà de la mise en commu
 
 ## Notre équipe
 
-Nous sommes une équipe d’une dizaine de personnes, composée d’ingénieur(e)s pédagogiques et développeurs informaticiens. Elise Taillant est responsable du Learning Lab d'Inria, depuis le 1er janvier 2025.
+Nous sommes une équipe d’une dizaine de personnes, composée d’ingénieur(e)s pédagogiques et développeurs. Elise Taillant est responsable du Learning Lab d'Inria, depuis le 1er janvier 2025.
 
 ::Team
 ::
