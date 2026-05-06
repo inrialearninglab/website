@@ -74,6 +74,12 @@ Authors:
 - **Christophe Pouzat**, Neurophysiologist, CNRS/MAP5 Univ. Paris Descartes
 - **Konrad Hinsen**, Biophysicist, CNRS, Centre de biophysique moléculaire, Soleil
 
+Technical and engineering support:
+
+- **Matthieu Simonin**, research engineer, Inria Rennes
+- **Ludovic Courtès**, research engineer, Inria Bordeaux
+- **Kim tâm Huynh**, research engineer, Inria Paris
+
 Pedagogical support:
 
 - **Laurence Farhi**, learning engineer, Inria Learning Lab
