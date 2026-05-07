@@ -3,7 +3,7 @@ title: "Reproductible Research II : Pratiques et outils pour gérer les calculs 
 description: "Nouvelle session : ouverture du 5 mai au 31 décembre 2026 !"
 date: 2026-04-28
 image: images/mooc/rr2.png
-draft: true
+draft: false
 ---
 
 ![Vignette RR2](images/mooc/rr2.png){class="max-w-2xl mx-auto"}
