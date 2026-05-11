@@ -21,7 +21,12 @@ const { data: home } = await useAsyncData(
 const { data: articles } = await useAsyncData(`blog-preview-${locale.value}`, async () => {
     const collection = ("blog_" + locale.value) as "blog_fr" | "blog_en";
 
-    return queryCollection(collection).where("path", "NOT LIKE", "/blog").order("date", "DESC").limit(3).all();
+    return queryCollection(collection)
+        .where("path", "NOT LIKE", "/blog")
+        .where("draft", "=", false)
+        .order("date", "DESC")
+        .limit(3)
+        .all();
 });
 
 useSeoMeta({
