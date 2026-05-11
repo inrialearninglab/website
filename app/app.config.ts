@@ -17,11 +17,6 @@ export default defineAppConfig({
                     to: "/productions",
                     children: [
                         {
-                            label: "Toutes nos productions",
-                            description: "Découvrez nos formations élaborées avec les experts scientifiques",
-                            to: "/productions",
-                        },
-                        {
                             label: "ePocs",
                             description: "Explorez le numérique sur mobile",
                             to: "/epocs",
@@ -56,12 +51,6 @@ export default defineAppConfig({
                     label: "Pedagogical Resources",
                     to: "/en/productions",
                     children: [
-                        {
-                            label: "All our productions",
-                            description:
-                                "Discover our training courses, developed in collaboration with scientific experts",
-                            to: "/en/productions",
-                        },
                         {
                             label: "ePocs",
                             description: "Explore the digital world on mobile",

@@ -7,12 +7,12 @@ const localePath = useLocalePath();
 </script>
 
 <template>
-    <UHeader :to="localePath('/')">
+    <UHeader :to="localePath('/')" :ui="{ center: 'flex-1', left: 'flex-none!', right: 'flex-none!' }">
         <template #title>
             <UColorModeImage light="/logo/ill-logo.svg" dark="/logo/ill-logo-dark.svg" class="h-8" alt="Logo" />
         </template>
 
-        <UNavigationMenu :items="header.nav[locale]" />
+        <UNavigationMenu :items="header.nav[locale]" class="w-full justify-center" :ui="{ viewport: 'max-w-2xl' }" />
 
         <template #right>
             <UContentSearchButton />
