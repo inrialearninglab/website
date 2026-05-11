@@ -2,9 +2,6 @@ stages:
     - build
     - deploy
 
-variables:
-    NODE_VERSION: "24"
-
 cache:
     key:
         files:
