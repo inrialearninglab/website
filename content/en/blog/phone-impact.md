@@ -30,5 +30,11 @@ Because it combines learning with fun, individual and group thinking, and above 
 
 Because learning through play means taking the issues seriously.
 
-## Find out more and access the serious game
-["Phone Impact" game](/serious-games/phone-impact){target="_blank"}
+::u-button
+---
+label: Learn more
+block: true
+size: xl
+to: /en/serious-games/phone-impact
+---
+::

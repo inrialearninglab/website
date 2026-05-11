@@ -15,7 +15,6 @@ Dans un monde où la technologie évolue à une vitesse fulgurante, il est facil
 
 Mais une question cruciale demeure : Quel est l’impact environnemental et social de la production d'un smartphone ?
 
-
 ## Qu’est-ce que Phone Impact ?
 
 Phone Impact est bien plus qu’un simple jeu. Voici ce qui le rend unique :
@@ -25,12 +24,17 @@ Phone Impact est bien plus qu’un simple jeu. Voici ce qui le rend unique :
 - Une expérience à la fois collective et interactive, où chaque décision compte.
 - Des [ressources](https://learninglab.gitlabpages.inria.fr/serious-game/smartphone/Ressources/Introduction.html){target="_blank"} clé en main pour accompagner votre expérience, des outils en libre accès vous guident de l’introduction au débriefing final.
 
-
 ## Pourquoi choisir Phone Impact ?
 
 Parce qu’il combine apprentissage et amusement, réflexion individuelle et collective, et surtout, il engage ses participant·es dans un dialogue. Que vous soyez un·e joueur·se, un·e animateur·trice, ou simplement curieux·se, vous trouverez toutes les ressources dont vous avez besoin afin de découvrir, jouer et animer PhoneImpact.
 
 Parce qu’apprendre en s’amusant, c’est prendre les enjeux au sérieux.
 
-## En savoir plus et accéder au jeu sérieux
- [Jeu “Phone Impact”](/serious-games/phone-impact){target="_blank"}
+::u-button
+---
+label: En savoir plus
+block: true
+size: xl
+to: /serious-games/phone-impact
+---
+::
