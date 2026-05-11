@@ -2,6 +2,10 @@ stages:
     - build
     - deploy
 
+workflow:
+    rules:
+        - if: $CI_PIPELINE_SOURCE == "web"
+
 cache:
     key:
         files:
@@ -11,6 +15,8 @@ cache:
 
 build:
     stage: build
+    tags:
+        - site-ll
     script:
         - npm ci
         - npm run build
@@ -20,5 +26,7 @@ build:
 
 deploy:
     stage: deploy
+    tags:
+        - site-ll
     script:
         - cp -r dist/ /appli/website
