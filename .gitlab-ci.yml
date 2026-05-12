@@ -22,11 +22,11 @@ build:
         - npm run build
     artifacts:
         paths:
-            - dist/
+            - .output/public/
 
 deploy:
     stage: deploy
     tags:
         - site-ll
     script:
-        - cp -r dist/ /appli/website
+        - cp -r .output/public/ /appli/website/
