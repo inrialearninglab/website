@@ -65,3 +65,13 @@ npm install
 npm run dev
 ```
 Après quelques secondes, le site devrait être visible ici : http://localhost:3000
+
+## Déploiement du site web
+
+Le déploiement du site n'est pas automatique à chaque push, il faut le lancer manuellement depuis l'interface GitLab.
+
+1. Rendez-vous sur la page du projet dans GitLab
+2. Dans le menu latéral, Build > Pipelines
+3. Cliquez sur le bouton **New pipeline**
+4. Cliquez encore une fois sur le bouton **New pipeline**, pas besoin de remplir quoi que ce soit.
+5. Attendez quelques minutes et le site devrait être mis à jour
