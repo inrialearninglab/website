@@ -1,6 +1,6 @@
 ---
-title: "Reproductible Research II : Pratiques et outils pour gérer les calculs et les données"
-description: "Nouvelle session : ouverture du 5 mai au 31 décembre 2026 !"
+title: "Reproducible Research II: Practices and tools for managing computations and data"
+description: "New session: open from 5 May to 31 December 2026! "
 date: 2026-04-28
 image: images/mooc/rr2.png
 draft: false
@@ -10,7 +10,7 @@ Following the success of the MOOC [Reproducible research: methodological princip
 
 ![Vignette RR2](images/mooc/rr2.png){class="max-w-2xl mx-auto"}
 
- In this second MOOC [Reproducible Research II: Practices and tools for managing computations and..](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/), you will learn:
+ In this second MOOC [Reproducible Research II: Practices and tools for managing computations and data](https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-comput/), you will learn:
 
 - how to manage large datasets and complex computations in controlled software environments
     - formats such as JSON, FITS, and HDF5
@@ -39,6 +39,6 @@ Certification: Open Badge delivered by FUN, on request
 ---
 label: Learn more
 block: true
-to: /moocs/rr2
+to: /en/moocs/rr2
 ---
 ::
