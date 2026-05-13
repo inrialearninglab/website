@@ -29,4 +29,7 @@ deploy:
     tags:
         - site-ll
     script:
+        - pwd
+        - ls -al .output/public
         - cp -r .output/public/ /appli/website/
+        - ls -al /appli/website
