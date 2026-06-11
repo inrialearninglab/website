@@ -1,6 +1,6 @@
 ---
 title: Toutes nos productions
-description: Découvrez tout les types de productions du Learning Lab
+description: Découvrez nos formations élaborées avec les experts scientifiques
 ---
 
 ::Productions

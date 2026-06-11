@@ -34,8 +34,22 @@ export default defineAppConfig({
                     ],
                 },
                 {
-                    label: "Équipe",
+                    label: "À propos",
                     to: "/team",
+                    children: [
+                        {
+                            label: "Equipe",
+                            icon: "lucide:users",
+                            to: "/team",
+                            description: "Nos missions, nos valeurs, notre équipe",
+                        },
+                        {
+                            label: "Nous contacter",
+                            icon: "lucide:mail",
+                            to: "mailto:ill-contact@inria.fr",
+                            description: "Des questions, des projets ?",
+                        },
+                    ],
                 },
                 {
                     label: "Publications",
@@ -69,8 +83,22 @@ export default defineAppConfig({
                     ],
                 },
                 {
-                    label: "Team",
+                    label: "About",
                     to: "/en/team",
+                    children: [
+                        {
+                            label: "Team",
+                            icon: "lucide:users",
+                            to: "/en/team",
+                            description: "Our mission, our values, our team",
+                        },
+                        {
+                            label: "Contact us",
+                            icon: "lucide:mail",
+                            to: "mailto:ill-contact@inria.fr",
+                            description: "Questions ? projects ?",
+                        },
+                    ],
                 },
             ],
         },
